@@ -1,0 +1,6 @@
+Agent: dev-watcher
+Alric.AI page: https://alric.ai/agents/dev-watcher
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/meeting-bots/agents/dev-watcher.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

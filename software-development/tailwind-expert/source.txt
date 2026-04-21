@@ -1,0 +1,6 @@
+Agent: Tailwind Styling Expert
+Alric.AI page: https://alric.ai/agents/tailwind-expert
+Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/tailwind-expert.md
+Source repository: https://github.com/0xfurai/claude-code-subagents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Gitlab Ci Pipeline Expert
+Alric.AI page: https://alric.ai/agents/gitlab-ci-expert
+Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/gitlab-ci-expert.md
+Source repository: https://github.com/0xfurai/claude-code-subagents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

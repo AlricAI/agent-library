@@ -1,4 +1,4 @@
-Agent: loki-expert
+Agent: Loki Logging Expert
 Alric.AI page: https://alric.ai/agents/loki-expert
 Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/loki-expert.md
 Source repository: https://github.com/0xfurai/claude-code-subagents

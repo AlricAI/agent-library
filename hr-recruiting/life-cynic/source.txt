@@ -1,0 +1,6 @@
+Agent: life-cynic
+Alric.AI page: https://alric.ai/agents/life-cynic
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/meeting-bots/agents/life-cynic.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

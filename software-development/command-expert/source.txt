@@ -1,0 +1,6 @@
+Agent: Command Expert
+Alric.AI page: https://alric.ai/agents/command-expert
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-quality-security/agents/command-expert.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

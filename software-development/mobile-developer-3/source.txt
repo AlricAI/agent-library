@@ -1,4 +1,4 @@
-Agent: mobile-developer
+Agent: Mobile App Developer
 Alric.AI page: https://alric.ai/agents/mobile-developer-3
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-development-architecture/agents/mobile-developer.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

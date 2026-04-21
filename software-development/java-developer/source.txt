@@ -1,4 +1,4 @@
-Agent: java-developer
+Agent: Java Developer Expert
 Alric.AI page: https://alric.ai/agents/java-developer
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-language-specialists/agents/java-developer.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

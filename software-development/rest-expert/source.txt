@@ -1,4 +1,4 @@
-Agent: rest-expert
+Agent: Rest Api Designer
 Alric.AI page: https://alric.ai/agents/rest-expert
 Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/rest-expert.md
 Source repository: https://github.com/0xfurai/claude-code-subagents

@@ -1,4 +1,4 @@
-Agent: haskell-expert
+Agent: Haskell Expert
 Alric.AI page: https://alric.ai/agents/haskell-expert
 Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/haskell-expert.md
 Source repository: https://github.com/0xfurai/claude-code-subagents

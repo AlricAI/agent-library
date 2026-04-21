@@ -1,0 +1,6 @@
+Agent: business-boss
+Alric.AI page: https://alric.ai/agents/business-boss
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/meeting-bots/agents/business-boss.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,4 +1,4 @@
-Agent: jquery-expert
+Agent: jQuery Code Specialist
 Alric.AI page: https://alric.ai/agents/jquery-expert
 Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/jquery-expert.md
 Source repository: https://github.com/0xfurai/claude-code-subagents

@@ -1,4 +1,4 @@
-Agent: mocha-expert
+Agent: Mocha Test Suite Builder
 Alric.AI page: https://alric.ai/agents/mocha-expert
 Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/mocha-expert.md
 Source repository: https://github.com/0xfurai/claude-code-subagents

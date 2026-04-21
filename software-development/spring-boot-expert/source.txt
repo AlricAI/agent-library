@@ -1,4 +1,4 @@
-Agent: spring-boot-expert
+Agent: Spring Boot Expert
 Alric.AI page: https://alric.ai/agents/spring-boot-expert
 Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/spring-boot-expert.md
 Source repository: https://github.com/0xfurai/claude-code-subagents

@@ -1,4 +1,4 @@
-Agent: jwt-expert
+Agent: Jwt Security Expert
 Alric.AI page: https://alric.ai/agents/jwt-expert
 Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/jwt-expert.md
 Source repository: https://github.com/0xfurai/claude-code-subagents

@@ -1,4 +1,4 @@
-Agent: laravel-expert
+Agent: Laravel Expert
 Alric.AI page: https://alric.ai/agents/laravel-expert
 Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/laravel-expert.md
 Source repository: https://github.com/0xfurai/claude-code-subagents

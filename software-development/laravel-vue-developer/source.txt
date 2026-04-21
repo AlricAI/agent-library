@@ -1,4 +1,4 @@
-Agent: laravel-vue-developer
+Agent: Laravel Vue Fullstack Developer
 Alric.AI page: https://alric.ai/agents/laravel-vue-developer
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-development-architecture/agents/laravel-vue-developer.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

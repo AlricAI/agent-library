@@ -1,0 +1,6 @@
+Agent: dev-rookie
+Alric.AI page: https://alric.ai/agents/dev-rookie
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/meeting-bots/agents/dev-rookie.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

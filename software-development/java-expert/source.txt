@@ -1,4 +1,4 @@
-Agent: java-expert
+Agent: Java Code Architect
 Alric.AI page: https://alric.ai/agents/java-expert
 Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/java-expert.md
 Source repository: https://github.com/0xfurai/claude-code-subagents

@@ -1,4 +1,4 @@
-Agent: debugger
+Agent: Code Debugger Specialist
 Alric.AI page: https://alric.ai/agents/debugger-6
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-quality-security/agents/debugger.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

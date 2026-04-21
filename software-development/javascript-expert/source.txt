@@ -1,4 +1,4 @@
-Agent: javascript-expert
+Agent: JavaScript Code Master
 Alric.AI page: https://alric.ai/agents/javascript-expert
 Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/javascript-expert.md
 Source repository: https://github.com/0xfurai/claude-code-subagents

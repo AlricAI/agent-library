@@ -1,4 +1,4 @@
-Agent: search-specialist
+Agent: Search Specialist
 Alric.AI page: https://alric.ai/agents/search-specialist-1
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-data-ai/agents/search-specialist.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

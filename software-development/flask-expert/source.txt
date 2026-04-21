@@ -1,4 +1,4 @@
-Agent: flask-expert
+Agent: Flask Web Application Expert
 Alric.AI page: https://alric.ai/agents/flask-expert
 Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/flask-expert.md
 Source repository: https://github.com/0xfurai/claude-code-subagents

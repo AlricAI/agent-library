@@ -1,4 +1,4 @@
-Agent: terraform-expert
+Agent: Terraform Expert
 Alric.AI page: https://alric.ai/agents/terraform-expert
 Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/terraform-expert.md
 Source repository: https://github.com/0xfurai/claude-code-subagents

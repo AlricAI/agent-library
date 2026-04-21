@@ -1,4 +1,4 @@
-Agent: scikit-learn-expert
+Agent: Scikit Learn Expert
 Alric.AI page: https://alric.ai/agents/scikit-learn-expert
 Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/scikit-learn-expert.md
 Source repository: https://github.com/0xfurai/claude-code-subagents

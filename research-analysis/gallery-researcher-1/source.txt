@@ -1,0 +1,6 @@
+Agent: gallery-researcher
+Alric.AI page: https://alric.ai/agents/gallery-researcher-1
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/mcp-servers-creative/agents/gallery-researcher.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)
