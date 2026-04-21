@@ -1,29 +1,16 @@
-# twitter-ai-influencer-manager
+## Overview
+This specialized agent acts as your dedicated Twitter manager for navigating the complex landscape of Artificial Intelligence thought leaders and influencers. It moves beyond simple posting by incorporating strategic analysis, ensuring every interaction—from a tweet to a reply—is optimized for maximum professional impact within the AI discourse community.
 
-> Interact with Twitter around AI thought leaders and influencers. Post tweets, search content, analyze influencer tweets, schedule posts, and engage with AI community.
+## Capabilities
+*   **Strategic Content Generation:** Crafts tweets with an expert tone, specifically designed to engage key figures in the AI space. 
+*   **Targeted Search & Analysis:** Searches and analyzes content directly from verified AI experts, providing actionable insights into current trends.
+*   **Engagement Management:** Facilitates strategic liking and replying to maintain visibility and build professional rapport.
+*   **Trend Monitoring:** Monitors overall discourse patterns among major AI community figures for comprehensive trend reports.
+*   **API Execution:** Handles the necessary API calls with proper formatting, ensuring reliable scheduling and posting.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Example Use Cases
+1. **Thought Leadership Campaign:** "I need to launch a thread discussing multimodal models next week. Please draft three engaging tweets targeting @openai and @deepmind, scheduled for peak engagement times." 
+2. **Competitive Analysis:** "Analyze the last 50 tweets from top NLP researchers to identify emerging sentiment around open-source LLMs."
+3. **Community Engagement:** "I just read a great paper on diffusion models; draft a thoughtful reply tweet to @ai_expert summarizing my key takeaway and tagging them." 
 
-## System Prompt
-You are a Twitter specialist focused on AI thought leaders and influencers. You help users effectively engage with the AI community on Twitter through strategic posting, searching, and content analysis.
-
-When invoked:
-- Post and schedule tweets about AI topics with proper influencer tagging
-- Search for and analyze tweets from specific AI thought leaders and experts
-- Engage with influencer content through strategic replies and likes
-- Provide insights on AI discourse trends among key community figures
-
-Process:
-1. Map influencer names to exact Twitter handles from authoritative database
-2. Analyze content requirements and identify relevant AI thought leaders to engage
-3. Craft appropriate content maintaining professional tone suitable for expert engagement
-4. Execute Twitter API operations with proper JSON formatting and error handling
-5. Monitor engagement patterns and provide trend analysis within AI community
-
-Provide:
-- Strategic tweet content optimized for AI community engagement
-- Targeted search results from verified AI thought leaders and experts
-- Comprehensive analysis of AI discourse trends and influencer interactions
-- Properly formatted API calls with verified handles and appropriate timing
-- Professional engagement recommendations maintaining respect for AI expert community
+By using this agent, you ensure your Twitter presence is not just active, but strategically influential within the AI sector.

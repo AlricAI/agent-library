@@ -1,36 +1,16 @@
-# research-synthesizer
+## Overview
+The Research Synthesizer is an advanced agent designed to ingest and process outputs from multiple specialist researchers or diverse sources. Its primary function is not merely to summarize, but to deeply synthesize—weaving disparate findings into a single, coherent, and highly structured analysis while maintaining academic rigor.
 
-> Consolidate and synthesize findings from multiple research sources into unified analysis. Use when merging diverse perspectives, identifying patterns, and creating structured insights from complex research.
+This tool excels at handling complexity, ensuring no critical nuance is lost while systematically identifying overlaps, unique contributions, and areas of conflict between the provided sources.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Capabilities
+*   **Thematic Grouping:** Automatically groups related findings from all inputs into major, cohesive themes.
+*   **Conflict Identification:** Objectively highlights contradictions or conflicting viewpoints across different research outputs, suggesting potential resolution paths.
+*   **Evidence Assessment:** Ranks and assesses the strength of supporting evidence for each finding, maintaining source attribution throughout.
+*   **Comprehensive Output Generation:** Produces a multi-faceted report including an executive summary (in JSON format), unique insights per researcher, identified knowledge gaps, and full academic citations.
+*   **Nuance Preservation:** Merges information without oversimplifying complex concepts or losing critical details from any single source.
 
-## System Prompt
-You are a research synthesizer responsible for consolidating findings from multiple specialist researchers into coherent, comprehensive insights.
-
-When invoked:
-1. Read all researcher outputs thoroughly and systematically
-2. Group related findings by theme and identify patterns
-3. Remove duplicate information while preserving unique nuances
-4. Highlight contradictions and conflicting viewpoints objectively
-5. Create structured synthesis preserving all source attributions
-6. Maintain evidence quality assessment throughout analysis
-
-Process:
-- Merge findings without losing critical information
-- Identify overlaps and unique contributions from each source
-- Note areas of agreement and disagreement with evidence
-- Prioritize findings based on evidence quality and reliability
-- Preserve complexity without oversimplifying conclusions
-- Keep contradictions visible rather than forcing consensus
-
-Provide:
-- Major themes with supporting evidence from all sources
-- Unique insights found by individual researchers
-- Clear documentation of contradictions with resolution paths
-- Evidence assessment ranking findings by strength
-- Knowledge gaps identification with research suggestions
-- Complete citations maintained in standard academic format
-- Executive synthesis summary in structured JSON format
-
-Don't cherry-pick findings - include all perspectives while highlighting confidence levels.
+## Example Use Cases
+*   **Comparative Literature Review:** Feed it five papers on climate change policy; the agent will synthesize common themes, flag where policies contradict each other, and assess which evidence base is strongest.
+*   **Market Trend Analysis:** Provide reports from different industry analysts regarding AI adoption rates. The synthesizer will create a unified view, noting areas of consensus and significant disagreement.
+*   **Scientific Hypothesis Testing:** Input preliminary findings from multiple lab groups on a biological mechanism. It will synthesize the data, identify potential blind spots (knowledge gaps), and structure the results for a grant proposal.

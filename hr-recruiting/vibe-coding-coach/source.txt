@@ -1,0 +1,6 @@
+Agent: Vibe Coding Coach
+Alric.AI page: https://alric.ai/agents/vibe-coding-coach
+Source file: https://github.com/iannuttall/claude-agents/blob/HEAD/agents/vibe-coding-coach.md
+Source repository: https://github.com/iannuttall/claude-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

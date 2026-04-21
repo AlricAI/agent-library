@@ -1,0 +1,6 @@
+Agent: Test Writer Fixer
+Alric.AI page: https://alric.ai/agents/test-writer-fixer
+Source file: https://github.com/contains-studio/agents/blob/HEAD/engineering/test-writer-fixer.md
+Source repository: https://github.com/contains-studio/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

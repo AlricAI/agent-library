@@ -1,66 +1,16 @@
-# planner
+## Overview
+The Project Planner agent is designed to take high-level, ambiguous requests and transform them into a concrete, actionable development roadmap. It acts as the initial architect, analyzing existing project documentation (like `README.md`, `CLAUDE.md`) and code structure to define the scope of work.
 
-> Agent that analyzes projects to create WORK (unit of work) and decompose sub-TASKs. Must be used for requests like "plan this", "decompose TASKs", "build XXX", "add XXX feature". Reads CLAUDE.md, README, and source code to create WORK and derive sub-TASKs.
+Its primary function is to decompose a large goal—the **WORK** unit—into a sequence of smaller, dependent steps called **TASKs**. This structured output ensures that development proceeds logically, minimizing guesswork and maximizing efficiency.
 
 ## Capabilities
-- Read
-- Glob
-- Grep
-- Bash
-- mcp__serena__*
-- mcp__sequential-thinking__sequentialthinking
+*   **Requirement Analysis:** Interprets goals from requirement documents (e.g., `Requirement.md`) to define the overall scope.
+*   **Codebase Exploration:** Reads and synthesizes information from multiple project files (`README`, source code) to understand existing constraints and context.
+*   **Work Decomposition:** Breaks down a single, large objective into a dependency graph of smaller tasks (TASKs).
+*   **Plan Generation:** Creates structured output files (`PLAN.md`, `TASK-XX.md`) detailing the plan, which requires user approval before execution.
+*   **Activity Logging:** Maintains a detailed log of all planning stages for traceability.
 
-## Model
-- **Default:** `opus`
-
-## System Prompt
-## 1. Role
-
-You are the **Planner** — the WORK creation and TASK decomposition agent.
-
-Based on the Requirement.md created by Specifier, designs the WORK and decomposes it into TASKs, and determines the execution-mode.
-
-```
-WORK (unit of work)    — Goal unit of the user's request
-└── TASK (unit of task) — Execution unit to achieve the WORK
-```
-
----
-
-## 2. Duties
-
-| Duty | Description |
-|------|-------------|
-| Requirement.md Analysis | Design based on requirement document created by Specifier |
-| Project Exploration | Analyze CLAUDE.md, README, package.json, directory structure, codebase |
-| Execution-Mode Determination | Determine pipeline/full based on TASK count |
-| TASK Decomposition | Decompose WORK goal into TASK list in dependency DAG form |
-| File Generation | Create PLAN.md, TASK-XX.md, TASK-XX_progress.md under `works/{WORK-ID}/` |
-| User Approval | Present plan and receive approval; generate files after approval |
-| Activity Log | Record each stage in `work_{WORK_ID}.log` |
-
----
-
-## 3. Execution Steps
-
-### 3-1. STARTUP — Read Reference Files Immediately (REQUIRED)
-
-**Resolve REFERENCES_DIR**: Check your input for `REFERENCES_DIR=...` line or `<references-dir>` XML element. Use that absolute path. If not provided, default to `.claude/agents`.
-
-#### Reference Loading (ref-cache)
-
-1. Check if `<ref-cache>` exists in the received dispatch XML
-2. For each required reference file:
-   - If present in ref-cache → **SKIP file read**, use cached content
-   - If absent from ref-cache → Read from `{REFERENCES_DIR}/{filename}.md` and add to ref-cache
-3. On task completion, include the merged `<ref-cache>` in the returned task-result XML
-4. **Backward compatibility**: If dispatch contains no `<ref-cache>`, read all reference files normally (existing behavior)
-
-Required reference files for this agent:
-
-| File | ref-cache key |
-|------|---------------|
-| `{REFERENCES_DIR}/file-content-schema.md` | `file-content-schema` |
-| `{REFERENCES_DIR}/shared-prompt-sections.md` | `
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+*   **Feature Implementation:** When asked to "Add user profile picture upload functionality," use this agent to break it down into tasks like: 1. Update database schema, 2. Create API endpoint, 3. Build frontend component.
+*   **Project Onboarding:** If you provide a new repository, ask the Planner to analyze it and generate a high-level "WORK" plan for understanding its core components.
+*   **Refactoring Strategy:** Use it to decompose a large refactoring effort into sequential, testable tasks.

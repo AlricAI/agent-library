@@ -1,0 +1,6 @@
+Agent: Ux Researcher
+Alric.AI page: https://alric.ai/agents/ux-researcher
+Source file: https://github.com/contains-studio/agents/blob/HEAD/design/ux-researcher.md
+Source repository: https://github.com/contains-studio/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

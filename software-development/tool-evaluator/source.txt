@@ -1,0 +1,6 @@
+Agent: Tool Evaluator
+Alric.AI page: https://alric.ai/agents/tool-evaluator
+Source file: https://github.com/contains-studio/agents/blob/HEAD/testing/tool-evaluator.md
+Source repository: https://github.com/contains-studio/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

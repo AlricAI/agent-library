@@ -1,4 +1,4 @@
-Agent: deployment-engineer
+Agent: Deployment Engineer
 Alric.AI page: https://alric.ai/agents/deployment-engineer-8
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/deployment-engineer.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

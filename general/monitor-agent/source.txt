@@ -1,0 +1,6 @@
+Agent: Operations Monitor
+Alric.AI page: https://alric.ai/agents/monitor-agent
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/claude-ops/agents/monitor-agent.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

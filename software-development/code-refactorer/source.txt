@@ -1,0 +1,6 @@
+Agent: Code Refactorer
+Alric.AI page: https://alric.ai/agents/code-refactorer
+Source file: https://github.com/iannuttall/claude-agents/blob/HEAD/agents/code-refactorer.md
+Source repository: https://github.com/iannuttall/claude-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

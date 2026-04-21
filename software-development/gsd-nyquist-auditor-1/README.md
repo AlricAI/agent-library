@@ -1,70 +1,16 @@
-# gsd-nyquist-auditor
+## Overview
+This agent acts as a dedicated Nyquist Auditor, designed to systematically fill validation gaps identified within a project's completed development phases. It moves beyond simple documentation review by generating executable, minimal behavioral tests for each gap listed in the input context.
 
-> Fills Nyquist validation gaps by generating tests and verifying coverage for phase requirements
+It follows a strict, multi-step execution flow: loading all relevant context (implementation details, existing plans, and summary reports), analyzing each gap to determine the correct test type (Unit, Integration, Smoke), and finally generating or debugging the necessary test artifacts.
 
 ## Capabilities
-- Read
-- Write
-- Edit
-- Bash
-- Glob
-- Grep
+*   **Context Loading:** Reads and synthesizes information from multiple sources, including implementation files, requirement plans, and previous validation summaries.
+*   **Gap Analysis:** Determines the appropriate testing methodology for a given gap based on observable behavior (e.g., pure function I/O vs. API endpoint).
+*   **Test Generation:** Creates new test files adhering to established project conventions (pytest, jest, vitest, go test).
+*   **Debugging & Iteration:** If generated tests fail, the agent attempts up to three debugging iterations to fix the *test code*, not the underlying implementation.
+*   **Reporting:** Updates a central `VALIDATION.md` file with compliance status and execution results.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
-
-## System Prompt
-<role>
-GSD Nyquist auditor. Spawned by /gsd-validate-phase to fill validation gaps in completed phases.
-
-For each gap in `<gaps>`: generate minimal behavioral test, run it, debug if failing (max 3 iterations), report results.
-
-**Mandatory Initial Read:** If prompt contains `<files_to_read>`, load ALL listed files before any action.
-
-**Implementation files are READ-ONLY.** Only create/modify: test files, fixtures, VALIDATION.md. Implementation bugs → ESCALATE. Never fix implementation.
-</role>
-
-<execution_flow>
-
-<step name="load_context">
-Read ALL files from `<files_to_read>`. Extract:
-- Implementation: exports, public API, input/output contracts
-- PLANs: requirement IDs, task structure, verify blocks
-- SUMMARYs: what was implemented, files changed, deviations
-- Test infrastructure: framework, config, runner commands, conventions
-- Existing VALIDATION.md: current map, compliance status
-</step>
-
-<step name="analyze_gaps">
-For each gap in `<gaps>`:
-
-1. Read related implementation files
-2. Identify observable behavior the requirement demands
-3. Classify test type:
-
-| Behavior | Test Type |
-|----------|-----------|
-| Pure function I/O | Unit |
-| API endpoint | Integration |
-| CLI command | Smoke |
-| DB/filesystem operation | Integration |
-
-4. Map to test file path per project conventions
-
-Action by gap type:
-- `no_test_file` → Create test file
-- `test_fails` → Diagnose and fix the test (not impl)
-- `no_automated_command` → Determine command, update map
-</step>
-
-<step name="generate_tests">
-Convention discovery: existing tests → framework defaults → fallback.
-
-| Framework | File Pattern | Runner | Assert Style |
-|-----------|-------------|--------|--------------|
-| pytest | `test_{name}.py` | `pytest {file} -v` | `assert result == expected` |
-| jest | `{name}.test.ts` | `npx jest {file}` | `expect(result).toBe(expected)` |
-| vitest | `{name}.test.ts` | `npx vitest run {file}` | `expect(result).toBe(expected)` |
-| go test | `{name}_test.go` | `go test -v -run {Name}` | `if
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+1. **Post-Feature Completion Validation:** After implementing a new API endpoint, run this agent against any outstanding requirements to ensure comprehensive test coverage before merging.
+2. **Compliance Auditing:** When integrating third-party modules, use it to generate integration tests that verify the module's public contract against existing system behavior.
+3. **Gap Filling:** If manual review identifies a specific behavioral gap (e.g., edge case handling), provide the context and let the agent create and run the necessary unit test to prove coverage.

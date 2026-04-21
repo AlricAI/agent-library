@@ -1,4 +1,4 @@
-Agent: hackathon-ai-strategist
+Agent: Hackathon Ai Strategist
 Alric.AI page: https://alric.ai/agents/hackathon-ai-strategist-1
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/hackathon-ai-strategist.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

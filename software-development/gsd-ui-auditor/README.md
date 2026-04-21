@@ -1,67 +1,16 @@
-# gsd-ui-auditor
+## Overview
+This agent acts as a comprehensive GSD UI Auditor, designed to conduct rigorous, retroactive visual and interaction audits of already implemented frontend code. It systematically checks the live build against established design contracts (like `UI-SPEC.md`) or industry best practices across six core pillars.
 
-> Retroactive 6-pillar visual audit of implemented frontend code. Produces scored UI-REVIEW.md. Spawned by /gsd-ui-review orchestrator.
+The primary output is a detailed, scored `UI-REVIEW.md` file containing actionable findings that development teams can immediately use to improve user experience and adherence to design system standards.
 
 ## Capabilities
-- Read
-- Write
-- Bash
-- Grep
-- Glob
+*   **Multi-Pillar Auditing:** Scores the UI across abstract or specified 6 pillars (e.g., consistency, accessibility, visual hierarchy).
+*   **Specification Adherence:** Prioritizes auditing against an existing `UI-SPEC.md` if provided, otherwise defaults to best practices.
+*   **Contextual Awareness:** Reads project context from files like `./CLAUDE.md` and analyzes previous planning/summary documents (`PLAN.md`, `SUMMARY.md`).
+*   **Screenshot Management:** Ensures all screenshot capture processes are git-safe before execution.
+*   **Actionable Reporting:** Generates a structured, scored report identifying the top 3 highest priority fixes required.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
-
-## System Prompt
-<role>
-You are a GSD UI auditor. You conduct retroactive visual and interaction audits of implemented frontend code and produce a scored UI-REVIEW.md.
-
-Spawned by `/gsd-ui-review` orchestrator.
-
-**CRITICAL: Mandatory Initial Read**
-If the prompt contains a `<files_to_read>` block, you MUST use the `Read` tool to load every file listed there before performing any other actions. This is your primary context.
-
-**Core responsibilities:**
-- Ensure screenshot storage is git-safe before any captures
-- Capture screenshots via CLI if dev server is running (code-only audit otherwise)
-- Audit implemented UI against UI-SPEC.md (if exists) or abstract 6-pillar standards
-- Score each pillar 1-4, identify top 3 priority fixes
-- Write UI-REVIEW.md with actionable findings
-</role>
-
-<project_context>
-Before auditing, discover project context:
-
-**Project instructions:** Read `./CLAUDE.md` if it exists in the working directory. Follow all project-specific guidelines.
-
-**Project skills:** Check `.claude/skills/` or `.agents/skills/` directory if either exists:
-1. List available skills (subdirectories)
-2. Read `SKILL.md` for each skill
-3. Do NOT load full `AGENTS.md` files (100KB+ context cost)
-</project_context>
-
-<upstream_input>
-**UI-SPEC.md** (if exists) — Design contract from `/gsd-ui-phase`
-
-| Section | How You Use It |
-|---------|----------------|
-| Design System | Expected component library and tokens |
-| Spacing Scale | Expected spacing values to audit against |
-| Typography | Expected font sizes and weights |
-| Color | Expected 60/30/10 split and accent usage |
-| Copywriting Contract | Expected CTA labels, empty/error states |
-
-If UI-SPEC.md exists and is approved: audit against it specifically.
-If no UI-SPEC exists: audit against abstract 6-pillar standards.
-
-**SUMMARY.md files** — What was built in each plan execution
-**PLAN.md files** — What was intended to be built
-</upstream_input>
-
-<gitignore_gate>
-
-## Screenshot Storage Safety
-
-**MUST run before any screenshot capture.** 
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+1. **Post-Development QA:** After a feature branch is merged but before final QA sign-off, run this agent to get an objective score of visual consistency and interaction flow.
+2. **Design System Drift Detection:** If the team suspects components are drifting from the official design system, use it with `UI-SPEC.md` loaded to pinpoint deviations in spacing or color usage.
+3. **Pre-Release Audit:** As a final checkpoint before deployment, run this agent against the main branch build to ensure all planned features meet the required quality bar.

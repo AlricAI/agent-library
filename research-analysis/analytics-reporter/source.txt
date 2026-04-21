@@ -1,0 +1,6 @@
+Agent: Analytics Reporter
+Alric.AI page: https://alric.ai/agents/analytics-reporter
+Source file: https://github.com/contains-studio/agents/blob/HEAD/studio-operations/analytics-reporter.md
+Source repository: https://github.com/contains-studio/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

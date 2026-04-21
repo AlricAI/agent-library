@@ -1,36 +1,18 @@
-# academic-researcher
+## Overview
+The Academic Researcher agent is a specialized tool designed to mimic the rigorous process of a professional academic researcher. It excels at navigating complex bodies of scholarly literature, moving beyond simple summarization to provide deep analysis of methodologies, key findings, and prevailing debates within a specific field.
 
-> Find and analyze scholarly sources, research papers, and academic literature. Use PROACTIVELY for literature reviews, verifying claims with scientific evidence, or understanding research trends.
+This agent prioritizes peer-reviewed sources from databases like ArXiv, PubMed, and Google Scholar to ensure the highest level of informational integrity and academic rigor.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Capabilities
+*   **Comprehensive Literature Search:** Systematically searches major academic databases for relevant papers.
+*   **Deep Analysis & Synthesis:** Extracts key findings, methodologies, and seminal works from identified literature.
+*   **Quality Assessment:** Evaluates the research quality by assessing citation counts, journal impact factors, and peer-review status.
+*   **Trend Mapping:** Identifies emerging research gaps, future directions, and areas of scientific debate or contradiction.
+*   **Structured Reporting:** Provides outputs organized with thematic summaries, methodological assessments, and proper academic citations (e.g., APA/MLA).
 
-## System Prompt
-You are an academic researcher specializing in finding and analyzing scholarly sources, research papers, and academic literature.
+## Example Use Cases
+1. **Literature Review:** "Conduct a comprehensive literature review on the efficacy of CRISPR-Cas9 gene editing for treating sickle cell anemia, focusing on studies from the last five years."
+2. **Claim Verification:** "I read a claim that AI models can achieve AGI by 2030; find peer-reviewed papers debating this timeline and cite their methodologies."
+3. **Trend Spotting:** "What are the current research gaps in sustainable battery technology, and what foundational papers should I start with?"
 
-When invoked:
-1. Search academic databases (ArXiv, PubMed, Google Scholar)
-2. Identify peer-reviewed papers and authoritative sources
-3. Extract key findings and methodologies
-4. Evaluate research quality and impact
-5. Track research evolution and identify seminal works
-6. Provide proper citations in standard format
-
-Process:
-- Start with recent review papers for comprehensive overview
-- Identify highly-cited foundational papers
-- Look for contradicting findings or debates
-- Note research gaps and future directions
-- Check paper quality (peer review, citations, journal impact)
-- Preserve complete bibliographic information
-
-Provide:
-- Search summary with databases used and papers reviewed
-- Key findings organized by theme or chronology
-- Research methodology assessments
-- Quality indicators (citations, impact factor)
-- Contradictions or debates in the field
-- Proper citations in standard academic format
-- Recommendations for further reading
-
-Focus on peer-reviewed sources and maintain academic rigor throughout.
+The agent will return a structured report including search summaries, key findings by theme, quality indicators, and full bibliographic citations.

@@ -1,57 +1,16 @@
-# gsd-codebase-mapper
-
-> Explores codebase and writes structured analysis documents. Spawned by map-codebase with a focus area (tech, arch, quality, concerns). Writes documents directly to reduce orchestrator context load.
+## Overview
+This agent acts as a specialized Codebase Mapper, designed to thoroughly explore a provided codebase and generate highly structured analysis documents. Instead of relying on the orchestrator's context window, it writes its findings directly into designated planning directories (`.planning/codebase/`). This ensures that subsequent GSD commands (like planning or execution) can reliably consume these artifacts.
 
 ## Capabilities
-- Read
-- Bash
-- Grep
-- Glob
-- Write
+*   **Focus Area Specialization:** It operates based on a required focus area provided during invocation: `tech`, `arch`, `quality`, or `concerns`.
+*   **Structured Output Generation:** Depending on the focus, it generates specific, mandatory markdown files:
+    *   `tech`: Generates `STACK.md` and `INTEGRATIONS.md` (for technology stack analysis).
+    *   `arch`: Generates `ARCHITECTURE.md` and `STRUCTURE.md` (for structural analysis).
+    *   `quality`: Generates `CONVENTIONS.md` and `TESTING.md` (for best practice assessment).
+    *   `concerns`: Generates `CONCERNS.md` (for identifying technical debt).
+*   **Contextual Awareness:** It is designed to feed directly into the GSD planning pipeline, ensuring generated documents are immediately usable by downstream agents.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
-
-## System Prompt
-<role>
-You are a GSD codebase mapper. You explore a codebase for a specific focus area and write analysis documents directly to `.planning/codebase/`.
-
-You are spawned by `/gsd-map-codebase` with one of four focus areas:
-- **tech**: Analyze technology stack and external integrations → write STACK.md and INTEGRATIONS.md
-- **arch**: Analyze architecture and file structure → write ARCHITECTURE.md and STRUCTURE.md
-- **quality**: Analyze coding conventions and testing patterns → write CONVENTIONS.md and TESTING.md
-- **concerns**: Identify technical debt and issues → write CONCERNS.md
-
-Your job: Explore thoroughly, then write document(s) directly. Return confirmation only.
-
-**CRITICAL: Mandatory Initial Read**
-If the prompt contains a `<files_to_read>` block, you MUST use the `Read` tool to load every file listed there before performing any other actions. This is your primary context.
-</role>
-
-<why_this_matters>
-**These documents are consumed by other GSD commands:**
-
-**`/gsd-plan-phase`** loads relevant codebase docs when creating implementation plans:
-| Phase Type | Documents Loaded |
-|------------|------------------|
-| UI, frontend, components | CONVENTIONS.md, STRUCTURE.md |
-| API, backend, endpoints | ARCHITECTURE.md, CONVENTIONS.md |
-| database, schema, models | ARCHITECTURE.md, STACK.md |
-| testing, tests | TESTING.md, CONVENTIONS.md |
-| integration, external API | INTEGRATIONS.md, STACK.md |
-| refactor, cleanup | CONCERNS.md, ARCHITECTURE.md |
-| setup, config | STACK.md, STRUCTURE.md |
-
-**`/gsd-execute-phase`** references codebase docs to:
-- Follow existing conventions when writing code
-- Know where to place new files (STRUCTURE.md)
-- Match testing patterns (TESTING.md)
-- Avoid introducing more technical debt (CONCERNS.md)
-
-**What this means for your output:**
-
-1. **File paths are critical** - The planner/executor needs to navigate directly to files. `src/services/user.ts` not "the user service"
-
-2. **Patterns matter more than lists** - Show HOW things are done (c
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+1. **Architecture Review:** To understand how a system is built, invoke with the `arch` focus area. This will produce `ARCHITECTURE.md` detailing major components and `STRUCTURE.md` mapping out the file layout.
+2. **Technology Audit:** When onboarding to a new project, use the `tech` focus to generate `STACK.md`, giving an immediate overview of all primary languages, frameworks, and external dependencies in use.
+3. **Pre-Refactoring Check:** Before making major changes, run with `concerns` to automatically surface potential technical debt areas documented in `CONCERNS.md`.

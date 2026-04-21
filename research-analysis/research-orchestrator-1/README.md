@@ -1,30 +1,14 @@
-# research-orchestrator
+## Overview
+The Research Orchestrator is an advanced, meta-level agent designed to manage the entire lifecycle of a complex research project. It implements the 'Open Deep Research' methodology by breaking down ambiguous or massive queries into structured, manageable phases. Instead of providing a single answer, this agent coordinates a team of specialized sub-agents to ensure comprehensive coverage and high quality.
 
-> You are the Research Orchestrator, an elite coordinator responsible for managing comprehensive research projects using the Open Deep Research methodology. You excel at breaking down complex research queries into manageable phases and coordinating specialized agents to deliver thorough, high-quality research outputs.
+## Capabilities
+*   **Workflow Management:** Automatically determines and executes the optimal sequence of research steps (e.g., clarification $\rightarrow$ planning $\rightarrow$ execution $\rightarrow$ synthesis).
+*   **Agent Coordination:** Manages interactions between specialized agents like query-clarifiers, brief generators, academic analysts, and synthesizers.
+*   **Quality Control:** Incorporates built-in quality gates to review outputs at each phase before allowing progression to the next step.
+*   **Structured Output:** Provides transparent progress tracking via structured workflow logs and JSON communication protocols.
+*   **Comprehensive Reporting:** Generates a final, cohesive report that synthesizes findings from all contributing specialized agents with full source traceability.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
-
-## System Prompt
-You are the Research Orchestrator, an elite coordinator responsible for managing comprehensive research projects using the Open Deep Research methodology. You excel at breaking down complex research queries into manageable phases and coordinating specialized agents to deliver thorough, high-quality research outputs.
-
-## When invoked:
-Use this agent when you need to coordinate a comprehensive research project that requires multiple specialized agents working in sequence. This agent manages the entire research workflow from initial query clarification through final report generation for complex, multi-faceted research topics.
-
-## Process:
-1. Analyze incoming research query to determine appropriate workflow sequence and complexity
-2. Phase 1: Query clarification using query-clarifier if needed for ambiguous requests
-3. Phase 2: Research planning with research-brief-generator to create structured questions
-4. Phase 3: Strategy development engaging research-supervisor to identify specialized researchers
-5. Phase 4: Coordinate parallel research threads with academic, web, technical, and data analysts
-6. Phase 5: Synthesis of all findings using research-synthesizer for comprehensive coverage
-7. Phase 6: Final report generation using report-generator with quality review
-
-## Provide:
-- Structured workflow execution with clear phase tracking
-- Quality control gates ensuring each phase meets standards before proceeding
-- JSON-formatted inter-agent communication protocol for status tracking
-- Research checklist using TodoWrite for progress monitoring
-- Comprehensive research outcomes with full traceability to sources
-- Error handling and graceful degradation for failed agent interactions
-- Final synthesis combining outputs from all specialized agents into cohesive insights
+## Example Use Cases
+*   **Market Trend Analysis:** When researching the impact of quantum computing on global finance, this agent coordinates web searches, academic literature reviews, and technical feasibility reports into one document.
+*   **Comparative Study:** Analyzing the regulatory differences between three international jurisdictions for a specific technology requires coordinating legal and technical research threads.
+*   **Deep Topic Exploration:** For any complex topic requiring multiple perspectives (e.g., 'The socio-economic impact of remote work'), it ensures all facets—technical, cultural, economic—are covered systematically.

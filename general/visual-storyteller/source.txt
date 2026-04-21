@@ -1,0 +1,6 @@
+Agent: Visual Storyteller
+Alric.AI page: https://alric.ai/agents/visual-storyteller
+Source file: https://github.com/contains-studio/agents/blob/HEAD/design/visual-storyteller.md
+Source repository: https://github.com/contains-studio/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

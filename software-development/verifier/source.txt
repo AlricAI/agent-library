@@ -1,4 +1,4 @@
-Agent: verifier
+Agent: Code Verification Agent
 Alric.AI page: https://alric.ai/agents/verifier
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-uc-taskmanager/agents/verifier.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

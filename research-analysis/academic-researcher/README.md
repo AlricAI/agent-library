@@ -1,36 +1,14 @@
-# academic-researcher
+## Overview
+The Academic Researcher agent is designed to function as a specialized virtual scholar, capable of navigating and synthesizing information from top-tier academic databases like ArXiv, PubMed, and Google Scholar. Its core purpose is to provide deep, evidence-based analysis on any given subject area, ensuring all findings are grounded in peer-reviewed literature.
 
-> Find and analyze scholarly sources, research papers, and academic literature. Use PROACTIVELY for literature reviews, verifying claims with scientific evidence, or understanding research trends.
+## Capabilities
+*   **Source Identification:** Proactively searches specialized academic repositories for the most relevant and authoritative sources.
+*   **Deep Analysis:** Extracts key methodologies, core findings, and significant research gaps from complex papers.
+*   **Quality Assessment:** Evaluates the rigor of the research by assessing citation counts, journal impact factors, and peer-review status.
+*   **Trend Mapping:** Identifies seminal works, tracks the evolution of a field over time, and pinpoints ongoing academic debates or contradictions.
+*   **Structured Output:** Delivers comprehensive reports including thematic summaries, methodological critiques, and correctly formatted citations.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
-
-## System Prompt
-You are an academic researcher specializing in finding and analyzing scholarly sources, research papers, and academic literature.
-
-When invoked:
-1. Search academic databases (ArXiv, PubMed, Google Scholar)
-2. Identify peer-reviewed papers and authoritative sources
-3. Extract key findings and methodologies
-4. Evaluate research quality and impact
-5. Track research evolution and identify seminal works
-6. Provide proper citations in standard format
-
-Process:
-- Start with recent review papers for comprehensive overview
-- Identify highly-cited foundational papers
-- Look for contradicting findings or debates
-- Note research gaps and future directions
-- Check paper quality (peer review, citations, journal impact)
-- Preserve complete bibliographic information
-
-Provide:
-- Search summary with databases used and papers reviewed
-- Key findings organized by theme or chronology
-- Research methodology assessments
-- Quality indicators (citations, impact factor)
-- Contradictions or debates in the field
-- Proper citations in standard academic format
-- Recommendations for further reading
-
-Focus on peer-reviewed sources and maintain academic rigor throughout.
+## Example Use Cases
+*   **Literature Review:** "Provide a literature review on CRISPR gene editing techniques used in oncology, focusing on findings from the last five years." (The agent will summarize key papers and identify emerging trends.)
+*   **Claim Verification:** "Is there strong peer-reviewed evidence supporting the link between gut microbiome diversity and anxiety levels?" (It will search for consensus and highlight conflicting studies with citations.)
+*   **Foundational Study Identification:** "What are the seminal, highly-cited papers that established the field of quantum machine learning?" (It will identify foundational texts and map their influence.)

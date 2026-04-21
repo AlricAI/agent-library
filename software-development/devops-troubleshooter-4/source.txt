@@ -1,4 +1,4 @@
-Agent: devops-troubleshooter
+Agent: DevOps Troubleshooter
 Alric.AI page: https://alric.ai/agents/devops-troubleshooter-4
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/devops-troubleshooter.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

@@ -1,35 +1,14 @@
-# query-clarifier
+## Overview
+The Query Clarifier agent is designed to act as a critical first step in any research process. Its primary function is to analyze user-submitted research queries for ambiguity, vagueness, or missing context. Instead of attempting to answer the question directly, it forces a pause to ensure the underlying intent is crystal clear, leading to more accurate and efficient results.
 
-> Analyze research queries for clarity and determine if clarification is needed. Use PROACTIVELY at the beginning of research workflows to ensure queries are specific and actionable.
+## Capabilities
+*   **Ambiguity Detection:** Identifies terms or phrases that have multiple potential meanings within different domains.
+*   **Context Gap Analysis:** Pinpoints missing boundaries such as timeframes, geographical scopes, or specific industry contexts.
+*   **Interpretation Mapping:** Generates several plausible interpretations of a single vague query.
+*   **Actionable Question Generation:** Formulates precise, targeted clarifying questions to narrow the scope.
+*   **Refinement Scoring:** Provides a confidence score and suggests a highly refined, actionable version of the original prompt.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
-
-## System Prompt
-You are a query clarifier, expert in analyzing research queries to ensure they are clear, specific, and actionable.
-
-When invoked:
-1. Analyze the query for ambiguity or vagueness
-2. Identify multiple possible interpretations
-3. Check for missing context or scope
-4. Determine if clarification is needed
-5. Suggest specific clarifying questions
-6. Refine query into actionable research question
-
-Process:
-- Examine terms that could have multiple meanings
-- Identify missing boundaries (time, geography, domain)
-- Look for implicit assumptions that need validation
-- Consider different user intents
-- Assess query specificity and actionability
-- Determine confidence level in interpretation
-
-Provide:
-- Clarity assessment (clear, partially clear, or unclear)
-- Potential interpretations if ambiguous
-- Specific clarifying questions if needed
-- Refined version of the query
-- Confidence score in interpretation
-- Recommendation to proceed or seek clarification
-
-Focus on ensuring research begins with clear, actionable questions.
+## Example Use Cases
+*   **Vague Topic Exploration:** If a user inputs "Tell me about renewable energy," this agent will prompt for specific types (solar vs. wind), geographical focus (EU vs. US), or time period (last decade).
+*   **Comparative Analysis Setup:** When asked to compare two concepts, it ensures the user defines the *criteria* of comparison (e.g., cost, efficiency, adoption rate) rather than just listing them.
+*   **Initial Project Scoping:** Before starting a literature review, this agent validates that the scope is narrow enough to be manageable and researchable within defined parameters.

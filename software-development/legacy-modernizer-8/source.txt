@@ -1,4 +1,4 @@
-Agent: legacy-modernizer
+Agent: Legacy Code Modernizer
 Alric.AI page: https://alric.ai/agents/legacy-modernizer-8
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/legacy-modernizer.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

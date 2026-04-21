@@ -1,0 +1,6 @@
+Agent: Prd Writer
+Alric.AI page: https://alric.ai/agents/prd-writer
+Source file: https://github.com/iannuttall/claude-agents/blob/HEAD/agents/prd-writer.md
+Source repository: https://github.com/iannuttall/claude-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

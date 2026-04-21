@@ -1,4 +1,4 @@
-Agent: query-clarifier
+Agent: Query Clarifier
 Alric.AI page: https://alric.ai/agents/query-clarifier-3
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/query-clarifier.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection
