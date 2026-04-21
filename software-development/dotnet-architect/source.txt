@@ -1,0 +1,6 @@
+Agent: DotNet Architect
+Alric.AI page: https://alric.ai/agents/dotnet-architect
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/dotnet-contribution/agents/dotnet-architect.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

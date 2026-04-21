@@ -1,0 +1,6 @@
+Agent: Database Optimizer
+Alric.AI page: https://alric.ai/agents/database-optimizer
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/database-migrations/agents/database-optimizer.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

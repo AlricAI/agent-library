@@ -1,0 +1,6 @@
+Agent: Conservative Risk Debater
+Alric.AI page: https://alric.ai/agents/conservative-debator-py
+Source file: https://github.com/TauricResearch/TradingAgents/blob/HEAD/tradingagents/agents/risk_mgmt/conservative_debator.py
+Source repository: https://github.com/TauricResearch/TradingAgents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

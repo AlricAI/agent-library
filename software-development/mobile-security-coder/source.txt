@@ -1,0 +1,6 @@
+Agent: Mobile Security Coder
+Alric.AI page: https://alric.ai/agents/mobile-security-coder
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/frontend-mobile-security/agents/mobile-security-coder.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

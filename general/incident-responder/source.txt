@@ -1,0 +1,6 @@
+Agent: Incident Responder
+Alric.AI page: https://alric.ai/agents/incident-responder
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/incident-response/agents/incident-responder.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

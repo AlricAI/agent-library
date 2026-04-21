@@ -1,0 +1,6 @@
+Agent: Sql Pro
+Alric.AI page: https://alric.ai/agents/sql-pro
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/database-design/agents/sql-pro.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

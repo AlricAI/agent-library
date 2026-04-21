@@ -1,0 +1,6 @@
+Agent: CSharp Pro Developer
+Alric.AI page: https://alric.ai/agents/csharp-pro
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/jvm-languages/agents/csharp-pro.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

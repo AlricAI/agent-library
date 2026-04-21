@@ -1,0 +1,6 @@
+Agent: Sales Outreach Specialist
+Alric.AI page: https://alric.ai/agents/sales-automator
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/customer-sales-automation/agents/sales-automator.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

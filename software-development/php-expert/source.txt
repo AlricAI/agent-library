@@ -1,0 +1,6 @@
+Agent: Php Code Architect
+Alric.AI page: https://alric.ai/agents/php-expert
+Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/php-expert.md
+Source repository: https://github.com/0xfurai/claude-code-subagents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

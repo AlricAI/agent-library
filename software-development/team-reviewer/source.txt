@@ -1,0 +1,6 @@
+Agent: Dimension Code Reviewer
+Alric.AI page: https://alric.ai/agents/team-reviewer
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/agent-teams/agents/team-reviewer.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

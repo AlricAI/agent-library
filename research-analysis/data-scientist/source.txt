@@ -1,0 +1,6 @@
+Agent: Data Scientist Pro
+Alric.AI page: https://alric.ai/agents/data-scientist
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/machine-learning-ops/agents/data-scientist.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Crypto Arbitrage Bot
+Alric.AI page: https://alric.ai/agents/arbitrage-bot
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-crypto-trading/agents/arbitrage-bot.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

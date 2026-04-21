@@ -1,0 +1,6 @@
+Agent: SEO Cannibalization Detector
+Alric.AI page: https://alric.ai/agents/seo-cannibalization-detector
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/seo-analysis-monitoring/agents/seo-cannibalization-detector.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

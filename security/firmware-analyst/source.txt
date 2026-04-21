@@ -1,0 +1,6 @@
+Agent: Firmware Analyst
+Alric.AI page: https://alric.ai/agents/firmware-analyst
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/reverse-engineering/agents/firmware-analyst.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Accessibility Expert
+Alric.AI page: https://alric.ai/agents/accessibility-expert
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/ui-design/agents/accessibility-expert.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

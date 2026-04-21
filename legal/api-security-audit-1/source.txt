@@ -1,0 +1,6 @@
+Agent: api-security-audit
+Alric.AI page: https://alric.ai/agents/api-security-audit-1
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/api-security-audit.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

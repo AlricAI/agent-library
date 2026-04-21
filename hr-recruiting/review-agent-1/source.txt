@@ -1,0 +1,6 @@
+Agent: review-agent
+Alric.AI page: https://alric.ai/agents/review-agent-1
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/review-agent.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

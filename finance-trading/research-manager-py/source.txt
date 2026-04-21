@@ -1,0 +1,6 @@
+Agent: Research Manager
+Alric.AI page: https://alric.ai/agents/research-manager-py
+Source file: https://github.com/TauricResearch/TradingAgents/blob/HEAD/tradingagents/agents/managers/research_manager.py
+Source repository: https://github.com/TauricResearch/TradingAgents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

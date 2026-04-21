@@ -1,0 +1,6 @@
+Agent: Policy Enforcer
+Alric.AI page: https://alric.ai/agents/policy-enforcer
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/protect-mcp/agents/policy-enforcer.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

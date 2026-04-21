@@ -1,0 +1,6 @@
+Agent: github-actions-expert
+Alric.AI page: https://alric.ai/agents/github-actions-expert
+Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/github-actions-expert.md
+Source repository: https://github.com/0xfurai/claude-code-subagents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

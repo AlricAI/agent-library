@@ -1,0 +1,6 @@
+Agent: Blockchain Developer
+Alric.AI page: https://alric.ai/agents/blockchain-developer
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/blockchain-web3/agents/blockchain-developer.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

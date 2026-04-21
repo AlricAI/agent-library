@@ -1,0 +1,6 @@
+Agent: SEO Structure Architect
+Alric.AI page: https://alric.ai/agents/seo-structure-architect
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/seo-technical-optimization/agents/seo-structure-architect.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

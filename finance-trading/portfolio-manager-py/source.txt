@@ -1,0 +1,6 @@
+Agent: Portfolio Manager
+Alric.AI page: https://alric.ai/agents/portfolio-manager-py
+Source file: https://github.com/TauricResearch/TradingAgents/blob/HEAD/tradingagents/agents/managers/portfolio_manager.py
+Source repository: https://github.com/TauricResearch/TradingAgents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

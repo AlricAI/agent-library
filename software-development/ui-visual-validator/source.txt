@@ -1,0 +1,6 @@
+Agent: Visual Compliance Validator
+Alric.AI page: https://alric.ai/agents/ui-visual-validator
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/accessibility-compliance/agents/ui-visual-validator.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Developer Experience Optimizer
+Alric.AI page: https://alric.ai/agents/dx-optimizer-2
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/team-collaboration/agents/dx-optimizer.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

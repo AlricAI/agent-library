@@ -1,0 +1,6 @@
+Agent: Social Media Sentiment Analyst
+Alric.AI page: https://alric.ai/agents/social-media-analyst-py
+Source file: https://github.com/TauricResearch/TradingAgents/blob/HEAD/tradingagents/agents/analysts/social_media_analyst.py
+Source repository: https://github.com/TauricResearch/TradingAgents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

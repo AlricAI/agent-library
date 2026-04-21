@@ -1,0 +1,6 @@
+Agent: Team Lead Orchestrator
+Alric.AI page: https://alric.ai/agents/team-lead
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/agent-teams/agents/team-lead.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

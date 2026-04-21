@@ -1,0 +1,6 @@
+Agent: SEO Content Writer
+Alric.AI page: https://alric.ai/agents/seo-content-writer
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/seo-content-creation/agents/seo-content-writer.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

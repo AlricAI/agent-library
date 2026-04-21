@@ -1,0 +1,6 @@
+Agent: Devops Incident Responder
+Alric.AI page: https://alric.ai/agents/devops-incident-responder
+Source file: https://github.com/lst97/claude-code-sub-agents/blob/HEAD/agents/infrastructure/devops-incident-responder.md
+Source repository: https://github.com/lst97/claude-code-sub-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

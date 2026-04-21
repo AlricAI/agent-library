@@ -1,0 +1,6 @@
+Agent: tensorflow-expert
+Alric.AI page: https://alric.ai/agents/tensorflow-expert
+Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/tensorflow-expert.md
+Source repository: https://github.com/0xfurai/claude-code-subagents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

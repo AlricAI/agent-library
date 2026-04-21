@@ -1,0 +1,6 @@
+Agent: Receipt Verifier
+Alric.AI page: https://alric.ai/agents/receipt-verifier
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/protect-mcp/agents/receipt-verifier.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

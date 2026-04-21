@@ -1,0 +1,6 @@
+Agent: Quant Analyst
+Alric.AI page: https://alric.ai/agents/quant-analyst
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/quantitative-trading/agents/quant-analyst.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

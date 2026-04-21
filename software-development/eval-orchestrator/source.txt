@@ -1,0 +1,6 @@
+Agent: Plugin Quality Evaluator
+Alric.AI page: https://alric.ai/agents/eval-orchestrator
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/plugin-eval/agents/eval-orchestrator.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

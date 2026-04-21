@@ -1,0 +1,6 @@
+Agent: Seo Authority Builder
+Alric.AI page: https://alric.ai/agents/seo-authority-builder
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/seo-analysis-monitoring/agents/seo-authority-builder.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

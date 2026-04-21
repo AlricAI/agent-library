@@ -1,0 +1,6 @@
+Agent: react-native-expert
+Alric.AI page: https://alric.ai/agents/react-native-expert
+Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/react-native-expert.md
+Source repository: https://github.com/0xfurai/claude-code-subagents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: text-comparison-validator
+Alric.AI page: https://alric.ai/agents/text-comparison-validator-1
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/text-comparison-validator.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

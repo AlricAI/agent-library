@@ -1,0 +1,6 @@
+Agent: Crypto Risk Manager
+Alric.AI page: https://alric.ai/agents/crypto-risk-manager
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-crypto-trading/agents/crypto-risk-manager.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

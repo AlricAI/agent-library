@@ -1,0 +1,6 @@
+Agent: SEO Content Refresher
+Alric.AI page: https://alric.ai/agents/seo-content-refresher
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/seo-analysis-monitoring/agents/seo-content-refresher.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: iOS Developer Expert
+Alric.AI page: https://alric.ai/agents/ios-developer
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/multi-platform-apps/agents/ios-developer.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

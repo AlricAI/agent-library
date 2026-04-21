@@ -1,0 +1,6 @@
+Agent: Performance Optimization Engineer
+Alric.AI page: https://alric.ai/agents/performance-engineer-3
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/full-stack-orchestration/agents/performance-engineer.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

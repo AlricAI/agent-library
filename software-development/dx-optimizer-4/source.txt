@@ -1,0 +1,6 @@
+Agent: dx-optimizer
+Alric.AI page: https://alric.ai/agents/dx-optimizer-4
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-quality-security/agents/dx-optimizer.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

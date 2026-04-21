@@ -1,0 +1,6 @@
+Agent: Team Implementer
+Alric.AI page: https://alric.ai/agents/team-implementer
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/agent-teams/agents/team-implementer.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: rabbitmq-expert
+Alric.AI page: https://alric.ai/agents/rabbitmq-expert
+Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/rabbitmq-expert.md
+Source repository: https://github.com/0xfurai/claude-code-subagents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

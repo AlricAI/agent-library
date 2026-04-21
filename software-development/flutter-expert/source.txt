@@ -1,0 +1,6 @@
+Agent: Flutter Expert
+Alric.AI page: https://alric.ai/agents/flutter-expert
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/multi-platform-apps/agents/flutter-expert.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

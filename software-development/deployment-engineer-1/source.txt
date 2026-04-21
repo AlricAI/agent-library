@@ -1,0 +1,6 @@
+Agent: Deployment Engineer
+Alric.AI page: https://alric.ai/agents/deployment-engineer-1
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/deployment-strategies/agents/deployment-engineer.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

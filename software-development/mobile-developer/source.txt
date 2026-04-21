@@ -1,0 +1,6 @@
+Agent: Mobile Solutions Architect
+Alric.AI page: https://alric.ai/agents/mobile-developer
+Source file: https://github.com/lst97/claude-code-sub-agents/blob/HEAD/agents/development/mobile-developer.md
+Source repository: https://github.com/lst97/claude-code-sub-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

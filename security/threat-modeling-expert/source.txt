@@ -1,0 +1,6 @@
+Agent: Threat Modeling Expert
+Alric.AI page: https://alric.ai/agents/threat-modeling-expert
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/security-scanning/agents/threat-modeling-expert.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Crypto Trading Bot
+Alric.AI page: https://alric.ai/agents/crypto-trader
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-crypto-trading/agents/crypto-trader.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

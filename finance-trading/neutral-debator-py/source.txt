@@ -1,0 +1,6 @@
+Agent: Neutral Risk Debater
+Alric.AI page: https://alric.ai/agents/neutral-debator-py
+Source file: https://github.com/TauricResearch/TradingAgents/blob/HEAD/tradingagents/agents/risk_mgmt/neutral_debator.py
+Source repository: https://github.com/TauricResearch/TradingAgents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

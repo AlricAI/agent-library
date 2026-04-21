@@ -1,0 +1,6 @@
+Agent: SEO Meta Optimizer
+Alric.AI page: https://alric.ai/agents/seo-meta-optimizer
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/seo-technical-optimization/agents/seo-meta-optimizer.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

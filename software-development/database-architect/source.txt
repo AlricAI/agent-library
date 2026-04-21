@@ -1,0 +1,6 @@
+Agent: Database Architect
+Alric.AI page: https://alric.ai/agents/database-architect
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/database-cloud-optimization/agents/database-architect.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Binary Analysis Expert
+Alric.AI page: https://alric.ai/agents/reverse-engineer
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/reverse-engineering/agents/reverse-engineer.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

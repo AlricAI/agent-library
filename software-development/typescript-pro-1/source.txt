@@ -1,0 +1,6 @@
+Agent: TypeScript Pro
+Alric.AI page: https://alric.ai/agents/typescript-pro-1
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/javascript-typescript/agents/typescript-pro.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Search Specialist
+Alric.AI page: https://alric.ai/agents/search-specialist
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/content-marketing/agents/search-specialist.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

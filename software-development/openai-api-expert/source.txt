@@ -1,0 +1,6 @@
+Agent: OpenAI Api Expert
+Alric.AI page: https://alric.ai/agents/openai-api-expert
+Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/openai-api-expert.md
+Source repository: https://github.com/0xfurai/claude-code-subagents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

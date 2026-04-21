@@ -1,0 +1,6 @@
+Agent: Bash Pro
+Alric.AI page: https://alric.ai/agents/bash-pro
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/shell-scripting/agents/bash-pro.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

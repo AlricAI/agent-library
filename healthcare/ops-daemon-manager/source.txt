@@ -1,0 +1,6 @@
+Agent: ops-daemon-manager
+Alric.AI page: https://alric.ai/agents/ops-daemon-manager
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/claude-ops/agents/daemon-agent.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

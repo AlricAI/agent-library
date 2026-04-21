@@ -1,0 +1,6 @@
+Agent: Backend Security Coder
+Alric.AI page: https://alric.ai/agents/backend-security-coder
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/backend-api-security/agents/backend-security-coder.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

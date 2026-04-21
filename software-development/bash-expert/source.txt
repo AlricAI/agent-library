@@ -1,0 +1,6 @@
+Agent: Bash Automation Expert
+Alric.AI page: https://alric.ai/agents/bash-expert
+Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/bash-expert.md
+Source repository: https://github.com/0xfurai/claude-code-subagents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

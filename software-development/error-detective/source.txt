@@ -1,0 +1,6 @@
+Agent: Error Detective
+Alric.AI page: https://alric.ai/agents/error-detective
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/distributed-debugging/agents/error-detective.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

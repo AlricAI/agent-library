@@ -1,0 +1,6 @@
+Agent: Julia Pro Developer
+Alric.AI page: https://alric.ai/agents/julia-pro
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/julia-development/agents/julia-pro.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Centinela Qa Auditor
+Alric.AI page: https://alric.ai/agents/centinela-qa
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agent-triforce/agents/centinela-qa.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

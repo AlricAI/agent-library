@@ -1,0 +1,6 @@
+Agent: Elixir Pro
+Alric.AI page: https://alric.ai/agents/elixir-pro
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/functional-programming/agents/elixir-pro.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: blockchain-developer
+Alric.AI page: https://alric.ai/agents/blockchain-developer-3
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/blockchain-developer.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

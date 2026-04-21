@@ -1,0 +1,6 @@
+Agent: Customer Support Automation Expert
+Alric.AI page: https://alric.ai/agents/customer-support
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/customer-sales-automation/agents/customer-support.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Snippet Optimizer Pro
+Alric.AI page: https://alric.ai/agents/seo-snippet-hunter
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/seo-technical-optimization/agents/seo-snippet-hunter.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

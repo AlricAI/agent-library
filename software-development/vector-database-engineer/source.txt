@@ -1,0 +1,6 @@
+Agent: Vector Database Engineer
+Alric.AI page: https://alric.ai/agents/vector-database-engineer
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/llm-application-dev/agents/vector-database-engineer.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)
