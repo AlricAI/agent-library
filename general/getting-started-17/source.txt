@@ -1,0 +1,6 @@
+Agent: GETTING STARTED
+Alric.AI page: https://alric.ai/agents/getting-started-17
+Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/docs/GETTING_STARTED.md
+Source repository: https://github.com/rysweet/AzureHayMaker
+
+Discovered and indexed by Alric.AI (https://alric.ai)

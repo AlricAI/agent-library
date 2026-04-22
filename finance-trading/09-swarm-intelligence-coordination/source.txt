@@ -1,0 +1,6 @@
+Agent: 09 Swarm Intelligence Coordination
+Alric.AI page: https://alric.ai/agents/09-swarm-intelligence-coordination
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/prompts/agents/09-swarm-intelligence-coordination.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Storage Schema
+Alric.AI page: https://alric.ai/agents/storage-schema
+Source file: https://github.com/narendraes/nexus-smart-actions/blob/HEAD/docs/storage-schema.md
+Source repository: https://github.com/narendraes/nexus-smart-actions
+
+Discovered and indexed by Alric.AI (https://alric.ai)

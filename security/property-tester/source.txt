@@ -1,0 +1,6 @@
+Agent: Property Tester
+Alric.AI page: https://alric.ai/agents/property-tester
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/trail-of-bits-security/agents/property-tester/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

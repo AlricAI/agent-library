@@ -1,0 +1,6 @@
+Agent: WhatYouSeeIsWhatItDoes
+Alric.AI page: https://alric.ai/agents/whatyouseeiswhatitdoes
+Source file: https://github.com/YusukeShimizu/lightning-compute-protocol/blob/HEAD/go-lcpd/WhatYouSeeIsWhatItDoes.md
+Source repository: https://github.com/YusukeShimizu/lightning-compute-protocol
+
+Discovered and indexed by Alric.AI (https://alric.ai)

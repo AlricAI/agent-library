@@ -1,0 +1,6 @@
+Agent: Skill Gotchas Flywheel
+Alric.AI page: https://alric.ai/agents/skill-gotchas-flywheel
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/skill-gotchas-flywheel.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

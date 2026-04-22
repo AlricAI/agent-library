@@ -1,0 +1,6 @@
+Agent: Agent Issues
+Alric.AI page: https://alric.ai/agents/agent-issues
+Source file: https://github.com/microsoft/Generative-AI-for-beginners-dotnet/blob/HEAD/.github/agents/agent-isues.md
+Source repository: https://github.com/microsoft/Generative-AI-for-beginners-dotnet
+
+Discovered and indexed by Alric.AI (https://alric.ai)

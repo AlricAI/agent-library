@@ -1,4 +1,4 @@
-Agent: research-coordinator
+Agent: Research Coordinator
 Alric.AI page: https://alric.ai/agents/research-coordinator
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-specialized-domains/agents/research-coordinator.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

@@ -1,0 +1,6 @@
+Agent: CODEFRAME SPEC
+Alric.AI page: https://alric.ai/agents/codeframe-spec-1
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/specs/CODEFRAME_SPEC.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

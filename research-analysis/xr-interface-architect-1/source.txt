@@ -1,0 +1,6 @@
+Agent: XR Interface Architect
+Alric.AI page: https://alric.ai/agents/xr-interface-architect-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/xr-interface-architect/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

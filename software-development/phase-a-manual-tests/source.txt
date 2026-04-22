@@ -1,0 +1,6 @@
+Agent: Phase A Manual Tests
+Alric.AI page: https://alric.ai/agents/phase-a-manual-tests
+Source file: https://github.com/robch/cycod/blob/HEAD/todo/phase-a-manual-tests.md
+Source repository: https://github.com/robch/cycod
+
+Discovered and indexed by Alric.AI (https://alric.ai)

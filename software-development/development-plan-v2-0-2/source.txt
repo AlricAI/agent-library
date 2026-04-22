@@ -1,0 +1,6 @@
+Agent: DEVELOPMENT PLAN V2.0
+Alric.AI page: https://alric.ai/agents/development-plan-v2-0-2
+Source file: https://github.com/JasonYeYuhe/cli-pulse/blob/HEAD/docs/DEVELOPMENT_PLAN_v2.0.md
+Source repository: https://github.com/JasonYeYuhe/cli-pulse
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: quick-explore
+Alric.AI page: https://alric.ai/agents/quick-explore-1
+Source file: https://github.com/chmouel/lazyworktree/blob/HEAD/.claude/agents/quick-explore.md
+Source repository: https://github.com/chmouel/lazyworktree
+
+Discovered and indexed by Alric.AI (https://alric.ai)

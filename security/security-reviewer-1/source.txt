@@ -1,0 +1,6 @@
+Agent: Security Reviewer
+Alric.AI page: https://alric.ai/agents/security-reviewer-1
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/redoak-review/agents/security-reviewer/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

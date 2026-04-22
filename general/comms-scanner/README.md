@@ -1,79 +1,15 @@
-# comms-scanner
+## Overview
+The Communications Scanner agent is designed to provide a unified, actionable snapshot of your entire communication workload. Instead of just checking for unread messages, this tool scans the full state of key channels—including WhatsApp and Email—to classify every conversation based on immediate action required.
 
-> Scans all communication channels for FULL inbox state (not just unread). Classifies each conversation as NEEDS_REPLY, WAITING, or HANDLED. Returns structured JSON. Used by ops-inbox and ops-go.
+It aggregates data from multiple sources into a single, structured JSON output, making it invaluable for operational dashboards or handover processes where context across platforms is critical.
 
 ## Capabilities
-- Bash
-- Read
+*   **Multi-Channel Scanning:** Connects to WhatsApp (via `wacli`) and Email (via `gog` Gmail search) to pull conversation data.
+*   **Full Inbox State Analysis:** Reads beyond just unread counts; it analyzes recent activity across all chats/threads.
+*   **Action Classification:** Classifies each item into three states: `NEEDS_REPLY` (action required from you), `WAITING` (you are awaiting a response), or `HANDLED` (no immediate action needed).
+*   **Structured JSON Output:** Returns clean, machine-readable JSON containing contact details, previews, timestamps, and urgency levels.
 
-## Model
-- **Default:** `claude-sonnet-4-6`
-
-## System Prompt
-# COMMS SCANNER AGENT
-
-Scan all channels for FULL inbox state — not just unread, but all recent conversations classified by action needed.
-
-## Task
-
-Run all channel scans in parallel:
-
-```bash
-# WhatsApp — ALL non-archived chats (not just unread)
-wacli chats list --json 2>/dev/null || echo '{"error": "wacli not available"}'
-# Then for each chat with recent activity (last 7 days):
-# wacli messages list --chat "<JID>" --limit 5 --json
-# Check FromMe on last message to classify NEEDS_REPLY vs WAITING
-```
-
-```bash
-# Email — FULL inbox (not just unread)
-# Read account from preferences.json (channels.email.account) or use gog's default
-EMAIL_ACCOUNT=$(jq -r '.channels.email.account // empty' "${CLAUDE_PLUGIN_DATA_DIR:-$HOME/.claude/plugins/data/ops-ops-marketplace}/preferences.json" 2>/dev/null)
-if [ -n "$EMAIL_ACCOUNT" ]; then
-  gog gmail search -a "$EMAIL_ACCOUNT" -j --results-only --no-input --max 30 "in:inbox" 2>/dev/null || echo '{"error": "gog not available"}'
-else
-  gog gmail search -j --results-only --no-input --max 30 "in:inbox" 2>/dev/null || echo '{"error": "gog not available or no default account"}'
-fi
-# For each thread, read last message to check if sender is you (WAITING) or them (NEEDS_REPLY)
-```
-
-```bash
-# Telegram — user-auth API (NOT bot), list recent dialogs
-# Use telegram user-auth MCP or tg-cli if available
-echo '{"error": "telegram user-auth not configured"}'
-```
-
-Combine results into:
-
-```json
-{
-  "timestamp": "[ISO8601]",
-  "whatsapp": {
-    "needs_reply": [
-      {
-        "contact": "[name]",
-        "preview": "[text]",
-        "timestamp": "[ISO8601]",
-        "jid": "[JID]",
-        "urgency": "high|medium|low"
-      }
-    ],
-    "waiting": [
-      {
-        "contact": "[name]",
-        "preview": "[your last msg]",
-        "timestamp": "[ISO8601]"
-      }
-    ],
-    "handled": []
-  },
-  "email": {
-    "needs_reply": [
-      {
-        "from": "[sender]",
-        "subject": "[subject]",
-        "preview": "[text]",
-        "timestamp": "[ISO860
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+*   **Daily Handoff Report:** Running this agent first thing in the morning to generate a summary for a team member taking over your tasks.
+*   **Operational Triage:** Integrating it into an operations workflow that needs to know exactly which conversations require immediate attention before starting deep work.
+*   **Status Updates:** Providing stakeholders with a quantifiable measure of pending communications across all platforms without having to manually check each app.

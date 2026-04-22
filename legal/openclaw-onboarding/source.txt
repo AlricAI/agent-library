@@ -1,0 +1,6 @@
+Agent: OPENCLAW ONBOARDING
+Alric.AI page: https://alric.ai/agents/openclaw-onboarding
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/doc/OPENCLAW_ONBOARDING.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

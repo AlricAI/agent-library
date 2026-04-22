@@ -1,0 +1,6 @@
+Agent: Presentation Curator
+Alric.AI page: https://alric.ai/agents/presentation-curator
+Source file: https://github.com/Zidong-IA/BIBLIOTECA/blob/HEAD/references/repos-referencia/claude-code-best-practice/.claude/agents/presentation-curator.md
+Source repository: https://github.com/Zidong-IA/BIBLIOTECA
+
+Discovered and indexed by Alric.AI (https://alric.ai)

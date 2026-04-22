@@ -1,0 +1,6 @@
+Agent: Core V1p3 Implementation Plan
+Alric.AI page: https://alric.ai/agents/core-v1p3-implementation-plan
+Source file: https://github.com/DecoyLex/ltix/blob/HEAD/plans/core-v1p3-implementation-plan.md
+Source repository: https://github.com/DecoyLex/ltix
+
+Discovered and indexed by Alric.AI (https://alric.ai)

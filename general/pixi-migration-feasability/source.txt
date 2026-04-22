@@ -1,0 +1,6 @@
+Agent: Pixi Migration Feasability
+Alric.AI page: https://alric.ai/agents/pixi-migration-feasability
+Source file: https://github.com/Maokus/MVMNT/blob/HEAD/thoughts/pixi-migration-feasability.md
+Source repository: https://github.com/Maokus/MVMNT
+
+Discovered and indexed by Alric.AI (https://alric.ai)

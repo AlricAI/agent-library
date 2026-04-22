@@ -1,0 +1,6 @@
+Agent: Legal Specialist
+Alric.AI page: https://alric.ai/agents/legal-specialist-4
+Source file: https://github.com/paperclipai/companies/blob/HEAD/product-compass-consulting/agents/legal-specialist/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

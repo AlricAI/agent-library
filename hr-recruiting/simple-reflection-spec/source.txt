@@ -1,0 +1,6 @@
+Agent: Simple Reflection Spec
+Alric.AI page: https://alric.ai/agents/simple-reflection-spec
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/simple_reflection_spec.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

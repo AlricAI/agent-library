@@ -1,0 +1,6 @@
+Agent: Subagent Collection Setup Guide
+Alric.AI page: https://alric.ai/agents/setup
+Source file: https://github.com/gensecaihq/Claude-Code-Subagents-Collection/blob/HEAD/subagents/SETUP.md
+Source repository: https://github.com/gensecaihq/Claude-Code-Subagents-Collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: ADR 000 Template
+Alric.AI page: https://alric.ai/agents/adr-000-template
+Source file: https://github.com/cass-clearly/remarq/blob/HEAD/decisions/ADR-000-template.md
+Source repository: https://github.com/cass-clearly/remarq
+
+Discovered and indexed by Alric.AI (https://alric.ai)

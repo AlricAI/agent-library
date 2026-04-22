@@ -1,0 +1,6 @@
+Agent: API AUTHENTICATION
+Alric.AI page: https://alric.ai/agents/api-authentication
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/docs/API_AUTHENTICATION.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

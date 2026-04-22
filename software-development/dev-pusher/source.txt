@@ -1,4 +1,4 @@
-Agent: dev-pusher
+Agent: Dev Pusher
 Alric.AI page: https://alric.ai/agents/dev-pusher
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/meeting-bots/agents/dev-pusher.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

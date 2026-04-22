@@ -1,0 +1,6 @@
+Agent: Credo Refactor
+Alric.AI page: https://alric.ai/agents/credo-refactor
+Source file: https://github.com/DecoyLex/ltix/blob/HEAD/plans/credo-refactor.md
+Source repository: https://github.com/DecoyLex/ltix
+
+Discovered and indexed by Alric.AI (https://alric.ai)

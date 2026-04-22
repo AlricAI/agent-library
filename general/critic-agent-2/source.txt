@@ -1,0 +1,6 @@
+Agent: Critic Agent
+Alric.AI page: https://alric.ai/agents/critic-agent-2
+Source file: https://github.com/sec-staff-lilithgames/Multi-Agents/blob/HEAD/camel/agents/critic_agent.py
+Source repository: https://github.com/sec-staff-lilithgames/Multi-Agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

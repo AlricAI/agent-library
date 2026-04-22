@@ -1,0 +1,6 @@
+Agent: work-completion-summary
+Alric.AI page: https://alric.ai/agents/work-completion-summary
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/work-completion-summary.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

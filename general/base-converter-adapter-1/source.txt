@@ -1,0 +1,6 @@
+Agent: Base Converter Adapter
+Alric.AI page: https://alric.ai/agents/base-converter-adapter-1
+Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/crewai/lib/crewai/src/crewai/agents/agent_adapters/base_converter_adapter.py
+Source repository: https://github.com/ngTwg/Branding-Focused-Skills
+
+Discovered and indexed by Alric.AI (https://alric.ai)

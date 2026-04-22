@@ -1,0 +1,6 @@
+Agent: TASK 006 First Ticket Create Slice
+Alric.AI page: https://alric.ai/agents/task-006-first-ticket-create-slice
+Source file: https://github.com/Zer0x25/mini-crm-tickets/blob/HEAD/tasks/TASK-006-first-ticket-create-slice.md
+Source repository: https://github.com/Zer0x25/mini-crm-tickets
+
+Discovered and indexed by Alric.AI (https://alric.ai)

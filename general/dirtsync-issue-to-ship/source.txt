@@ -1,0 +1,6 @@
+Agent: dirtsync-issue-to-ship
+Alric.AI page: https://alric.ai/agents/dirtsync-issue-to-ship
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/dirtsync-issue-to-ship.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

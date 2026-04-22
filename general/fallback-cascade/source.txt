@@ -1,0 +1,6 @@
+Agent: fallback-cascade
+Alric.AI page: https://alric.ai/agents/fallback-cascade
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/.claude/agents/amplihack/specialized/fallback-cascade.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

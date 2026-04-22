@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-502
+Source file: https://github.com/craigrusselltiu/dispatch/blob/HEAD/docs/AGENTS.md
+Source repository: https://github.com/craigrusselltiu/dispatch
+
+Discovered and indexed by Alric.AI (https://alric.ai)

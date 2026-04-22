@@ -1,0 +1,6 @@
+Agent: crypto-movers-haiku
+Alric.AI page: https://alric.ai/agents/crypto-movers-haiku-2
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/crypto/crypto-movers-haiku.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

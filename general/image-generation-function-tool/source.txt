@@ -1,0 +1,6 @@
+Agent: Image Generation Function Tool
+Alric.AI page: https://alric.ai/agents/image-generation-function-tool
+Source file: https://github.com/robch/cycod/blob/HEAD/todo/image-generation-function-tool.md
+Source repository: https://github.com/robch/cycod
+
+Discovered and indexed by Alric.AI (https://alric.ai)

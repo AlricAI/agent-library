@@ -1,0 +1,6 @@
+Agent: MULTI AGENTS
+Alric.AI page: https://alric.ai/agents/multi-agents
+Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/MULTI_AGENTS.md
+Source repository: https://github.com/frumu-ai/tandem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

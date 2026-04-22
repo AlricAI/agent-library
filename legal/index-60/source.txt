@@ -1,0 +1,6 @@
+Agent: Index
+Alric.AI page: https://alric.ai/agents/index-60
+Source file: https://github.com/zapabob/clawdbot/blob/HEAD/docs/index.md
+Source repository: https://github.com/zapabob/clawdbot
+
+Discovered and indexed by Alric.AI (https://alric.ai)

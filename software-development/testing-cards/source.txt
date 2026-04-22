@@ -1,0 +1,6 @@
+Agent: Testing Cards
+Alric.AI page: https://alric.ai/agents/testing-cards
+Source file: https://github.com/keyteki/keyteki/blob/HEAD/docs/testing-cards.md
+Source repository: https://github.com/keyteki/keyteki
+
+Discovered and indexed by Alric.AI (https://alric.ai)

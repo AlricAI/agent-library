@@ -1,0 +1,6 @@
+Agent: Debug Stdin Issue
+Alric.AI page: https://alric.ai/agents/debug-stdin-issue
+Source file: https://github.com/donmasakayan/vpscli/blob/HEAD/docs/debug-stdin-issue.md
+Source repository: https://github.com/donmasakayan/vpscli
+
+Discovered and indexed by Alric.AI (https://alric.ai)

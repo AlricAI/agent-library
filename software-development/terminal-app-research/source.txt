@@ -1,0 +1,6 @@
+Agent: Terminal App Research
+Alric.AI page: https://alric.ai/agents/terminal-app-research
+Source file: https://github.com/burggraf/pi-teams/blob/HEAD/docs/terminal-app-research.md
+Source repository: https://github.com/burggraf/pi-teams
+
+Discovered and indexed by Alric.AI (https://alric.ai)

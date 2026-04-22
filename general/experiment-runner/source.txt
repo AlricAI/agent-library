@@ -1,0 +1,6 @@
+Agent: Experiment Runner
+Alric.AI page: https://alric.ai/agents/experiment-runner
+Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/claude-skills/engineering/autoresearch-agent/agents/experiment-runner.md
+Source repository: https://github.com/ngTwg/Branding-Focused-Skills
+
+Discovered and indexed by Alric.AI (https://alric.ai)

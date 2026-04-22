@@ -1,0 +1,6 @@
+Agent: sta-orchestrator
+Alric.AI page: https://alric.ai/agents/sta-orchestrator
+Source file: https://github.com/chuanseng-ng/digital-chip-design-agents/blob/HEAD/plugins/sta/agents/sta-orchestrator.md
+Source repository: https://github.com/chuanseng-ng/digital-chip-design-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

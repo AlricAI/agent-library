@@ -1,0 +1,6 @@
+Agent: Test Engineer
+Alric.AI page: https://alric.ai/agents/test-engineer-12
+Source file: https://github.com/Goblin1024/oh-my-kimi/blob/HEAD/prompts/test-engineer.md
+Source repository: https://github.com/Goblin1024/oh-my-kimi
+
+Discovered and indexed by Alric.AI (https://alric.ai)

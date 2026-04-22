@@ -1,0 +1,6 @@
+Agent: llm-architect
+Alric.AI page: https://alric.ai/agents/llm-architect
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/ai-ml/ai/llm-architect.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

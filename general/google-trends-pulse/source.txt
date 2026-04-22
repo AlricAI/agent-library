@@ -1,0 +1,6 @@
+Agent: Google Trends Pulse
+Alric.AI page: https://alric.ai/agents/google-trends-pulse
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/google-trends-pulse.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

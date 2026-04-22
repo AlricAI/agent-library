@@ -1,0 +1,6 @@
+Agent: User-Simulator
+Alric.AI page: https://alric.ai/agents/user-simulator
+Source file: https://github.com/blazengreen360/hometower/blob/HEAD/.github/agents/user-simulator.agent.md
+Source repository: https://github.com/blazengreen360/hometower
+
+Discovered and indexed by Alric.AI (https://alric.ai)

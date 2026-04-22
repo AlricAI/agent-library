@@ -1,0 +1,6 @@
+Agent: Walkthrough
+Alric.AI page: https://alric.ai/agents/walkthrough-1
+Source file: https://github.com/Samir-atra/zenodo-zenith-dashboard/blob/HEAD/docs/walkthrough.md
+Source repository: https://github.com/Samir-atra/zenodo-zenith-dashboard
+
+Discovered and indexed by Alric.AI (https://alric.ai)

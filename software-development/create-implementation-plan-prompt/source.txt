@@ -1,0 +1,6 @@
+Agent: Implementation Plan Generator
+Alric.AI page: https://alric.ai/agents/create-implementation-plan-prompt
+Source file: https://github.com/tfha/agent-instructions/blob/HEAD/prompts/create-implementation-plan.prompt.md
+Source repository: https://github.com/tfha/agent-instructions
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,207 @@
+---
+name: Busibox Cursor Rules
+description: Busibox Cursor Rules # Overview Busibox is a local LLM infrastructure platform running on Docker or Proxmox LXC containers.
+---
+# Busibox Cursor Rules
+
+## Overview
+
+Busibox is a local LLM infrastructure platform running on Docker or Proxmox LXC containers.
+See `CLAUDE.md` for full project documentation.
+
+## ⚠️ CRITICAL: Service Operations
+
+**NEVER run `docker compose`, `docker`, or `ansible-playbook` commands directly.**
+
+```bash
+# ❌ WRONG - bypasses secrets injection
+docker compose up -d authz-api
+docker restart prod-authz-api
+ansible-playbook -i inventory/docker docker.yml --tags authz
+
+# ✅ CORRECT for AI agents - use make with vault password
+make install SERVICE=authz
+make manage SERVICE=authz ACTION=restart
+```
+
+**Why**: Secrets are injected from Ansible Vault at runtime. Direct commands skip this and cause authentication failures.
+
+**Vault password**: Most `make` targets require `ANSIBLE_VAULT_PASSWORD` env var or a vault password file (`~/.busibox-vault-pass-*`). If neither is available, ask the user for the vault password. Prefer `mcp-admin` MCP tools when available — they handle SSH and targeting.
+
+**Humans use the Busibox CLI** (`busibox`), not `make` targets. The CLI handles vault decryption interactively.
+
+**Quick Reference**:
+- Deploy: `make install SERVICE=authz`
+- Restart: `make manage SERVICE=authz ACTION=restart`
+- Logs: `make manage SERVICE=authz ACTION=logs`
+- Status: `make manage SERVICE=authz ACTION=status`
+- Redeploy: `make manage SERVICE=authz ACTION=redeploy`
+- Rebuild manager: `make build-manager`
+- Skip manager: `make install SERVICE=authz USE_MANAGER=0`
+
+See `.cursor/rules/010-make-commands.md` for complete reference and `docs/developers/reference/mcp-and-make-internals.md` for vault password flow.
+
+## Critical: Organization Rules
+
+**ALWAYS** follow these rules when creating or moving files:
+
+### Documentation Organization
+
+Read: `.cursor/rules/001-documentation-organization.md`
+
+**Quick Reference (organized by audience):**
+- Deployment/config/operations → `docs/administrators/`
+- Architecture/API guides/reference → `docs/developers/`
+- End-user platform guides → `docs/users/`
+- Historical/outdated → `docs/archive/`
+
+**Naming:**
+- Use `kebab-case` for all files
+- Include docs-api frontmatter (title, category, order, description, published)
+- Example: `docs/administrators/02-install.md`
+
+### Script Organization
+
+Read: `.cursor/rules/002-script-organization.md`
+
+**Quick Reference:**
+- Runs on **Proxmox host** → `provision/pct/`
+  - Uses `pct`, `pvesm` commands
+  - Creates/manages containers
+  
+- Runs from **admin workstation** → `scripts/`
+  - Orchestrates Ansible
+  - Multi-step deployments
+  
+- Runs **inside container (static)** → `provision/ansible/roles/{role}/files/`
+  - No variables needed
+  
+- Runs **inside container (templated)** → `provision/ansible/roles/{role}/templates/`
+  - Uses Ansible variables
+  - Ends in `.j2`
+
+**Naming:**
+- Use descriptive prefixes: `deploy-`, `setup-`, `test-`, `create_`, etc.
+- Include comprehensive header with execution context
+- Use `set -euo pipefail` for error handling
+
+## Decision Trees
+
+### "Where should this doc go?"
+
+```
+Who is the primary audience?
+├─ Operators/admins (deploy, configure, troubleshoot)
+│  └→ docs/administrators/
+├─ Developers (architecture, APIs, reference)
+│  └→ docs/developers/
+├─ End users (platform features, how-to)
+│  └→ docs/users/
+└─ Outdated/historical
+   └→ docs/archive/
+```
+
+### "Where should this script go?"
+
+```
+Where does this script execute?
+├─ Proxmox host (uses pct/pvesm)
+│  └→ provision/pct/
+├─ Admin workstation (orchestration)
+│  └→ scripts/
+└─ Inside LXC container
+   ├─ Needs Ansible variables?
+   │  ├─ Yes → provision/ansible/roles/{role}/templates/{name}.sh.j2
+   │  └─ No  → provision/ansible/roles/{role}/files/{name}.sh
+```
+
+## Before Creating Any File
+
+1. **Determine category/context** - Where does this belong?
+2. **Check existing files** - Is there similar content?
+3. **Follow naming conventions** - Use `kebab-case`
+4. **Include proper header** - Scripts need execution context, docs need metadata
+5. **Tell the user** - Explain WHY you placed the file there
+
+## Project Structure
+
+```
+busibox/
+├── .cursor/rules/       # Detailed rules (READ THESE)
+├── docs/                # All documentation (by audience)
+│   ├── administrators/  # Deployment, configuration, troubleshooting
+│   ├── developers/      # Architecture, API guides, reference
+│   ├── users/           # End-user platform guides
+│   └── archive/         # Historical/outdated content
+├── scripts/             # Admin workstation scripts
+├── provision/
+│   ├── pct/            # Proxmox host scripts
+│   └── ansible/        # Ansible IaC
+└── srv/                # Service source code
+```
+
+## Common Mistakes to Avoid
+
+❌ Running `docker compose` or `docker` directly - Use `make` commands
+❌ Running `ansible-playbook` directly - Use `make` commands
+❌ Placing docs in root or flat `docs/` - Use audience subdirectories (administrators/developers/users)
+❌ Using UPPERCASE filenames - Use `kebab-case`
+❌ Proxmox scripts in `scripts/` - They go in `provision/pct/`
+❌ Missing script headers - Always include execution context
+❌ Hardcoding IPs in scripts - Use variables or templates
+
+## Key Commands
+
+**Deploy Services** (from repo root):
+```bash
+make install SERVICE=authz              # Single service
+make install SERVICE=authz,agent        # Multiple services
+make install SERVICE=apis               # All API services
+make install SERVICE=infrastructure     # postgres, redis, minio, milvus
+```
+
+**Manage Services** (from repo root):
+```bash
+make manage SERVICE=authz ACTION=restart   # Restart
+make manage SERVICE=authz ACTION=logs      # View logs
+make manage SERVICE=authz ACTION=status    # Check status
+make manage SERVICE=authz ACTION=redeploy  # Full rebuild
+```
+
+**Container Creation** (on Proxmox host only):
+```bash
+cd /root/busibox/provision/pct
+bash create_lxc_base.sh [production|staging]
+```
+
+**Testing**:
+```bash
+make test-docker SERVICE=authz                          # All tests for a service
+make test-docker SERVICE=agent ARGS="tests/unit"        # Test directory only
+make test-docker SERVICE=agent ARGS="tests/integration/test_file.py::test_name"  # Specific test
+make test-docker SERVICE=agent ARGS="tests/integration/test_file.py::test_a tests/integration/test_file.py::test_b"  # Multiple tests
+make test-docker SERVICE=agent FAST=0                   # Include slow/GPU tests
+make test-local SERVICE=agent INV=staging               # Remote tests
+make test                                               # Interactive menu
+```
+
+**Important**: Always use `ARGS=` (not `PYTEST_ARGS=`) to pass pytest arguments. Start `ARGS` with `tests/` to target specific paths and bypass the default marker filter. Quoting `-k` filters through `make` is fragile; prefer `tests/path::test_name` targeting.
+
+**MCP Servers** (Cursor): `make mcp` builds core-dev, app-builder, admin. See CLAUDE.md for config.
+
+## When Unsure
+
+1. Read the detailed rules in `.cursor/rules/`
+2. Check `CLAUDE.md` for project overview
+3. Look at existing files in the target directory
+4. Ask the user for clarification
+5. Explain your reasoning when placing files
+
+## Related Documentation
+
+- `docs/README.md` - Documentation organization guide
+- `.cursor/rules/001-documentation-organization.md` - Detailed doc rules
+- `.cursor/rules/002-script-organization.md` - Detailed script rules
+- `CLAUDE.md` - Complete project guide
+- `docs/developers/architecture/` - System architecture
+- `provision/ansible/SETUP.md` - Ansible setup

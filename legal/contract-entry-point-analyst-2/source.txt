@@ -1,0 +1,6 @@
+Agent: Contract Entry Point Analyst
+Alric.AI page: https://alric.ai/agents/contract-entry-point-analyst-2
+Source file: https://github.com/paperclipai/companies/blob/HEAD/trail-of-bits-security/agents/contract-entry-point-analyst/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

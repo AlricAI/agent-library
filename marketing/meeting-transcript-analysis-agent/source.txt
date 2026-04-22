@@ -1,0 +1,7 @@
+Agent: Meeting Transcript Analysis Agent
+
+Alric.AI page: https://alric.ai/agents/meeting-transcript-analysis-agent
+Source file: https://github.com/dotojr123/crewai-production-ready/blob/HEAD/crewAI-examples/flows/meeting_assistant_flow/src/meeting_assistant_flow/crews/meeting_assistant_crew/config/agents.yaml
+Source repository: https://github.com/dotojr123/crewai-production-ready
+
+Discovered and indexed by Alric.AI (https://alric.ai)

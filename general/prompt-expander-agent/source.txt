@@ -1,0 +1,6 @@
+Agent: Prompt Expander Agent
+Alric.AI page: https://alric.ai/agents/prompt-expander-agent
+Source file: https://github.com/MervinPraison/PraisonAIDocs/blob/HEAD/praisonaiagents/agent/prompt_expander_agent.py
+Source repository: https://github.com/MervinPraison/PraisonAIDocs
+
+Discovered and indexed by Alric.AI (https://alric.ai)

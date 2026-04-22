@@ -1,0 +1,6 @@
+Agent: 17 Testing Integration E2e Load
+Alric.AI page: https://alric.ai/agents/17-testing-integration-e2e-load
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/prompts/agents/17-testing-integration-e2e-load.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

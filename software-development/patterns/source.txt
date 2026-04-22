@@ -1,0 +1,6 @@
+Agent: patterns
+Alric.AI page: https://alric.ai/agents/patterns
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/.claude/agents/amplihack/specialized/patterns.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

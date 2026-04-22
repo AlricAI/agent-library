@@ -1,0 +1,6 @@
+Agent: laravel-specialist
+Alric.AI page: https://alric.ai/agents/laravel-specialist
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/lang/laravel-specialist.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

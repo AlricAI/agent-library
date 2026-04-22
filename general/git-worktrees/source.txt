@@ -1,0 +1,6 @@
+Agent: Git Worktrees
+Alric.AI page: https://alric.ai/agents/git-worktrees
+Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/patterns/git-worktrees.md
+Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

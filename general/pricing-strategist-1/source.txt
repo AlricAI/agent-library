@@ -1,0 +1,6 @@
+Agent: Pricing Strategist
+Alric.AI page: https://alric.ai/agents/pricing-strategist-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/product-compass-consulting/agents/pricing-strategist/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: About The Docs
+Alric.AI page: https://alric.ai/agents/about-the-docs
+Source file: https://github.com/mgaitan/python-package-copier-template/blob/HEAD/docs/about_the_docs.md
+Source repository: https://github.com/mgaitan/python-package-copier-template
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Director of Go-to-Market
+Alric.AI page: https://alric.ai/agents/director-of-go-to-market
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/product-compass-consulting/agents/director-gtm/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Creating Workflows
+Alric.AI page: https://alric.ai/agents/creating-workflows-1
+Source file: https://github.com/NextLeapClub/DevTeam/blob/HEAD/docs/creating-workflows.md
+Source repository: https://github.com/NextLeapClub/DevTeam
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: DOCKER
+Alric.AI page: https://alric.ai/agents/docker-3
+Source file: https://github.com/ShieldnestORG/team-dashboard/blob/HEAD/doc/DOCKER.md
+Source repository: https://github.com/ShieldnestORG/team-dashboard
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Index
+Alric.AI page: https://alric.ai/agents/index-10
+Source file: https://github.com/alibaba/OpenSandbox/blob/HEAD/docs/index.md
+Source repository: https://github.com/alibaba/OpenSandbox
+
+Discovered and indexed by Alric.AI (https://alric.ai)

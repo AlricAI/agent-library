@@ -1,0 +1,6 @@
+Agent: rules-review
+Alric.AI page: https://alric.ai/agents/rules-review
+Source file: https://github.com/hippocampus-dev/hippocampus/blob/HEAD/.claude/agents/rules-review.md
+Source repository: https://github.com/hippocampus-dev/hippocampus
+
+Discovered and indexed by Alric.AI (https://alric.ai)

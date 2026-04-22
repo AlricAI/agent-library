@@ -1,0 +1,6 @@
+Agent: Future Features
+Alric.AI page: https://alric.ai/agents/future-features
+Source file: https://github.com/qemqemqem/mechawiki/blob/HEAD/notes/future_features.md
+Source repository: https://github.com/qemqemqem/mechawiki
+
+Discovered and indexed by Alric.AI (https://alric.ai)

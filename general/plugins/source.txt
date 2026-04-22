@@ -1,0 +1,6 @@
+Agent: Plugins
+Alric.AI page: https://alric.ai/agents/plugins
+Source file: https://github.com/wshobson/agents/blob/HEAD/docs/plugins.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

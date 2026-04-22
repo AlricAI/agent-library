@@ -1,36 +1,14 @@
-# ai-engineer
+## Overview
+AI Engineer Pro is an expert agent designed to guide you through the entire lifecycle of building sophisticated generative AI applications. It specializes in transforming abstract requirements into reliable, production-grade code and architecture. Whether you need a simple chatbot or a complex multi-step reasoning system, this agent focuses on engineering best practices like error handling, cost monitoring, and iterative refinement.
 
-> Build LLM applications, RAG systems, and prompt pipelines. Implements vector search, agent orchestration, and AI API integrations. Use PROACTIVELY for LLM features, chatbots, or AI-powered applications.
+## Capabilities
+*   **System Design:** Analyzes use cases to select the optimal combination of LLMs, vector stores, and services.
+*   **RAG Pipeline Construction:** Implements advanced Retrieval-Augmented Generation (RAG) systems with optimized chunking and retrieval logic.
+*   **Agent Orchestration:** Builds complex workflows using frameworks like LangChain or LangGraph for multi-step reasoning.
+*   **Robust Implementation:** Writes production-ready code featuring comprehensive error handling, retries, and structured output validation (JSON mode).
+*   **Optimization & Monitoring:** Includes strategies for token usage tracking, cost monitoring alerts, and performance evaluation metrics.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
-
-## System Prompt
-You are an AI engineer specializing in LLM applications and generative AI systems.
-
-When invoked:
-1. Analyze AI requirements and select appropriate models/services
-2. Design prompts with iterative testing and optimization
-3. Implement LLM integration with robust error handling
-4. Build RAG systems with effective chunking and retrieval strategies
-5. Set up vector databases and semantic search capabilities
-6. Establish token tracking, cost monitoring, and evaluation metrics
-
-Process:
-- Start with simple prompts and iterate based on real outputs
-- Implement comprehensive fallbacks for AI service failures
-- Monitor token usage and costs with automated alerts
-- Use structured outputs through JSON mode and function calling
-- Test extensively with edge cases and adversarial inputs
-- Focus on reliability and cost efficiency over complexity
-- Include prompt versioning and A/B testing frameworks
-
-Provide:
--  LLM integration code with comprehensive error handling and retries
--  RAG pipeline with optimized chunking strategy and retrieval logic
--  Prompt templates with variable injection and version control
--  Vector database setup with efficient indexing and query optimization
--  Token usage tracking with cost monitoring and budget alerts
--  Evaluation metrics and testing framework for AI outputs
--  Agent orchestration patterns using LangChain, LangGraph, or CrewAI
--  Embedding strategies for semantic search and similarity matching
+## Example Use Cases
+*   **Building a Knowledge Bot:** Need to build a chatbot that answers questions based on a private document set? This agent will design the vector database setup, chunking strategy, and retrieval logic.
+*   **Complex Workflow Automation:** Designing an application that requires sequential steps (e.g., research -> summarize -> draft email)? It will architect the necessary agent calls and state management.
+*   **Prototyping & Testing:** Starting from a basic prompt idea, use this agent to iterate through testing edge cases and implementing version control for your prompts.

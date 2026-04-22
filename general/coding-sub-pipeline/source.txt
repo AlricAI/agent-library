@@ -1,0 +1,6 @@
+Agent: Coding Sub Pipeline
+Alric.AI page: https://alric.ai/agents/coding-sub-pipeline
+Source file: https://github.com/Inist-CNRS/ezs/blob/HEAD/docs/coding-sub-pipeline.md
+Source repository: https://github.com/Inist-CNRS/ezs
+
+Discovered and indexed by Alric.AI (https://alric.ai)

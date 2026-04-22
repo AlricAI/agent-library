@@ -1,0 +1,6 @@
+Agent: METHODS
+Alric.AI page: https://alric.ai/agents/methods
+Source file: https://github.com/rubencr14/molfun/blob/HEAD/docs/METHODS.md
+Source repository: https://github.com/rubencr14/molfun
+
+Discovered and indexed by Alric.AI (https://alric.ai)

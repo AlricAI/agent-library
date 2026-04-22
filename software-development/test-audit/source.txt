@@ -1,0 +1,6 @@
+Agent: test-audit
+Alric.AI page: https://alric.ai/agents/test-audit
+Source file: https://github.com/HuaMick/AgenticEngineering/blob/HEAD/.claude/agents/test-audit.md
+Source repository: https://github.com/HuaMick/AgenticEngineering
+
+Discovered and indexed by Alric.AI (https://alric.ai)

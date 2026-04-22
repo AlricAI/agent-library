@@ -1,0 +1,6 @@
+Agent: 14 Backend Ai Agents
+Alric.AI page: https://alric.ai/agents/14-backend-ai-agents
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/prompts/agents/14-backend-ai-agents.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

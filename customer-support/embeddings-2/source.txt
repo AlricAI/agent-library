@@ -1,0 +1,6 @@
+Agent: EMBEDDINGS
+Alric.AI page: https://alric.ai/agents/embeddings-2
+Source file: https://github.com/nvandessel/floop/blob/HEAD/docs/EMBEDDINGS.md
+Source repository: https://github.com/nvandessel/floop
+
+Discovered and indexed by Alric.AI (https://alric.ai)

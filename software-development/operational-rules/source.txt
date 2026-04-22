@@ -1,0 +1,6 @@
+Agent: Operational Rules
+Alric.AI page: https://alric.ai/agents/operational-rules
+Source file: https://github.com/jerrison/11-job-application-assistant/blob/HEAD/docs/operational-rules.md
+Source repository: https://github.com/jerrison/11-job-application-assistant
+
+Discovered and indexed by Alric.AI (https://alric.ai)

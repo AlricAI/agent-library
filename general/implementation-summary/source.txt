@@ -1,0 +1,6 @@
+Agent: IMPLEMENTATION SUMMARY
+Alric.AI page: https://alric.ai/agents/implementation-summary
+Source file: https://github.com/anchapin/ModPorter-AI/blob/HEAD/backend/IMPLEMENTATION_SUMMARY.md
+Source repository: https://github.com/anchapin/ModPorter-AI
+
+Discovered and indexed by Alric.AI (https://alric.ai)

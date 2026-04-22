@@ -1,0 +1,6 @@
+Agent: Data Models
+Alric.AI page: https://alric.ai/agents/data-models
+Source file: https://github.com/Michael-Obele/tif/blob/HEAD/tech-invoice-forge/data-models.md
+Source repository: https://github.com/Michael-Obele/tif
+
+Discovered and indexed by Alric.AI (https://alric.ai)

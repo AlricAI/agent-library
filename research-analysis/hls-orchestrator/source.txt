@@ -1,0 +1,6 @@
+Agent: hls-orchestrator
+Alric.AI page: https://alric.ai/agents/hls-orchestrator
+Source file: https://github.com/chuanseng-ng/digital-chip-design-agents/blob/HEAD/plugins/hls/agents/hls-orchestrator.md
+Source repository: https://github.com/chuanseng-ng/digital-chip-design-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

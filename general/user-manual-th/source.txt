@@ -1,0 +1,6 @@
+Agent: USER MANUAL TH
+Alric.AI page: https://alric.ai/agents/user-manual-th
+Source file: https://github.com/FGD-ATR-EP/AGS/blob/HEAD/docs/USER_MANUAL_TH.md
+Source repository: https://github.com/FGD-ATR-EP/AGS
+
+Discovered and indexed by Alric.AI (https://alric.ai)

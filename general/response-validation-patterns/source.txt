@@ -1,0 +1,6 @@
+Agent: Response Validation Patterns
+Alric.AI page: https://alric.ai/agents/response-validation-patterns
+Source file: https://github.com/oorosh/agentic.net/blob/HEAD/docs/response-validation-patterns.md
+Source repository: https://github.com/oorosh/agentic.net
+
+Discovered and indexed by Alric.AI (https://alric.ai)

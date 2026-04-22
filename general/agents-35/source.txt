@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-35
+Source file: https://github.com/jmbish04/core-github-api/blob/HEAD/docs/AGENTS.md
+Source repository: https://github.com/jmbish04/core-github-api
+
+Discovered and indexed by Alric.AI (https://alric.ai)

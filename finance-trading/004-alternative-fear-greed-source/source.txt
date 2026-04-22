@@ -1,0 +1,6 @@
+Agent: 004 Alternative Fear Greed Source
+Alric.AI page: https://alric.ai/agents/004-alternative-fear-greed-source
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/prompts/004-alternative-fear-greed-source.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

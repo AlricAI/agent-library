@@ -1,0 +1,6 @@
+Agent: Changelog Expert
+Alric.AI page: https://alric.ai/agents/changelog-expert
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/mcm-forge/agents/changelog-expert/AGENTS.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

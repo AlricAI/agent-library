@@ -1,0 +1,6 @@
+Agent: HELLO WORLD
+Alric.AI page: https://alric.ai/agents/hello-world
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/pico/HELLO-WORLD.md
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

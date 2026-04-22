@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-123
+Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/paperclip/agents/cmo/AGENTS.md
+Source repository: https://github.com/Trollz1004/ANTIGRAVITY
+
+Discovered and indexed by Alric.AI (https://alric.ai)

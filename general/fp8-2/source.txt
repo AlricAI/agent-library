@@ -1,0 +1,6 @@
+Agent: Fp8
+Alric.AI page: https://alric.ai/agents/fp8-2
+Source file: https://github.com/NVIDIA-NeMo/RL/blob/HEAD/docs/fp8.md
+Source repository: https://github.com/NVIDIA-NeMo/RL
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: electron-pro
+Alric.AI page: https://alric.ai/agents/electron-pro-2
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/core/electron-pro.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

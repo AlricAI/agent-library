@@ -1,0 +1,6 @@
+Agent: SOUL
+Alric.AI page: https://alric.ai/agents/soul-294
+Source file: https://github.com/simonjonsson87/charon/blob/HEAD/agent/SOUL.md
+Source repository: https://github.com/simonjonsson87/charon
+
+Discovered and indexed by Alric.AI (https://alric.ai)

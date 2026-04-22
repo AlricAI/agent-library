@@ -1,0 +1,6 @@
+Agent: Content Editor
+Alric.AI page: https://alric.ai/agents/content-editor
+Source file: https://github.com/samaeljvoolt-png/paperclip-refactor-foundation/blob/HEAD/bootstrap/alquim-ia/public/agents/content-editor/AGENTS.md
+Source repository: https://github.com/samaeljvoolt-png/paperclip-refactor-foundation
+
+Discovered and indexed by Alric.AI (https://alric.ai)

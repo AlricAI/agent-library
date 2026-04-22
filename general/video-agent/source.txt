@@ -1,0 +1,6 @@
+Agent: Video Agent
+Alric.AI page: https://alric.ai/agents/video-agent
+Source file: https://github.com/MervinPraison/PraisonAIDocs/blob/HEAD/praisonaiagents/agent/video_agent.py
+Source repository: https://github.com/MervinPraison/PraisonAIDocs
+
+Discovered and indexed by Alric.AI (https://alric.ai)

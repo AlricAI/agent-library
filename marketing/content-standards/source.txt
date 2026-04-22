@@ -1,0 +1,6 @@
+Agent: Content Standards
+Alric.AI page: https://alric.ai/agents/content-standards
+Source file: https://github.com/qemqemqem/mechawiki/blob/HEAD/notes/content_standards.md
+Source repository: https://github.com/qemqemqem/mechawiki
+
+Discovered and indexed by Alric.AI (https://alric.ai)

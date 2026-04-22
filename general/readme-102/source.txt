@@ -1,0 +1,6 @@
+Agent: README
+Alric.AI page: https://alric.ai/agents/readme-102
+Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/src/agents/compute-01-linux-vm-web-server-agent/testing-scenario:-simple-linux-agent/README.md
+Source repository: https://github.com/rysweet/AzureHayMaker
+
+Discovered and indexed by Alric.AI (https://alric.ai)

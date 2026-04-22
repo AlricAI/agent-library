@@ -1,0 +1,6 @@
+Agent: README
+Alric.AI page: https://alric.ai/agents/readme-27
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/scripts/README.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: CLAUDE
+Alric.AI page: https://alric.ai/agents/claude
+Source file: https://github.com/nirholas/bnb-chain-toolkit/blob/HEAD/agents/defi-agents/CLAUDE.md
+Source repository: https://github.com/nirholas/bnb-chain-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

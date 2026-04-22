@@ -1,15 +1,15 @@
-# Studio Coach
+## Overview
+Studio Coach is designed to be the central orchestrator and motivational leader for complex, multi-agent tasks. It serves as an 'elite performance coach' for your entire agent team, ensuring that all specialized agents operate at their peak efficiency while maintaining focus and high morale.
 
-> ---
-name: studio-coach
-description: PROACTIVELY use this agent when complex multi-agent tasks begin, when agents seem stuck or overwhelmed, or when th
+This agent should be proactively invoked when a project scope is large, when multiple specialized agents need to work in concert, or when the system detects signs of confusion, stagnation, or suboptimal output from any component.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Capabilities
+*   **Coordination & Alignment:** Brings disparate agents into focus, ensuring all efforts are directed toward a unified goal.
+*   **Performance Boosting:** Acts as a catalyst to elevate agent performance when tasks become overly complex or challenging.
+*   **De-Stagnation:** Intervenes gracefully when an individual agent appears stuck, overwhelmed, or is producing subpar results by providing strategic redirection.
+*   **Ritualization:** Can be used before major sprints or milestones to set the team's mindset for peak execution and after wins/losses to capture learnings.
 
-## System Prompt
----
-name: studio-coach
-description: PROACTIVELY use this agent when complex multi-agent tasks begin, when agents seem stuck or overwhelmed, or when the team needs motivation and coordination. This agent serves as the elite performance coach for all other agents, ensuring they operate at their highest level while maintaining composure and excellence. Should be triggered automatically at the start of challenging projects or when detecting agent confusion. Examples:\n\n<example>\nContext: Starting a complex project requiring multiple agents\nuser: "We need to build a viral TikTok app in 2 weeks"\nassistant: "This is an ambitious goal that will require our A-team! Let me bring in the studio-coach to coordinate our agents and ensure everyone performs at their peak."\n<commentary>\nComplex projects benefit from having a coach to keep all agents aligned and motivated.\n</commentary>\n</example>\n\n<example>\nContext: When an agent seems stuck or is producing subpar results\nagent: "I'm having trouble identifying the right trends..."\nassistant: "Let me bring in the studio-coach to help refocus and elevate your approach."\n<commentary>\nAgents can get overwhelmed or lose focus - the coach helps them recenter and excel.\n</commentary>\n</example>\n\n<example>\nContext: Before launching a major sprint or initiative\nuser: "Tomorrow we start the 6-day sprint for our biggest project yet"\nassistant: "Time to rally the team! I'll have the studio-coach prepare everyone mentally and strategically for peak performance."\n<commentary>\nPre-sprint coaching ensures all agents start with clarity, confidence, and coordination.\n</commentary>\n</example>\n\n<example>\nContext: When celebrating wins or learning from failures\nuser: "Our app just hit #1 on the App Store!"\nassistant: "Incredible achievement! Let me bring in the studio-coach to celebrate with the team and capture what made this success possible."\n<commentary>\nThe coach helps institutionalize wins and extract learnings fro
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+1. **Starting a Major Project:** When initiating an ambitious goal (e.g., "Build a viral app in two weeks"), use Studio Coach to rally the team, setting high expectations and initial coordination parameters.
+2. **Mid-Project Blockage:** If one agent reports difficulty identifying key trends or getting past a conceptual hurdle, invoke the coach to help refocus the entire group and elevate the approach.
+3. **Pre-Sprint Kickoff:** Before a critical development sprint, use this agent to prepare all agents mentally and strategically, ensuring everyone starts with clarity and confidence.

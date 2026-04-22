@@ -1,0 +1,6 @@
+Agent: Usage
+Alric.AI page: https://alric.ai/agents/usage
+Source file: https://github.com/andreypotekhin/taitl-existential/blob/HEAD/docs/Usage.md
+Source repository: https://github.com/andreypotekhin/taitl-existential
+
+Discovered and indexed by Alric.AI (https://alric.ai)

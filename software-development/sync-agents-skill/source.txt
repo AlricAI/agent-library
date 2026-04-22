@@ -1,0 +1,6 @@
+Agent: Sync Agents Skill
+Alric.AI page: https://alric.ai/agents/sync-agents-skill
+Source file: https://github.com/karolis-k/nyxis/blob/HEAD/.cursor/rules/sync-agents.mdc
+Source repository: https://github.com/karolis-k/nyxis
+
+Discovered and indexed by Alric.AI (https://alric.ai)

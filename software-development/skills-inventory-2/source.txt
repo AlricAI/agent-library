@@ -1,0 +1,6 @@
+Agent: SKILLS INVENTORY
+Alric.AI page: https://alric.ai/agents/skills-inventory-2
+Source file: https://github.com/LORDBurnItUp/kds-openclaw/blob/HEAD/lord-sav/SKILLS_INVENTORY.md
+Source repository: https://github.com/LORDBurnItUp/kds-openclaw
+
+Discovered and indexed by Alric.AI (https://alric.ai)

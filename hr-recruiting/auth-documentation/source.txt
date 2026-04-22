@@ -1,0 +1,6 @@
+Agent: AUTH DOCUMENTATION
+Alric.AI page: https://alric.ai/agents/auth-documentation
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/sms-bot/webtoys-os/agents/edit-agent/AUTH-DOCUMENTATION.md
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

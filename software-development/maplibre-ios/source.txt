@@ -1,0 +1,6 @@
+Agent: Maplibre Ios
+Alric.AI page: https://alric.ai/agents/maplibre-ios
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/maplibre-ios.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

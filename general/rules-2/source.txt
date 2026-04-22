@@ -1,0 +1,6 @@
+Agent: RULES
+Alric.AI page: https://alric.ai/agents/rules-2
+Source file: https://github.com/LoveAndCoding/olivia/blob/HEAD/agents/shared/RULES.md
+Source repository: https://github.com/LoveAndCoding/olivia
+
+Discovered and indexed by Alric.AI (https://alric.ai)

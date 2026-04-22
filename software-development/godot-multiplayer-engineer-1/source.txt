@@ -1,0 +1,6 @@
+Agent: Godot Multiplayer Engineer
+Alric.AI page: https://alric.ai/agents/godot-multiplayer-engineer-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/godot-multiplayer-engineer/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

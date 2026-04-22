@@ -1,0 +1,6 @@
+Agent: TDD Workflow
+Alric.AI page: https://alric.ai/agents/tdd-workflow
+Source file: https://github.com/drumnation/brain-garden-foundry/blob/HEAD/.cursor/rules/tdd-workflow.rules.mdc
+Source repository: https://github.com/drumnation/brain-garden-foundry
+
+Discovered and indexed by Alric.AI (https://alric.ai)

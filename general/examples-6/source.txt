@@ -1,0 +1,6 @@
+Agent: EXAMPLES
+Alric.AI page: https://alric.ai/agents/examples-6
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/docs/EXAMPLES.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

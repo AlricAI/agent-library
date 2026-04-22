@@ -1,0 +1,6 @@
+Agent: Context Management
+Alric.AI page: https://alric.ai/agents/context-management-4
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/context-management.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

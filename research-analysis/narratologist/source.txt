@@ -1,0 +1,6 @@
+Agent: Narratologist
+Alric.AI page: https://alric.ai/agents/narratologist
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/agency-agents/agents/academic-narratologist/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

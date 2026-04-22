@@ -1,0 +1,6 @@
+Agent: QUARTERLY OKRS
+Alric.AI page: https://alric.ai/agents/quarterly-okrs
+Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/docs/QUARTERLY_OKRS.md
+Source repository: https://github.com/rysweet/AzureHayMaker
+
+Discovered and indexed by Alric.AI (https://alric.ai)

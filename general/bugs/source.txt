@@ -1,0 +1,6 @@
+Agent: Bugs
+Alric.AI page: https://alric.ai/agents/bugs
+Source file: https://github.com/karolis-k/nyxis/blob/HEAD/docs/bugs.md
+Source repository: https://github.com/karolis-k/nyxis
+
+Discovered and indexed by Alric.AI (https://alric.ai)

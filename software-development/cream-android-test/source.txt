@@ -1,0 +1,6 @@
+Agent: Cream Android Test
+Alric.AI page: https://alric.ai/agents/cream-android-test
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/reports/cream_android_test.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

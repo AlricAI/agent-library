@@ -1,0 +1,6 @@
+Agent: Static Ips
+Alric.AI page: https://alric.ai/agents/static-ips
+Source file: https://github.com/new-u-peptides/express/blob/HEAD/docs/static-ips.md
+Source repository: https://github.com/new-u-peptides/express
+
+Discovered and indexed by Alric.AI (https://alric.ai)

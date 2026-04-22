@@ -1,0 +1,6 @@
+Agent: 06 Swarm Fix Builds Types
+Alric.AI page: https://alric.ai/agents/06-swarm-fix-builds-types
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/prompts/agents/06-swarm-fix-builds-types.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

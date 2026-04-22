@@ -1,0 +1,6 @@
+Agent: Blarify Architecture
+Alric.AI page: https://alric.ai/agents/blarify-architecture
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/docs/blarify_architecture.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

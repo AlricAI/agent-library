@@ -1,0 +1,6 @@
+Agent: mcp-server-builder
+Alric.AI page: https://alric.ai/agents/mcp-server-builder
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/.claude/agents/amplihack/specialized/mcp-server-builder.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

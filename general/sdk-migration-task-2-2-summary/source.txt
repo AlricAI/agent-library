@@ -1,0 +1,6 @@
+Agent: Sdk Migration Task 2.2 Summary
+Alric.AI page: https://alric.ai/agents/sdk-migration-task-2-2-summary
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/sdk_migration_task_2.2_summary.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

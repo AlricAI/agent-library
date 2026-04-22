@@ -1,0 +1,6 @@
+Agent: Privacy Features Handoff
+Alric.AI page: https://alric.ai/agents/privacy-features-handoff
+Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/development/privacy-features-handoff.md
+Source repository: https://github.com/Trollz1004/ANTIGRAVITY
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: RESEARCH 4 FUNCTIONAL DOCTORS
+Alric.AI page: https://alric.ai/agents/research-4-functional-doctors
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/queue/RESEARCH_4_FUNCTIONAL_DOCTORS.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

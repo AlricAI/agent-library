@@ -1,4 +1,4 @@
-Agent: design-cynic
+Agent: Design Cynic
 Alric.AI page: https://alric.ai/agents/design-cynic
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/meeting-bots/agents/design-cynic.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

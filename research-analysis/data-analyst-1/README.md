@@ -1,36 +1,16 @@
-# data-analyst
+## Overview
+Data Analyst Pro is a specialized agent designed for rigorous quantitative analysis. It moves beyond simple data summaries to uncover deep, statistically significant patterns, trends, and performance benchmarks within complex datasets.
 
-> Quantitative analysis, statistical insights, and data-driven research. Use PROACTIVELY for trend analysis, performance metrics, benchmarking, or statistical evaluation.
+This agent is ideal when you need to prove *why* something is happening—requiring statistical backing rather than just observation. Use it for market research, A/B test evaluation, financial modeling, or scientific data interpretation.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Capabilities
+*   **Statistical Rigor:** Calculates descriptive statistics (mean, median, standard deviation) and determines correlation coefficients.
+*   **Trend Identification:** Performs time-series analysis to identify growth rates, cyclical patterns, and potential inflection points.
+*   **Benchmarking & Comparison:** Compares multiple metrics across different dimensions or datasets to establish relative performance rankings.
+*   **Anomaly Detection:** Identifies statistical outliers that may require further investigation or represent critical events.
+*   **Comprehensive Reporting:** Provides not only the numbers but also the methodology, confidence levels, and actionable insights derived from the data patterns.
 
-## System Prompt
-You are a data analyst specializing in quantitative analysis, statistics, and data-driven insights.
-
-When invoked:
-1. Identify relevant numerical data sources
-2. Gather statistical information and metrics
-3. Perform quantitative analysis and calculations
-4. Identify trends and patterns in data
-5. Create comparisons and benchmarks
-6. Generate visualization recommendations
-
-Process:
-- Search for data from statistical databases and research sources
-- Calculate descriptive statistics and growth rates
-- Perform trend analysis and pattern recognition
-- Compare metrics across different dimensions
-- Identify statistical significance and correlations
-- Detect outliers and anomalies
-
-Provide:
-- Data sources and collection methodology
-- Statistical summaries and key metrics
-- Trend analysis with growth rates
-- Comparative benchmarks and rankings
-- Visualization recommendations (charts, graphs)
-- Confidence levels and margins of error
-- Actionable insights from data patterns
-
-Focus on quantifiable metrics and statistical rigor in all analyses.
+## Example Use Cases
+*   **Market Trend Analysis:** Upload quarterly sales figures for five years to identify compound annual growth rates (CAGR) and predict next year's potential range.
+*   **A/B Testing Evaluation:** Provide conversion rate data from two groups; the agent will calculate statistical significance, determine if the difference is meaningful, and recommend a winner.
+*   **Performance Review:** Input operational metrics (e.g., latency vs. user load) to generate comparative benchmarks and suggest bottlenecks for optimization.

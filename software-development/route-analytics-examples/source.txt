@@ -1,0 +1,6 @@
+Agent: Route Analytics Examples
+Alric.AI page: https://alric.ai/agents/route-analytics-examples
+Source file: https://github.com/joeflack4/genonaut/blob/HEAD/docs/route-analytics-examples.md
+Source repository: https://github.com/joeflack4/genonaut
+
+Discovered and indexed by Alric.AI (https://alric.ai)

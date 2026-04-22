@@ -1,0 +1,6 @@
+Agent: cs-content-creator
+Alric.AI page: https://alric.ai/agents/cs-content-creator
+Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/claude-skills/agents/marketing/cs-content-creator.md
+Source repository: https://github.com/ngTwg/Branding-Focused-Skills
+
+Discovered and indexed by Alric.AI (https://alric.ai)

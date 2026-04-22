@@ -1,0 +1,6 @@
+Agent: Expert React Frontend Engineer
+Alric.AI page: https://alric.ai/agents/expert-react-frontend-engineer
+Source file: https://github.com/MarcelMichau/fake-survey-generator/blob/HEAD/.github/agents/expert-react-frontend-engineer.agent.md
+Source repository: https://github.com/MarcelMichau/fake-survey-generator
+
+Discovered and indexed by Alric.AI (https://alric.ai)

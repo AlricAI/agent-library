@@ -1,0 +1,6 @@
+Agent: KDS BUILD PLAN
+Alric.AI page: https://alric.ai/agents/kds-build-plan-1
+Source file: https://github.com/LORDBurnItUp/kds-openclaw/blob/HEAD/lord-sav/KDS_BUILD_PLAN.md
+Source repository: https://github.com/LORDBurnItUp/kds-openclaw
+
+Discovered and indexed by Alric.AI (https://alric.ai)

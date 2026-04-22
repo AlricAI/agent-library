@@ -1,0 +1,6 @@
+Agent: Shell Integration
+Alric.AI page: https://alric.ai/agents/shell-integration
+Source file: https://github.com/chmouel/lazyworktree/blob/HEAD/docs/shell-integration.md
+Source repository: https://github.com/chmouel/lazyworktree
+
+Discovered and indexed by Alric.AI (https://alric.ai)

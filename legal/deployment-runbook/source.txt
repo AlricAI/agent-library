@@ -1,0 +1,6 @@
+Agent: DEPLOYMENT RUNBOOK
+Alric.AI page: https://alric.ai/agents/deployment-runbook
+Source file: https://github.com/pllporg/karen/blob/HEAD/docs/DEPLOYMENT_RUNBOOK.md
+Source repository: https://github.com/pllporg/karen
+
+Discovered and indexed by Alric.AI (https://alric.ai)

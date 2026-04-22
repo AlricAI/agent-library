@@ -1,0 +1,6 @@
+Agent: Brand Specialist
+Alric.AI page: https://alric.ai/agents/brand-specialist-2
+Source file: https://github.com/paperclipai/companies/blob/HEAD/product-compass-consulting/agents/brand-specialist/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

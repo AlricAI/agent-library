@@ -1,0 +1,6 @@
+Agent: Example Http Conversion
+Alric.AI page: https://alric.ai/agents/example-http-conversion
+Source file: https://github.com/genmcp/gen-mcp/blob/HEAD/docs/example-http-conversion.md
+Source repository: https://github.com/genmcp/gen-mcp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

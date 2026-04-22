@@ -1,0 +1,6 @@
+Agent: PRE COMMIT
+Alric.AI page: https://alric.ai/agents/pre-commit
+Source file: https://github.com/nirholas/bnb-chain-toolkit/blob/HEAD/docs/PRE_COMMIT.md
+Source repository: https://github.com/nirholas/bnb-chain-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

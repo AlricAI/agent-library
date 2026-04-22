@@ -1,0 +1,6 @@
+Agent: Sprint Manager
+Alric.AI page: https://alric.ai/agents/sprint-manager
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/product-compass-consulting/agents/sprint-manager/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

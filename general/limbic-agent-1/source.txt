@@ -1,0 +1,6 @@
+Agent: Limbic Agent
+Alric.AI page: https://alric.ai/agents/limbic-agent-1
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/test-bench/environments/aos-brain-test/brain/agents/limbic_agent.py
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

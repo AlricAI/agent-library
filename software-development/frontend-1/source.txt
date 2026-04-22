@@ -1,0 +1,6 @@
+Agent: Frontend Development Assistant
+Alric.AI page: https://alric.ai/agents/frontend-1
+Source file: https://github.com/webdevtodayjason/sub-agents/blob/HEAD/commands/frontend.md
+Source repository: https://github.com/webdevtodayjason/sub-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

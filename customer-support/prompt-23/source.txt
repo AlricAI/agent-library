@@ -1,0 +1,6 @@
+Agent: Prompt
+Alric.AI page: https://alric.ai/agents/prompt-23
+Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/src/agents/ai-ml-02-text-analytics-agent/data-scenario:-text-analytics-agent/prompt.md
+Source repository: https://github.com/rysweet/AzureHayMaker
+
+Discovered and indexed by Alric.AI (https://alric.ai)

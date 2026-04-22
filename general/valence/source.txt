@@ -1,0 +1,6 @@
+Agent: Valence
+Alric.AI page: https://alric.ai/agents/valence
+Source file: https://github.com/bagrounds/obsidian-github-publisher-sync/blob/HEAD/games/valence.md
+Source repository: https://github.com/bagrounds/obsidian-github-publisher-sync
+
+Discovered and indexed by Alric.AI (https://alric.ai)

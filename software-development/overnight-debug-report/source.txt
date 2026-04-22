@@ -1,0 +1,6 @@
+Agent: Overnight Debug Report
+Alric.AI page: https://alric.ai/agents/overnight-debug-report
+Source file: https://github.com/dcarmitage/claws/blob/HEAD/memory/overnight_debug_report.md
+Source repository: https://github.com/dcarmitage/claws
+
+Discovered and indexed by Alric.AI (https://alric.ai)

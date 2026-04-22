@@ -1,0 +1,6 @@
+Agent: NORTH STAR
+Alric.AI page: https://alric.ai/agents/north-star
+Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/NORTH_STAR.md
+Source repository: https://github.com/frumu-ai/tandem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

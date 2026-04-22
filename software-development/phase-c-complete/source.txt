@@ -1,0 +1,6 @@
+Agent: Phase C Complete
+Alric.AI page: https://alric.ai/agents/phase-c-complete
+Source file: https://github.com/robch/cycod/blob/HEAD/todo/phase-c-complete.md
+Source repository: https://github.com/robch/cycod
+
+Discovered and indexed by Alric.AI (https://alric.ai)

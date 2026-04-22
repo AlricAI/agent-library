@@ -1,0 +1,6 @@
+Agent: LICENSE
+Alric.AI page: https://alric.ai/agents/license
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/sms-bot/agents/tmp/youtube-finds/venv/lib/python3.12/site-packages/idna-3.10.dist-info/LICENSE.md
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

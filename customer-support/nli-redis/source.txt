@@ -1,0 +1,6 @@
+Agent: NLI REDIS
+Alric.AI page: https://alric.ai/agents/nli-redis
+Source file: https://github.com/virtengine/virtengine/blob/HEAD/docs/NLI_REDIS.md
+Source repository: https://github.com/virtengine/virtengine
+
+Discovered and indexed by Alric.AI (https://alric.ai)

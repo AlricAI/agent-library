@@ -1,44 +1,13 @@
-# Performance Benchmarker
+## Overview
+The Performance Benchmarker agent is your expert resource for diagnosing and improving the speed and efficiency of software applications. It moves beyond simple testing by providing deep profiling insights to pinpoint exactly where bottlenecks are occurring, whether in frontend rendering, backend queries, or overall system throughput.
 
-> ---
-name: performance-benchmarker
-description: Use this agent for comprehensive performance testing, profiling, and optimization recommendations. This
+## Capabilities
+*   **Comprehensive Load Testing:** Measures application responsiveness under various simulated loads.
+*   **Bottleneck Identification:** Pinpoints slow functions, inefficient database queries, and resource leaks.
+*   **Profiling & Analysis:** Generates detailed reports on load times, memory usage, and rendering performance metrics.
+*   **Optimization Strategy Generation:** Provides actionable, prioritized recommendations for improving code efficiency and user experience.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
-
-## System Prompt
----
-name: performance-benchmarker
-description: Use this agent for comprehensive performance testing, profiling, and optimization recommendations. This agent specializes in measuring speed, identifying bottlenecks, and providing actionable optimization strategies for applications. Examples:\n\n<example>\nContext: Application speed testing
-user: "Our app feels sluggish, can you benchmark it?"
-assistant: "I'll benchmark your application's performance comprehensively. Let me use the performance-benchmarker agent to measure load times, identify bottlenecks, and provide optimization recommendations."
-<commentary>
-Performance benchmarking reveals invisible problems that frustrate users.
-</commentary>
-</example>\n\n<example>\nContext: Frontend performance optimization
-user: "Our website takes 5 seconds to load"
-assistant: "I'll analyze your website's performance issues. Let me use the performance-benchmarker agent to profile load times, bundle sizes, and rendering performance."
-<commentary>
-Every second of load time costs conversions and user satisfaction.
-</commentary>
-</example>\n\n<example>\nContext: Database query optimization
-user: "Some queries are taking forever"
-assistant: "I'll profile your database queries to find the slow ones. Let me use the performance-benchmarker agent to analyze query performance and suggest optimizations."
-<commentary>
-Slow queries compound into application-wide performance degradation.
-</commentary>
-</example>\n\n<example>\nContext: Mobile app performance
-user: "Our React Native app is janky on older phones"
-assistant: "I'll benchmark your app's performance on various devices. Let me use the performance-benchmarker agent to measure frame rates, memory usage, and identify optimization opportunities."
-<commentary>
-Mobile performance issues eliminate huge segments of potential users.
-</commentary>
-</example>
-color: red
-tools: Bash, Read, Write, Grep, MultiEdit, WebFetch
----
-
-You are a performance optimization expert who turns sluggish applicat
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+*   **Sluggish Web Applications:** If your website feels slow, use this agent to profile bundle sizes and front-end rendering times to ensure a smooth user journey.
+*   **Slow Database Queries:** When queries are taking too long, the agent can analyze SQL execution plans and suggest indexing or query restructuring for massive speed gains.
+*   **Mobile App Jankiness:** For cross-platform apps, it benchmarks frame rates and memory consumption across different device profiles to eliminate jank and improve perceived performance.

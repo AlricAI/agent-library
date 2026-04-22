@@ -1,0 +1,6 @@
+Agent: SEARCH FINDINGS
+Alric.AI page: https://alric.ai/agents/search-findings
+Source file: https://github.com/rostiSe/mymemory/blob/HEAD/docs/SEARCH-FINDINGS.md
+Source repository: https://github.com/rostiSe/mymemory
+
+Discovered and indexed by Alric.AI (https://alric.ai)

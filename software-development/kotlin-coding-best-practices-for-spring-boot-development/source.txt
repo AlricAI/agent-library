@@ -1,0 +1,6 @@
+Agent: Kotlin Coding Best Practices for Spring Boot Development
+Alric.AI page: https://alric.ai/agents/kotlin-coding-best-practices-for-spring-boot-development
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/rules/.wip/kotlin-springboot-best-practices-cursorrules-prompt-file/.cursorrules
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

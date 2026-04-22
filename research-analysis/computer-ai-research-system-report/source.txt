@@ -1,0 +1,6 @@
+Agent: Computer Ai Research System Report
+Alric.AI page: https://alric.ai/agents/computer-ai-research-system-report
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/sms-bot/agents/cs-chat/docsrepo/computer-ai-research-system-report.md
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

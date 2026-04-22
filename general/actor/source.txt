@@ -1,0 +1,6 @@
+Agent: Actor
+Alric.AI page: https://alric.ai/agents/actor
+Source file: https://github.com/j-huthmacher/AlphaWorm/blob/HEAD/dev/agents/ddpg/actor.py
+Source repository: https://github.com/j-huthmacher/AlphaWorm
+
+Discovered and indexed by Alric.AI (https://alric.ai)

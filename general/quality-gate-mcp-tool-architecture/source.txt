@@ -1,0 +1,6 @@
+Agent: Quality Gate Mcp Tool Architecture
+Alric.AI page: https://alric.ai/agents/quality-gate-mcp-tool-architecture
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/quality_gate_mcp_tool_architecture.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Obsidian Sync Lock Resilience
+Alric.AI page: https://alric.ai/agents/obsidian-sync-lock-resilience-1
+Source file: https://github.com/bagrounds/obsidian-github-publisher-sync/blob/HEAD/docs/obsidian-sync-lock-resilience.md
+Source repository: https://github.com/bagrounds/obsidian-github-publisher-sync
+
+Discovered and indexed by Alric.AI (https://alric.ai)

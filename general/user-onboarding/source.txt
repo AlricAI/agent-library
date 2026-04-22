@@ -1,0 +1,6 @@
+Agent: User Onboarding
+Alric.AI page: https://alric.ai/agents/user-onboarding
+Source file: https://github.com/boccileonardo/airstream-fm/blob/HEAD/docs/user-onboarding.md
+Source repository: https://github.com/boccileonardo/airstream-fm
+
+Discovered and indexed by Alric.AI (https://alric.ai)

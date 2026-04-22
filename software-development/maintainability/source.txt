@@ -1,0 +1,6 @@
+Agent: Code Maintainability Assistant
+Alric.AI page: https://alric.ai/agents/maintainability
+Source file: https://github.com/xiaoland/agents/blob/HEAD/prompts/maintainability.md
+Source repository: https://github.com/xiaoland/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

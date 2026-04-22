@@ -1,0 +1,6 @@
+Agent: Card Messages
+Alric.AI page: https://alric.ai/agents/card-messages-1
+Source file: https://github.com/keyteki/keyteki/blob/HEAD/docs/card-messages.md
+Source repository: https://github.com/keyteki/keyteki
+
+Discovered and indexed by Alric.AI (https://alric.ai)

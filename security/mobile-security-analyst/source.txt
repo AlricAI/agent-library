@@ -1,0 +1,6 @@
+Agent: Mobile Security Analyst
+Alric.AI page: https://alric.ai/agents/mobile-security-analyst
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/trail-of-bits-security/agents/mobile-security-analyst/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

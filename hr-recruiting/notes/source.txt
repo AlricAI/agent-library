@@ -1,0 +1,6 @@
+Agent: Notes
+Alric.AI page: https://alric.ai/agents/notes
+Source file: https://github.com/frumu-ai/tandem/blob/HEAD/agent-templates/notes.md
+Source repository: https://github.com/frumu-ai/tandem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

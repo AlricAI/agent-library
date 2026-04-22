@@ -1,0 +1,6 @@
+Agent: Unreleased
+Alric.AI page: https://alric.ai/agents/unreleased-1
+Source file: https://github.com/Tiendil/feeds.fun/blob/HEAD/changes/unreleased.md
+Source repository: https://github.com/Tiendil/feeds.fun
+
+Discovered and indexed by Alric.AI (https://alric.ai)

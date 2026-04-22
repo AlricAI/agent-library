@@ -1,0 +1,6 @@
+Agent: HEARTBEAT
+Alric.AI page: https://alric.ai/agents/heartbeat-188
+Source file: https://github.com/LoveAndCoding/olivia/blob/HEAD/agents/senior-engineer/HEARTBEAT.md
+Source repository: https://github.com/LoveAndCoding/olivia
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Td3
+Alric.AI page: https://alric.ai/agents/td3
+Source file: https://github.com/j-huthmacher/AlphaWorm/blob/HEAD/dev/agents/td3/td3.py
+Source repository: https://github.com/j-huthmacher/AlphaWorm
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Organize Deliverables
+Alric.AI page: https://alric.ai/agents/organize-deliverables-1
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/technical/tasks/organize_deliverables.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

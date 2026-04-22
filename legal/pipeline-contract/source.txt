@@ -1,0 +1,6 @@
+Agent: Pipeline Contract
+Alric.AI page: https://alric.ai/agents/pipeline-contract
+Source file: https://github.com/joefyn/ChimeraHydra/blob/HEAD/docs/pipeline-contract.md
+Source repository: https://github.com/joefyn/ChimeraHydra
+
+Discovered and indexed by Alric.AI (https://alric.ai)

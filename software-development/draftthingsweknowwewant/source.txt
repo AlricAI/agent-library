@@ -1,0 +1,6 @@
+Agent: DraftThingsWeKnowWeWant
+Alric.AI page: https://alric.ai/agents/draftthingsweknowwewant
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/DraftThingsWeKnowWeWant.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

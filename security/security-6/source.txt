@@ -1,0 +1,6 @@
+Agent: Security
+Alric.AI page: https://alric.ai/agents/security-6
+Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/best-practices/security.md
+Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

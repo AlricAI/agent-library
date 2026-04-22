@@ -1,0 +1,6 @@
+Agent: config-auditor
+Alric.AI page: https://alric.ai/agents/config-auditor
+Source file: https://github.com/comet-ml/opik/blob/HEAD/.agents/agents/meta-auditor.md
+Source repository: https://github.com/comet-ml/opik
+
+Discovered and indexed by Alric.AI (https://alric.ai)

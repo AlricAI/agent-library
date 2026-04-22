@@ -1,0 +1,6 @@
+Agent: MCP Engineer
+Alric.AI page: https://alric.ai/agents/mcp-engineer-6
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/fullstack-forge/agents/mcp-engineer/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

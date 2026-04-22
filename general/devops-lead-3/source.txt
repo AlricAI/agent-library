@@ -1,0 +1,6 @@
+Agent: DevOps Lead
+Alric.AI page: https://alric.ai/agents/devops-lead-3
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/fullstack-forge/agents/devops-lead/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

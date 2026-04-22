@@ -1,0 +1,6 @@
+Agent: bigquery-analyst
+Alric.AI page: https://alric.ai/agents/bigquery-analyst-1
+Source file: https://github.com/hreis00/cortex-library/blob/HEAD/.github/agents/bigquery-analyst.agent.md
+Source repository: https://github.com/hreis00/cortex-library
+
+Discovered and indexed by Alric.AI (https://alric.ai)

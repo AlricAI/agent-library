@@ -1,0 +1,6 @@
+Agent: Unity UI Specialist
+Alric.AI page: https://alric.ai/agents/unity-ui-specialist
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/donchitos-game-studio/agents/unity-ui-specialist/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

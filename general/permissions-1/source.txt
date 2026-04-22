@@ -1,0 +1,6 @@
+Agent: Permissions
+Alric.AI page: https://alric.ai/agents/permissions-1
+Source file: https://github.com/jfarcand/mirroir-mcp/blob/HEAD/docs/permissions.md
+Source repository: https://github.com/jfarcand/mirroir-mcp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

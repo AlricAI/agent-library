@@ -1,0 +1,6 @@
+Agent: Core Principles
+Alric.AI page: https://alric.ai/agents/core-principles
+Source file: https://github.com/felipebarcelospro/igniter-js/blob/HEAD/apps/starter-bun-rest-api/.cursor/rules/core-principles.mdc
+Source repository: https://github.com/felipebarcelospro/igniter-js
+
+Discovered and indexed by Alric.AI (https://alric.ai)

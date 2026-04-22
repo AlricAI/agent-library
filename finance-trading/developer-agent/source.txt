@@ -1,0 +1,6 @@
+Agent: Developer.Agent
+Alric.AI page: https://alric.ai/agents/developer-agent
+Source file: https://github.com/bluekid2457/MarketingDashboard2/blob/HEAD/.github/agents/developer.agent.md
+Source repository: https://github.com/bluekid2457/MarketingDashboard2
+
+Discovered and indexed by Alric.AI (https://alric.ai)

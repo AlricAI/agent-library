@@ -1,0 +1,6 @@
+Agent:  Assistant Agent
+Alric.AI page: https://alric.ai/agents/assistant-agent
+Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/major_frameworks/autogen/python/packages/autogen-agentchat/src/autogen_agentchat/agents/_assistant_agent.py
+Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: App Environment
+Alric.AI page: https://alric.ai/agents/app-environment
+Source file: https://github.com/AlexL70/linkshortener/blob/HEAD/ai-instructions/app-environment.md
+Source repository: https://github.com/AlexL70/linkshortener
+
+Discovered and indexed by Alric.AI (https://alric.ai)

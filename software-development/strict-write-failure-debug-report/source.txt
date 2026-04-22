@@ -1,0 +1,6 @@
+Agent: STRICT WRITE FAILURE DEBUG REPORT
+Alric.AI page: https://alric.ai/agents/strict-write-failure-debug-report
+Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/STRICT_WRITE_FAILURE_DEBUG_REPORT.md
+Source repository: https://github.com/frumu-ai/tandem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

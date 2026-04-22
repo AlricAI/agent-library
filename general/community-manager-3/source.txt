@@ -1,0 +1,6 @@
+Agent: Community Manager
+Alric.AI page: https://alric.ai/agents/community-manager-3
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/donchitos-game-studio/agents/community-manager/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

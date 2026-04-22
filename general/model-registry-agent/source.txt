@@ -1,0 +1,6 @@
+Agent: Model Registry Agent
+Alric.AI page: https://alric.ai/agents/model-registry-agent
+Source file: https://github.com/alliedbrother/TuneLLM_Labs_Agentic/blob/HEAD/agents/model-registry/AGENTS.md
+Source repository: https://github.com/alliedbrother/TuneLLM_Labs_Agentic
+
+Discovered and indexed by Alric.AI (https://alric.ai)

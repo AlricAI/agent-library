@@ -1,0 +1,6 @@
+Agent: ARMADA SCALING
+Alric.AI page: https://alric.ai/agents/armada-scaling
+Source file: https://github.com/dcarmitage/claws/blob/HEAD/systems/ARMADA_SCALING.md
+Source repository: https://github.com/dcarmitage/claws
+
+Discovered and indexed by Alric.AI (https://alric.ai)

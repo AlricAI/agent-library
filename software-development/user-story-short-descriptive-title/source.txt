@@ -1,0 +1,6 @@
+Agent: User Story: [Short, descriptive title]
+Alric.AI page: https://alric.ai/agents/user-story-short-descriptive-title
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/rules/.wip/project-epic-template-cursorrules-prompt-file/.cursorrules
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

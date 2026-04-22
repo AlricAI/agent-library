@@ -1,0 +1,6 @@
+Agent: SOUL
+Alric.AI page: https://alric.ai/agents/soul-6
+Source file: https://github.com/WhiteDevil-93/Agents/blob/HEAD/agents/shared/verifier/SOUL.md
+Source repository: https://github.com/WhiteDevil-93/Agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

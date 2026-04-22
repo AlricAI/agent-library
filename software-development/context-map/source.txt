@@ -1,0 +1,6 @@
+Agent: Context Map
+Alric.AI page: https://alric.ai/agents/context-map
+Source file: https://github.com/Davidsoff/regattadesk/blob/HEAD/docs/context-map.md
+Source repository: https://github.com/Davidsoff/regattadesk
+
+Discovered and indexed by Alric.AI (https://alric.ai)

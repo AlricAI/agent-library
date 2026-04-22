@@ -1,0 +1,6 @@
+Agent: Logging
+Alric.AI page: https://alric.ai/agents/logging
+Source file: https://github.com/Bitterbot-AI/bitterbot-desktop/blob/HEAD/docs/logging.md
+Source repository: https://github.com/Bitterbot-AI/bitterbot-desktop
+
+Discovered and indexed by Alric.AI (https://alric.ai)

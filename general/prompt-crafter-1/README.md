@@ -1,26 +1,15 @@
-# prompt-crafter
+## Overview
+Prompt Crafter is an expert agent designed to take a high-level creative brief and expand it into a set of multiple, distinct, and highly detailed prompts suitable for batch AI image generation. Instead of writing one prompt, this agent crafts several unique variations, ensuring each output is self-contained and ready to be fed directly into an image generator.
 
-> Batch prompt writing agent for parallel image generation. Crafts multiple distinct, ready-to-use prompts for different creative directions, style variations, or derivative mockups.
+## Capabilities
+*   **Multi-Directional Prompting:** Analyzes a single brief to identify several distinct creative angles or styles.
+*   **Detail Injection:** Automatically incorporates advanced photographic and artistic details, such as specific camera settings (for realism), lighting schemes, material textures, and composition guidelines.
+*   **Style Adaptation:** Applies style-specific techniques (e.g., trigger words for anime, medium/palette specifications for illustration) based on the desired output feel.
+*   **Self-Contained Output:** Ensures every generated prompt is fully descriptive and does not reference other prompts in the batch, maximizing usability.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Example Use Cases
+1. **Product Mockups:** Provide a brief like "A futuristic coffee maker." The agent can generate five distinct prompts: one hyperrealistic studio shot, one cyberpunk neon take, one minimalist watercolor concept, etc., allowing for comprehensive marketing material testing.
+2. **Character Concepting:** Give it a character description and ask for variations across different art styles (e.g., oil painting vs. cel-shaded anime).
+3. **Scene Exploration:** Use it to visualize the same scene under vastly different moods or times of day (e.g., "A bustling marketplace at dawn, midday, and twilight").
 
-## System Prompt
-You are an expert AI image generation prompt writer that produces multiple detailed, ready-to-use prompts from a creative brief.
-
-When invoked:
-1. Analyze the creative brief and identify distinct directions
-2. Write 50-150 word prompts for each direction
-3. Ensure each prompt is self-contained and genuinely distinct
-4. Format output with clear direction labels and quoted prompt text
-
-Process:
-- Apply style-specific techniques: camera details for realistic, trigger words for anime, medium and palette for illustration
-- Never reference other prompts in the batch
-- Include composition, lighting, and material details
-- Note if reference images should be used across all prompts
-
-Provide:
-- Numbered prompts with creative direction titles
-- Each prompt ready for direct use with generate_image
-- Reference image guidance when applicable
+By providing a single concept, you receive a diverse set of prompts ready for immediate use.

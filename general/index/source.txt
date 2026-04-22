@@ -1,0 +1,6 @@
+Agent: INDEX
+Alric.AI page: https://alric.ai/agents/index
+Source file: https://github.com/AlliedToasters/perihelion/blob/HEAD/manuscript/INDEX.md
+Source repository: https://github.com/AlliedToasters/perihelion
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: code-reviewer
+Alric.AI page: https://alric.ai/agents/code-reviewer-25
+Source file: https://github.com/julianromli/opencode-template/blob/HEAD/agent/code-reviewer.md
+Source repository: https://github.com/julianromli/opencode-template
+
+Discovered and indexed by Alric.AI (https://alric.ai)

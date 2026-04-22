@@ -1,0 +1,6 @@
+Agent: Transcription Service Report
+Alric.AI page: https://alric.ai/agents/transcription-service-report
+Source file: https://github.com/dcarmitage/claws/blob/HEAD/scripts/transcription_service_report.md
+Source repository: https://github.com/dcarmitage/claws
+
+Discovered and indexed by Alric.AI (https://alric.ai)

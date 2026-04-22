@@ -1,0 +1,6 @@
+Agent: Backlog
+Alric.AI page: https://alric.ai/agents/backlog-4
+Source file: https://github.com/PetroczyP/Builder-Judge-Agent-Loop/blob/HEAD/specs/backlog.md
+Source repository: https://github.com/PetroczyP/Builder-Judge-Agent-Loop
+
+Discovered and indexed by Alric.AI (https://alric.ai)

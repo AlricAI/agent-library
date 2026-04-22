@@ -1,0 +1,6 @@
+Agent: K-Dense Science Lab
+Alric.AI page: https://alric.ai/agents/k-dense-science-lab
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/COMPANY.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

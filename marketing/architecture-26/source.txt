@@ -1,0 +1,6 @@
+Agent: ARCHITECTURE
+Alric.AI page: https://alric.ai/agents/architecture-26
+Source file: https://github.com/Cortexa-LLC/sourcerer/blob/HEAD/docs/ARCHITECTURE.md
+Source repository: https://github.com/Cortexa-LLC/sourcerer
+
+Discovered and indexed by Alric.AI (https://alric.ai)

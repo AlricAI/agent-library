@@ -1,0 +1,6 @@
+Agent: LLM INTEGRATION
+Alric.AI page: https://alric.ai/agents/llm-integration
+Source file: https://github.com/maarco/ambient-fs/blob/HEAD/docs/LLM_INTEGRATION.md
+Source repository: https://github.com/maarco/ambient-fs
+
+Discovered and indexed by Alric.AI (https://alric.ai)

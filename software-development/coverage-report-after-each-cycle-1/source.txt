@@ -1,0 +1,6 @@
+Agent: Coverage report after each cycle
+Alric.AI page: https://alric.ai/agents/coverage-report-after-each-cycle-1
+Source file: https://github.com/cap-jmk-real/agentron/blob/HEAD/.cursor/rules/coverage-report-after-cycle.mdc
+Source repository: https://github.com/cap-jmk-real/agentron
+
+Discovered and indexed by Alric.AI (https://alric.ai)

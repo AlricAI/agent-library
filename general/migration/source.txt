@@ -1,0 +1,6 @@
+Agent: Migration
+Alric.AI page: https://alric.ai/agents/migration
+Source file: https://github.com/tmux-python/libtmux/blob/HEAD/docs/migration.md
+Source repository: https://github.com/tmux-python/libtmux
+
+Discovered and indexed by Alric.AI (https://alric.ai)

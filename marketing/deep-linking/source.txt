@@ -1,0 +1,6 @@
+Agent: Deep Linking
+Alric.AI page: https://alric.ai/agents/deep-linking
+Source file: https://github.com/DecoyLex/ltix/blob/HEAD/guides/deep-linking.md
+Source repository: https://github.com/DecoyLex/ltix
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Namensfindung
+Alric.AI page: https://alric.ai/agents/namensfindung
+Source file: https://github.com/Wamocon/energy/blob/HEAD/requirements/namensfindung.md
+Source repository: https://github.com/Wamocon/energy
+
+Discovered and indexed by Alric.AI (https://alric.ai)

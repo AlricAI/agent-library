@@ -1,0 +1,6 @@
+Agent: Executor
+Alric.AI page: https://alric.ai/agents/executor-1
+Source file: https://github.com/Goblin1024/oh-my-kimi/blob/HEAD/prompts/executor.md
+Source repository: https://github.com/Goblin1024/oh-my-kimi
+
+Discovered and indexed by Alric.AI (https://alric.ai)

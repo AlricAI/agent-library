@@ -1,0 +1,6 @@
+Agent: Evidence Agent
+Alric.AI page: https://alric.ai/agents/evidence-agent-2
+Source file: https://github.com/LORDBurnItUp/kds-openclaw/blob/HEAD/agent-frameworks/omnicoreagent-main/cookbook/showcase/omniavelis/agents/evidence_agent.py
+Source repository: https://github.com/LORDBurnItUp/kds-openclaw
+
+Discovered and indexed by Alric.AI (https://alric.ai)

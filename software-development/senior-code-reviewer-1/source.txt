@@ -1,0 +1,6 @@
+Agent: Senior Code Reviewer
+Alric.AI page: https://alric.ai/agents/senior-code-reviewer-1
+Source file: https://github.com/hesreallyhim/awesome-claude-code-agents/blob/HEAD/agents/senior-code-reviewer.md
+Source repository: https://github.com/hesreallyhim/awesome-claude-code-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

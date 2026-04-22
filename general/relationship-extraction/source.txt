@@ -1,0 +1,6 @@
+Agent: Relationship Extraction
+Alric.AI page: https://alric.ai/agents/relationship-extraction
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/src/amplihack/vendor/blarify/agents/prompt_templates/relationship_extraction.py
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: DEPLOYMENT GUIDE
+Alric.AI page: https://alric.ai/agents/deployment-guide
+Source file: https://github.com/KenotheFalcon/Pact/blob/HEAD/docs/DEPLOYMENT_GUIDE.md
+Source repository: https://github.com/KenotheFalcon/Pact
+
+Discovered and indexed by Alric.AI (https://alric.ai)

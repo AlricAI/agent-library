@@ -1,0 +1,6 @@
+Agent: Exa Best Practices
+Alric.AI page: https://alric.ai/agents/exa-best-practices
+Source file: https://github.com/dcarmitage/claws/blob/HEAD/tools/exa-best-practices.md
+Source repository: https://github.com/dcarmitage/claws
+
+Discovered and indexed by Alric.AI (https://alric.ai)

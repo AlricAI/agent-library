@@ -1,0 +1,6 @@
+Agent: Evaluation Report
+Alric.AI page: https://alric.ai/agents/evaluation-report
+Source file: https://github.com/07Kaustubh/multi-swebench-eval/blob/HEAD/analysis/evaluation_report.md
+Source repository: https://github.com/07Kaustubh/multi-swebench-eval
+
+Discovered and indexed by Alric.AI (https://alric.ai)

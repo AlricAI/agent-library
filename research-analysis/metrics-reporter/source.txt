@@ -1,0 +1,6 @@
+Agent: Metrics Reporter
+Alric.AI page: https://alric.ai/agents/metrics-reporter
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/metrics-reporter/AGENTS.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Persona Specialist
+Alric.AI page: https://alric.ai/agents/persona-specialist-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/product-compass-consulting/agents/persona-specialist/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

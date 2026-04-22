@@ -1,0 +1,6 @@
+Agent: Tailwind CSS
+Alric.AI page: https://alric.ai/agents/tailwind-css
+Source file: https://github.com/dew-labs/wolfy-interface/blob/HEAD/.cursor/rules/tailwind.mdc
+Source repository: https://github.com/dew-labs/wolfy-interface
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Plugin Development
+Alric.AI page: https://alric.ai/agents/plugin-development
+Source file: https://github.com/hulunote/hulunote/blob/HEAD/docs/plugin-development.md
+Source repository: https://github.com/hulunote/hulunote
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: QUICK START
+Alric.AI page: https://alric.ai/agents/quick-start-10
+Source file: https://github.com/Khamel83/Atlas_OLD/blob/HEAD/oos/QUICK_START.md
+Source repository: https://github.com/Khamel83/Atlas_OLD
+
+Discovered and indexed by Alric.AI (https://alric.ai)

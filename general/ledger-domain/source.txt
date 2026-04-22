@@ -1,0 +1,6 @@
+Agent: LEDGER DOMAIN
+Alric.AI page: https://alric.ai/agents/ledger-domain
+Source file: https://github.com/yanndrade/finances-app/blob/HEAD/docs/LEDGER-DOMAIN.md
+Source repository: https://github.com/yanndrade/finances-app
+
+Discovered and indexed by Alric.AI (https://alric.ai)

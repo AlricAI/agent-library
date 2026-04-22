@@ -1,0 +1,6 @@
+Agent: DIAGRAMS
+Alric.AI page: https://alric.ai/agents/diagrams
+Source file: https://github.com/anchapin/ModPorter-AI/blob/HEAD/docs/DIAGRAMS.md
+Source repository: https://github.com/anchapin/ModPorter-AI
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: User Manual
+Alric.AI page: https://alric.ai/agents/user-manual-1
+Source file: https://github.com/oorosh/agentic.net/blob/HEAD/docs/user-manual.md
+Source repository: https://github.com/oorosh/agentic.net
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Lead Programmer
+Alric.AI page: https://alric.ai/agents/lead-programmer
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/donchitos-game-studio/agents/lead-programmer/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

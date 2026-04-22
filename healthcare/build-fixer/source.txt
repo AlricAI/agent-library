@@ -1,0 +1,6 @@
+Agent: build-fixer
+Alric.AI page: https://alric.ai/agents/build-fixer
+Source file: https://github.com/comet-ml/opik/blob/HEAD/.agents/agents/build-fixer.md
+Source repository: https://github.com/comet-ml/opik
+
+Discovered and indexed by Alric.AI (https://alric.ai)

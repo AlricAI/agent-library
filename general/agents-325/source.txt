@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-325
+Source file: https://github.com/usman-khan12/Vectr/blob/HEAD/backend/AGENTS.md
+Source repository: https://github.com/usman-khan12/Vectr
+
+Discovered and indexed by Alric.AI (https://alric.ai)

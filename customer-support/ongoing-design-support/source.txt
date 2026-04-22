@@ -1,0 +1,6 @@
+Agent: Ongoing Design Support
+Alric.AI page: https://alric.ai/agents/ongoing-design-support
+Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/memory/ongoing-design-support.md
+Source repository: https://github.com/Trollz1004/ANTIGRAVITY
+
+Discovered and indexed by Alric.AI (https://alric.ai)

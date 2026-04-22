@@ -1,0 +1,6 @@
+Agent: Database
+Alric.AI page: https://alric.ai/agents/database-11
+Source file: https://github.com/bluekid2457/MarketingDashboard2/blob/HEAD/specs/database.md
+Source repository: https://github.com/bluekid2457/MarketingDashboard2
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: PROTOCOL
+Alric.AI page: https://alric.ai/agents/protocol-1
+Source file: https://github.com/AlliedToasters/perihelion/blob/HEAD/agents/shared/payloads/p4_distributed_vote_v2/PROTOCOL.md
+Source repository: https://github.com/AlliedToasters/perihelion
+
+Discovered and indexed by Alric.AI (https://alric.ai)

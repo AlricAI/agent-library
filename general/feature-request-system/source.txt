@@ -1,0 +1,6 @@
+Agent: Feature Request System
+Alric.AI page: https://alric.ai/agents/feature-request-system
+Source file: https://github.com/Maokus/MVMNT/blob/HEAD/thoughts/feature-request-system.md
+Source repository: https://github.com/Maokus/MVMNT
+
+Discovered and indexed by Alric.AI (https://alric.ai)

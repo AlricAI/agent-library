@@ -1,0 +1,6 @@
+Agent: Risk Analyst
+Alric.AI page: https://alric.ai/agents/risk-analyst-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/product-compass-consulting/agents/risk-analyst/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

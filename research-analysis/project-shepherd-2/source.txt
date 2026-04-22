@@ -1,0 +1,6 @@
+Agent: Project Shepherd
+Alric.AI page: https://alric.ai/agents/project-shepherd-2
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/project-management-project-shepherd/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: MOBILE FEATURES
+Alric.AI page: https://alric.ai/agents/mobile-features
+Source file: https://github.com/rostiSe/mymemory/blob/HEAD/docs/MOBILE_FEATURES.md
+Source repository: https://github.com/rostiSe/mymemory
+
+Discovered and indexed by Alric.AI (https://alric.ai)

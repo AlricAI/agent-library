@@ -1,0 +1,6 @@
+Agent: User Stories Welle 5
+Alric.AI page: https://alric.ai/agents/user-stories-welle-5
+Source file: https://github.com/Wamocon/energy/blob/HEAD/requirements/user-stories-welle-5.md
+Source repository: https://github.com/Wamocon/energy
+
+Discovered and indexed by Alric.AI (https://alric.ai)

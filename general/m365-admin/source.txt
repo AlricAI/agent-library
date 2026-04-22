@@ -1,0 +1,6 @@
+Agent: m365-admin
+Alric.AI page: https://alric.ai/agents/m365-admin
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/info-tech/admin/m365-admin.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

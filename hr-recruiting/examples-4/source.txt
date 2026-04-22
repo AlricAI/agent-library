@@ -1,0 +1,6 @@
+Agent: Examples
+Alric.AI page: https://alric.ai/agents/examples-4
+Source file: https://github.com/genmcp/gen-mcp/blob/HEAD/docs/examples.md
+Source repository: https://github.com/genmcp/gen-mcp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

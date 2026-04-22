@@ -1,0 +1,6 @@
+Agent: What Is Ltix
+Alric.AI page: https://alric.ai/agents/what-is-ltix
+Source file: https://github.com/DecoyLex/ltix/blob/HEAD/guides/what-is-ltix.md
+Source repository: https://github.com/DecoyLex/ltix
+
+Discovered and indexed by Alric.AI (https://alric.ai)

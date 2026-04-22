@@ -1,0 +1,6 @@
+Agent: ARCHITECTURE
+Alric.AI page: https://alric.ai/agents/architecture-13
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/docs/ARCHITECTURE.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

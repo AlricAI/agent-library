@@ -1,0 +1,6 @@
+Agent: Browser Use Rollout Spec 2026 04 09
+Alric.AI page: https://alric.ai/agents/browser-use-rollout-spec-2026-04-09
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/docs/browser-use-rollout-spec-2026-04-09.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

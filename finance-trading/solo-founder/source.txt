@@ -1,0 +1,6 @@
+Agent: Solo Founder
+Alric.AI page: https://alric.ai/agents/solo-founder
+Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/claude-skills/agents/personas/solo-founder.md
+Source repository: https://github.com/ngTwg/Branding-Focused-Skills
+
+Discovered and indexed by Alric.AI (https://alric.ai)

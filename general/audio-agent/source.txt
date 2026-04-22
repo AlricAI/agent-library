@@ -1,0 +1,6 @@
+Agent: Audio Agent
+Alric.AI page: https://alric.ai/agents/audio-agent
+Source file: https://github.com/hippocampus-dev/hippocampus/blob/HEAD/cluster/applications/packages/cortex/cortex/llm/openai/agent/audio_agent.py
+Source repository: https://github.com/hippocampus-dev/hippocampus
+
+Discovered and indexed by Alric.AI (https://alric.ai)

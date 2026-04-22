@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-37
+Source file: https://github.com/koenvorster/Personal_project_VorstersNV/blob/HEAD/frontend/AGENTS.md
+Source repository: https://github.com/koenvorster/Personal_project_VorstersNV
+
+Discovered and indexed by Alric.AI (https://alric.ai)

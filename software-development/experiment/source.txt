@@ -1,0 +1,6 @@
+Agent: EXPERIMENT
+Alric.AI page: https://alric.ai/agents/experiment
+Source file: https://github.com/45ck/noslop/blob/HEAD/experiment/EXPERIMENT.md
+Source repository: https://github.com/45ck/noslop
+
+Discovered and indexed by Alric.AI (https://alric.ai)

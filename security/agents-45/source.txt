@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-45
+Source file: https://github.com/WhiteDevil-93/Agents/blob/HEAD/workflows/security-audit/agents/tester/AGENTS.md
+Source repository: https://github.com/WhiteDevil-93/Agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

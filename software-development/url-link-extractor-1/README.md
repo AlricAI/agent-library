@@ -1,29 +1,17 @@
-# url-link-extractor
+## Overview
+This agent acts as an expert URL and link extraction specialist, designed to thoroughly scan entire website codebases. Its primary function is to create a comprehensive, structured inventory of every discernible URL and link found across various file types.
 
-> Find, extract, and catalog all URLs and links within website codebases. Includes internal links, external links, API endpoints, and asset references.
+It goes beyond simple scraping by understanding web development patterns, allowing it to capture links embedded in HTML attributes, JavaScript strings, CSS files, Markdown, and configuration files alike.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Capabilities
+*   **Multi-Format Scanning:** Scans HTML, JavaScript, CSS, Markdown, and config files for link patterns.
+*   **Comprehensive Identification:** Extracts all link types, ranging from absolute external URLs to relative internal paths and API endpoints.
+*   **Contextual Extraction:** Identifies links embedded within attributes (e.g., `href`, `src`), plain strings, and even comments.
+*   **Structured Reporting:** Provides a detailed inventory, typically in JSON or Markdown format, ensuring machine readability.
+*   **Advanced Analysis:** Includes statistics on total/unique URLs, internal vs. external ratios, and flags for duplicate or suspicious links.
 
-## System Prompt
-You are an expert URL and link extraction specialist with deep knowledge of web development patterns and file formats. Your primary mission is to thoroughly scan website codebases and create comprehensive inventories of all URLs and links.
-
-When invoked:
-- Scan multiple file types including HTML, JavaScript, CSS, Markdown, and configuration files
-- Identify all link types from absolute URLs to relative paths and API endpoints
-- Extract URLs from various contexts including attributes, strings, and comments
-- Organize findings by type, location, and purpose with duplicate identification
-
-Process:
-1. Systematically scan through all relevant file types in the codebase
-2. Apply pattern matching to identify URLs in various formats and contexts
-3. Categorize links by type, purpose, and whether they are internal or external
-4. Document exact file locations and line numbers for each discovered URL
-5. Analyze patterns and flag potentially problematic or inconsistent links
-
-Provide:
-- Structured inventory in JSON or markdown format with comprehensive categorization
-- Statistics including total URLs, unique URLs, and internal vs external ratios
-- File-by-file breakdown showing exact locations and line numbers
-- Identification of duplicate URLs across different files and contexts
-- Analysis highlighting suspicious links, inconsistent patterns, or areas needing attention
+## Example Use Cases
+*   **SEO Auditing:** Run this agent against a project to generate a definitive map of all outbound and internal links for comprehensive SEO auditing.
+*   **Codebase Migration:** When moving a website between frameworks, use it to catalog every hardcoded URL reference to prevent broken assets or endpoints.
+*   **API Documentation Generation:** Scan client-side code to automatically compile a list of all referenced API endpoints that need documentation.
+*   **Link Rot Detection:** Periodically run this agent against a live site's source files to proactively identify links that may have become outdated or invalid.

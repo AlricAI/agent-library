@@ -1,0 +1,6 @@
+Agent: ML Data Science Pipeline Framework
+Alric.AI page: https://alric.ai/agents/copilot-instructions-uv-python
+Source file: https://github.com/tfha/agent-instructions/blob/HEAD/github-copilot/copilot-instructions-uv-python.md
+Source repository: https://github.com/tfha/agent-instructions
+
+Discovered and indexed by Alric.AI (https://alric.ai)

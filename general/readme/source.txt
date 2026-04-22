@@ -1,0 +1,6 @@
+Agent: TripCraft Travel Planner
+Alric.AI page: https://alric.ai/agents/readme
+Source file: https://github.com/Zidong-IA/BIBLIOTECA/blob/HEAD/references/repos-referencia/awesome-llm-apps/advanced_ai_agents/multi_agent_apps/agent_teams/ai_travel_planner_agent_team/backend/agents/README.md
+Source repository: https://github.com/Zidong-IA/BIBLIOTECA
+
+Discovered and indexed by Alric.AI (https://alric.ai)

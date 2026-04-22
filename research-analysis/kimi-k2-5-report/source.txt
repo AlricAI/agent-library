@@ -1,0 +1,6 @@
+Agent: Kimi K2.5 Report
+Alric.AI page: https://alric.ai/agents/kimi-k2-5-report
+Source file: https://github.com/07Kaustubh/multi-swebench-eval/blob/HEAD/analysis/kimi_k2.5_report.md
+Source repository: https://github.com/07Kaustubh/multi-swebench-eval
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: AGENT REFACTOR COMPLETE
+Alric.AI page: https://alric.ai/agents/agent-refactor-complete
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/claudedocs/AGENT_REFACTOR_COMPLETE.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

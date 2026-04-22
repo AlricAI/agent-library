@@ -1,0 +1,6 @@
+Agent: Renderer Release Instructions
+Alric.AI page: https://alric.ai/agents/renderer-release-instructions
+Source file: https://github.com/MaansenV/ECS2DTest/blob/HEAD/Assets/Renderer-Release-Instructions.md
+Source repository: https://github.com/MaansenV/ECS2DTest
+
+Discovered and indexed by Alric.AI (https://alric.ai)

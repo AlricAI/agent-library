@@ -1,0 +1,6 @@
+Agent: Manager
+Alric.AI page: https://alric.ai/agents/manager-63
+Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/multi_agent___specialized/AgentVerse/agentverse/agents/tasksolving_agent/manager.py
+Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
+
+Discovered and indexed by Alric.AI (https://alric.ai)

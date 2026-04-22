@@ -1,0 +1,6 @@
+Agent: meticulous-matt
+Alric.AI page: https://alric.ai/agents/meticulous-matt
+Source file: https://github.com/HakAl/team_skills/blob/HEAD/meticulous-matt/SKILL.md
+Source repository: https://github.com/HakAl/team_skills
+
+Discovered and indexed by Alric.AI (https://alric.ai)

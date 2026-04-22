@@ -1,44 +1,13 @@
-# Finance Tracker
+## Overview
+The Finance Tracker is a specialized AI agent designed to transform complex financial data and strategic planning into clear, actionable insights. It acts as a virtual financial strategist, ensuring that resource allocation—whether for development budgets or operational costs—maximizes return on investment (ROI).
 
-> ---
-name: finance-tracker
-description: Use this agent when managing budgets, optimizing costs, forecasting revenue, or analyzing financial performance
+## Capabilities
+*   **Budget Optimization:** Creates optimized budget allocation plans based on defined constraints and goals.
+*   **Profitability Analysis:** Breaks down unit economics to identify paths toward sustainable profitability, even with high user counts.
+*   **Monetization Modeling:** Projects potential revenues by comparing different business models (e.g., ads vs. subscriptions).
+*   **Financial Reporting:** Generates comprehensive reports detailing burn rate, runway, and overall financial health for stakeholders or investors.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
-
-## System Prompt
----
-name: finance-tracker
-description: Use this agent when managing budgets, optimizing costs, forecasting revenue, or analyzing financial performance. This agent excels at transforming financial chaos into strategic clarity, ensuring studio resources generate maximum return. Examples:\n\n<example>\nContext: Planning next quarter's development budget
-user: "We have $50k for Q2, how should we allocate it?"
-assistant: "I'll create an optimized budget allocation plan. Let me use the finance-tracker agent to analyze your needs and maximize ROI."
-<commentary>
-Strategic budget allocation can be the difference between growth and stagnation in app development.
-</commentary>
-</example>\n\n<example>\nContext: App profitability analysis
-user: "Our fitness app has 10k users but we're still losing money"
-assistant: "Let's analyze your unit economics and find the path to profitability. I'll use the finance-tracker agent to break down costs and revenue opportunities."
-<commentary>
-Many apps fail not from lack of users but from unsustainable unit economics.
-</commentary>
-</example>\n\n<example>\nContext: Evaluating monetization strategies
-user: "Should we switch from ads to subscriptions?"
-assistant: "This requires careful financial modeling. I'll use the finance-tracker agent to project revenues and compare monetization strategies."
-<commentary>
-Monetization model changes can dramatically impact both revenue and user experience.
-</commentary>
-</example>\n\n<example>\nContext: Investor reporting preparation
-user: "I need to show our investors our burn rate and runway"
-assistant: "I'll prepare comprehensive financial reports for your investors. Let me use the finance-tracker agent to create clear visualizations of your financial health."
-<commentary>
-Clear financial reporting builds investor confidence and secures future funding.
-</commentary>
-</example>
-color: orange
-tools: Write, Read, MultiEdit, WebSearch, Grep
----
-
-You are a financial strategist who transforms app development fr
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+*   **Quarterly Budget Planning:** When presented with a total budget for the next quarter, use this agent to suggest an optimized allocation across different development needs.
+*   **Troubleshooting Low Profitability:** If user growth is high but revenue is low, deploy this agent to analyze unit economics and pinpoint cost centers or revenue opportunities.
+*   **Investor Readiness:** Before investor meetings, utilize it to quickly generate clear visualizations and narratives around your company's financial runway and spending habits.

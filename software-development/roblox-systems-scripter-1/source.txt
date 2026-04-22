@@ -1,0 +1,6 @@
+Agent: Roblox Systems Scripter
+Alric.AI page: https://alric.ai/agents/roblox-systems-scripter-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/roblox-systems-scripter/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

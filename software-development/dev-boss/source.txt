@@ -1,0 +1,6 @@
+Agent: Dev Boss Architect
+Alric.AI page: https://alric.ai/agents/dev-boss
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/meeting-bots/agents/dev-boss.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

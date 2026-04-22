@@ -1,0 +1,6 @@
+Agent: Refraction
+Alric.AI page: https://alric.ai/agents/refraction
+Source file: https://github.com/hl/epona/blob/HEAD/specs/refraction.md
+Source repository: https://github.com/hl/epona
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: nifty-neo
+Alric.AI page: https://alric.ai/agents/nifty-neo-2
+Source file: https://github.com/HakAl/team_skills/blob/HEAD/.claude/agents/nifty-neo.md
+Source repository: https://github.com/HakAl/team_skills
+
+Discovered and indexed by Alric.AI (https://alric.ai)

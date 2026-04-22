@@ -1,0 +1,6 @@
+Agent: Worker System
+Alric.AI page: https://alric.ai/agents/worker-system
+Source file: https://github.com/cbwinslow/cloudcurio-monorepo-new/blob/HEAD/prompts/agents/worker_system.md
+Source repository: https://github.com/cbwinslow/cloudcurio-monorepo-new
+
+Discovered and indexed by Alric.AI (https://alric.ai)

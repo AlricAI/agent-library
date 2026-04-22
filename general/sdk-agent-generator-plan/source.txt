@@ -1,0 +1,6 @@
+Agent: SDK AGENT GENERATOR PLAN
+Alric.AI page: https://alric.ai/agents/sdk-agent-generator-plan
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/SDK_AGENT_GENERATOR_PLAN.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

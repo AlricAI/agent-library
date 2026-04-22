@@ -1,0 +1,6 @@
+Agent: Reviewer System
+Alric.AI page: https://alric.ai/agents/reviewer-system
+Source file: https://github.com/cbwinslow/cloudcurio-monorepo-new/blob/HEAD/prompts/agents/reviewer_system.md
+Source repository: https://github.com/cbwinslow/cloudcurio-monorepo-new
+
+Discovered and indexed by Alric.AI (https://alric.ai)

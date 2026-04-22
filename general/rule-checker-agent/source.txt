@@ -1,0 +1,6 @@
+Agent: Rule Checker Agent
+Alric.AI page: https://alric.ai/agents/rule-checker-agent
+Source file: https://github.com/omnirexflora-labs/omnicoreagent/blob/HEAD/cookbook/showcase/omniavelis/agents/rule_checker_agent.py
+Source repository: https://github.com/omnirexflora-labs/omnicoreagent
+
+Discovered and indexed by Alric.AI (https://alric.ai)

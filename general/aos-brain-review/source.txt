@@ -1,0 +1,6 @@
+Agent: Aos Brain Review
+Alric.AI page: https://alric.ai/agents/aos-brain-review
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/architecture/aos_brain_review.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

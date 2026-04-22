@@ -1,0 +1,6 @@
+Agent: Core
+Alric.AI page: https://alric.ai/agents/core-3
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/code-review/core.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

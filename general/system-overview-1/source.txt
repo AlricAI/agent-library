@@ -1,0 +1,6 @@
+Agent: System Overview
+Alric.AI page: https://alric.ai/agents/system-overview-1
+Source file: https://github.com/dcb/homeassistant-claude-kit/blob/HEAD/docs/system-overview.md
+Source repository: https://github.com/dcb/homeassistant-claude-kit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

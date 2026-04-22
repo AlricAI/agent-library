@@ -1,0 +1,6 @@
+Agent: DEPLOYMENT
+Alric.AI page: https://alric.ai/agents/deployment-5
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/docs/DEPLOYMENT.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

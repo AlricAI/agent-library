@@ -1,0 +1,6 @@
+Agent: ARMADA
+Alric.AI page: https://alric.ai/agents/armada
+Source file: https://github.com/dcarmitage/claws/blob/HEAD/systems/ARMADA.md
+Source repository: https://github.com/dcarmitage/claws
+
+Discovered and indexed by Alric.AI (https://alric.ai)

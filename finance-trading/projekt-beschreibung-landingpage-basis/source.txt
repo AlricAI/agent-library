@@ -1,0 +1,6 @@
+Agent: Projekt Beschreibung Landingpage Basis
+Alric.AI page: https://alric.ai/agents/projekt-beschreibung-landingpage-basis
+Source file: https://github.com/Wamocon/energy/blob/HEAD/requirements/projekt-beschreibung-landingpage-basis.md
+Source repository: https://github.com/Wamocon/energy
+
+Discovered and indexed by Alric.AI (https://alric.ai)

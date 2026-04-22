@@ -1,0 +1,6 @@
+Agent: Azure Verified Modules Terraform Guide
+Alric.AI page: https://alric.ai/agents/azure-verified-modules-terraform-instructions
+Source file: https://github.com/tfha/agent-instructions/blob/HEAD/instructions/azure-verified-modules-terraform.instructions.md
+Source repository: https://github.com/tfha/agent-instructions
+
+Discovered and indexed by Alric.AI (https://alric.ai)

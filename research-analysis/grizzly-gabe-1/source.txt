@@ -1,0 +1,6 @@
+Agent: grizzly-gabe
+Alric.AI page: https://alric.ai/agents/grizzly-gabe-1
+Source file: https://github.com/HakAl/team_skills/blob/HEAD/.claude/agents/grizzly-gabe.md
+Source repository: https://github.com/HakAl/team_skills
+
+Discovered and indexed by Alric.AI (https://alric.ai)

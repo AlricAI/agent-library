@@ -1,0 +1,6 @@
+Agent: 017 Okx Source
+Alric.AI page: https://alric.ai/agents/017-okx-source
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/prompts/017-okx-source.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

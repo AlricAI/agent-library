@@ -1,0 +1,6 @@
+Agent: financial-analyst
+Alric.AI page: https://alric.ai/agents/financial-analyst
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/claude-cookbooks/claude_agent_sdk/chief_of_staff_agent/.claude/agents/financial-analyst.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Google Play Billing Setup
+Alric.AI page: https://alric.ai/agents/google-play-billing-setup
+Source file: https://github.com/alkozlov/puzzle-dazzle/blob/HEAD/docs/google-play-billing-setup.md
+Source repository: https://github.com/alkozlov/puzzle-dazzle
+
+Discovered and indexed by Alric.AI (https://alric.ai)

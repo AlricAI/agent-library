@@ -1,0 +1,6 @@
+Agent: Code Cleanup
+Alric.AI page: https://alric.ai/agents/code-cleanup-1
+Source file: https://github.com/hippocampus-dev/hippocampus/blob/HEAD/files/home/kai/.config/claudex/config/agents/code-cleanup.md
+Source repository: https://github.com/hippocampus-dev/hippocampus
+
+Discovered and indexed by Alric.AI (https://alric.ai)

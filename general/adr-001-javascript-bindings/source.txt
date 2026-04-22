@@ -1,0 +1,6 @@
+Agent: Adr 001 Javascript Bindings
+Alric.AI page: https://alric.ai/agents/adr-001-javascript-bindings
+Source file: https://github.com/konjoai/vectro/blob/HEAD/docs/adr-001-javascript-bindings.md
+Source repository: https://github.com/konjoai/vectro
+
+Discovered and indexed by Alric.AI (https://alric.ai)

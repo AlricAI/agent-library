@@ -1,4 +1,4 @@
-Agent: Instagram Curator
+Agent: Instagram Content Strategist
 Alric.AI page: https://alric.ai/agents/instagram-curator
 Source file: https://github.com/contains-studio/agents/blob/HEAD/marketing/instagram-curator.md
 Source repository: https://github.com/contains-studio/agents

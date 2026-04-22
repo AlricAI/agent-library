@@ -1,0 +1,6 @@
+Agent: Mcp Agent Without Function Calling
+Alric.AI page: https://alric.ai/agents/mcp-agent-without-function-calling-5
+Source file: https://github.com/sec-staff-lilithgames/Multi-Agents/blob/HEAD/examples/agents/mcp_agent/mcp_agent_without_function_calling.py
+Source repository: https://github.com/sec-staff-lilithgames/Multi-Agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

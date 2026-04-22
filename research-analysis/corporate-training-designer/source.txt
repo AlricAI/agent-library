@@ -1,0 +1,6 @@
+Agent: Corporate Training Designer
+Alric.AI page: https://alric.ai/agents/corporate-training-designer
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/agency-agents/agents/corporate-training-designer/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

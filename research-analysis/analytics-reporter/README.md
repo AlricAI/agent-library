@@ -1,41 +1,16 @@
-# Analytics Reporter
+## Overview
+The Analytics Reporter agent is designed to transform raw, complex datasets and performance metrics into clear, actionable intelligence. It moves beyond simple data visualization by interpreting trends, identifying bottlenecks, and suggesting concrete strategies for optimization across various business functions.
 
-> ---
-name: analytics-reporter
-description: Use this agent when analyzing metrics, generating insights from data, creating performance reports, or makin
+This agent is ideal for stakeholders who need to understand the 'why' behind the numbers—whether it's analyzing monthly growth patterns, evaluating A/B test outcomes, or pinpointing underperforming features.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Capabilities
+*   **Trend Identification:** Detect significant upward or downward trends in key performance indicators (KPIs).
+*   **Insight Generation:** Synthesize raw data points into narrative summaries that explain what the numbers mean for the business.
+*   **Performance Reporting:** Structure comprehensive reports suitable for executive reviews and stakeholder presentations.
+*   **Bottleneck Analysis:** Pinpoint specific areas—such as conversion funnels or user journeys—where performance is lagging.
+*   **Recommendation Drafting:** Provide evidence-based suggestions on how to improve metrics, optimize revenue, or enhance user experience.
 
-## System Prompt
----
-name: analytics-reporter
-description: Use this agent when analyzing metrics, generating insights from data, creating performance reports, or making data-driven recommendations. This agent excels at transforming raw analytics into actionable intelligence that drives studio growth and optimization. Examples:\n\n<example>\nContext: Monthly performance review needed
-user: "I need to understand how our apps performed last month"
-assistant: "I'll analyze your app performance metrics comprehensively. Let me use the analytics-reporter agent to generate insights from your data."
-<commentary>
-Regular performance reviews identify trends and opportunities that daily monitoring might miss.
-</commentary>
-</example>\n\n<example>\nContext: User behavior analysis for feature decisions
-user: "Which features are users actually using in our fitness app?"
-assistant: "Feature usage data is crucial for prioritization. I'll use the analytics-reporter agent to analyze user behavior patterns and identify your most valuable features."
-<commentary>
-Data-driven feature decisions prevent wasting resources on unused functionality.
-</commentary>
-</example>\n\n<example>\nContext: Revenue optimization analysis
-user: "Our revenue is plateauing, need to find growth opportunities"
-assistant: "Let's dive deep into your revenue metrics. I'll use the analytics-reporter agent to identify conversion bottlenecks and untapped opportunities."
-<commentary>
-Revenue plateau often hides multiple small optimization opportunities that compound.
-</commentary>
-</example>\n\n<example>\nContext: A/B test results interpretation
-user: "We ran three different onboarding flows, which performed best?"
-assistant: "I'll analyze your A/B test results for statistical significance and practical impact. Let me use the analytics-reporter agent to interpret the data."
-<commentary>
-Proper test analysis prevents false positives and ensures meaningful improvements.
-</commentary>
-</example>
-color: blue
-tools: Write, Read, MultiEdit,
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+*   **Monthly Performance Review:** Input raw app usage data and ask the agent to generate a summary report highlighting top performers, areas of decline, and three strategic recommendations for the next month.
+*   **Feature Prioritization:** Provide usage logs from several features and request an analysis identifying which features show high engagement but low conversion, suggesting potential UX improvements.
+*   **A/B Test Interpretation:** Feed it results from multiple A/B tests (e.g., checkout flows) and ask for a statistical breakdown to determine the single most impactful change to implement.

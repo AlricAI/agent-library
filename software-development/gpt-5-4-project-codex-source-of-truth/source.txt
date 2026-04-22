@@ -1,0 +1,6 @@
+Agent: GPT 5.4 PROJECT CODEX SOURCE OF TRUTH
+Alric.AI page: https://alric.ai/agents/gpt-5-4-project-codex-source-of-truth
+Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/briefings/GPT-5.4-PROJECT-CODEX-SOURCE-OF-TRUTH.md
+Source repository: https://github.com/Trollz1004/ANTIGRAVITY
+
+Discovered and indexed by Alric.AI (https://alric.ai)

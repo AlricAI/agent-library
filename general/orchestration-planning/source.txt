@@ -1,0 +1,6 @@
+Agent: orchestration-planning
+Alric.AI page: https://alric.ai/agents/orchestration-planning
+Source file: https://github.com/HuaMick/AgenticEngineering/blob/HEAD/.claude/agents/orchestration-planning.md
+Source repository: https://github.com/HuaMick/AgenticEngineering
+
+Discovered and indexed by Alric.AI (https://alric.ai)

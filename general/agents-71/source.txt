@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-71
+Source file: https://github.com/erickmcaro/shippulse/blob/HEAD/workflows/project-gap-analysis/agents/repo-analyst/AGENTS.md
+Source repository: https://github.com/erickmcaro/shippulse
+
+Discovered and indexed by Alric.AI (https://alric.ai)

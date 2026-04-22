@@ -1,0 +1,6 @@
+Agent: test-uat
+Alric.AI page: https://alric.ai/agents/test-uat
+Source file: https://github.com/HuaMick/AgenticEngineering/blob/HEAD/.claude/agents/test-uat.md
+Source repository: https://github.com/HuaMick/AgenticEngineering
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Ai2050 Schmidt Sciences
+Alric.AI page: https://alric.ai/agents/ai2050-schmidt-sciences
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/sms-bot/agents/cs-chat/docsrepo/ai2050-schmidt-sciences.md
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-221
+Source file: https://github.com/VictorHueni/template-app/blob/HEAD/api/AGENTS.md
+Source repository: https://github.com/VictorHueni/template-app
+
+Discovered and indexed by Alric.AI (https://alric.ai)

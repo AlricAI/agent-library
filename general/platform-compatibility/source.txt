@@ -1,0 +1,6 @@
+Agent: PLATFORM COMPATIBILITY
+Alric.AI page: https://alric.ai/agents/platform-compatibility
+Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/PLATFORM_COMPATIBILITY.md
+Source repository: https://github.com/frumu-ai/tandem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

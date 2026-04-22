@@ -1,0 +1,6 @@
+Agent: Stop Py Integration
+Alric.AI page: https://alric.ai/agents/stop-py-integration
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/stop_py_integration.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

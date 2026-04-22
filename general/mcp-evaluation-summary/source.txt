@@ -1,0 +1,6 @@
+Agent: MCP EVALUATION SUMMARY
+Alric.AI page: https://alric.ai/agents/mcp-evaluation-summary
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/MCP_EVALUATION_SUMMARY.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Test Math Intent
+Alric.AI page: https://alric.ai/agents/test-math-intent
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/tests/agents/goal_seeking/test_math_intent.py
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

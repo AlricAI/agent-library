@@ -1,0 +1,6 @@
+Agent: performance-optimizer
+Alric.AI page: https://alric.ai/agents/performance-optimizer-5
+Source file: https://github.com/techwavedev/agi-agent-kit/blob/HEAD/templates/.agent/agents/performance-optimizer.md
+Source repository: https://github.com/techwavedev/agi-agent-kit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

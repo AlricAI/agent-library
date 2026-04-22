@@ -1,0 +1,6 @@
+Agent: History
+Alric.AI page: https://alric.ai/agents/history-1
+Source file: https://github.com/tmux-python/libtmux/blob/HEAD/docs/history.md
+Source repository: https://github.com/tmux-python/libtmux
+
+Discovered and indexed by Alric.AI (https://alric.ai)

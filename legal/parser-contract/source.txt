@@ -1,0 +1,6 @@
+Agent: Parser Contract
+Alric.AI page: https://alric.ai/agents/parser-contract
+Source file: https://github.com/hl/epona/blob/HEAD/specs/parser_contract.md
+Source repository: https://github.com/hl/epona
+
+Discovered and indexed by Alric.AI (https://alric.ai)

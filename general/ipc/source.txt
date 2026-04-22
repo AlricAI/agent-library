@@ -1,0 +1,6 @@
+Agent: Ipc
+Alric.AI page: https://alric.ai/agents/ipc
+Source file: https://github.com/solatis/koan/blob/HEAD/docs/ipc.md
+Source repository: https://github.com/solatis/koan
+
+Discovered and indexed by Alric.AI (https://alric.ai)

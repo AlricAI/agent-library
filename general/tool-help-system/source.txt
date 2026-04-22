@@ -1,0 +1,6 @@
+Agent: TOOL HELP SYSTEM
+Alric.AI page: https://alric.ai/agents/tool-help-system
+Source file: https://github.com/madeindigio/remembrances-mcp/blob/HEAD/docs/TOOL_HELP_SYSTEM.md
+Source repository: https://github.com/madeindigio/remembrances-mcp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

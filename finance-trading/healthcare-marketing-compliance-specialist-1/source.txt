@@ -1,0 +1,6 @@
+Agent: Healthcare Marketing Compliance Specialist
+Alric.AI page: https://alric.ai/agents/healthcare-marketing-compliance-specialist-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/healthcare-marketing-compliance/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: PLATFORMS
+Alric.AI page: https://alric.ai/agents/platforms
+Source file: https://github.com/Cortexa-LLC/sourcerer/blob/HEAD/symbols/PLATFORMS.md
+Source repository: https://github.com/Cortexa-LLC/sourcerer
+
+Discovered and indexed by Alric.AI (https://alric.ai)

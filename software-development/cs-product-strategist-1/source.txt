@@ -1,0 +1,6 @@
+Agent: Cs Product Strategist
+Alric.AI page: https://alric.ai/agents/cs-product-strategist-1
+Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/claude-skills/docs/agents/cs-product-strategist.md
+Source repository: https://github.com/ngTwg/Branding-Focused-Skills
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: DESIGN SYSTEM
+Alric.AI page: https://alric.ai/agents/design-system
+Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/DESIGN_SYSTEM.md
+Source repository: https://github.com/frumu-ai/tandem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

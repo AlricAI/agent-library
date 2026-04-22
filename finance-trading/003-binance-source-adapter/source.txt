@@ -1,0 +1,6 @@
+Agent: 003 Binance Source Adapter
+Alric.AI page: https://alric.ai/agents/003-binance-source-adapter
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/prompts/003-binance-source-adapter.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

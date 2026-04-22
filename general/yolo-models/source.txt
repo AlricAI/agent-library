@@ -1,0 +1,6 @@
+Agent: Yolo Models
+Alric.AI page: https://alric.ai/agents/yolo-models
+Source file: https://github.com/jfarcand/mirroir-mcp/blob/HEAD/docs/yolo-models.md
+Source repository: https://github.com/jfarcand/mirroir-mcp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

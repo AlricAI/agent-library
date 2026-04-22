@@ -1,4 +1,4 @@
-Agent: life-watcher
+Agent: Life Watcher
 Alric.AI page: https://alric.ai/agents/life-watcher
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/meeting-bots/agents/life-watcher.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

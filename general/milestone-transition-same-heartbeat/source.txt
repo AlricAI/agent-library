@@ -1,0 +1,6 @@
+Agent: milestone_transition_same_heartbeat
+Alric.AI page: https://alric.ai/agents/milestone-transition-same-heartbeat
+Source file: https://github.com/LoveAndCoding/olivia/blob/HEAD/agents/ceo/memory/feedback_milestone_transition.md
+Source repository: https://github.com/LoveAndCoding/olivia
+
+Discovered and indexed by Alric.AI (https://alric.ai)

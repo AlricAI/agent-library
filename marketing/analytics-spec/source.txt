@@ -1,0 +1,6 @@
+Agent: ANALYTICS SPEC
+Alric.AI page: https://alric.ai/agents/analytics-spec
+Source file: https://github.com/FrancescoPuglia/life-tracker/blob/HEAD/docs/ANALYTICS_SPEC.md
+Source repository: https://github.com/FrancescoPuglia/life-tracker
+
+Discovered and indexed by Alric.AI (https://alric.ai)

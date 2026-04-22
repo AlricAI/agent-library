@@ -1,0 +1,6 @@
+Agent: ARCHITECTURE AUDIT
+Alric.AI page: https://alric.ai/agents/architecture-audit
+Source file: https://github.com/FGD-ATR-EP/AGS/blob/HEAD/docs/ARCHITECTURE_AUDIT.md
+Source repository: https://github.com/FGD-ATR-EP/AGS
+
+Discovered and indexed by Alric.AI (https://alric.ai)

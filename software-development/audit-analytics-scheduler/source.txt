@@ -1,0 +1,6 @@
+Agent: AUDIT ANALYTICS SCHEDULER
+Alric.AI page: https://alric.ai/agents/audit-analytics-scheduler
+Source file: https://github.com/FrancescoPuglia/life-tracker/blob/HEAD/docs/AUDIT_ANALYTICS_SCHEDULER.md
+Source repository: https://github.com/FrancescoPuglia/life-tracker
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: State Management2
+Alric.AI page: https://alric.ai/agents/state-management2
+Source file: https://github.com/qemqemqem/mechawiki/blob/HEAD/notes/state_management2.md
+Source repository: https://github.com/qemqemqem/mechawiki
+
+Discovered and indexed by Alric.AI (https://alric.ai)

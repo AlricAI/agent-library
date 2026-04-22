@@ -1,0 +1,6 @@
+Agent: INFRA
+Alric.AI page: https://alric.ai/agents/infra-1
+Source file: https://github.com/nakamu12/lumineer/blob/HEAD/docs/INFRA.md
+Source repository: https://github.com/nakamu12/lumineer
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Index
+Alric.AI page: https://alric.ai/agents/index-18
+Source file: https://github.com/justindobbs/Tracecore/blob/HEAD/docs/index.md
+Source repository: https://github.com/justindobbs/Tracecore
+
+Discovered and indexed by Alric.AI (https://alric.ai)

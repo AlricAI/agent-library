@@ -1,0 +1,6 @@
+Agent: Concepts
+Alric.AI page: https://alric.ai/agents/concepts
+Source file: https://github.com/andreypotekhin/taitl-existential/blob/HEAD/docs/Concepts.md
+Source repository: https://github.com/andreypotekhin/taitl-existential
+
+Discovered and indexed by Alric.AI (https://alric.ai)

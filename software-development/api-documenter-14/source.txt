@@ -1,0 +1,6 @@
+Agent: api-documenter
+Alric.AI page: https://alric.ai/agents/api-documenter-14
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/docs/api-documenter.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

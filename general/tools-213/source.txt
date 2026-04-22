@@ -1,0 +1,6 @@
+Agent: TOOLS
+Alric.AI page: https://alric.ai/agents/tools-213
+Source file: https://github.com/townie/do-it/blob/HEAD/agents/founding-engineer/TOOLS.md
+Source repository: https://github.com/townie/do-it
+
+Discovered and indexed by Alric.AI (https://alric.ai)

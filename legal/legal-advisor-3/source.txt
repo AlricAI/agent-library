@@ -1,4 +1,4 @@
-Agent: legal-advisor
+Agent: Legal Compliance Advisor
 Alric.AI page: https://alric.ai/agents/legal-advisor-3
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/legal-advisor.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

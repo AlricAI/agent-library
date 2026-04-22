@@ -1,0 +1,6 @@
+Agent: Synth Plan V1
+Alric.AI page: https://alric.ai/agents/synth-plan-v1-1
+Source file: https://github.com/Maokus/MVMNT/blob/HEAD/thoughts/synth_plan_v1.md
+Source repository: https://github.com/Maokus/MVMNT
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: SECURITY INCIDENT TEMPLATE
+Alric.AI page: https://alric.ai/agents/security-incident-template
+Source file: https://github.com/digital-hooligan/invariant-marketing/blob/HEAD/docs/SECURITY_INCIDENT_TEMPLATE.md
+Source repository: https://github.com/digital-hooligan/invariant-marketing
+
+Discovered and indexed by Alric.AI (https://alric.ai)

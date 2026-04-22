@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-113
+Source file: https://github.com/numerai/example-scripts/blob/HEAD/numerai/agents/AGENTS.md
+Source repository: https://github.com/numerai/example-scripts
+
+Discovered and indexed by Alric.AI (https://alric.ai)

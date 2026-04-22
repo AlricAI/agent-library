@@ -1,0 +1,6 @@
+Agent: Issue Tracker Assistant
+Alric.AI page: https://alric.ai/agents/my-issues-prompt
+Source file: https://github.com/tfha/agent-instructions/blob/HEAD/prompts/my-issues.prompt.md
+Source repository: https://github.com/tfha/agent-instructions
+
+Discovered and indexed by Alric.AI (https://alric.ai)

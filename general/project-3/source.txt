@@ -1,0 +1,6 @@
+Agent: Project
+Alric.AI page: https://alric.ai/agents/project-3
+Source file: https://github.com/aictrl-dev/cli/blob/HEAD/specs/project.md
+Source repository: https://github.com/aictrl-dev/cli
+
+Discovered and indexed by Alric.AI (https://alric.ai)

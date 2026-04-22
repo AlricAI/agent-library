@@ -1,0 +1,6 @@
+Agent: Rendering Writeup 1
+Alric.AI page: https://alric.ai/agents/rendering-writeup-1
+Source file: https://github.com/Maokus/MVMNT/blob/HEAD/thoughts/rendering-writeup-1.md
+Source repository: https://github.com/Maokus/MVMNT
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Prompt Versioning Library Design Ja
+Alric.AI page: https://alric.ai/agents/prompt-versioning-library-design-ja-2
+Source file: https://github.com/scott2121/prompttree/blob/HEAD/docs/prompt-versioning-library-design-ja.md
+Source repository: https://github.com/scott2121/prompttree
+
+Discovered and indexed by Alric.AI (https://alric.ai)

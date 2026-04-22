@@ -1,0 +1,6 @@
+Agent:  Tool Definitions
+Alric.AI page: https://alric.ai/agents/tool-definitions-2
+Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/autogen/python/packages/autogen-ext/src/autogen_ext/agents/file_surfer/_tool_definitions.py
+Source repository: https://github.com/ngTwg/Branding-Focused-Skills
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: UNIVERSAL SYNC PROMPT
+Alric.AI page: https://alric.ai/agents/universal-sync-prompt
+Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/briefings/UNIVERSAL-SYNC-PROMPT.md
+Source repository: https://github.com/Trollz1004/ANTIGRAVITY
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: TASK 002 Baseline Quality Hardening
+Alric.AI page: https://alric.ai/agents/task-002-baseline-quality-hardening
+Source file: https://github.com/Zer0x25/mini-crm-tickets/blob/HEAD/tasks/TASK-002-baseline-quality-hardening.md
+Source repository: https://github.com/Zer0x25/mini-crm-tickets
+
+Discovered and indexed by Alric.AI (https://alric.ai)

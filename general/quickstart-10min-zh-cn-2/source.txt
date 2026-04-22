@@ -1,0 +1,6 @@
+Agent: Quickstart 10min.Zh CN
+Alric.AI page: https://alric.ai/agents/quickstart-10min-zh-cn-2
+Source file: https://github.com/NoPKT/omnimem/blob/HEAD/docs/quickstart-10min.zh-CN.md
+Source repository: https://github.com/NoPKT/omnimem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

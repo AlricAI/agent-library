@@ -1,0 +1,6 @@
+Agent: Image Agent
+Alric.AI page: https://alric.ai/agents/image-agent-1
+Source file: https://github.com/hippocampus-dev/hippocampus/blob/HEAD/cluster/applications/packages/cortex/cortex/llm/openai/agent/image_agent.py
+Source repository: https://github.com/hippocampus-dev/hippocampus
+
+Discovered and indexed by Alric.AI (https://alric.ai)

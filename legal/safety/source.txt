@@ -1,0 +1,6 @@
+Agent: Safety
+Alric.AI page: https://alric.ai/agents/safety
+Source file: https://github.com/Clawland-AI/Clawarm/blob/HEAD/docs/safety.md
+Source repository: https://github.com/Clawland-AI/Clawarm
+
+Discovered and indexed by Alric.AI (https://alric.ai)

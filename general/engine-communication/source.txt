@@ -1,0 +1,6 @@
+Agent: ENGINE COMMUNICATION
+Alric.AI page: https://alric.ai/agents/engine-communication
+Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/ENGINE_COMMUNICATION.md
+Source repository: https://github.com/frumu-ai/tandem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

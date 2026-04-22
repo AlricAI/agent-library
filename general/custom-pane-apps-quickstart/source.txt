@@ -1,0 +1,6 @@
+Agent: Custom Pane Apps Quickstart
+Alric.AI page: https://alric.ai/agents/custom-pane-apps-quickstart
+Source file: https://github.com/Saluana/or3-chat/blob/HEAD/docs/custom-pane-apps-quickstart.md
+Source repository: https://github.com/Saluana/or3-chat
+
+Discovered and indexed by Alric.AI (https://alric.ai)

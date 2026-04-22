@@ -1,0 +1,6 @@
+Agent: REESE REVIEWS DELIVERY
+Alric.AI page: https://alric.ai/agents/reese-reviews-delivery
+Source file: https://github.com/midnghtsapphire/reese-reviews/blob/HEAD/docs/REESE_REVIEWS_DELIVERY.md
+Source repository: https://github.com/midnghtsapphire/reese-reviews
+
+Discovered and indexed by Alric.AI (https://alric.ai)

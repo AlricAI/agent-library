@@ -1,0 +1,6 @@
+Agent: Local Development
+Alric.AI page: https://alric.ai/agents/local-development
+Source file: https://github.com/keyteki/keyteki/blob/HEAD/docs/local-development.md
+Source repository: https://github.com/keyteki/keyteki
+
+Discovered and indexed by Alric.AI (https://alric.ai)

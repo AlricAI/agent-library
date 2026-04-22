@@ -1,0 +1,6 @@
+Agent: ARCHITECTURE
+Alric.AI page: https://alric.ai/agents/architecture-10
+Source file: https://github.com/rostiSe/mymemory/blob/HEAD/docs/ARCHITECTURE.md
+Source repository: https://github.com/rostiSe/mymemory
+
+Discovered and indexed by Alric.AI (https://alric.ai)

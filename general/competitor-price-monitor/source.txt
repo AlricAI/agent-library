@@ -1,0 +1,6 @@
+Agent: Competitor Price Monitor
+Alric.AI page: https://alric.ai/agents/competitor-price-monitor
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/competitor-price-monitor.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

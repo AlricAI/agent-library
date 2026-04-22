@@ -1,0 +1,6 @@
+Agent: STUDIO
+Alric.AI page: https://alric.ai/agents/studio
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/pixelpit/STUDIO.md
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

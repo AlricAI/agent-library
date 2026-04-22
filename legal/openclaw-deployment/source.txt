@@ -1,0 +1,6 @@
+Agent: Openclaw Deployment
+Alric.AI page: https://alric.ai/agents/openclaw-deployment
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/docs/openclaw-deployment.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

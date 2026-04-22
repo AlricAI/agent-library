@@ -1,4 +1,4 @@
-Agent: mcp-registry-navigator
+Agent: MCP Registry Navigator
 Alric.AI page: https://alric.ai/agents/mcp-registry-navigator-1
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/mcp-registry-navigator.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

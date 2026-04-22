@@ -1,0 +1,6 @@
+Agent: Theme Backgrounds
+Alric.AI page: https://alric.ai/agents/theme-backgrounds
+Source file: https://github.com/Saluana/or3-chat/blob/HEAD/docs/theme-backgrounds.md
+Source repository: https://github.com/Saluana/or3-chat
+
+Discovered and indexed by Alric.AI (https://alric.ai)

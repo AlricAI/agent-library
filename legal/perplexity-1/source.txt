@@ -1,0 +1,6 @@
+Agent: Perplexity
+Alric.AI page: https://alric.ai/agents/perplexity-1
+Source file: https://github.com/zapabob/clawdbot/blob/HEAD/docs/perplexity.md
+Source repository: https://github.com/zapabob/clawdbot
+
+Discovered and indexed by Alric.AI (https://alric.ai)

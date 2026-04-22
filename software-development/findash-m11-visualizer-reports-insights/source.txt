@@ -1,0 +1,6 @@
+Agent: Findash M11: Visualizer / Reports & Insights
+Alric.AI page: https://alric.ai/agents/findash-m11-visualizer-reports-insights
+Source file: https://github.com/massoudsh/Findash/blob/HEAD/.cursor/rules/findash-reports-insights.mdc
+Source repository: https://github.com/massoudsh/Findash
+
+Discovered and indexed by Alric.AI (https://alric.ai)

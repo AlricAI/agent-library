@@ -1,0 +1,6 @@
+Agent: Planner
+Alric.AI page: https://alric.ai/agents/planner-7
+Source file: https://github.com/Wamocon/energy/blob/HEAD/.github/agents/planner.agent.md
+Source repository: https://github.com/Wamocon/energy
+
+Discovered and indexed by Alric.AI (https://alric.ai)

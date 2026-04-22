@@ -1,0 +1,6 @@
+Agent: database-reviewer
+Alric.AI page: https://alric.ai/agents/database-reviewer
+Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/kit/core/agents/database-reviewer/AGENT.md
+Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

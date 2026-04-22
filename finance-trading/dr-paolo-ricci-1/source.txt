@@ -1,0 +1,6 @@
+Agent: Dr. Paolo Ricci
+Alric.AI page: https://alric.ai/agents/dr-paolo-ricci-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/market-research-analyst/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

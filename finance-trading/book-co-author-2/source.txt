@@ -1,0 +1,6 @@
+Agent: Book Co-Author
+Alric.AI page: https://alric.ai/agents/book-co-author-2
+Source file: https://github.com/paperclipai/companies/blob/HEAD/agency-agents/agents/marketing-book-co-author/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

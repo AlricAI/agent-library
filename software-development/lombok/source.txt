@@ -1,0 +1,6 @@
+Agent: Lombok
+Alric.AI page: https://alric.ai/agents/lombok
+Source file: https://github.com/bnbarak/openai-agent-sdk/blob/HEAD/codingAgentDocs/lombok.md
+Source repository: https://github.com/bnbarak/openai-agent-sdk
+
+Discovered and indexed by Alric.AI (https://alric.ai)

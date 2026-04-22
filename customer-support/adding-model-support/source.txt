@@ -1,0 +1,6 @@
+Agent: Adding Model Support
+Alric.AI page: https://alric.ai/agents/adding-model-support
+Source file: https://github.com/WolframResearch/Chatbook/blob/HEAD/docs/adding-model-support.md
+Source repository: https://github.com/WolframResearch/Chatbook
+
+Discovered and indexed by Alric.AI (https://alric.ai)

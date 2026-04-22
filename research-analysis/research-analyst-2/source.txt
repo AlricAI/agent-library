@@ -1,0 +1,6 @@
+Agent: Research Analyst
+Alric.AI page: https://alric.ai/agents/research-analyst-2
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/aeon-intelligence/agents/research-analyst/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

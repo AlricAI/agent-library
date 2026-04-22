@@ -1,0 +1,6 @@
+Agent: Quick Start
+Alric.AI page: https://alric.ai/agents/quick-start-1
+Source file: https://github.com/joggrdocs/funkai/blob/HEAD/docs/quick-start.md
+Source repository: https://github.com/joggrdocs/funkai
+
+Discovered and indexed by Alric.AI (https://alric.ai)

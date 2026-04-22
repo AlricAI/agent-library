@@ -1,0 +1,6 @@
+Agent: Information For Physical Player
+Alric.AI page: https://alric.ai/agents/information-for-physical-player
+Source file: https://github.com/fabkury/p3a/blob/HEAD/certs/information_for_physical_player.md
+Source repository: https://github.com/fabkury/p3a
+
+Discovered and indexed by Alric.AI (https://alric.ai)

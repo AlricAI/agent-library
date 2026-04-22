@@ -1,0 +1,6 @@
+Agent: Claude Instructions
+Alric.AI page: https://alric.ai/agents/claude-instructions
+Source file: https://github.com/kentonium3/kg-automation/blob/HEAD/ai-agents/claude-instructions.md
+Source repository: https://github.com/kentonium3/kg-automation
+
+Discovered and indexed by Alric.AI (https://alric.ai)

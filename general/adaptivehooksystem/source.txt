@@ -1,0 +1,6 @@
+Agent: AdaptiveHookSystem
+Alric.AI page: https://alric.ai/agents/adaptivehooksystem
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/AdaptiveHookSystem.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

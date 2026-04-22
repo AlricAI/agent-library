@@ -1,0 +1,6 @@
+Agent: Rete Overview
+Alric.AI page: https://alric.ai/agents/rete-overview
+Source file: https://github.com/hl/epona/blob/HEAD/specs/rete_overview.md
+Source repository: https://github.com/hl/epona
+
+Discovered and indexed by Alric.AI (https://alric.ai)

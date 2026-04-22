@@ -1,0 +1,6 @@
+Agent: Qa Startup Guide.Zh CN
+Alric.AI page: https://alric.ai/agents/qa-startup-guide-zh-cn
+Source file: https://github.com/NoPKT/omnimem/blob/HEAD/docs/qa-startup-guide.zh-CN.md
+Source repository: https://github.com/NoPKT/omnimem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

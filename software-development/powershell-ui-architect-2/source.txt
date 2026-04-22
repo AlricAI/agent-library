@@ -1,0 +1,6 @@
+Agent: powershell-ui-architect
+Alric.AI page: https://alric.ai/agents/powershell-ui-architect-2
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/ui/pwsh-ui-architect.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

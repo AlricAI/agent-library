@@ -1,0 +1,6 @@
+Agent: Basic Agents
+Alric.AI page: https://alric.ai/agents/basic-agents-1
+Source file: https://github.com/BinaryTape/Open-Docs/blob/HEAD/docs/ja/koog/agents/basic-agents.md
+Source repository: https://github.com/BinaryTape/Open-Docs
+
+Discovered and indexed by Alric.AI (https://alric.ai)

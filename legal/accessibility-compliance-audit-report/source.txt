@@ -1,0 +1,6 @@
+Agent: Accessibility Compliance Audit Report
+Alric.AI page: https://alric.ai/agents/accessibility-compliance-audit-report
+Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/design-specs/accessibility-compliance-audit-report.md
+Source repository: https://github.com/Trollz1004/ANTIGRAVITY
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Donchitos Game Studio
+Alric.AI page: https://alric.ai/agents/donchitos-game-studio
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/donchitos-game-studio/COMPANY.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

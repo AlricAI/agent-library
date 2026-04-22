@@ -1,0 +1,6 @@
+Agent: CHANNELS LIFECYCLE AND DIAGNOSTICS
+Alric.AI page: https://alric.ai/agents/channels-lifecycle-and-diagnostics
+Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/CHANNELS_LIFECYCLE_AND_DIAGNOSTICS.md
+Source repository: https://github.com/frumu-ai/tandem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

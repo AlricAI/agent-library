@@ -1,0 +1,6 @@
+Agent: Sprint 00 Foundation
+Alric.AI page: https://alric.ai/agents/sprint-00-foundation
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/sprints/sprint-00-foundation.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

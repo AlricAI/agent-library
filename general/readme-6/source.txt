@@ -1,0 +1,6 @@
+Agent: README
+Alric.AI page: https://alric.ai/agents/readme-6
+Source file: https://github.com/justindobbs/Tracecore/blob/HEAD/agents/README.md
+Source repository: https://github.com/justindobbs/Tracecore
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Blueprint
+Alric.AI page: https://alric.ai/agents/blueprint-1
+Source file: https://github.com/bhagyabanghadai/VEIL_MVP/blob/HEAD/docs/blueprint.md
+Source repository: https://github.com/bhagyabanghadai/VEIL_MVP
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: test-runner-specialist
+Alric.AI page: https://alric.ai/agents/test-runner-specialist
+Source file: https://github.com/matteocervelli/llms/blob/HEAD/.claude/agents/test-runner-specialist.md
+Source repository: https://github.com/matteocervelli/llms
+
+Discovered and indexed by Alric.AI (https://alric.ai)

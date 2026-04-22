@@ -1,0 +1,6 @@
+Agent: Master Architecture V2.1
+Alric.AI page: https://alric.ai/agents/master-architecture-v2-1
+Source file: https://github.com/bhagyabanghadai/VEIL_MVP/blob/HEAD/docs/Master_Architecture_v2.1.md
+Source repository: https://github.com/bhagyabanghadai/VEIL_MVP
+
+Discovered and indexed by Alric.AI (https://alric.ai)

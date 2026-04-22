@@ -1,0 +1,6 @@
+Agent: Faq
+Alric.AI page: https://alric.ai/agents/faq-4
+Source file: https://github.com/jfarcand/mirroir-mcp/blob/HEAD/docs/faq.md
+Source repository: https://github.com/jfarcand/mirroir-mcp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

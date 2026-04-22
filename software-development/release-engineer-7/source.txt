@@ -1,0 +1,6 @@
+Agent: Release Engineer
+Alric.AI page: https://alric.ai/agents/release-engineer-7
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/gstack/agents/release-engineer/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

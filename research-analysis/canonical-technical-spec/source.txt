@@ -1,0 +1,6 @@
+Agent: CANONICAL TECHNICAL SPEC
+Alric.AI page: https://alric.ai/agents/canonical-technical-spec
+Source file: https://github.com/FGD-ATR-EP/AGS/blob/HEAD/docs/CANONICAL_TECHNICAL_SPEC.md
+Source repository: https://github.com/FGD-ATR-EP/AGS
+
+Discovered and indexed by Alric.AI (https://alric.ai)

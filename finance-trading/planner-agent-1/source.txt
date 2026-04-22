@@ -1,0 +1,6 @@
+Agent: Planner.Agent
+Alric.AI page: https://alric.ai/agents/planner-agent-1
+Source file: https://github.com/bluekid2457/MarketingDashboard2/blob/HEAD/.github/agents/planner.agent.md
+Source repository: https://github.com/bluekid2457/MarketingDashboard2
+
+Discovered and indexed by Alric.AI (https://alric.ai)

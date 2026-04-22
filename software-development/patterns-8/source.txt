@@ -1,0 +1,6 @@
+Agent: patterns
+Alric.AI page: https://alric.ai/agents/patterns-8
+Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/.claude/agents/amplihack/specialized/patterns.md
+Source repository: https://github.com/rysweet/AzureHayMaker
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,4 +1,4 @@
-Agent: prompt-crafter
+Agent: Prompt Crafter
 Alric.AI page: https://alric.ai/agents/prompt-crafter-1
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/mcp-servers-creative/agents/prompt-crafter.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

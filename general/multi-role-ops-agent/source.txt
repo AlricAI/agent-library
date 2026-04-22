@@ -1,0 +1,6 @@
+Agent: Multi Role Ops Agent
+Alric.AI page: https://alric.ai/agents/multi-role-ops-agent
+Source file: https://github.com/justindobbs/Tracecore/blob/HEAD/agent_bench/agents/multi_role_ops_agent.py
+Source repository: https://github.com/justindobbs/Tracecore
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Milkman Status
+Alric.AI page: https://alric.ai/agents/milkman-status
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier1/jordan/reports/milkman_status.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

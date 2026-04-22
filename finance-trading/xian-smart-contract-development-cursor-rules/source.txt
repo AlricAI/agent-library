@@ -1,0 +1,6 @@
+Agent: Xian Smart Contract Development - Cursor Rules
+Alric.AI page: https://alric.ai/agents/xian-smart-contract-development-cursor-rules
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/rules/.wip/xian-smart-contracts/.cursorrules
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Mac App Runtime Contract
+Alric.AI page: https://alric.ai/agents/mac-app-runtime-contract
+Source file: https://github.com/numman-ali/mlxr/blob/HEAD/docs/mac-app-runtime-contract.md
+Source repository: https://github.com/numman-ali/mlxr
+
+Discovered and indexed by Alric.AI (https://alric.ai)

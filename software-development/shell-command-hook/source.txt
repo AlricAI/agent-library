@@ -1,0 +1,6 @@
+Agent: SHELL COMMAND HOOK
+Alric.AI page: https://alric.ai/agents/shell-command-hook
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/docs/SHELL_COMMAND_HOOK.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

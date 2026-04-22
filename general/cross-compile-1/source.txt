@@ -1,0 +1,6 @@
+Agent: CROSS COMPILE
+Alric.AI page: https://alric.ai/agents/cross-compile-1
+Source file: https://github.com/madeindigio/remembrances-mcp/blob/HEAD/docs/CROSS_COMPILE.md
+Source repository: https://github.com/madeindigio/remembrances-mcp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

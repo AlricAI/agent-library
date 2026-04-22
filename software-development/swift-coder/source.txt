@@ -1,0 +1,6 @@
+Agent: swift-coder
+Alric.AI page: https://alric.ai/agents/swift-coder
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/.claude/agents/swift-coder.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

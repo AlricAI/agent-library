@@ -1,0 +1,6 @@
+Agent: CLI DIAGNOSTIC FEATURES SPEC
+Alric.AI page: https://alric.ai/agents/cli-diagnostic-features-spec
+Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/docs/CLI_DIAGNOSTIC_FEATURES_SPEC.md
+Source repository: https://github.com/rysweet/AzureHayMaker
+
+Discovered and indexed by Alric.AI (https://alric.ai)

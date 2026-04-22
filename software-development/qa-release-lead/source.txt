@@ -1,0 +1,6 @@
+Agent: QA & Release Lead
+Alric.AI page: https://alric.ai/agents/qa-release-lead
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/agentsys-engineering/agents/qa-release-lead/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

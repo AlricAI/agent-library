@@ -1,0 +1,6 @@
+Agent: multi-agent-debate
+Alric.AI page: https://alric.ai/agents/multi-agent-debate-2
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/src/amplihack/agents/amplihack/specialized/multi-agent-debate.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

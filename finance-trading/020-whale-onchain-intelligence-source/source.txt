@@ -1,0 +1,6 @@
+Agent: 020 Whale Onchain Intelligence Source
+Alric.AI page: https://alric.ai/agents/020-whale-onchain-intelligence-source
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/prompts/020-whale-onchain-intelligence-source.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

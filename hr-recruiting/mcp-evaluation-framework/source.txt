@@ -1,0 +1,6 @@
+Agent: MCP EVALUATION FRAMEWORK
+Alric.AI page: https://alric.ai/agents/mcp-evaluation-framework
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/MCP_EVALUATION_FRAMEWORK.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

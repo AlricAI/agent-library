@@ -1,0 +1,6 @@
+Agent: Overview
+Alric.AI page: https://alric.ai/agents/overview
+Source file: https://github.com/joggrdocs/funkai/blob/HEAD/packages/agents/docs/provider/overview.md
+Source repository: https://github.com/joggrdocs/funkai
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Orchestrator
+Alric.AI page: https://alric.ai/agents/orchestrator-2
+Source file: https://github.com/hippocampus-dev/hippocampus/blob/HEAD/files/home/kai/.config/claudex/config/agents/roo/orchestrator.md
+Source repository: https://github.com/hippocampus-dev/hippocampus
+
+Discovered and indexed by Alric.AI (https://alric.ai)

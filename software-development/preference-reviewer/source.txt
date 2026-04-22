@@ -1,0 +1,6 @@
+Agent: preference-reviewer
+Alric.AI page: https://alric.ai/agents/preference-reviewer
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/.claude/agents/amplihack/specialized/preference-reviewer.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

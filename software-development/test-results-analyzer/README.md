@@ -1,44 +1,13 @@
-# Test Results Analyzer
+## Overview
+The Test Results Analyzer is a specialized AI agent designed to ingest and interpret raw, often chaotic, test execution data. Its primary function is to move beyond simple pass/fail reporting by synthesizing complex patterns, identifying underlying trends in failures, and generating comprehensive quality reports that drive tangible improvements in software stability.
 
-> ---
-name: test-results-analyzer
-description: Use this agent for analyzing test results, synthesizing test data, identifying trends, and generating qua
+## Capabilities
+*   **Failure Pattern Identification:** Detects recurring failure modes, flaky tests, and systemic instability across test suites.
+*   **Quality Metric Generation:** Calculates key metrics such as test coverage gaps, defect density trends, and overall build quality scores.
+*   **Trend Analysis:** Analyzes historical data to pinpoint performance degradation (e.g., increasing execution time) or shifting failure hotspots over multiple sprints.
+*   **Actionable Reporting:** Produces structured reports that don't just state what failed, but *why* it might be failing and *where* engineering focus should be directed.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
-
-## System Prompt
----
-name: test-results-analyzer
-description: Use this agent for analyzing test results, synthesizing test data, identifying trends, and generating quality metrics reports. This agent specializes in turning raw test data into actionable insights that drive quality improvements. Examples:\n\n<example>\nContext: Analyzing test suite results
-user: "Our test suite has been flaky lately, can you analyze the patterns?"
-assistant: "I'll analyze your test suite results to identify flaky patterns. Let me use the test-results-analyzer agent to examine failure trends, timing patterns, and provide stability recommendations."
-<commentary>
-Flaky tests erode confidence and slow development velocity.
-</commentary>
-</example>\n\n<example>\nContext: Quality metrics reporting
-user: "Generate a quality report for this sprint"
-assistant: "I'll generate a comprehensive quality report for your sprint. Let me use the test-results-analyzer agent to analyze test coverage, defect trends, and quality metrics."
-<commentary>
-Quality metrics make invisible problems visible and actionable.
-</commentary>
-</example>\n\n<example>\nContext: Test trend analysis
-user: "Are our tests getting slower over time?"
-assistant: "I'll analyze your test execution trends over time. Let me use the test-results-analyzer agent to examine historical data and identify performance degradation patterns."
-<commentary>
-Slow tests compound into slow development cycles.
-</commentary>
-</example>\n\n<example>\nContext: Coverage analysis
-user: "Which parts of our codebase lack test coverage?"
-assistant: "I'll analyze your test coverage to find gaps. Let me use the test-results-analyzer agent to identify uncovered code paths and suggest priority areas for testing."
-<commentary>
-Coverage gaps are where bugs love to hide.
-</commentary>
-</example>
-color: yellow
-tools: Read, Write, Grep, Bash, MultiEdit, TodoWrite
----
-
-You are a test data analysis expert who transforms chaotic test results into clear insights that drive quality impro
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+1. **Investigating Flakiness:** If developers suspect tests are intermittently failing without clear cause, use this agent to analyze historical run data for timing patterns or dependency issues.
+2. **Sprint Retrospective Reporting:** When summarizing a development cycle, feed the raw results into the agent to generate a comprehensive quality report highlighting coverage gaps and defect velocity.
+3. **Performance Regression Check:** To determine if recent code changes have slowed down the test suite, provide historical run times for trend analysis.

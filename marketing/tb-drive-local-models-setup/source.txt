@@ -1,0 +1,6 @@
+Agent: TB DRIVE LOCAL MODELS SETUP
+Alric.AI page: https://alric.ai/agents/tb-drive-local-models-setup
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/docs/TB_DRIVE_LOCAL_MODELS_SETUP.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

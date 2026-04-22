@@ -1,0 +1,6 @@
+Agent: Capture QA Agent
+Alric.AI page: https://alric.ai/agents/capture-qa-agent
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/capture-qa-agent/AGENTS.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

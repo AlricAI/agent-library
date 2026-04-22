@@ -1,0 +1,6 @@
+Agent: machine-learning-engineer
+Alric.AI page: https://alric.ai/agents/machine-learning-engineer
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/ai-ml/model/machine-learning-engineer.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

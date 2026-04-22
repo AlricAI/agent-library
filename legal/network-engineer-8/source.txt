@@ -1,0 +1,6 @@
+Agent: network-engineer
+Alric.AI page: https://alric.ai/agents/network-engineer-8
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/plugins/observability-monitoring/agents/network-engineer.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Automation
+Alric.AI page: https://alric.ai/agents/automation
+Source file: https://github.com/bluekid2457/MarketingDashboard2/blob/HEAD/specs/automation.md
+Source repository: https://github.com/bluekid2457/MarketingDashboard2
+
+Discovered and indexed by Alric.AI (https://alric.ai)

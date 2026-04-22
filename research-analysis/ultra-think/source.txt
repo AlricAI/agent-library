@@ -1,0 +1,6 @@
+Agent: Ultra Think
+Alric.AI page: https://alric.ai/agents/ultra-think
+Source file: https://github.com/julianromli/opencode-template/blob/HEAD/command/ultra-think.md
+Source repository: https://github.com/julianromli/opencode-template
+
+Discovered and indexed by Alric.AI (https://alric.ai)

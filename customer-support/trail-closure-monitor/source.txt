@@ -1,0 +1,6 @@
+Agent: Trail Closure Monitor
+Alric.AI page: https://alric.ai/agents/trail-closure-monitor
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/trail-closure-monitor.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

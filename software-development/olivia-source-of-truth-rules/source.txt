@@ -1,0 +1,6 @@
+Agent: Olivia Source-Of-Truth Rules
+Alric.AI page: https://alric.ai/agents/olivia-source-of-truth-rules
+Source file: https://github.com/LoveAndCoding/olivia/blob/HEAD/.cursor/rules/00-source-of-truth.mdc
+Source repository: https://github.com/LoveAndCoding/olivia
+
+Discovered and indexed by Alric.AI (https://alric.ai)

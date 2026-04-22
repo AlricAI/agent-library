@@ -1,0 +1,6 @@
+Agent: fix-ci
+Alric.AI page: https://alric.ai/agents/fix-ci
+Source file: https://github.com/45ck/noslop/blob/HEAD/.claude/agents/fix-ci.md
+Source repository: https://github.com/45ck/noslop
+
+Discovered and indexed by Alric.AI (https://alric.ai)

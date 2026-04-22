@@ -1,0 +1,6 @@
+Agent: CLAUDE
+Alric.AI page: https://alric.ai/agents/claude-20
+Source file: https://github.com/VictorHueni/template-app/blob/HEAD/website/CLAUDE.md
+Source repository: https://github.com/VictorHueni/template-app
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: E-Commerce Engineer
+Alric.AI page: https://alric.ai/agents/e-commerce-engineer-3
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/fullstack-forge/agents/ecommerce-engineer/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

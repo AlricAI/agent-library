@@ -1,0 +1,6 @@
+Agent: Decisions
+Alric.AI page: https://alric.ai/agents/decisions-1
+Source file: https://github.com/AysajanE/l2-l1-rent-analysis/blob/HEAD/contracts/decisions.md
+Source repository: https://github.com/AysajanE/l2-l1-rent-analysis
+
+Discovered and indexed by Alric.AI (https://alric.ai)

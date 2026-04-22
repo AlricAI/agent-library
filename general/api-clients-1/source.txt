@@ -1,0 +1,6 @@
+Agent: API CLIENTS
+Alric.AI page: https://alric.ai/agents/api-clients-1
+Source file: https://github.com/GBisi/oracle-gap/blob/HEAD/docs/API_CLIENTS.md
+Source repository: https://github.com/GBisi/oracle-gap
+
+Discovered and indexed by Alric.AI (https://alric.ai)

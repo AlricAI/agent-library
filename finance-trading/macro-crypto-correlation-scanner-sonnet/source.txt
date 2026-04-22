@@ -1,0 +1,6 @@
+Agent: macro-crypto-correlation-scanner-sonnet
+Alric.AI page: https://alric.ai/agents/macro-crypto-correlation-scanner-sonnet
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/crypto/macro-crypto-correlation-scanner-sonnet.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

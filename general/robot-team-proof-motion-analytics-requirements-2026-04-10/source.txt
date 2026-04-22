@@ -1,0 +1,6 @@
+Agent: Robot Team Proof Motion Analytics Requirements 2026 04 10
+Alric.AI page: https://alric.ai/agents/robot-team-proof-motion-analytics-requirements-2026-04-10
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/docs/robot-team-proof-motion-analytics-requirements-2026-04-10.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Sprint 02 Socratic Discovery
+Alric.AI page: https://alric.ai/agents/sprint-02-socratic-discovery
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/sprints/sprint-02-socratic-discovery.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

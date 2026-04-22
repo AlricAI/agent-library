@@ -1,0 +1,6 @@
+Agent: RALPH MODE
+Alric.AI page: https://alric.ai/agents/ralph-mode-1
+Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/RALPH_MODE.md
+Source repository: https://github.com/frumu-ai/tandem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

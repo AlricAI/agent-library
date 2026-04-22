@@ -1,0 +1,6 @@
+Agent: OPENCLAW ONBOARDING
+Alric.AI page: https://alric.ai/agents/openclaw-onboarding-1
+Source file: https://github.com/ShieldnestORG/team-dashboard/blob/HEAD/doc/OPENCLAW_ONBOARDING.md
+Source repository: https://github.com/ShieldnestORG/team-dashboard
+
+Discovered and indexed by Alric.AI (https://alric.ai)

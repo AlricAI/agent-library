@@ -1,0 +1,6 @@
+Agent: Sprint4 Testing Checklist
+Alric.AI page: https://alric.ai/agents/sprint4-testing-checklist
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/claudedocs/sprint4-testing-checklist.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

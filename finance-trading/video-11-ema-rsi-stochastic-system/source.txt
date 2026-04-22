@@ -1,0 +1,6 @@
+Agent: VIDEO 11 EMA RSI STOCHASTIC SYSTEM
+Alric.AI page: https://alric.ai/agents/video-11-ema-rsi-stochastic-system
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/the-great-cryptonio/education/video-summaries/VIDEO_11_EMA_RSI_STOCHASTIC_SYSTEM.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

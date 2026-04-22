@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-253
+Source file: https://github.com/solatis/koan/blob/HEAD/docs/AGENTS.md
+Source repository: https://github.com/solatis/koan
+
+Discovered and indexed by Alric.AI (https://alric.ai)

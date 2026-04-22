@@ -1,0 +1,6 @@
+Agent: FASTAPI ROUTER ANALYSIS
+Alric.AI page: https://alric.ai/agents/fastapi-router-analysis
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/FASTAPI_ROUTER_ANALYSIS.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Marketing Skill Canonical Map
+Alric.AI page: https://alric.ai/agents/marketing-skill-canonical-map
+Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/marketing_skill_canonical_map.md
+Source repository: https://github.com/frumu-ai/tandem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

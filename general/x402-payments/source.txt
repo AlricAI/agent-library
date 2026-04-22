@@ -1,0 +1,6 @@
+Agent: X402 PAYMENTS
+Alric.AI page: https://alric.ai/agents/x402-payments
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/docs/X402_PAYMENTS.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

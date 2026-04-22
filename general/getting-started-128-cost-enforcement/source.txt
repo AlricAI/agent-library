@@ -1,0 +1,6 @@
+Agent: GETTING STARTED 128 COST ENFORCEMENT
+Alric.AI page: https://alric.ai/agents/getting-started-128-cost-enforcement
+Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/docs/GETTING_STARTED_128_COST_ENFORCEMENT.md
+Source repository: https://github.com/rysweet/AzureHayMaker
+
+Discovered and indexed by Alric.AI (https://alric.ai)

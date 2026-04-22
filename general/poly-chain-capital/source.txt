@@ -1,0 +1,6 @@
+Agent: Poly Chain Capital
+Alric.AI page: https://alric.ai/agents/poly-chain-capital
+Source file: https://github.com/PreAngel/pre-angel.com/blob/HEAD/backup/polychain.md
+Source repository: https://github.com/PreAngel/pre-angel.com
+
+Discovered and indexed by Alric.AI (https://alric.ai)

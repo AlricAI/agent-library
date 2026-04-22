@@ -1,0 +1,6 @@
+Agent: AGENDA SYSTEM RESEARCH
+Alric.AI page: https://alric.ai/agents/agenda-system-research
+Source file: https://github.com/Tombonator3000/vector-war-games/blob/HEAD/docs/AGENDA_SYSTEM_RESEARCH.md
+Source repository: https://github.com/Tombonator3000/vector-war-games
+
+Discovered and indexed by Alric.AI (https://alric.ai)

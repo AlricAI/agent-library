@@ -1,0 +1,6 @@
+Agent: codebase-cleanup
+Alric.AI page: https://alric.ai/agents/codebase-cleanup-1
+Source file: https://github.com/HakAl/team_skills/blob/HEAD/codebase-cleanup/SKILL.md
+Source repository: https://github.com/HakAl/team_skills
+
+Discovered and indexed by Alric.AI (https://alric.ai)

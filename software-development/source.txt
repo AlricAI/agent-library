@@ -1,0 +1,6 @@
+Agent: 命令结尾规范
+Alric.AI page: https://alric.ai/agents/
+Source file: https://github.com/partme-ai/claw-agents/blob/HEAD/.cursor/rules/command-format.mdc
+Source repository: https://github.com/partme-ai/claw-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

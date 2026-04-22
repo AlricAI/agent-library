@@ -1,0 +1,6 @@
+Agent: nlp-engineer
+Alric.AI page: https://alric.ai/agents/nlp-engineer
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/ai-ml/ctx/nlp-engineer.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

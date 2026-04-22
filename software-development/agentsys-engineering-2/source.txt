@@ -1,0 +1,6 @@
+Agent: AgentSys Engineering
+Alric.AI page: https://alric.ai/agents/agentsys-engineering-2
+Source file: https://github.com/paperclipai/companies/blob/HEAD/agentsys-engineering/COMPANY.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

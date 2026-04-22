@@ -1,0 +1,6 @@
+Agent: Korean Business Navigator
+Alric.AI page: https://alric.ai/agents/korean-business-navigator-3
+Source file: https://github.com/paperclipai/companies/blob/HEAD/agency-agents/agents/specialized-korean-business-navigator/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

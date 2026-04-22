@@ -1,0 +1,6 @@
+Agent: SMARTLAB PROMPT MASTER
+Alric.AI page: https://alric.ai/agents/smartlab-prompt-master
+Source file: https://github.com/fredydomingus22-wq/SmartLab/blob/HEAD/docs/SMARTLAB_PROMPT_MASTER.md
+Source repository: https://github.com/fredydomingus22-wq/SmartLab
+
+Discovered and indexed by Alric.AI (https://alric.ai)

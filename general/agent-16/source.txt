@@ -1,0 +1,6 @@
+Agent: Agent
+Alric.AI page: https://alric.ai/agents/agent-16
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/marketing/brand/customer/agent.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

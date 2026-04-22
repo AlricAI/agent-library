@@ -1,0 +1,6 @@
+Agent: Distributed Hive Mind
+Alric.AI page: https://alric.ai/agents/distributed-hive-mind
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/docs/distributed_hive_mind.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

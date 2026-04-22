@@ -1,0 +1,6 @@
+Agent: HEARTBEAT
+Alric.AI page: https://alric.ai/agents/heartbeat-139
+Source file: https://github.com/townie/do-it/blob/HEAD/agents/ceo/HEARTBEAT.md
+Source repository: https://github.com/townie/do-it
+
+Discovered and indexed by Alric.AI (https://alric.ai)

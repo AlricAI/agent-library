@@ -1,0 +1,6 @@
+Agent: Functional Agents
+Alric.AI page: https://alric.ai/agents/functional-agents-1
+Source file: https://github.com/BinaryTape/Open-Docs/blob/HEAD/docs/ja/koog/agents/functional-agents.md
+Source repository: https://github.com/BinaryTape/Open-Docs
+
+Discovered and indexed by Alric.AI (https://alric.ai)

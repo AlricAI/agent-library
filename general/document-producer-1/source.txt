@@ -1,0 +1,6 @@
+Agent: Document Producer
+Alric.AI page: https://alric.ai/agents/document-producer-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/minimax-studio/agents/document-producer/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

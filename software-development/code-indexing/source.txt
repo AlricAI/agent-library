@@ -1,0 +1,6 @@
+Agent: CODE INDEXING
+Alric.AI page: https://alric.ai/agents/code-indexing
+Source file: https://github.com/madeindigio/remembrances-mcp/blob/HEAD/docs/CODE_INDEXING.md
+Source repository: https://github.com/madeindigio/remembrances-mcp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: OLLAMA GUIDE
+Alric.AI page: https://alric.ai/agents/ollama-guide
+Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/OLLAMA_GUIDE.md
+Source repository: https://github.com/frumu-ai/tandem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

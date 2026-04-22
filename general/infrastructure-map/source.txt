@@ -1,0 +1,6 @@
+Agent: INFRASTRUCTURE MAP
+Alric.AI page: https://alric.ai/agents/infrastructure-map
+Source file: https://github.com/dcarmitage/claws/blob/HEAD/onboarding/INFRASTRUCTURE_MAP.md
+Source repository: https://github.com/dcarmitage/claws
+
+Discovered and indexed by Alric.AI (https://alric.ai)

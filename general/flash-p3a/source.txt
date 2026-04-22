@@ -1,0 +1,6 @@
+Agent: Flash P3a
+Alric.AI page: https://alric.ai/agents/flash-p3a
+Source file: https://github.com/fabkury/p3a/blob/HEAD/docs/flash-p3a.md
+Source repository: https://github.com/fabkury/p3a
+
+Discovered and indexed by Alric.AI (https://alric.ai)

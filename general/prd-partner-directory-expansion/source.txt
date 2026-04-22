@@ -1,0 +1,6 @@
+Agent: PRD Partner Directory Expansion
+Alric.AI page: https://alric.ai/agents/prd-partner-directory-expansion
+Source file: https://github.com/ShieldnestORG/team-dashboard/blob/HEAD/doc/PRD_partner_directory_expansion.md
+Source repository: https://github.com/ShieldnestORG/team-dashboard
+
+Discovered and indexed by Alric.AI (https://alric.ai)

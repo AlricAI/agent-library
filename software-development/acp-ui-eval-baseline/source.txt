@@ -1,0 +1,6 @@
+Agent: ACP UI EVAL BASELINE
+Alric.AI page: https://alric.ai/agents/acp-ui-eval-baseline
+Source file: https://github.com/strato-space/acp-plugin/blob/HEAD/docs/ACP_UI_EVAL_BASELINE.md
+Source repository: https://github.com/strato-space/acp-plugin
+
+Discovered and indexed by Alric.AI (https://alric.ai)

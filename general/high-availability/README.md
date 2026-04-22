@@ -1,0 +1,87 @@
+# HIGH AVAILABILITY
+
+> **ModPorter AI - Production HA Setup**
+
+---
+
+## Overview
+
+High availability configuration for 99.9% uptime target.
+
+---
+
+## Architecture
+
+```
+        
+
+## Model
+- **Default:** `claude-sonnet-4-5`
+
+## System Prompt
+# High Availability Configuration
+
+**ModPorter AI - Production HA Setup**
+
+---
+
+## Overview
+
+High availability configuration for 99.9% uptime target.
+
+---
+
+## Architecture
+
+```
+                    ┌─────────────────┐
+                    │   Cloudflare    │
+                    │   (DNS + CDN)   │
+                    └────────┬────────┘
+                             │
+                    ┌────────▼────────┐
+                    │  Load Balancer  │
+                    │   (HAProxy)     │
+                    └────────┬────────┘
+                             │
+         ┌───────────────────┼───────────────────┐
+         │                   │                   │
+┌────────▼────────┐ ┌────────▼────────┐ ┌────────▼────────┐
+│   Frontend 1    │ │   Frontend 2    │ │   Frontend 3    │
+│   (Nginx)       │ │   (Nginx)       │ │   (Nginx)       │
+└────────┬────────┘ └────────┬────────┘ └────────┬────────┘
+         │                   │                   │
+         └───────────────────┼───────────────────┘
+                             │
+         ┌───────────────────┼───────────────────┐
+         │                   │                   │
+┌────────▼────────┐ ┌────────▼────────┐ ┌────────▼────────┐
+│   Backend 1     │ │   Backend 2     │ │   Backend 3     │
+│   (FastAPI)     │ │   (FastAPI)     │ │   (FastAPI)     │
+└────────┬────────┘ └────────┬────────┘ └────────┬────────┘
+         │                   │                   │
+         └───────────────────┼───────────────────┘
+                             │
+         ┌───────────────────┼───────────────────┐
+         │                   │                   │
+┌────────▼────────┐ ┌────────▼────────┐ ┌────────▼────────┐
+│   Primary DB    │ │   Replica 1     │ │   Replica 2     │
+│   (PostgreSQL)  │ │   (Read-only)   │ │   (Read-only)   │
+└─────────────────┘ └─────────────────┘ └─────────────────┘
+```
+
+---
+
+## Load Balancer Configuration
+
+### HAProxy Setup
+
+**Installation:**
+```bash
+apt-get update
+apt-get install -y haproxy
+```
+
+**Configuration
+
+*[truncated — see source for full prompt]*

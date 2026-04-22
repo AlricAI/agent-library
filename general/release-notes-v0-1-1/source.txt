@@ -1,0 +1,6 @@
+Agent: RELEASE NOTES V0.1
+Alric.AI page: https://alric.ai/agents/release-notes-v0-1-1
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/jambot/RELEASE-NOTES-v0.1.md
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

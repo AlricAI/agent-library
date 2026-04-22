@@ -1,0 +1,6 @@
+Agent: Engineering Lead
+Alric.AI page: https://alric.ai/agents/engineering-lead-4
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/aeon-intelligence/agents/engineering-lead/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

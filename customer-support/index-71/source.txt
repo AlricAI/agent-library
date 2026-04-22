@@ -1,0 +1,6 @@
+Agent: INDEX
+Alric.AI page: https://alric.ai/agents/index-71
+Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/docs/INDEX.md
+Source repository: https://github.com/rysweet/AzureHayMaker
+
+Discovered and indexed by Alric.AI (https://alric.ai)

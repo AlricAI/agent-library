@@ -1,0 +1,6 @@
+Agent: Orchestrator Core
+Alric.AI page: https://alric.ai/agents/orchestrator-core
+Source file: https://github.com/bryantinsley/machinator/blob/HEAD/planning/orchestrator-core.md
+Source repository: https://github.com/bryantinsley/machinator
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Context Update Session
+Alric.AI page: https://alric.ai/agents/context-update-session
+Source file: https://github.com/blex2011/My-Context/blob/HEAD/discovery/context-update-session.md
+Source repository: https://github.com/blex2011/My-Context
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Backfill Spec
+Alric.AI page: https://alric.ai/agents/backfill-spec
+Source file: https://github.com/MaggieSueWoW/Niru/blob/HEAD/docs/backfill-spec.md
+Source repository: https://github.com/MaggieSueWoW/Niru
+
+Discovered and indexed by Alric.AI (https://alric.ai)

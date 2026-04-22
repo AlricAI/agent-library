@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-190
+Source file: https://github.com/FolahanWilliams/decision-intel/blob/HEAD/agent-config/AGENTS.md
+Source repository: https://github.com/FolahanWilliams/decision-intel
+
+Discovered and indexed by Alric.AI (https://alric.ai)

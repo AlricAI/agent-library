@@ -1,0 +1,6 @@
+Agent: Mcpserver
+Alric.AI page: https://alric.ai/agents/mcpserver
+Source file: https://github.com/genmcp/gen-mcp/blob/HEAD/docs/mcpserver.md
+Source repository: https://github.com/genmcp/gen-mcp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

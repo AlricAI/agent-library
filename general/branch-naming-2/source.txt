@@ -1,0 +1,6 @@
+Agent: Branch Naming
+Alric.AI page: https://alric.ai/agents/branch-naming-2
+Source file: https://github.com/chmouel/lazyworktree/blob/HEAD/docs/branch-naming.md
+Source repository: https://github.com/chmouel/lazyworktree
+
+Discovered and indexed by Alric.AI (https://alric.ai)

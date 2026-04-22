@@ -1,0 +1,6 @@
+Agent: Hpc Node Agent
+Alric.AI page: https://alric.ai/agents/hpc-node-agent
+Source file: https://github.com/virtengine/virtengine/blob/HEAD/docs/hpc-node-agent.md
+Source repository: https://github.com/virtengine/virtengine
+
+Discovered and indexed by Alric.AI (https://alric.ai)

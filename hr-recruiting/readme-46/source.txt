@@ -1,0 +1,6 @@
+Agent: README
+Alric.AI page: https://alric.ai/agents/readme-46
+Source file: https://github.com/joggrdocs/funkai/blob/HEAD/packages/agents/README.md
+Source repository: https://github.com/joggrdocs/funkai
+
+Discovered and indexed by Alric.AI (https://alric.ai)

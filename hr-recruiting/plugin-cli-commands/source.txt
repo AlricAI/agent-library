@@ -1,0 +1,6 @@
+Agent: PLUGIN CLI COMMANDS
+Alric.AI page: https://alric.ai/agents/plugin-cli-commands
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/PLUGIN_CLI_COMMANDS.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

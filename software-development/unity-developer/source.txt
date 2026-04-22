@@ -1,4 +1,4 @@
-Agent: unity-developer
+Agent: Unity Game Developer
 Alric.AI page: https://alric.ai/agents/unity-developer
 Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/game-development/agents/unity-developer.md
 Source repository: https://github.com/wshobson/agents

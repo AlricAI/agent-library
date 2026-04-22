@@ -1,0 +1,6 @@
+Agent: IDENTITY Zh CN Template
+Alric.AI page: https://alric.ai/agents/identity-zh-cn-template
+Source file: https://github.com/partme-ai/claw-agents/blob/HEAD/docs/IDENTITY-zh-CN-template.md
+Source repository: https://github.com/partme-ai/claw-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

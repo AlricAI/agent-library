@@ -1,0 +1,6 @@
+Agent: Router Agent
+Alric.AI page: https://alric.ai/agents/router-agent
+Source file: https://github.com/MervinPraison/PraisonAIDocs/blob/HEAD/praisonaiagents/agent/router_agent.py
+Source repository: https://github.com/MervinPraison/PraisonAIDocs
+
+Discovered and indexed by Alric.AI (https://alric.ai)

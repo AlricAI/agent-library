@@ -1,0 +1,6 @@
+Agent: Snapshot Format
+Alric.AI page: https://alric.ai/agents/snapshot-format
+Source file: https://github.com/hl/epona/blob/HEAD/specs/snapshot_format.md
+Source repository: https://github.com/hl/epona
+
+Discovered and indexed by Alric.AI (https://alric.ai)

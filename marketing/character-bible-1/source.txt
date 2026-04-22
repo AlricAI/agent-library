@@ -1,0 +1,6 @@
+Agent: CHARACTER BIBLE
+Alric.AI page: https://alric.ai/agents/character-bible-1
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/pixelpit/CHARACTER-BIBLE.md
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

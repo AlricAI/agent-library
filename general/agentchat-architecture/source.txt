@@ -1,0 +1,6 @@
+Agent: AGENTCHAT ARCHITECTURE
+Alric.AI page: https://alric.ai/agents/agentchat-architecture
+Source file: https://github.com/dcarmitage/claws/blob/HEAD/systems/AGENTCHAT_ARCHITECTURE.md
+Source repository: https://github.com/dcarmitage/claws
+
+Discovered and indexed by Alric.AI (https://alric.ai)

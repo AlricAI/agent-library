@@ -1,0 +1,6 @@
+Agent: Security Audit Playbook
+Alric.AI page: https://alric.ai/agents/security-audit-playbook
+Source file: https://github.com/cjy5507/forge/blob/HEAD/agents/references/security-audit-playbook.md
+Source repository: https://github.com/cjy5507/forge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

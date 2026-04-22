@@ -1,0 +1,6 @@
+Agent: SIMPLE ASSIGNMENT APPROACH
+Alric.AI page: https://alric.ai/agents/simple-assignment-approach
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/claudedocs/SIMPLE_ASSIGNMENT_APPROACH.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

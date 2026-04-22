@@ -1,0 +1,6 @@
+Agent: Custom Claim Parsers
+Alric.AI page: https://alric.ai/agents/custom-claim-parsers-1
+Source file: https://github.com/DecoyLex/ltix/blob/HEAD/guides/custom-claim-parsers.md
+Source repository: https://github.com/DecoyLex/ltix
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: test-runner
+Alric.AI page: https://alric.ai/agents/test-runner-2
+Source file: https://github.com/comet-ml/opik/blob/HEAD/.agents/agents/test-runner.md
+Source repository: https://github.com/comet-ml/opik
+
+Discovered and indexed by Alric.AI (https://alric.ai)

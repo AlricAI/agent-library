@@ -1,0 +1,6 @@
+Agent: MORTIMER PROFILE BACKUP
+Alric.AI page: https://alric.ai/agents/mortimer-profile-backup
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/MORTIMER_PROFILE_BACKUP.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

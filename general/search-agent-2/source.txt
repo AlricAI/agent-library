@@ -1,0 +1,6 @@
+Agent: Search Agent
+Alric.AI page: https://alric.ai/agents/search-agent-2
+Source file: https://github.com/danielgonzagat/megaIAAA/blob/HEAD/camel/camel/agents/search_agent.py
+Source repository: https://github.com/danielgonzagat/megaIAAA
+
+Discovered and indexed by Alric.AI (https://alric.ai)

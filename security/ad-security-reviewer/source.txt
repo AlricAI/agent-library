@@ -1,0 +1,6 @@
+Agent: ad-security-reviewer
+Alric.AI page: https://alric.ai/agents/ad-security-reviewer
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/info-tech/security/ad-security-reviewer.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

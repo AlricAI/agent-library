@@ -1,0 +1,6 @@
+Agent: Laravel 13 Backend Rules
+Alric.AI page: https://alric.ai/agents/laravel-13-backend-rules
+Source file: https://github.com/laravel-gtm/session-migration/blob/HEAD/.cursor/rules/laravel.mdc
+Source repository: https://github.com/laravel-gtm/session-migration
+
+Discovered and indexed by Alric.AI (https://alric.ai)

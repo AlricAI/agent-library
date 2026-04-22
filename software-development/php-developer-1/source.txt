@@ -1,4 +1,4 @@
-Agent: php-developer
+Agent: Php Code Architect
 Alric.AI page: https://alric.ai/agents/php-developer-1
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/php-developer.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

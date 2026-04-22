@@ -1,0 +1,6 @@
+Agent: Todos
+Alric.AI page: https://alric.ai/agents/todos
+Source file: https://github.com/Michael-Obele/tif/blob/HEAD/tech-invoice-forge/todos.md
+Source repository: https://github.com/Michael-Obele/tif
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: api-designer
+Alric.AI page: https://alric.ai/agents/api-designer-1
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/.claude/agents/amplihack/core/api-designer.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

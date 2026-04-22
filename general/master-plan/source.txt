@@ -1,0 +1,6 @@
+Agent: Master Plan
+Alric.AI page: https://alric.ai/agents/master-plan
+Source file: https://github.com/Michael-Obele/tif/blob/HEAD/tech-invoice-forge/master-plan.md
+Source repository: https://github.com/Michael-Obele/tif
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: ACTIVE WORK
+Alric.AI page: https://alric.ai/agents/active-work
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/mylfives/workspace/ACTIVE_WORK.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

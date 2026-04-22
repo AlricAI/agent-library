@@ -1,0 +1,6 @@
+Agent: Development
+Alric.AI page: https://alric.ai/agents/development
+Source file: https://github.com/tfukaza/harvest/blob/HEAD/docs/development.md
+Source repository: https://github.com/tfukaza/harvest
+
+Discovered and indexed by Alric.AI (https://alric.ai)

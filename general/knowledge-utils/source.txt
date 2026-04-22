@@ -1,0 +1,6 @@
+Agent: Knowledge Utils
+Alric.AI page: https://alric.ai/agents/knowledge-utils
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/src/amplihack/agents/goal_seeking/knowledge_utils.py
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

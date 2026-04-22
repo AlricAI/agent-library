@@ -1,0 +1,6 @@
+Agent: Troubleshooting
+Alric.AI page: https://alric.ai/agents/troubleshooting-9
+Source file: https://github.com/jfarcand/mirroir-mcp/blob/HEAD/docs/troubleshooting.md
+Source repository: https://github.com/jfarcand/mirroir-mcp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

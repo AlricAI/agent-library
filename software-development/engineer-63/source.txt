@@ -1,0 +1,6 @@
+Agent: engineer
+Alric.AI page: https://alric.ai/agents/engineer-63
+Source file: https://github.com/ryantking/agentctl/blob/HEAD/internal/templates/templates/agents/engineer.md
+Source repository: https://github.com/ryantking/agentctl
+
+Discovered and indexed by Alric.AI (https://alric.ai)

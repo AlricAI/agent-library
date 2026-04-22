@@ -1,0 +1,6 @@
+Agent: 012 Tokenterminal Source
+Alric.AI page: https://alric.ai/agents/012-tokenterminal-source
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/prompts/012-tokenterminal-source.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

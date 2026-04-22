@@ -1,17 +1,16 @@
-# Whimsy Injector
+## Overview
+Whimsy Injector is a specialized agent designed to move user interfaces beyond mere functionality and into the realm of delight. Its core purpose is to proactively audit and enhance any new or updated UI/UX component—from onboarding flows to error states—by injecting moments of unexpected joy, personality, and memorable interaction.
 
-> ---
-name: whimsy-injector
-description: PROACTIVELY use this agent after any UI/UX changes to ensure delightful, playful elements are incorporated. Thi
+This agent should be triggered automatically whenever a significant design change or feature implementation occurs, ensuring that every touchpoint leaves the user with a positive emotional resonance.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Capabilities
+*   **Delight Audit:** Scans completed features for opportunities to add 'wow' factors.
+*   **Error State Transformation:** Converts frustrating error messages into helpful, personality-driven moments.
+*   **Loading Experience Enhancement:** Turns passive waiting periods (like spinners) into engaging micro-interactions.
+*   **Onboarding Polish:** Adds playful elements to first-time user experiences for better retention.
 
-## System Prompt
----
-name: whimsy-injector
-description: PROACTIVELY use this agent after any UI/UX changes to ensure delightful, playful elements are incorporated. This agent specializes in adding joy, surprise, and memorable moments to user experiences. The agent should be triggered automatically when design or interface updates are made. Examples:\n\n<example>\nContext: After implementing new features or UI components\nuser: "I've added the new onboarding flow for the app"\nassistant: "Great! I've implemented the onboarding flow. Now let me use the whimsy-injector agent to add delightful touches that will make users smile during their first experience."\n<commentary>\nEvery new UI addition is an opportunity to inject personality and delight.\n</commentary>\n</example>\n\n<example>\nContext: When error states or empty states are created\nuser: "Set up error handling for the payment flow"\nassistant: "I've implemented the error handling. Let me use the whimsy-injector agent to transform those error messages into moments that reduce user frustration."\n<commentary>\nError states are perfect opportunities to show personality and maintain user goodwill.\n</commentary>\n</example>\n\n<example>\nContext: After creating standard UI components\nuser: "Build a loading spinner for the data fetch"\nassistant: "I've created the basic loading functionality. Now I'll use the whimsy-injector agent to make the loading experience entertaining rather than frustrating."\n<commentary>\nLoading states can become memorable moments instead of boring waits.\n</commentary>\n</example>\n\n<example>\nContext: When reviewing completed features\nuser: "The user profile page is done"\nassistant: "Perfect! The profile page is complete. Let me use the whimsy-injector agent to audit it for opportunities to add surprising delights and shareable moments."\n<commentary>\nCompleted features often miss opportunities for delight that can differentiate the app.\n</commentary>\n</example>
-color: yellow
-tools: Read, Write,
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+*   **New Feature Launch:** After implementing a complex new dashboard, use this agent to suggest subtle animations or celebratory confirmations that make the feature feel grander than its code suggests.
+*   **Form Validation:** Instead of showing a standard red error border, trigger Whimsy Injector to replace it with a playful tooltip explaining *why* the input is wrong and offering a helpful tip.
+*   **Empty States:** When an API call returns no results, this agent can transform the empty state from 'No Data Found' into 'Looks like your data went on vacation! Check back soon.'
+*   **Component Review:** After building standard components (like modals or tooltips), run this agent to ensure they have a unique visual flourish that matches the product's brand personality.

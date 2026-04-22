@@ -1,0 +1,6 @@
+Agent: Level Architect
+Alric.AI page: https://alric.ai/agents/8bit-level-architect
+Source file: https://github.com/Alessandro231/8-bit-adventure/blob/HEAD/skills/level-creator.md
+Source repository: https://github.com/Alessandro231/8-bit-adventure
+
+Discovered and indexed by Alric.AI (https://alric.ai)

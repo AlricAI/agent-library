@@ -1,0 +1,6 @@
+Agent: Block State Mapper
+Alric.AI page: https://alric.ai/agents/block-state-mapper
+Source file: https://github.com/anchapin/ModPorter-AI/blob/HEAD/ai-engine/agents/logic_translator/block_state_mapper.py
+Source repository: https://github.com/anchapin/ModPorter-AI
+
+Discovered and indexed by Alric.AI (https://alric.ai)

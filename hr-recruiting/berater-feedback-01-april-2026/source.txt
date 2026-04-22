@@ -1,0 +1,6 @@
+Agent: Berater Feedback 01 April 2026
+Alric.AI page: https://alric.ai/agents/berater-feedback-01-april-2026
+Source file: https://github.com/Wamocon/energy/blob/HEAD/requirements/berater-feedback-01-april-2026.md
+Source repository: https://github.com/Wamocon/energy
+
+Discovered and indexed by Alric.AI (https://alric.ai)

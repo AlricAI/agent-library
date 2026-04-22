@@ -1,0 +1,24 @@
+# Accessibility, Compatibility, SEO
+
+> description: Writing code with Accessibility, Compatibility, Search Engine Optimization (SEO) in mind globs: **/* Accessibility, Compatibility, SEO
+
+## System Prompt
+---
+description: Writing code with Accessibility, Compatibility, Search Engine Optimization (SEO) in mind
+globs: **/*
+---
+# Accessibility, Compatibility, SEO
+
+## Recommended
+
++ Always include accessibility considerations to make sure that every users (visual impaired, colorblind, keyboard only users, etc.) can use the component with ease and no discrimination. (like adding custom `aria` attribute, checking the contrast level of colors,...)
++ Use semantic HTML for meaningful structure
++ Apply accurate ARIA attributes where needed
++ Ensure full keyboard navigation support
++ Follow a logical heading hierarchy
++ Provide clear and accessible error feedback
++ Ensure compatibility with different browsers and devices
++ Optimize for SEO when applicable
++ Consider internationalization requirements
+
+## Custom

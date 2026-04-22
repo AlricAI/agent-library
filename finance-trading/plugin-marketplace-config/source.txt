@@ -1,0 +1,6 @@
+Agent: PLUGIN MARKETPLACE CONFIG
+Alric.AI page: https://alric.ai/agents/plugin-marketplace-config
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/PLUGIN_MARKETPLACE_CONFIG.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

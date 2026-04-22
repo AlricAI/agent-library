@@ -1,0 +1,6 @@
+Agent: HEARTBEAT
+Alric.AI page: https://alric.ai/agents/heartbeat-73
+Source file: https://github.com/schemalabz/nix-openclaw/blob/HEAD/workspace/HEARTBEAT.md
+Source repository: https://github.com/schemalabz/nix-openclaw
+
+Discovered and indexed by Alric.AI (https://alric.ai)

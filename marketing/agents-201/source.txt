@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-201
+Source file: https://github.com/ShieldnestORG/team-dashboard/blob/HEAD/agents/forge/AGENTS.md
+Source repository: https://github.com/ShieldnestORG/team-dashboard
+
+Discovered and indexed by Alric.AI (https://alric.ai)

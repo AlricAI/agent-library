@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-128
+Source file: https://github.com/drumnation/brain-garden-foundry/blob/HEAD/tooling/AGENTS.md
+Source repository: https://github.com/drumnation/brain-garden-foundry
+
+Discovered and indexed by Alric.AI (https://alric.ai)

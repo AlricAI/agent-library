@@ -1,0 +1,6 @@
+Agent: AGENT PLAN INDEX
+Alric.AI page: https://alric.ai/agents/agent-plan-index
+Source file: https://github.com/koenvorster/Personal_project_VorstersNV/blob/HEAD/plan/AGENT_PLAN_INDEX.md
+Source repository: https://github.com/koenvorster/Personal_project_VorstersNV
+
+Discovered and indexed by Alric.AI (https://alric.ai)

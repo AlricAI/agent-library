@@ -1,0 +1,6 @@
+Agent: Architecture
+Alric.AI page: https://alric.ai/agents/architecture-4
+Source file: https://github.com/alibaba/OpenSandbox/blob/HEAD/docs/architecture.md
+Source repository: https://github.com/alibaba/OpenSandbox
+
+Discovered and indexed by Alric.AI (https://alric.ai)

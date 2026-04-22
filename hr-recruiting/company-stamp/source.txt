@@ -1,0 +1,6 @@
+Agent: Company Stamp
+Alric.AI page: https://alric.ai/agents/company-stamp
+Source file: https://github.com/Wamocon/lp_energy/blob/HEAD/legal-docs/company-stamp.md
+Source repository: https://github.com/Wamocon/lp_energy
+
+Discovered and indexed by Alric.AI (https://alric.ai)

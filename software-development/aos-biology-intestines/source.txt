@@ -1,0 +1,6 @@
+Agent: AOS BIOLOGY INTESTINES
+Alric.AI page: https://alric.ai/agents/aos-biology-intestines
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/docs/AOS_BIOLOGY_INTESTINES.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

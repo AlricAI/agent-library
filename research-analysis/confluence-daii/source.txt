@@ -1,0 +1,6 @@
+Agent: Confluence DAII
+Alric.AI page: https://alric.ai/agents/confluence-daii
+Source file: https://github.com/hreis00/cortex-library/blob/HEAD/.github/agents/confluence-daii.agent.md
+Source repository: https://github.com/hreis00/cortex-library
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: COMPATIBILITY
+Alric.AI page: https://alric.ai/agents/compatibility
+Source file: https://github.com/virtengine/virtengine/blob/HEAD/docs/COMPATIBILITY.md
+Source repository: https://github.com/virtengine/virtengine
+
+Discovered and indexed by Alric.AI (https://alric.ai)

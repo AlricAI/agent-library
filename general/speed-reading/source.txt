@@ -1,0 +1,6 @@
+Agent: Speed Reading
+Alric.AI page: https://alric.ai/agents/speed-reading
+Source file: https://github.com/burninmedia/sprint-read/blob/HEAD/spec/speed-reading.md
+Source repository: https://github.com/burninmedia/sprint-read
+
+Discovered and indexed by Alric.AI (https://alric.ai)

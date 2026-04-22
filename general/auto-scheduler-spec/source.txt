@@ -1,0 +1,6 @@
+Agent: AUTO SCHEDULER SPEC
+Alric.AI page: https://alric.ai/agents/auto-scheduler-spec
+Source file: https://github.com/FrancescoPuglia/life-tracker/blob/HEAD/docs/AUTO_SCHEDULER_SPEC.md
+Source repository: https://github.com/FrancescoPuglia/life-tracker
+
+Discovered and indexed by Alric.AI (https://alric.ai)

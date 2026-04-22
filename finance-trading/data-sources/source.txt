@@ -1,0 +1,6 @@
+Agent: DATA SOURCES
+Alric.AI page: https://alric.ai/agents/data-sources
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/docs/DATA_SOURCES.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

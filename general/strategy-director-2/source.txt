@@ -1,0 +1,6 @@
+Agent: Strategy Director
+Alric.AI page: https://alric.ai/agents/strategy-director-2
+Source file: https://github.com/paperclipai/companies/blob/HEAD/taches-creative/agents/strategy-director/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

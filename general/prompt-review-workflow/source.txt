@@ -1,0 +1,6 @@
+Agent: prompt-review-workflow
+Alric.AI page: https://alric.ai/agents/prompt-review-workflow
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/.claude/agents/amplihack/workflows/prompt-review-workflow.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

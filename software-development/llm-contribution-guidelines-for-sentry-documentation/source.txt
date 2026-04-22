@@ -1,0 +1,6 @@
+Agent: LLM Contribution Guidelines for Sentry Documentation
+Alric.AI page: https://alric.ai/agents/llm-contribution-guidelines-for-sentry-documentation
+Source file: https://github.com/getsentry/sentry-docs/blob/HEAD/.cursor/rules/contribution-guidelines.mdc
+Source repository: https://github.com/getsentry/sentry-docs
+
+Discovered and indexed by Alric.AI (https://alric.ai)

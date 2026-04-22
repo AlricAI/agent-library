@@ -1,0 +1,6 @@
+Agent: Real Agents Architecture Diagram
+Alric.AI page: https://alric.ai/agents/real-agents-architecture-diagram
+Source file: https://github.com/qemqemqem/mechawiki/blob/HEAD/notes/real_agents_architecture_diagram.md
+Source repository: https://github.com/qemqemqem/mechawiki
+
+Discovered and indexed by Alric.AI (https://alric.ai)

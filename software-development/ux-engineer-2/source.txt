@@ -1,0 +1,6 @@
+Agent: Ux Engineer
+Alric.AI page: https://alric.ai/agents/ux-engineer-2
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/product/content/ux-engineer.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

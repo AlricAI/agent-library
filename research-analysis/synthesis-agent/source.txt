@@ -1,0 +1,6 @@
+Agent: Synthesis Digest Generator
+Alric.AI page: https://alric.ai/agents/synthesis-agent
+Source file: https://github.com/Zidong-IA/BIBLIOTECA/blob/HEAD/references/repos-referencia/awesome-llm-apps/advanced_ai_agents/multi_agent_apps/devpulse_ai/agents/synthesis_agent.py
+Source repository: https://github.com/Zidong-IA/BIBLIOTECA
+
+Discovered and indexed by Alric.AI (https://alric.ai)

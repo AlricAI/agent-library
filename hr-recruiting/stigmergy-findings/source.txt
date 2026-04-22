@@ -1,0 +1,6 @@
+Agent: Stigmergy Findings
+Alric.AI page: https://alric.ai/agents/stigmergy-findings
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/drawer/stigmergy-findings.md
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

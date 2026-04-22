@@ -1,0 +1,6 @@
+Agent: Cursor Rules
+Alric.AI page: https://alric.ai/agents/cursor-rules
+Source file: https://github.com/dew-labs/wolfy-interface/blob/HEAD/.cursor/rules/cursor-rules.mdc
+Source repository: https://github.com/dew-labs/wolfy-interface
+
+Discovered and indexed by Alric.AI (https://alric.ai)

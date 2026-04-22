@@ -1,0 +1,6 @@
+Agent: Generator Workflow
+Alric.AI page: https://alric.ai/agents/generator-workflow
+Source file: https://github.com/drumnation/brain-garden-foundry/blob/HEAD/docs/generator-workflow.md
+Source repository: https://github.com/drumnation/brain-garden-foundry
+
+Discovered and indexed by Alric.AI (https://alric.ai)

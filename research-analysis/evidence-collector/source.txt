@@ -1,0 +1,6 @@
+Agent: Evidence Collector
+Alric.AI page: https://alric.ai/agents/evidence-collector
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/agency-agents/agents/testing-evidence-collector/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

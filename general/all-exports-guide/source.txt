@@ -1,0 +1,6 @@
+Agent: ALL EXPORTS GUIDE
+Alric.AI page: https://alric.ai/agents/all-exports-guide
+Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/docs/ALL_EXPORTS_GUIDE.md
+Source repository: https://github.com/rysweet/AzureHayMaker
+
+Discovered and indexed by Alric.AI (https://alric.ai)

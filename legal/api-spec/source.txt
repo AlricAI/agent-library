@@ -1,0 +1,6 @@
+Agent: Api Spec
+Alric.AI page: https://alric.ai/agents/api-spec
+Source file: https://github.com/KushagraBharti/Beyond-Chat/blob/HEAD/docs/api-spec.md
+Source repository: https://github.com/KushagraBharti/Beyond-Chat
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: HEARTBEAT
+Alric.AI page: https://alric.ai/agents/heartbeat-138
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/mcm-forge/agents/forge-reviewer/HEARTBEAT.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

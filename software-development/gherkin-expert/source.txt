@@ -1,0 +1,6 @@
+Agent: gherkin-expert
+Alric.AI page: https://alric.ai/agents/gherkin-expert
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/.claude/agents/amplihack/specialized/gherkin-expert.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

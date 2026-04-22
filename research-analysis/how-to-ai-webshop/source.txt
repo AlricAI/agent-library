@@ -1,0 +1,6 @@
+Agent: HOW TO AI WEBSHOP
+Alric.AI page: https://alric.ai/agents/how-to-ai-webshop
+Source file: https://github.com/koenvorster/Personal_project_VorstersNV/blob/HEAD/documentatie/HOW_TO_AI_WEBSHOP.md
+Source repository: https://github.com/koenvorster/Personal_project_VorstersNV
+
+Discovered and indexed by Alric.AI (https://alric.ai)

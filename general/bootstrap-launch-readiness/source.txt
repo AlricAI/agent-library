@@ -1,0 +1,6 @@
+Agent: BOOTSTRAP LAUNCH READINESS
+Alric.AI page: https://alric.ai/agents/bootstrap-launch-readiness
+Source file: https://github.com/Khamel83/Atlas_OLD/blob/HEAD/docs/BOOTSTRAP_LAUNCH_READINESS.md
+Source repository: https://github.com/Khamel83/Atlas_OLD
+
+Discovered and indexed by Alric.AI (https://alric.ai)

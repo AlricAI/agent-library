@@ -1,0 +1,6 @@
+Agent: DirtSync Trail Data Engineer
+Alric.AI page: https://alric.ai/agents/dirtsync-trail-data-engineer
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/dirtsync/agents/dirtsync-trail-data-engineer/AGENTS.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

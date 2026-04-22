@@ -1,0 +1,6 @@
+Agent: Example Enrichments
+Alric.AI page: https://alric.ai/agents/example-enrichments
+Source file: https://github.com/Inist-CNRS/ezs/blob/HEAD/docs/example-enrichments.md
+Source repository: https://github.com/Inist-CNRS/ezs
+
+Discovered and indexed by Alric.AI (https://alric.ai)

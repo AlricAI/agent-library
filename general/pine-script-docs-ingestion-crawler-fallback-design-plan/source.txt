@@ -1,0 +1,6 @@
+Agent: Pine Script Docs Ingestion Crawler Fallback Design Plan
+Alric.AI page: https://alric.ai/agents/pine-script-docs-ingestion-crawler-fallback-design-plan
+Source file: https://github.com/dannySubsense/PineScript-Builder/blob/HEAD/docs/pine_script_docs_ingestion_crawler_fallback_design_plan.md
+Source repository: https://github.com/dannySubsense/PineScript-Builder
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-241
+Source file: https://github.com/schemalabz/nix-openclaw/blob/HEAD/workspace/AGENTS.md
+Source repository: https://github.com/schemalabz/nix-openclaw
+
+Discovered and indexed by Alric.AI (https://alric.ai)

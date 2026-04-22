@@ -1,0 +1,6 @@
+Agent: WebApp Codex
+Alric.AI page: https://alric.ai/agents/webapp-codex-1
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/webapp-codex/AGENTS.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

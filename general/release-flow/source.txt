@@ -1,0 +1,6 @@
+Agent: Release Flow
+Alric.AI page: https://alric.ai/agents/release-flow
+Source file: https://github.com/alkozlov/puzzle-dazzle/blob/HEAD/docs/release-flow.md
+Source repository: https://github.com/alkozlov/puzzle-dazzle
+
+Discovered and indexed by Alric.AI (https://alric.ai)

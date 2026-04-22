@@ -1,0 +1,6 @@
+Agent: Carousel Growth Engine
+Alric.AI page: https://alric.ai/agents/carousel-growth-engine-2
+Source file: https://github.com/paperclipai/companies/blob/HEAD/agency-agents/agents/marketing-carousel-growth-engine/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

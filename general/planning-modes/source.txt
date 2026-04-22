@@ -1,0 +1,6 @@
+Agent: PLANNING MODES
+Alric.AI page: https://alric.ai/agents/planning-modes
+Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/PLANNING_MODES.md
+Source repository: https://github.com/frumu-ai/tandem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

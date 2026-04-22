@@ -1,0 +1,6 @@
+Agent: Middleware
+Alric.AI page: https://alric.ai/agents/middleware
+Source file: https://github.com/joggrdocs/funkai/blob/HEAD/packages/agents/docs/core/middleware.md
+Source repository: https://github.com/joggrdocs/funkai
+
+Discovered and indexed by Alric.AI (https://alric.ai)

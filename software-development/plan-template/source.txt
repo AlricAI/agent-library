@@ -1,0 +1,6 @@
+Agent: PLAN TEMPLATE
+Alric.AI page: https://alric.ai/agents/plan-template
+Source file: https://github.com/jerrison/11-job-application-assistant/blob/HEAD/docs/PLAN_TEMPLATE.md
+Source repository: https://github.com/jerrison/11-job-application-assistant
+
+Discovered and indexed by Alric.AI (https://alric.ai)

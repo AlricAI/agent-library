@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-331
+Source file: https://github.com/Explosion-Scratch/clippy/blob/HEAD/frontend/AGENTS.md
+Source repository: https://github.com/Explosion-Scratch/clippy
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Architecture Inventory
+Alric.AI page: https://alric.ai/agents/architecture-inventory
+Source file: https://github.com/Krushna-ai/GDVG-Admin-Console/blob/HEAD/docs/architecture-inventory.md
+Source repository: https://github.com/Krushna-ai/GDVG-Admin-Console
+
+Discovered and indexed by Alric.AI (https://alric.ai)

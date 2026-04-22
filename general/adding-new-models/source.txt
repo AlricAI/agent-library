@@ -1,0 +1,6 @@
+Agent: Adding New Models
+Alric.AI page: https://alric.ai/agents/adding-new-models
+Source file: https://github.com/NVIDIA-NeMo/RL/blob/HEAD/docs/adding-new-models.md
+Source repository: https://github.com/NVIDIA-NeMo/RL
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,4 +1,4 @@
-Agent: design-pusher
+Agent: Design Pusher
 Alric.AI page: https://alric.ai/agents/design-pusher
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/meeting-bots/agents/design-pusher.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

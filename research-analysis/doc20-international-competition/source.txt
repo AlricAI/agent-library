@@ -1,0 +1,6 @@
+Agent: Doc20 International Competition
+Alric.AI page: https://alric.ai/agents/doc20-international-competition
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/context-engineering-intro/use-cases/agent-factory-with-subagents/agents/rag_agent/documents/doc20_international_competition.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

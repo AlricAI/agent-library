@@ -1,0 +1,6 @@
+Agent: README
+Alric.AI page: https://alric.ai/agents/readme-9
+Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/major_frameworks/crewAI/lib/crewai-tools/src/crewai_tools/aws/bedrock/agents/README.md
+Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
+
+Discovered and indexed by Alric.AI (https://alric.ai)

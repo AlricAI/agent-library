@@ -1,0 +1,6 @@
+Agent: LESSONS
+Alric.AI page: https://alric.ai/agents/lessons-39
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/mcm-forge/agents/changelog-expert/LESSONS.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Plugin Basics
+Alric.AI page: https://alric.ai/agents/plugin-basics
+Source file: https://github.com/Inist-CNRS/ezs/blob/HEAD/docs/plugin-basics.md
+Source repository: https://github.com/Inist-CNRS/ezs
+
+Discovered and indexed by Alric.AI (https://alric.ai)

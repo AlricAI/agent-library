@@ -1,0 +1,6 @@
+Agent: Cursor Rules Agent
+Alric.AI page: https://alric.ai/agents/cursor-rules-agent-21
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/rules/.wip/tauri-svelte-typescript-guide/.cursorrules
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

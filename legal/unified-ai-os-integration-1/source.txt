@@ -1,0 +1,6 @@
+Agent: UNIFIED AI OS INTEGRATION
+Alric.AI page: https://alric.ai/agents/unified-ai-os-integration-1
+Source file: https://github.com/FGD-ATR-EP/AGS/blob/HEAD/docs/UNIFIED_AI_OS_INTEGRATION.md
+Source repository: https://github.com/FGD-ATR-EP/AGS
+
+Discovered and indexed by Alric.AI (https://alric.ai)

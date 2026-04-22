@@ -1,0 +1,6 @@
+Agent: 03 Api
+Alric.AI page: https://alric.ai/agents/03-api
+Source file: https://github.com/jazzmind/busibox/blob/HEAD/docs/developers/services/agents/03-api.md
+Source repository: https://github.com/jazzmind/busibox
+
+Discovered and indexed by Alric.AI (https://alric.ai)

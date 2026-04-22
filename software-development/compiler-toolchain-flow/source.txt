@@ -1,0 +1,6 @@
+Agent: Compiler Toolchain Flow
+Alric.AI page: https://alric.ai/agents/compiler-toolchain-flow
+Source file: https://github.com/chuanseng-ng/digital-chip-design-agents/blob/HEAD/docs/Compiler_Toolchain_Flow.md
+Source repository: https://github.com/chuanseng-ng/digital-chip-design-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

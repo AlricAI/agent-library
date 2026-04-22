@@ -1,0 +1,6 @@
+Agent: Publish Npm
+Alric.AI page: https://alric.ai/agents/publish-npm
+Source file: https://github.com/NoPKT/omnimem/blob/HEAD/docs/publish-npm.md
+Source repository: https://github.com/NoPKT/omnimem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

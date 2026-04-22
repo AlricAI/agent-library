@@ -1,0 +1,6 @@
+Agent: Copywriting
+Alric.AI page: https://alric.ai/agents/copywriting
+Source file: https://github.com/samaeljvoolt-png/paperclip-refactor-foundation/blob/HEAD/bootstrap/alquim-ia/public/agents/copywriting/AGENTS.md
+Source repository: https://github.com/samaeljvoolt-png/paperclip-refactor-foundation
+
+Discovered and indexed by Alric.AI (https://alric.ai)

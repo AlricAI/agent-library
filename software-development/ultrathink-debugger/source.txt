@@ -1,0 +1,6 @@
+Agent: ultrathink-debugger
+Alric.AI page: https://alric.ai/agents/ultrathink-debugger
+Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/kit/core/agents/ultrathink-debugger/AGENT.md
+Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

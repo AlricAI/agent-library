@@ -1,0 +1,6 @@
+Agent: MEMORY CONTEXT PLAN
+Alric.AI page: https://alric.ai/agents/memory-context-plan
+Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/MEMORY_CONTEXT_PLAN.md
+Source repository: https://github.com/frumu-ai/tandem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

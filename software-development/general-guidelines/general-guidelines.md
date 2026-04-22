@@ -1,0 +1,17 @@
+---
+name: General Guidelines
+description: description: General development guidelines and best practices globs: **/* General Guidelines
+---
+---
+description: General development guidelines and best practices
+globs: **/*
+---
+# General Guidelines
+
+## Recommended
+
++ When needed, try to find a proper library/package for the task, don't always implement everything from scratch. Be careful, don't add superflous libraries.
++ Implement proper dark mode support
++ Include instructions for animations or transitions if needed
+
+## Custom

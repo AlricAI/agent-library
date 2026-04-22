@@ -1,0 +1,6 @@
+Agent: NARRATIVE
+Alric.AI page: https://alric.ai/agents/narrative
+Source file: https://github.com/FGD-ATR-EP/AGS/blob/HEAD/docs/NARRATIVE.md
+Source repository: https://github.com/FGD-ATR-EP/AGS
+
+Discovered and indexed by Alric.AI (https://alric.ai)

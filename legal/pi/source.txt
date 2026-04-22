@@ -1,0 +1,6 @@
+Agent: Pi
+Alric.AI page: https://alric.ai/agents/pi
+Source file: https://github.com/zapabob/clawdbot/blob/HEAD/docs/pi.md
+Source repository: https://github.com/zapabob/clawdbot
+
+Discovered and indexed by Alric.AI (https://alric.ai)

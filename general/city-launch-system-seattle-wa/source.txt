@@ -1,0 +1,6 @@
+Agent: City Launch System Seattle Wa
+Alric.AI page: https://alric.ai/agents/city-launch-system-seattle-wa
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/docs/city-launch-system-seattle-wa.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

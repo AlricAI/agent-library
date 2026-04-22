@@ -1,0 +1,6 @@
+Agent: KEYBINDINGS
+Alric.AI page: https://alric.ai/agents/keybindings
+Source file: https://github.com/alxcnwy/alxcnwy_mac_setup/blob/HEAD/vscode/KEYBINDINGS.md
+Source repository: https://github.com/alxcnwy/alxcnwy_mac_setup
+
+Discovered and indexed by Alric.AI (https://alric.ai)

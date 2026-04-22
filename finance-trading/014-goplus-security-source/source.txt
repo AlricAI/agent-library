@@ -1,0 +1,6 @@
+Agent: 014 Goplus Security Source
+Alric.AI page: https://alric.ai/agents/014-goplus-security-source
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/prompts/014-goplus-security-source.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

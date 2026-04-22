@@ -1,0 +1,6 @@
+Agent: EMAIL PROCESSING PIPELINE
+Alric.AI page: https://alric.ai/agents/email-processing-pipeline
+Source file: https://github.com/Khamel83/Atlas_OLD/blob/HEAD/docs/EMAIL_PROCESSING_PIPELINE.md
+Source repository: https://github.com/Khamel83/Atlas_OLD
+
+Discovered and indexed by Alric.AI (https://alric.ai)

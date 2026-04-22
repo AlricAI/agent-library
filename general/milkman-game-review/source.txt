@@ -1,0 +1,6 @@
+Agent: Milkman Game Review
+Alric.AI page: https://alric.ai/agents/milkman-game-review
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/architecture/milkman_game_review.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

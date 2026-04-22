@@ -1,0 +1,6 @@
+Agent: Godot Shader Developer
+Alric.AI page: https://alric.ai/agents/godot-shader-developer
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/agency-agents/agents/godot-shader-developer/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

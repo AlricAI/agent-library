@@ -1,0 +1,6 @@
+Agent: ANTI GRAVITY PROMPT
+Alric.AI page: https://alric.ai/agents/anti-gravity-prompt
+Source file: https://github.com/LORDBurnItUp/kds-openclaw/blob/HEAD/lord-sav/ANTI_GRAVITY_PROMPT.md
+Source repository: https://github.com/LORDBurnItUp/kds-openclaw
+
+Discovered and indexed by Alric.AI (https://alric.ai)

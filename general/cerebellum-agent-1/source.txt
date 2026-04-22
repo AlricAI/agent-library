@@ -1,0 +1,6 @@
+Agent: Cerebellum Agent
+Alric.AI page: https://alric.ai/agents/cerebellum-agent-1
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/brain/agents/cerebellum_agent.py
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

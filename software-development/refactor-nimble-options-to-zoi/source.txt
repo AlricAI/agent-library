@@ -1,0 +1,6 @@
+Agent: Refactor Nimble Options To Zoi
+Alric.AI page: https://alric.ai/agents/refactor-nimble-options-to-zoi
+Source file: https://github.com/DecoyLex/ltix/blob/HEAD/plans/refactor-nimble-options-to-zoi.md
+Source repository: https://github.com/DecoyLex/ltix
+
+Discovered and indexed by Alric.AI (https://alric.ai)

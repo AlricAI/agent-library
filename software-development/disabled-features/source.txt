@@ -1,0 +1,6 @@
+Agent: DISABLED FEATURES
+Alric.AI page: https://alric.ai/agents/disabled-features
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/discord-bot/DISABLED-FEATURES.md
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

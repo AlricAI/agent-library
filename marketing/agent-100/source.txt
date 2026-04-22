@@ -1,0 +1,6 @@
+Agent: Agent
+Alric.AI page: https://alric.ai/agents/agent-100
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/sms-bot/agents/discovery/agent.py
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

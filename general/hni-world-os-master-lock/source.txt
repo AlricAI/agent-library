@@ -1,0 +1,6 @@
+Agent: HNI WORLD OS MASTER LOCK
+Alric.AI page: https://alric.ai/agents/hni-world-os-master-lock
+Source file: https://github.com/vanshikahni/hni-world-os/blob/HEAD/docs/HNI_WORLD_OS_MASTER_LOCK.md
+Source repository: https://github.com/vanshikahni/hni-world-os
+
+Discovered and indexed by Alric.AI (https://alric.ai)

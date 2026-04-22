@@ -1,0 +1,6 @@
+Agent: Llm Report Models
+Alric.AI page: https://alric.ai/agents/llm-report-models
+Source file: https://github.com/massoudsh/Findash/blob/HEAD/docs/llm-report-models.md
+Source repository: https://github.com/massoudsh/Findash
+
+Discovered and indexed by Alric.AI (https://alric.ai)

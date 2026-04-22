@@ -1,0 +1,6 @@
+Agent: Tweet Automation Notes
+Alric.AI page: https://alric.ai/agents/tweet-automation-notes
+Source file: https://github.com/bagrounds/obsidian-github-publisher-sync/blob/HEAD/docs/tweet-automation-notes.md
+Source repository: https://github.com/bagrounds/obsidian-github-publisher-sync
+
+Discovered and indexed by Alric.AI (https://alric.ai)

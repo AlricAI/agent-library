@@ -1,0 +1,6 @@
+Agent: Lessons Learned Loop
+Alric.AI page: https://alric.ai/agents/lessons-learned-loop
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/lessons-learned-loop.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

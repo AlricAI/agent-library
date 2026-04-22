@@ -1,0 +1,6 @@
+Agent: Test Chat Agent
+Alric.AI page: https://alric.ai/agents/test-chat-agent-3
+Source file: https://github.com/sec-staff-lilithgames/Multi-Agents/blob/HEAD/test/agents/test_chat_agent.py
+Source repository: https://github.com/sec-staff-lilithgames/Multi-Agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

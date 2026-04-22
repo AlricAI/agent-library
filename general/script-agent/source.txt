@@ -1,0 +1,6 @@
+Agent: Podcast Script Generator
+Alric.AI page: https://alric.ai/agents/script-agent
+Source file: https://github.com/Zidong-IA/BIBLIOTECA/blob/HEAD/references/repos-referencia/awesome-llm-apps/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/beifong/agents/script_agent.py
+Source repository: https://github.com/Zidong-IA/BIBLIOTECA
+
+Discovered and indexed by Alric.AI (https://alric.ai)

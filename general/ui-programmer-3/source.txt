@@ -1,0 +1,6 @@
+Agent: UI Programmer
+Alric.AI page: https://alric.ai/agents/ui-programmer-3
+Source file: https://github.com/paperclipai/companies/blob/HEAD/donchitos-game-studio/agents/ui-programmer/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

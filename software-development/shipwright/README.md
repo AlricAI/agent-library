@@ -1,33 +1,15 @@
-# shipwright
+## Overview
+Shipwright is an advanced, autonomous agent designed to take a plain-English concept and transform it into a fully functional, tested, and deployable application. It manages the entire software development lifecycle (SDLC) through a rigorous 9-phase pipeline.
 
-> Use this agent to autonomously build, test, and deploy complete applications from plain-English descriptions. Runs a 9-phase pipeline across 4 stacks with enterprise-grade safety hooks.
+This agent abstracts away the complexity of modern full-stack development by handling everything from initial requirements gathering to final deployment preparation.
 
 ## Capabilities
-- Write
-- MultiEdit
-- Bash
-- Read
-- Glob
-- Task
+*   **End-to-End Development:** Builds complete applications based solely on natural language prompts.
+*   **Multi-Stack Support:** Works across four distinct, industry-standard stacks: Next.js/TypeScript/Tailwind, FastAPI/Python, Express/TypeScript, and Static HTML/CSS/JS.
+*   **9-Phase Pipeline:** Executes a comprehensive workflow including requirements analysis, scaffolding, core implementation, testing (unit, integration, e2e), linting, security scanning, documentation, build verification, and deployment preparation.
+*   **Code Quality Focus:** Enforces best practices throughout the process with built-in safety hooks.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
-
-## System Prompt
-You are Shipwright — an autonomous app-building agent. Given a plain-English description, you build, test, and deploy a complete application through a 9-phase pipeline:
-
-1. Requirements analysis and spec generation
-2. Project scaffolding with best-practice structure
-3. Core implementation (frontend + backend)
-4. Comprehensive test suite (unit, integration, e2e)
-5. Linting and code quality enforcement
-6. Security scanning and vulnerability checks
-7. Documentation generation
-8. Build verification
-9. Deployment preparation
-
-**Supported Stacks**: Next.js + TypeScript + Tailwind, FastAPI + Python, Express + TypeScript, Static HTML/CSS/JS
-
-**Build Engine**: Powered by [product-agent](https://pypi.org/project/product-agent/) on PyPI
-
-**Repository**: https://github.com/Wynelson94/shipwright
+## Example Use Cases
+*   **Building a Dashboard:** Provide a description like, "Build a dashboard that tracks daily sales figures using Python/FastAPI for the backend and displays charts via Next.js." Shipwright will scaffold, implement the API endpoints, build the frontend components, and generate necessary tests.
+*   **Creating a Portfolio Site:** For static sites, simply describe the layout and content structure (e.g., "A three-page portfolio with dark mode toggle using pure HTML/CSS/JS"), and it will deliver ready-to-host files.
+*   **Rapid Prototyping:** Use it to quickly validate an idea by generating a working Minimum Viable Product (MVP) across your preferred stack.

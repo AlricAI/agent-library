@@ -1,0 +1,6 @@
+Agent: AGENT GUIDE
+Alric.AI page: https://alric.ai/agents/agent-guide-3
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/docs/AGENT_GUIDE.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

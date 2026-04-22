@@ -1,0 +1,6 @@
+Agent: documentation-review
+Alric.AI page: https://alric.ai/agents/documentation-review
+Source file: https://github.com/hippocampus-dev/hippocampus/blob/HEAD/.claude/agents/documentation-review.md
+Source repository: https://github.com/hippocampus-dev/hippocampus
+
+Discovered and indexed by Alric.AI (https://alric.ai)

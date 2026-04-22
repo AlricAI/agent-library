@@ -1,0 +1,6 @@
+Agent: amplihack-improvement-workflow
+Alric.AI page: https://alric.ai/agents/amplihack-improvement-workflow
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/.claude/agents/amplihack/workflows/amplihack-improvement-workflow.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

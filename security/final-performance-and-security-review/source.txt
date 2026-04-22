@@ -1,0 +1,6 @@
+Agent: Final performance and security review
+Alric.AI page: https://alric.ai/agents/final-performance-and-security-review
+Source file: https://github.com/hippocampus-dev/hippocampus/blob/HEAD/files/home/kai/.config/claudex/config/agents/final-review.md
+Source repository: https://github.com/hippocampus-dev/hippocampus
+
+Discovered and indexed by Alric.AI (https://alric.ai)

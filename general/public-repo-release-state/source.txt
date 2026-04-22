@@ -1,0 +1,6 @@
+Agent: Public repo release state
+Alric.AI page: https://alric.ai/agents/public-repo-release-state
+Source file: https://github.com/techwavedev/agi-agent-kit/blob/HEAD/memory/project_public_repo_state.md
+Source repository: https://github.com/techwavedev/agi-agent-kit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

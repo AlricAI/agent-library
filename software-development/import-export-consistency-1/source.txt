@@ -1,0 +1,6 @@
+Agent: Import Export Consistency 1
+Alric.AI page: https://alric.ai/agents/import-export-consistency-1
+Source file: https://github.com/Maokus/MVMNT/blob/HEAD/thoughts/import-export-consistency-1.md
+Source repository: https://github.com/Maokus/MVMNT
+
+Discovered and indexed by Alric.AI (https://alric.ai)

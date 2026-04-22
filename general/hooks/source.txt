@@ -1,0 +1,6 @@
+Agent: Hooks
+Alric.AI page: https://alric.ai/agents/hooks
+Source file: https://github.com/Saluana/or3-chat/blob/HEAD/docs/hooks.md
+Source repository: https://github.com/Saluana/or3-chat
+
+Discovered and indexed by Alric.AI (https://alric.ai)

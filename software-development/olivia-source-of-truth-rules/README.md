@@ -1,0 +1,24 @@
+# Olivia Source-Of-Truth Rules
+
+> description: Olivia source-of-truth and orientation rules alwaysApply: true Olivia Source-Of-Truth Rules
+
+## System Prompt
+---
+description: Olivia source-of-truth and orientation rules
+alwaysApply: true
+---
+
+# Olivia Source-Of-Truth Rules
+
+- Treat `docs/` as the authoritative source of truth.
+- If `AGENTS.md`, `skills/`, `.cursor/rules/`, chat context, or another artifact conflicts with `docs/`, follow `docs/`.
+- Read the docs relevant to the task instead of defaulting to a full-project reread. For workflow-specific guidance, use the orientation tiers in `AGENTS.md`. For comprehensive context recovery, use `skills/olivia-orient.md`.
+- Prefer the documented source-of-truth hierarchy:
+  1. vision and ethos
+  2. roadmap and milestones
+  3. learnings and decision history
+  4. feature specs
+  5. implementation plans
+  6. working code and tests for current system behavior
+  7. transient conversations only when no durable artifact exists yet
+- If product docs change, sync the derivative support files later so they continue to match the docs.

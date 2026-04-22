@@ -1,0 +1,6 @@
+Agent: Olivia Implementation Plan
+Alric.AI page: https://alric.ai/agents/olivia-implementation-plan
+Source file: https://github.com/LoveAndCoding/olivia/blob/HEAD/skills/olivia-implementation-plan.md
+Source repository: https://github.com/LoveAndCoding/olivia
+
+Discovered and indexed by Alric.AI (https://alric.ai)

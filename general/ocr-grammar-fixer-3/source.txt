@@ -1,0 +1,6 @@
+Agent: OCR Grammar Fixer
+Alric.AI page: https://alric.ai/agents/ocr-grammar-fixer-3
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/ocr-grammar-fixer.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

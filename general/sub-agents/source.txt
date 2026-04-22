@@ -1,0 +1,6 @@
+Agent: SUB AGENTS
+Alric.AI page: https://alric.ai/agents/sub-agents
+Source file: https://github.com/LeviathanST/own-claw/blob/HEAD/workspace/SUB_AGENTS.md
+Source repository: https://github.com/LeviathanST/own-claw
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: PLANNER
+Alric.AI page: https://alric.ai/agents/planner-12
+Source file: https://github.com/craigrusselltiu/dispatch/blob/HEAD/docs/PLANNER.md
+Source repository: https://github.com/craigrusselltiu/dispatch
+
+Discovered and indexed by Alric.AI (https://alric.ai)

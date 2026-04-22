@@ -1,0 +1,6 @@
+Agent: Sentiment Analyst
+Alric.AI page: https://alric.ai/agents/sentiment-analyst-4
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/product-compass-consulting/agents/sentiment-analyst/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Hearing Preparation
+Alric.AI page: https://alric.ai/agents/hearing-preparation
+Source file: https://github.com/nakamu12/lumineer/blob/HEAD/docs/hearing_preparation.md
+Source repository: https://github.com/nakamu12/lumineer
+
+Discovered and indexed by Alric.AI (https://alric.ai)

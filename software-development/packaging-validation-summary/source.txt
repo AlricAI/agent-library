@@ -1,0 +1,6 @@
+Agent: PACKAGING VALIDATION SUMMARY
+Alric.AI page: https://alric.ai/agents/packaging-validation-summary
+Source file: https://github.com/anchapin/ModPorter-AI/blob/HEAD/docs/PACKAGING_VALIDATION_SUMMARY.md
+Source repository: https://github.com/anchapin/ModPorter-AI
+
+Discovered and indexed by Alric.AI (https://alric.ai)

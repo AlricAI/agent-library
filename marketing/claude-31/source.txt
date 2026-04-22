@@ -1,0 +1,6 @@
+Agent: CLAUDE
+Alric.AI page: https://alric.ai/agents/claude-31
+Source file: https://github.com/harqian/Pause/blob/HEAD/Pause/CLAUDE.md
+Source repository: https://github.com/harqian/Pause
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: OPERATIONS PATCH
+Alric.AI page: https://alric.ai/agents/operations-patch
+Source file: https://github.com/pllporg/karen/blob/HEAD/frontend-refactor/OPERATIONS_PATCH.md
+Source repository: https://github.com/pllporg/karen
+
+Discovered and indexed by Alric.AI (https://alric.ai)

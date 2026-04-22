@@ -1,0 +1,6 @@
+Agent: RESEARCH 5 PARASITE TESTING
+Alric.AI page: https://alric.ai/agents/research-5-parasite-testing
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/queue/RESEARCH_5_PARASITE_TESTING.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

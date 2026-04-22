@@ -1,0 +1,6 @@
+Agent: SUMMARY
+Alric.AI page: https://alric.ai/agents/summary-4
+Source file: https://github.com/CNCSMonster/learn-claude-code-notes/blob/HEAD/src/SUMMARY.md
+Source repository: https://github.com/CNCSMonster/learn-claude-code-notes
+
+Discovered and indexed by Alric.AI (https://alric.ai)

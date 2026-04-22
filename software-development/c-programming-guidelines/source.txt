@@ -1,0 +1,6 @@
+Agent: C++ Programming Guidelines
+Alric.AI page: https://alric.ai/agents/c-programming-guidelines
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/rules/.wip/cpp-programming-guidelines-cursorrules-prompt-file/.cursorrules
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

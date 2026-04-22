@@ -1,0 +1,6 @@
+Agent: Plugin
+Alric.AI page: https://alric.ai/agents/plugin
+Source file: https://github.com/Inist-CNRS/ezs/blob/HEAD/docs/plugin.md
+Source repository: https://github.com/Inist-CNRS/ezs
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Fixture Openai Assistants Agent
+Alric.AI page: https://alric.ai/agents/fixture-openai-assistants-agent
+Source file: https://github.com/justindobbs/Tracecore/blob/HEAD/examples/openai_assistants_adapter/agents/fixture_openai_assistants_agent.py
+Source repository: https://github.com/justindobbs/Tracecore
+
+Discovered and indexed by Alric.AI (https://alric.ai)

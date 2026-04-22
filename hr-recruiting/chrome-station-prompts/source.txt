@@ -1,0 +1,6 @@
+Agent: Chrome Station Prompts
+Alric.AI page: https://alric.ai/agents/chrome-station-prompts
+Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/briefings/chrome-station-prompts.md
+Source repository: https://github.com/Trollz1004/ANTIGRAVITY
+
+Discovered and indexed by Alric.AI (https://alric.ai)

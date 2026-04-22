@@ -1,0 +1,6 @@
+Agent: Icon Set Formatters
+Alric.AI page: https://alric.ai/agents/icon-set-formatters
+Source file: https://github.com/KeenMate/pure-admin-icons/blob/HEAD/docs/icon-set-formatters.md
+Source repository: https://github.com/KeenMate/pure-admin-icons
+
+Discovered and indexed by Alric.AI (https://alric.ai)

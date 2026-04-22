@@ -1,0 +1,6 @@
+Agent: GOLDEN PATH
+Alric.AI page: https://alric.ai/agents/golden-path
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/docs/GOLDEN_PATH.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

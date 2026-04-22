@@ -1,0 +1,6 @@
+Agent: Spec Backend Api 005
+Alric.AI page: https://alric.ai/agents/spec-backend-api-005-1
+Source file: https://github.com/roberto-duran/StayHub/blob/HEAD/docs/spec-backend-api-005.md
+Source repository: https://github.com/roberto-duran/StayHub
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Custom Role Parsers
+Alric.AI page: https://alric.ai/agents/custom-role-parsers
+Source file: https://github.com/DecoyLex/ltix/blob/HEAD/guides/custom-role-parsers.md
+Source repository: https://github.com/DecoyLex/ltix
+
+Discovered and indexed by Alric.AI (https://alric.ai)

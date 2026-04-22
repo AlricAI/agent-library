@@ -1,0 +1,6 @@
+Agent: DevOps Engineer
+Alric.AI page: https://alric.ai/agents/devops-engineer-12
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/clawteam-engineering/agents/devops-engineer/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

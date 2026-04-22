@@ -1,0 +1,6 @@
+Agent: Accounts Payable Agent
+Alric.AI page: https://alric.ai/agents/accounts-payable-agent-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/accounts-payable-agent/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

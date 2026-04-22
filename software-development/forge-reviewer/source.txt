@@ -1,0 +1,6 @@
+Agent: Forge Reviewer
+Alric.AI page: https://alric.ai/agents/forge-reviewer
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/mcm-forge/agents/forge-reviewer/AGENTS.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

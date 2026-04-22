@@ -1,0 +1,6 @@
+Agent: ai-engineer
+Alric.AI page: https://alric.ai/agents/ai-engineer-8
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/ai-ml/ai/ai-engineer.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

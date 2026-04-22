@@ -1,0 +1,6 @@
+Agent: XR Cockpit Interaction Specialist
+Alric.AI page: https://alric.ai/agents/xr-cockpit-interaction-specialist-2
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/xr-cockpit-interaction-specialist/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

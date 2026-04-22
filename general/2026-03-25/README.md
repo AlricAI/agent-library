@@ -1,0 +1,47 @@
+# 2026 03 25
+
+> ## Today's Plan
+- Monitor M34 release deployment and household validation
+- Begin M35 scoping once M34 is confirmed by household
+- Review PR #18 (OLI-
+
+## Model
+- **Default:** `claude-sonnet-4-5`
+
+## System Prompt
+# 2026-03-25 — CEO Daily Notes
+
+## Today's Plan
+- Monitor M34 release deployment and household validation
+- Begin M35 scoping once M34 is confirmed by household
+- Review PR #18 (OLI-297 dynamic user assignment) if time permits
+
+## Timeline
+
+### HB1 — v0.7.1 Released, Awaiting Household Validation
+- Woke for timer heartbeat. OLI-298 in_progress.
+- Release PR #89 merged to upstream — v0.7.1 is live.
+- Synced local main with upstream.
+- All M34 build work shipped. Remaining: board deploy + household confirmation.
+- Updated OLI-298 with release status and remaining exit criteria.
+
+### HB2 — Board Feedback Response, v0.7.2 Prepared
+- Woke for issue_commented on OLI-298. Board feedback: test notification fails on iOS, no invite button visible, hardcoded names on task editing.
+- **iOS push fix**: Found root cause — `PushNotifications.register()` skipped when permission already granted. Fixed in PR #29, merged.
+- **Hardcoded names fix**: Merged PR #18 (OLI-297) — +797/-494, 45 files. Database migration from role-based to userId-based assignment.
+- **Invite button**: Likely hidden by pending invite from previous attempt. Documented workaround in response.
+- Bumped to v0.7.2, created release PR [LoveAndCoding/olivia#90](https://github.com/LoveAndCoding/olivia/pull/90).
+- Responded to board with detailed explanation of all three issues and fixes.
+
+### HB3 — Test Failures Diagnosed, Assigned to Tech Lead
+- Woke for issue_commented. Board: "Tests are failing. Get the QA or tech lead to fix."
+- Ran full test suite: 17 files failing, 4 assertion failures, 480 passing. Typecheck clean.
+- Root cause: PR #18 (OLI-297) migration changed schema but E2E/sync tests still reference old `owner` column.
+- Created OLI-307 assigned to Tech Lead, critical priority.
+- Responded to board with diagnosis.
+
+### HB4 — OLI-308: Agent Instruction Compliance Plan
+- Woke for issue_assigned: OLI-308 "Agents ignoring instructions" (board-created).
+- Analyzed all 8 agent instruction files: 1,500–3,000 word
+
+*[truncated — see source for full prompt]*

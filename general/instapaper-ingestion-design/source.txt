@@ -1,0 +1,6 @@
+Agent: Instapaper Ingestion Design
+Alric.AI page: https://alric.ai/agents/instapaper-ingestion-design
+Source file: https://github.com/Khamel83/Atlas_OLD/blob/HEAD/docs/instapaper_ingestion_design.md
+Source repository: https://github.com/Khamel83/Atlas_OLD
+
+Discovered and indexed by Alric.AI (https://alric.ai)

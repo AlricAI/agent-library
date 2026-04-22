@@ -1,0 +1,6 @@
+Agent: architect
+Alric.AI page: https://alric.ai/agents/architect-61
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/.claude/agents/amplihack/core/architect.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

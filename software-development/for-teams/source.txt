@@ -1,0 +1,6 @@
+Agent: For Teams
+Alric.AI page: https://alric.ai/agents/for-teams
+Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/docs/for-teams.md
+Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

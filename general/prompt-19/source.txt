@@ -1,0 +1,6 @@
+Agent: Prompt
+Alric.AI page: https://alric.ai/agents/prompt-19
+Source file: https://github.com/arsalann/data_playground/blob/HEAD/public-transit-hk/prompt.md
+Source repository: https://github.com/arsalann/data_playground
+
+Discovered and indexed by Alric.AI (https://alric.ai)

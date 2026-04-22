@@ -1,0 +1,6 @@
+Agent: Parallel Doc Qa
+Alric.AI page: https://alric.ai/agents/parallel-doc-qa
+Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/multi_agent___specialized/Qwen-Agent/qwen_agent/agents/doc_qa/parallel_doc_qa.py
+Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
+
+Discovered and indexed by Alric.AI (https://alric.ai)

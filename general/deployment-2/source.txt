@@ -1,0 +1,6 @@
+Agent: DEPLOYMENT
+Alric.AI page: https://alric.ai/agents/deployment-2
+Source file: https://github.com/rostiSe/mymemory/blob/HEAD/docs/DEPLOYMENT.md
+Source repository: https://github.com/rostiSe/mymemory
+
+Discovered and indexed by Alric.AI (https://alric.ai)

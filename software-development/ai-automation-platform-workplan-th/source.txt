@@ -1,0 +1,6 @@
+Agent: AI AUTOMATION PLATFORM WORKPLAN TH
+Alric.AI page: https://alric.ai/agents/ai-automation-platform-workplan-th
+Source file: https://github.com/FGD-ATR-EP/AGS/blob/HEAD/docs/AI_AUTOMATION_PLATFORM_WORKPLAN_TH.md
+Source repository: https://github.com/FGD-ATR-EP/AGS
+
+Discovered and indexed by Alric.AI (https://alric.ai)

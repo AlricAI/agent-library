@@ -1,0 +1,6 @@
+Agent: Test First Developer
+Alric.AI page: https://alric.ai/agents/test-first
+Source file: https://github.com/webdevtodayjason/sub-agents/blob/HEAD/commands/test-first.md
+Source repository: https://github.com/webdevtodayjason/sub-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

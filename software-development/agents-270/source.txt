@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-270
+Source file: https://github.com/strato-space/acp-plugin/blob/HEAD/acp-chat/AGENTS.md
+Source repository: https://github.com/strato-space/acp-plugin
+
+Discovered and indexed by Alric.AI (https://alric.ai)

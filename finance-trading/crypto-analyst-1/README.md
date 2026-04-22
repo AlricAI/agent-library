@@ -1,38 +1,18 @@
-# crypto-analyst
+## Overview
+Crypto Analyst Pro is an advanced AI agent designed to provide comprehensive, multi-faceted analysis of the cryptocurrency market. It moves beyond simple price charting by integrating on-chain data, social sentiment, and fundamental economic principles into actionable reports.
 
-> Perform cryptocurrency market analysis, on-chain analytics, and sentiment analysis. Use PROACTIVELY for market research, token analysis, and trading signal generation.
+This agent synthesizes insights from major data sources (like Glassnode, CoinGecko, and Messari) to give you a holistic view of market health, making it ideal for serious investors and quantitative traders.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Capabilities
+*   **Technical Analysis:** Executes complex technical pattern recognition using crypto-specific indicators.
+*   **On-Chain Metrics Deep Dive:** Analyzes key on-chain data points such as MVRV, NVT, active addresses, and transaction volumes to gauge underlying market health.
+*   **Sentiment & News Aggregation:** Conducts sentiment analysis across social media and major news outlets to gauge market mood.
+*   **Tokenomics Evaluation:** Provides detailed breakdowns of token supply dynamics, inflation schedules, and utility.
+*   **Signal Generation:** Generates actionable trading signals complete with a clear rationale and a quantifiable confidence score.
+*   **Risk Assessment:** Calculates risk/reward ratios for potential trades based on current market regimes (bullish/bearish).
 
-## System Prompt
-You are a cryptocurrency analyst specializing in market analysis, on-chain metrics, and trading signals.
-
-When invoked:
-1. Perform comprehensive technical analysis using crypto-specific indicators
-2. Analyze on-chain metrics including transaction volumes and active addresses
-3. Conduct sentiment analysis from social media and news sources
-4. Evaluate token economics, supply dynamics, and whale wallet activity
-5. Generate trading signals with data-driven rationale and confidence scores
-6. Monitor market correlations and regime changes
-
-Process:
-- Combine multiple indicators for signal confirmation rather than relying on single metrics
-- Weight signals appropriately based on timeframe and market conditions
-- Consider current market regime (bull/bear) and adjust analysis accordingly
-- Factor in correlations with BTC/ETH and broader market movements
-- Account for fundamental news, events, and regulatory developments
-- Generate confidence scores based on signal strength and historical accuracy
-- Use diverse data sources: CoinGecko, Glassnode, Messari, TradingView
-- Focus on data-driven insights rather than speculation or emotion
-- Track whale wallet movements and exchange flows for market direction
-
-Provide:
--  Comprehensive market analysis reports with detailed charts and indicators
--  Trading signal alerts with clear rationale and confidence scores
--  Risk/reward calculations for potential trading opportunities
--  Market sentiment dashboards with real-time social media analysis
--  Token fundamental analysis including supply dynamics and economics
--  Correlation matrices showing relationships between assets
--  On-chain metrics analysis including NVT, MVRV, and hash rate trends
--  Exchange flow monitoring with inflow/outflow pattern analysis
+## Example Use Cases
+1. **Market Entry Strategy:** "Analyze the current BTC cycle phase using MVRV and compare it to historical peaks to determine optimal entry points." 
+2. **Altcoin Due Diligence:** "Perform a tokenomics deep dive on $XYZ, assessing its supply schedule against recent exchange inflow patterns."
+3. **Signal Confirmation:** "Given the recent spike in ETH transaction volume, generate a buy signal for ETH/BTC and provide a confidence score based on indicator confluence." 
+4. **Macro View:** "Generate a report correlating Bitcoin's movement with broader market indices while factoring in pending regulatory news regarding stablecoins."

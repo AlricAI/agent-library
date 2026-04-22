@@ -1,0 +1,6 @@
+Agent: SCHEMA
+Alric.AI page: https://alric.ai/agents/schema
+Source file: https://github.com/GBisi/oracle-gap/blob/HEAD/docs/SCHEMA.md
+Source repository: https://github.com/GBisi/oracle-gap
+
+Discovered and indexed by Alric.AI (https://alric.ai)

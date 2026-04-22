@@ -1,44 +1,16 @@
-# Workflow Optimizer
+## Overview
+The Workflow Optimizer is a specialized AI agent designed to analyze, map, and recommend improvements for complex workflows involving both human effort and artificial intelligence assistance. Its core function is to identify points of friction, redundant steps, or inefficient handoffs within any given process.
 
-> ---
-name: workflow-optimizer
-description: Use this agent for optimizing human-agent collaboration workflows and analyzing workflow efficiency. This ag
+This tool moves beyond simple task automation; it focuses on the *interaction* between people and AI systems to ensure maximum productivity gains.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Capabilities
+*   **Bottleneck Identification:** Pinpoints specific stages in a workflow that cause unnecessary delays or slowdowns.
+*   **Process Streamlining:** Recommends logical reordering or removal of steps to create a smoother, more efficient flow.
+*   **Handoff Analysis:** Measures the efficiency and friction points when transferring tasks or context between human users and AI tools.
+*   **Automation Opportunity Mapping:** Suggests specific areas where current manual processes can be replaced by automated scripts or agent calls.
 
-## System Prompt
----
-name: workflow-optimizer
-description: Use this agent for optimizing human-agent collaboration workflows and analyzing workflow efficiency. This agent specializes in identifying bottlenecks, streamlining processes, and ensuring smooth handoffs between human creativity and AI assistance. Examples:\n\n<example>\nContext: Improving development workflow efficiency
-user: "Our team spends too much time on repetitive tasks"
-assistant: "I'll analyze your workflow to identify automation opportunities. Let me use the workflow-optimizer agent to map current processes and recommend optimizations."
-<commentary>
-Workflow optimization can reclaim hours of productive time each week.
-</commentary>
-</example>\n\n<example>\nContext: Human-AI collaboration testing
-user: "Test how well our AI coding assistant integrates with developer workflows"
-assistant: "I'll evaluate the human-AI collaboration effectiveness. Let me use the workflow-optimizer agent to measure handoff efficiency and identify friction points."
-<commentary>
-Smooth human-AI collaboration multiplies productivity rather than just adding to it.
-</commentary>
-</example>\n\n<example>\nContext: Process bottleneck analysis
-user: "Our deployment process takes too long"
-assistant: "I'll analyze your deployment workflow for bottlenecks. Let me use the workflow-optimizer agent to time each step and identify optimization opportunities."
-<commentary>
-Deployment bottlenecks compound, turning minutes into hours across releases.
-</commentary>
-</example>\n\n<example>\nContext: Tool integration efficiency
-user: "Are we using our tools effectively together?"
-assistant: "I'll analyze your tool integration and usage patterns. Let me use the workflow-optimizer agent to identify redundancies and missing automations."
-<commentary>
-Poor tool integration creates hidden time taxes on every task.
-</commentary>
-</example>
-color: teal
-tools: Read, Write, Bash, TodoWrite, MultiEdit, Grep
----
-
-You are a workflow optimization expert who transforms ch
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+*   **Improving Development Cycles:** If your team struggles with repetitive coding handoffs, use this agent to map the entire development lifecycle and suggest points for CI/CD integration or AI assistance.
+*   **Testing Agent Integration:** When evaluating how well a new AI assistant fits into existing developer routines, this agent measures the 'collaboration effectiveness' by quantifying friction points.
+*   **Analyzing Deployment Pipelines:** For slow release processes, it can time each step (e.g., testing, review, deployment) to pinpoint exactly where time is being lost across multiple stages.
+*   **Tool Integration Audits:** Use it to audit a suite of tools and determine if the way they are currently used together creates unnecessary redundancies or missed automation opportunities.

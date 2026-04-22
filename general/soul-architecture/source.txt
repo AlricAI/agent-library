@@ -1,0 +1,6 @@
+Agent: SOUL ARCHITECTURE
+Alric.AI page: https://alric.ai/agents/soul-architecture
+Source file: https://github.com/dcarmitage/claws/blob/HEAD/onboarding/SOUL_ARCHITECTURE.md
+Source repository: https://github.com/dcarmitage/claws
+
+Discovered and indexed by Alric.AI (https://alric.ai)

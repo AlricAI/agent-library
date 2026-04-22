@@ -1,0 +1,6 @@
+Agent: CHANGELOG
+Alric.AI page: https://alric.ai/agents/changelog-1
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/CHANGELOG.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

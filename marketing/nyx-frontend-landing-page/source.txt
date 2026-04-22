@@ -1,0 +1,6 @@
+Agent: Nyx - Frontend (Landing Page)
+Alric.AI page: https://alric.ai/agents/nyx-frontend-landing-page
+Source file: https://github.com/hoanngocle/nova/blob/HEAD/.github/agents/nyx-frontend-lp.agent.md
+Source repository: https://github.com/hoanngocle/nova
+
+Discovered and indexed by Alric.AI (https://alric.ai)

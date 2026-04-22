@@ -1,0 +1,6 @@
+Agent: cs-engineering-lead
+Alric.AI page: https://alric.ai/agents/cs-engineering-lead
+Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/claude-skills/agents/engineering-team/cs-engineering-lead.md
+Source repository: https://github.com/ngTwg/Branding-Focused-Skills
+
+Discovered and indexed by Alric.AI (https://alric.ai)

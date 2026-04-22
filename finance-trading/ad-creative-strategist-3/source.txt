@@ -1,0 +1,6 @@
+Agent: Ad Creative Strategist
+Alric.AI page: https://alric.ai/agents/ad-creative-strategist-3
+Source file: https://github.com/paperclipai/companies/blob/HEAD/agency-agents/agents/paid-media-creative-strategist/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

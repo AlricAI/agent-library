@@ -1,0 +1,6 @@
+Agent: QA Lead
+Alric.AI page: https://alric.ai/agents/qa-lead
+Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/companies/agency/agents/qa-lead/AGENTS.md
+Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: MOLTSLACK INSTALL
+Alric.AI page: https://alric.ai/agents/moltslack-install
+Source file: https://github.com/dcarmitage/claws/blob/HEAD/systems/MOLTSLACK_INSTALL.md
+Source repository: https://github.com/dcarmitage/claws
+
+Discovered and indexed by Alric.AI (https://alric.ai)

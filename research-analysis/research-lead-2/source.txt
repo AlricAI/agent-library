@@ -1,0 +1,6 @@
+Agent: Research Lead
+Alric.AI page: https://alric.ai/agents/research-lead-2
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/taches-creative/agents/research-lead/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

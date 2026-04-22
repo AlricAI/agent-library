@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-32
+Source file: https://github.com/cass-clearly/remarq/blob/HEAD/agents/cpo/AGENTS.md
+Source repository: https://github.com/cass-clearly/remarq
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Security Engineer
+Alric.AI page: https://alric.ai/agents/security-engineer-5
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/fullstack-forge/agents/security-engineer/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

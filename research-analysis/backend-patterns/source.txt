@@ -1,0 +1,6 @@
+Agent: backend-patterns
+Alric.AI page: https://alric.ai/agents/backend-patterns
+Source file: https://github.com/julianromli/opencode-template/blob/HEAD/skill/backend-patterns.md
+Source repository: https://github.com/julianromli/opencode-template
+
+Discovered and indexed by Alric.AI (https://alric.ai)

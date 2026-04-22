@@ -1,0 +1,6 @@
+Agent: Analysed Chip 1
+Alric.AI page: https://alric.ai/agents/analysed-chip-1
+Source file: https://github.com/Maokus/MVMNT/blob/HEAD/thoughts/analysed_chip_1.md
+Source repository: https://github.com/Maokus/MVMNT
+
+Discovered and indexed by Alric.AI (https://alric.ai)

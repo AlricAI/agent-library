@@ -1,0 +1,6 @@
+Agent: Runtime Factory
+Alric.AI page: https://alric.ai/agents/runtime-factory
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/src/amplihack/agents/goal_seeking/runtime_factory.py
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

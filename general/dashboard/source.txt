@@ -1,0 +1,6 @@
+Agent: DASHBOARD
+Alric.AI page: https://alric.ai/agents/dashboard
+Source file: https://github.com/GBisi/oracle-gap/blob/HEAD/docs/DASHBOARD.md
+Source repository: https://github.com/GBisi/oracle-gap
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Comparing Lti Libraries
+Alric.AI page: https://alric.ai/agents/comparing-lti-libraries
+Source file: https://github.com/DecoyLex/ltix/blob/HEAD/guides/comparing-lti-libraries.md
+Source repository: https://github.com/DecoyLex/ltix
+
+Discovered and indexed by Alric.AI (https://alric.ai)

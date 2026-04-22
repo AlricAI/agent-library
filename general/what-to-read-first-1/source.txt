@@ -1,0 +1,6 @@
+Agent: WHAT TO READ FIRST
+Alric.AI page: https://alric.ai/agents/what-to-read-first-1
+Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/docs/WHAT_TO_READ_FIRST.md
+Source repository: https://github.com/rysweet/AzureHayMaker
+
+Discovered and indexed by Alric.AI (https://alric.ai)

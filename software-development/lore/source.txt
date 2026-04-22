@@ -1,0 +1,6 @@
+Agent: LORE
+Alric.AI page: https://alric.ai/agents/lore
+Source file: https://github.com/nvandessel/floop/blob/HEAD/docs/LORE.md
+Source repository: https://github.com/nvandessel/floop
+
+Discovered and indexed by Alric.AI (https://alric.ai)

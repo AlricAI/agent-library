@@ -1,0 +1,6 @@
+Agent: Report Distribution Agent
+Alric.AI page: https://alric.ai/agents/report-distribution-agent
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/agency-agents/agents/report-distribution-agent/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

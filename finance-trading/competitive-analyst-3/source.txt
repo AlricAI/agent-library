@@ -1,0 +1,6 @@
+Agent: Competitive Analyst
+Alric.AI page: https://alric.ai/agents/competitive-analyst-3
+Source file: https://github.com/paperclipai/companies/blob/HEAD/product-compass-consulting/agents/competitive-analyst/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: ORCHESTRATOR INDEX
+Alric.AI page: https://alric.ai/agents/orchestrator-index
+Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/src/ORCHESTRATOR_INDEX.md
+Source repository: https://github.com/rysweet/AzureHayMaker
+
+Discovered and indexed by Alric.AI (https://alric.ai)

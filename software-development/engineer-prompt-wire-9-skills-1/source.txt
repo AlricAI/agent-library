@@ -1,0 +1,6 @@
+Agent: ENGINEER PROMPT Wire 9 Skills
+Alric.AI page: https://alric.ai/agents/engineer-prompt-wire-9-skills-1
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/dispatcher/ENGINEER-PROMPT-wire-9-skills.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

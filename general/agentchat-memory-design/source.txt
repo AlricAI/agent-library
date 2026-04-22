@@ -1,0 +1,6 @@
+Agent: Agentchat Memory Design
+Alric.AI page: https://alric.ai/agents/agentchat-memory-design
+Source file: https://github.com/dcarmitage/claws/blob/HEAD/memory/agentchat-memory-design.md
+Source repository: https://github.com/dcarmitage/claws
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: crypto-investment-plays-haiku
+Alric.AI page: https://alric.ai/agents/crypto-investment-plays-haiku
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/crypto/crypto-investment-plays-haiku.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

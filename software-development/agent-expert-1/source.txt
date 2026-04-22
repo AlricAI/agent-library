@@ -1,4 +1,4 @@
-Agent: agent-expert
+Agent: Agent Expert Designer
 Alric.AI page: https://alric.ai/agents/agent-expert-1
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/agent-expert.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

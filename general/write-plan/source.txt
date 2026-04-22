@@ -1,0 +1,6 @@
+Agent: Write Plan
+Alric.AI page: https://alric.ai/agents/write-plan
+Source file: https://github.com/julianromli/opencode-template/blob/HEAD/command/write-plan.md
+Source repository: https://github.com/julianromli/opencode-template
+
+Discovered and indexed by Alric.AI (https://alric.ai)

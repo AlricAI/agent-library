@@ -1,0 +1,6 @@
+Agent: Index
+Alric.AI page: https://alric.ai/agents/index-40
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/plugins/blog-workflow/docs/src/agents/index.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

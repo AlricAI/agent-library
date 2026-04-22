@@ -1,0 +1,6 @@
+Agent: Deep Linking V2p0 Implementation Plan
+Alric.AI page: https://alric.ai/agents/deep-linking-v2p0-implementation-plan
+Source file: https://github.com/DecoyLex/ltix/blob/HEAD/plans/deep-linking-v2p0-implementation-plan.md
+Source repository: https://github.com/DecoyLex/ltix
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: AGENT EVALUATION METHODS
+Alric.AI page: https://alric.ai/agents/agent-evaluation-methods
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/AGENT_EVALUATION_METHODS.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

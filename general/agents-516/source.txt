@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-516
+Source file: https://github.com/burninmedia/sprint-read/blob/HEAD/public/AGENTS.md
+Source repository: https://github.com/burninmedia/sprint-read
+
+Discovered and indexed by Alric.AI (https://alric.ai)

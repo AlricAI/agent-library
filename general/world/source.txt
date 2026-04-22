@@ -1,0 +1,6 @@
+Agent: World
+Alric.AI page: https://alric.ai/agents/world
+Source file: https://github.com/AlliedToasters/perihelion/blob/HEAD/documents/world.md
+Source repository: https://github.com/AlliedToasters/perihelion
+
+Discovered and indexed by Alric.AI (https://alric.ai)

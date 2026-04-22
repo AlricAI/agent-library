@@ -1,0 +1,6 @@
+Agent: TREE SITTER LANGUAGES
+Alric.AI page: https://alric.ai/agents/tree-sitter-languages
+Source file: https://github.com/madeindigio/remembrances-mcp/blob/HEAD/docs/TREE_SITTER_LANGUAGES.md
+Source repository: https://github.com/madeindigio/remembrances-mcp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

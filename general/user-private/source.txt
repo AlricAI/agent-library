@@ -1,0 +1,6 @@
+Agent: USER PRIVATE
+Alric.AI page: https://alric.ai/agents/user-private
+Source file: https://github.com/LeviathanST/own-claw/blob/HEAD/workspace/USER_PRIVATE.md
+Source repository: https://github.com/LeviathanST/own-claw
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: CLAUDE
+Alric.AI page: https://alric.ai/agents/claude-39
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/sms-bot/agents/cs-chat/CLAUDE.md
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: ASPIREONE TB SETUP GUIDE
+Alric.AI page: https://alric.ai/agents/aspireone-tb-setup-guide
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/docs/ASPIREONE_TB_SETUP_GUIDE.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

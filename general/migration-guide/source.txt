@@ -1,0 +1,6 @@
+Agent: MIGRATION GUIDE
+Alric.AI page: https://alric.ai/agents/migration-guide
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/docs/MIGRATION_GUIDE.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

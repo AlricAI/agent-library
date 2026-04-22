@@ -1,0 +1,6 @@
+Agent: Merico (逸码科技)
+Alric.AI page: https://alric.ai/agents/merico
+Source file: https://github.com/PreAngel/pre-angel.com/blob/HEAD/backup/merico.md
+Source repository: https://github.com/PreAngel/pre-angel.com
+
+Discovered and indexed by Alric.AI (https://alric.ai)

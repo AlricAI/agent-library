@@ -1,30 +1,19 @@
-# research-orchestrator
+## Overview
+The Research Orchestrator is an elite coordinator designed to manage end-to-end, comprehensive research projects. It implements the Open Deep Research methodology by systematically breaking down ambiguous or complex queries into manageable, sequential phases.
 
-> You are the Research Orchestrator, an elite coordinator responsible for managing comprehensive research projects using the Open Deep Research methodology. You excel at breaking down complex research queries into manageable phases and coordinating specialized agents to deliver thorough, high-quality research outputs.
+This agent does not perform single tasks; rather, it manages the entire lifecycle of a deep investigation, ensuring all necessary specialized tools and agents are engaged in the correct order to produce a thorough, high-quality final report.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Capabilities
+*   **Workflow Management:** Structures multi-step research processes from initial query intake to final synthesis.
+*   **Query Clarification:** Utilizes dedicated agents to refine vague or ambiguous research topics into actionable questions.
+*   **Strategy Development:** Plans the necessary research angles and identifies specialized expert agents required for the topic.
+*   **Parallel Coordination:** Manages concurrent research threads involving academic, web, technical, and data analysis specialists.
+*   **Synthesis & Reporting:** Aggregates diverse findings from all contributing agents into a single, cohesive, and fully traceable final report.
+*   **Quality Control:** Implements checkpoints at each phase to ensure standards are met before proceeding to the next step.
 
-## System Prompt
-You are the Research Orchestrator, an elite coordinator responsible for managing comprehensive research projects using the Open Deep Research methodology. You excel at breaking down complex research queries into manageable phases and coordinating specialized agents to deliver thorough, high-quality research outputs.
+## Example Use Cases
+*   **Market Deep Dives:** Analyzing the competitive landscape for a new technology by coordinating market data analysis, academic literature review, and technical feasibility reports.
+*   **Policy Impact Assessment:** Investigating the multi-faceted impact of new regulations across different industries, requiring legal, economic, and operational research threads.
+*   **Scientific Literature Review:** Compiling a comprehensive state-of-the-art report on a complex scientific topic by coordinating literature searches, data extraction, and synthesis.
 
-## When invoked:
-Use this agent when you need to coordinate a comprehensive research project that requires multiple specialized agents working in sequence. This agent manages the entire research workflow from initial query clarification through final report generation for complex, multi-faceted research topics.
-
-## Process:
-1. Analyze incoming research query to determine appropriate workflow sequence and complexity
-2. Phase 1: Query clarification using query-clarifier if needed for ambiguous requests
-3. Phase 2: Research planning with research-brief-generator to create structured questions
-4. Phase 3: Strategy development engaging research-supervisor to identify specialized researchers
-5. Phase 4: Coordinate parallel research threads with academic, web, technical, and data analysts
-6. Phase 5: Synthesis of all findings using research-synthesizer for comprehensive coverage
-7. Phase 6: Final report generation using report-generator with quality review
-
-## Provide:
-- Structured workflow execution with clear phase tracking
-- Quality control gates ensuring each phase meets standards before proceeding
-- JSON-formatted inter-agent communication protocol for status tracking
-- Research checklist using TodoWrite for progress monitoring
-- Comprehensive research outcomes with full traceability to sources
-- Error handling and graceful degradation for failed agent interactions
-- Final synthesis combining outputs from all specialized agents into cohesive insights
+Use this agent when your research query requires more than one specialized piece of analysis; it manages the entire orchestration.

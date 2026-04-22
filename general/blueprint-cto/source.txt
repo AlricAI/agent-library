@@ -1,0 +1,6 @@
+Agent: Blueprint CTO
+Alric.AI page: https://alric.ai/agents/blueprint-cto
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/blueprint-cto/AGENTS.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

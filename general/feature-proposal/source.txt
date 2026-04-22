@@ -1,0 +1,6 @@
+Agent: Feature Proposal
+Alric.AI page: https://alric.ai/agents/feature-proposal
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/feature-proposal.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

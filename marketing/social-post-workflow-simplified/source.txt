@@ -1,0 +1,6 @@
+Agent: SOCIAL POST WORKFLOW SIMPLIFIED
+Alric.AI page: https://alric.ai/agents/social-post-workflow-simplified
+Source file: https://github.com/sighthoundinc/sighthound-content-ops/blob/HEAD/docs/SOCIAL_POST_WORKFLOW_SIMPLIFIED.md
+Source repository: https://github.com/sighthoundinc/sighthound-content-ops
+
+Discovered and indexed by Alric.AI (https://alric.ai)

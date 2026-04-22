@@ -1,0 +1,6 @@
+Agent:  Prompts
+Alric.AI page: https://alric.ai/agents/prompts-6
+Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/autogen/python/packages/autogen-ext/src/autogen_ext/agents/web_surfer/_prompts.py
+Source repository: https://github.com/ngTwg/Branding-Focused-Skills
+
+Discovered and indexed by Alric.AI (https://alric.ai)

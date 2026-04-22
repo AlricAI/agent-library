@@ -1,0 +1,6 @@
+Agent: Feature Loop Manager
+Alric.AI page: https://alric.ai/agents/feature-loop-manager
+Source file: https://github.com/bluekid2457/MarketingDashboard2/blob/HEAD/.github/agents/feature-loop.agent.md
+Source repository: https://github.com/bluekid2457/MarketingDashboard2
+
+Discovered and indexed by Alric.AI (https://alric.ai)

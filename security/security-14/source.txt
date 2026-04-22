@@ -1,0 +1,6 @@
+Agent: Security
+Alric.AI page: https://alric.ai/agents/security-14
+Source file: https://github.com/Anakonn/langchain-v01/blob/HEAD/docs/security.md
+Source repository: https://github.com/Anakonn/langchain-v01
+
+Discovered and indexed by Alric.AI (https://alric.ai)

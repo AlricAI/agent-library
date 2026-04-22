@@ -1,0 +1,6 @@
+Agent: Advanced Workflow Orchestrator
+Alric.AI page: https://alric.ai/agents/example-workflows
+Source file: https://github.com/webdevtodayjason/sub-agents/blob/HEAD/docs/EXAMPLE-WORKFLOWS.md
+Source repository: https://github.com/webdevtodayjason/sub-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Doc5 Microsoft Openai Tensions
+Alric.AI page: https://alric.ai/agents/doc5-microsoft-openai-tensions
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/context-engineering-intro/use-cases/agent-factory-with-subagents/agents/rag_agent/documents/doc5_microsoft_openai_tensions.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: INTERNAL AUDIT REWARD INTENT WORKPLAN TH
+Alric.AI page: https://alric.ai/agents/internal-audit-reward-intent-workplan-th
+Source file: https://github.com/FGD-ATR-EP/AGS/blob/HEAD/docs/INTERNAL_AUDIT_REWARD_INTENT_WORKPLAN_TH.md
+Source repository: https://github.com/FGD-ATR-EP/AGS
+
+Discovered and indexed by Alric.AI (https://alric.ai)

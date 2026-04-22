@@ -1,0 +1,6 @@
+Agent: Permission Boundaries
+Alric.AI page: https://alric.ai/agents/permission-boundaries
+Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/patterns/permission-boundaries.md
+Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

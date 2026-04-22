@@ -1,0 +1,6 @@
+Agent: Behavioral Nudge Engine
+Alric.AI page: https://alric.ai/agents/behavioral-nudge-engine-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/product-behavioral-nudge-engine/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

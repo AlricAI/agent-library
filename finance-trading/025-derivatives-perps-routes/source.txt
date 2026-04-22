@@ -1,0 +1,6 @@
+Agent: 025 Derivatives Perps Routes
+Alric.AI page: https://alric.ai/agents/025-derivatives-perps-routes
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/prompts/025-derivatives-perps-routes.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

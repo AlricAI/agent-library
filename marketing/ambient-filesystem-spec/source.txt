@@ -1,0 +1,6 @@
+Agent: AMBIENT FILESYSTEM SPEC
+Alric.AI page: https://alric.ai/agents/ambient-filesystem-spec
+Source file: https://github.com/maarco/ambient-fs/blob/HEAD/docs/AMBIENT_FILESYSTEM_SPEC.md
+Source repository: https://github.com/maarco/ambient-fs
+
+Discovered and indexed by Alric.AI (https://alric.ai)

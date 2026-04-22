@@ -1,0 +1,6 @@
+Agent: Praises
+Alric.AI page: https://alric.ai/agents/praises
+Source file: https://github.com/brdloush/livewire/blob/HEAD/tasks/praises.md
+Source repository: https://github.com/brdloush/livewire
+
+Discovered and indexed by Alric.AI (https://alric.ai)

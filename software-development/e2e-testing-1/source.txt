@@ -1,0 +1,6 @@
+Agent: E2e Testing
+Alric.AI page: https://alric.ai/agents/e2e-testing-1
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/e2e-testing.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

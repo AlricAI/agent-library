@@ -1,0 +1,6 @@
+Agent: KRACKEN CLI SETUP QUEUE
+Alric.AI page: https://alric.ai/agents/kracken-cli-setup-queue
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/queue/KRACKEN_CLI_SETUP_QUEUE.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

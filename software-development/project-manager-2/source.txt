@@ -1,0 +1,6 @@
+Agent: Project-Manager
+Alric.AI page: https://alric.ai/agents/project-manager-2
+Source file: https://github.com/blazengreen360/hometower/blob/HEAD/.github/agents/project-manager.agent.md
+Source repository: https://github.com/blazengreen360/hometower
+
+Discovered and indexed by Alric.AI (https://alric.ai)

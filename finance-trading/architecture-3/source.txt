@@ -1,0 +1,6 @@
+Agent: Architecture
+Alric.AI page: https://alric.ai/agents/architecture-3
+Source file: https://github.com/tfukaza/harvest/blob/HEAD/docs/architecture.md
+Source repository: https://github.com/tfukaza/harvest
+
+Discovered and indexed by Alric.AI (https://alric.ai)

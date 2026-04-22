@@ -1,0 +1,6 @@
+Agent: CF 41 BACKEND WORKER AGENT DESIGN
+Alric.AI page: https://alric.ai/agents/cf-41-backend-worker-agent-design
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/CF-41_BACKEND_WORKER_AGENT_DESIGN.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

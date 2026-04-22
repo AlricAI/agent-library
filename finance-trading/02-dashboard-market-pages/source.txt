@@ -1,0 +1,6 @@
+Agent: 02 Dashboard Market Pages
+Alric.AI page: https://alric.ai/agents/02-dashboard-market-pages
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/prompts/agents/02-dashboard-market-pages.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

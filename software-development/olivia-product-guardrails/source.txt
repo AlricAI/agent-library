@@ -1,0 +1,6 @@
+Agent: Olivia Product Guardrails
+Alric.AI page: https://alric.ai/agents/olivia-product-guardrails
+Source file: https://github.com/LoveAndCoding/olivia/blob/HEAD/.cursor/rules/10-product-guardrails.mdc
+Source repository: https://github.com/LoveAndCoding/olivia
+
+Discovered and indexed by Alric.AI (https://alric.ai)

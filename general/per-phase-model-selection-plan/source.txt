@@ -1,0 +1,6 @@
+Agent: Per Phase Model Selection Plan
+Alric.AI page: https://alric.ai/agents/per-phase-model-selection-plan
+Source file: https://github.com/solatis/koan/blob/HEAD/plans/per-phase-model-selection-plan.md
+Source repository: https://github.com/solatis/koan
+
+Discovered and indexed by Alric.AI (https://alric.ai)

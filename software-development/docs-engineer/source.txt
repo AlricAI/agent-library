@@ -1,0 +1,6 @@
+Agent: Docs Engineer
+Alric.AI page: https://alric.ai/agents/docs-engineer
+Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/companies/open-source-maintainer/agents/docs-engineer/AGENTS.md
+Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

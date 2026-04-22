@@ -1,0 +1,6 @@
+Agent: MAILERSEND TEMPLATES
+Alric.AI page: https://alric.ai/agents/mailersend-templates
+Source file: https://github.com/new-u-peptides/express/blob/HEAD/email-templates/MAILERSEND_TEMPLATES.md
+Source repository: https://github.com/new-u-peptides/express
+
+Discovered and indexed by Alric.AI (https://alric.ai)

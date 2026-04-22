@@ -1,4 +1,4 @@
-Agent: tag-agent
+Agent: Tag Taxonomy Manager
 Alric.AI page: https://alric.ai/agents/tag-agent-1
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/tag-agent.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

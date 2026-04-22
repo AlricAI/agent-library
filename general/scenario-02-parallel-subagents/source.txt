@@ -1,0 +1,6 @@
+Agent: Scenario 02 Parallel Subagents
+Alric.AI page: https://alric.ai/agents/scenario-02-parallel-subagents
+Source file: https://github.com/techwavedev/agi-agent-kit/blob/HEAD/templates/base/tests/agents/scenario_02_parallel_subagents.md
+Source repository: https://github.com/techwavedev/agi-agent-kit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

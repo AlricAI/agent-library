@@ -1,4 +1,4 @@
-Agent: arbitrage-bot
+Agent: Crypto Arbitrage Bot
 Alric.AI page: https://alric.ai/agents/arbitrage-bot-2
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/arbitrage-bot.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

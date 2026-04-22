@@ -1,0 +1,6 @@
+Agent: code-archaeologist
+Alric.AI page: https://alric.ai/agents/code-archaeologist-2
+Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/antigravity-ide-main/tests/manual-test-project/.agent/agents/code-archaeologist.md
+Source repository: https://github.com/ngTwg/Branding-Focused-Skills
+
+Discovered and indexed by Alric.AI (https://alric.ai)

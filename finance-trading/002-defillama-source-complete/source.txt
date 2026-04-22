@@ -1,0 +1,6 @@
+Agent: 002 Defillama Source Complete
+Alric.AI page: https://alric.ai/agents/002-defillama-source-complete
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/prompts/002-defillama-source-complete.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: MASTER INDEX
+Alric.AI page: https://alric.ai/agents/master-index
+Source file: https://github.com/chuanseng-ng/digital-chip-design-agents/blob/HEAD/docs/MASTER_INDEX.md
+Source repository: https://github.com/chuanseng-ng/digital-chip-design-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Issues And Prs
+Alric.AI page: https://alric.ai/agents/issues-and-prs
+Source file: https://github.com/hulunote/hulunote/blob/HEAD/docs/issues-and-prs.md
+Source repository: https://github.com/hulunote/hulunote
+
+Discovered and indexed by Alric.AI (https://alric.ai)

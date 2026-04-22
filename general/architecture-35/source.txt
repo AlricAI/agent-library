@@ -1,0 +1,6 @@
+Agent: ARCHITECTURE
+Alric.AI page: https://alric.ai/agents/architecture-35
+Source file: https://github.com/nakamu12/lumineer/blob/HEAD/docs/ARCHITECTURE.md
+Source repository: https://github.com/nakamu12/lumineer
+
+Discovered and indexed by Alric.AI (https://alric.ai)

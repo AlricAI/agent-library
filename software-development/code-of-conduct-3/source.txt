@@ -1,0 +1,6 @@
+Agent: CODE OF CONDUCT
+Alric.AI page: https://alric.ai/agents/code-of-conduct-3
+Source file: https://github.com/danielgonzagat/megaIAAA/blob/HEAD/OpenHands/CODE_OF_CONDUCT.md
+Source repository: https://github.com/danielgonzagat/megaIAAA
+
+Discovered and indexed by Alric.AI (https://alric.ai)

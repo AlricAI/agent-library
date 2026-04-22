@@ -1,0 +1,6 @@
+Agent: Prebuilt Autonomous Agent
+Alric.AI page: https://alric.ai/agents/prebuilt-autonomous-agent
+Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/multi_agent___specialized/upsonic/src/upsonic/agent/prebuilt_autonomous_agent/prebuilt_autonomous_agent.py
+Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Supplier News Monitor
+Alric.AI page: https://alric.ai/agents/supplier-news-monitor
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/supplier-news-monitor.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

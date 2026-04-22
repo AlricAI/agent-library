@@ -1,0 +1,6 @@
+Agent: Home
+Alric.AI page: https://alric.ai/agents/home
+Source file: https://github.com/massoudsh/Findash/blob/HEAD/wiki-content/Home.md
+Source repository: https://github.com/massoudsh/Findash
+
+Discovered and indexed by Alric.AI (https://alric.ai)

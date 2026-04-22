@@ -1,0 +1,6 @@
+Agent: App Demo
+Alric.AI page: https://alric.ai/agents/app-demo
+Source file: https://github.com/Hilalum/hilalum.github.io/blob/HEAD/privacy/app-demo.md
+Source repository: https://github.com/Hilalum/hilalum.github.io
+
+Discovered and indexed by Alric.AI (https://alric.ai)

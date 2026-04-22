@@ -1,0 +1,6 @@
+Agent: code-reviewer
+Alric.AI page: https://alric.ai/agents/code-reviewer-43
+Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit-pt-br/blob/HEAD/kit/core/agents/code-reviewer/AGENT.md
+Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit-pt-br
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Configuration
+Alric.AI page: https://alric.ai/agents/configuration-11
+Source file: https://github.com/chmouel/lazyworktree/blob/HEAD/docs/configuration.md
+Source repository: https://github.com/chmouel/lazyworktree
+
+Discovered and indexed by Alric.AI (https://alric.ai)

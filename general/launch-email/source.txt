@@ -1,0 +1,6 @@
+Agent: Launch Email
+Alric.AI page: https://alric.ai/agents/launch-email
+Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/briefings/launch-email.md
+Source repository: https://github.com/Trollz1004/ANTIGRAVITY
+
+Discovered and indexed by Alric.AI (https://alric.ai)

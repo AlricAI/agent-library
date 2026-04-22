@@ -1,0 +1,6 @@
+Agent: README
+Alric.AI page: https://alric.ai/agents/readme-56
+Source file: https://github.com/HuaMick/AgenticEngineering/blob/HEAD/modules/AgenticGuidance/agents/_mock/README.md
+Source repository: https://github.com/HuaMick/AgenticEngineering
+
+Discovered and indexed by Alric.AI (https://alric.ai)

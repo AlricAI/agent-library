@@ -1,0 +1,6 @@
+Agent: Workflow Mining
+Alric.AI page: https://alric.ai/agents/workflow-mining
+Source file: https://github.com/anshulyadav1976/legacy-profen/blob/HEAD/docs/workflow-mining.md
+Source repository: https://github.com/anshulyadav1976/legacy-profen
+
+Discovered and indexed by Alric.AI (https://alric.ai)

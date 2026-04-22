@@ -1,0 +1,6 @@
+Agent: Task001 Revamp
+Alric.AI page: https://alric.ai/agents/task001-revamp
+Source file: https://github.com/jimmyedgell/jimmyedgell.github.io/blob/HEAD/tasks/task001_revamp.md
+Source repository: https://github.com/jimmyedgell/jimmyedgell.github.io
+
+Discovered and indexed by Alric.AI (https://alric.ai)

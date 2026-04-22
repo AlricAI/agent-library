@@ -1,0 +1,6 @@
+Agent: database-architect
+Alric.AI page: https://alric.ai/agents/database-architect-6
+Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/antigravity-ide-main/.agent/agents/database-architect.md
+Source repository: https://github.com/ngTwg/Branding-Focused-Skills
+
+Discovered and indexed by Alric.AI (https://alric.ai)

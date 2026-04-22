@@ -1,0 +1,6 @@
+Agent: CLI Pulse V1.5 Token Accuracy Plan
+Alric.AI page: https://alric.ai/agents/cli-pulse-v1-5-token-accuracy-plan
+Source file: https://github.com/JasonYeYuhe/cli-pulse/blob/HEAD/docs/CLI_Pulse_v1.5_Token_Accuracy_Plan.md
+Source repository: https://github.com/JasonYeYuhe/cli-pulse
+
+Discovered and indexed by Alric.AI (https://alric.ai)

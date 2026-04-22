@@ -1,0 +1,6 @@
+Agent: Copilot Instructions
+Alric.AI page: https://alric.ai/agents/copilot-instructions
+Source file: https://github.com/nirholas/bnb-chain-toolkit/blob/HEAD/agents/defi-agents/.github/copilot-instructions.md
+Source repository: https://github.com/nirholas/bnb-chain-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

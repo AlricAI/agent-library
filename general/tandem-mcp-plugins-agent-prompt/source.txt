@@ -1,0 +1,6 @@
+Agent: Tandem Mcp Plugins Agent Prompt
+Alric.AI page: https://alric.ai/agents/tandem-mcp-plugins-agent-prompt
+Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/tandem_mcp_plugins_agent_prompt.md
+Source repository: https://github.com/frumu-ai/tandem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

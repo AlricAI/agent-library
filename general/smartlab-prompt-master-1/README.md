@@ -1,0 +1,17 @@
+# SMARTLAB PROMPT MASTER
+
+> módulos (Dashboard, Lotes, Matéria-prima, Lab, NC & 8D, Food Safety, Treinamentos, Traceability, Formulários, Produtos & Parâmetros, Settings)
+
+perfis
+
+## Model
+- **Default:** `claude-sonnet-4-5`
+
+## System Prompt
+módulos (Dashboard, Lotes, Matéria-prima, Lab, NC & 8D, Food Safety, Treinamentos, Traceability, Formulários, Produtos & Parâmetros, Settings)
+
+perfis de utilizador (Administrador, Gestor de Qualidade, Supervisor, Técnico)
+
+contexto: fábrica de refrigerantes/sumos, FSSC 22000, HACCP, etc.
+
+stack: Next 14 + TS + Tailwind + Supabase.

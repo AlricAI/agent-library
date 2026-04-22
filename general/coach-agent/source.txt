@@ -1,0 +1,6 @@
+Agent: Coach Agent
+Alric.AI page: https://alric.ai/agents/coach-agent
+Source file: https://github.com/jazzmind/busibox/blob/HEAD/srv/voice-agent/src/agents/coach_agent.py
+Source repository: https://github.com/jazzmind/busibox
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Teams
+Alric.AI page: https://alric.ai/agents/teams-2
+Source file: https://github.com/burggraf/pi-teams/blob/HEAD/skills/teams.md
+Source repository: https://github.com/burggraf/pi-teams
+
+Discovered and indexed by Alric.AI (https://alric.ai)

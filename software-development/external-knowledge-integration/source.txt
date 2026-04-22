@@ -1,0 +1,6 @@
+Agent: External Knowledge Integration
+Alric.AI page: https://alric.ai/agents/external-knowledge-integration
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/docs/external_knowledge_integration.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

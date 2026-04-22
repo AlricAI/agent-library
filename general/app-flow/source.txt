@@ -1,0 +1,6 @@
+Agent: APP FLOW
+Alric.AI page: https://alric.ai/agents/app-flow
+Source file: https://github.com/massoudsh/Findash/blob/HEAD/docs/APP_FLOW.md
+Source repository: https://github.com/massoudsh/Findash
+
+Discovered and indexed by Alric.AI (https://alric.ai)

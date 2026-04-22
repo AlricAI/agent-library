@@ -1,0 +1,6 @@
+Agent: Frontend Engineer
+Alric.AI page: https://alric.ai/agents/frontend-engineer-2
+Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/companies/agency/agents/frontend-engineer/AGENTS.md
+Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Environment Setup
+Alric.AI page: https://alric.ai/agents/environment-setup
+Source file: https://github.com/mr9t3n/agent/blob/HEAD/docs/environment_setup.md
+Source repository: https://github.com/mr9t3n/agent
+
+Discovered and indexed by Alric.AI (https://alric.ai)

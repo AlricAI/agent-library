@@ -1,0 +1,6 @@
+Agent: VIDEO 12 VWAP EMA MOMENTUM
+Alric.AI page: https://alric.ai/agents/video-12-vwap-ema-momentum
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/the-great-cryptonio/education/video-summaries/VIDEO_12_VWAP_EMA_MOMENTUM.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

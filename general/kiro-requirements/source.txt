@@ -1,0 +1,6 @@
+Agent: Kiro Requirements
+Alric.AI page: https://alric.ai/agents/kiro-requirements
+Source file: https://github.com/hippocampus-dev/hippocampus/blob/HEAD/files/home/kai/.config/claudex/config/agents/kiro/kiro-1_requirement.md
+Source repository: https://github.com/hippocampus-dev/hippocampus
+
+Discovered and indexed by Alric.AI (https://alric.ai)

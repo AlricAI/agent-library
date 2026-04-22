@@ -1,0 +1,6 @@
+Agent: PROJECT
+Alric.AI page: https://alric.ai/agents/project
+Source file: https://github.com/nirholas/bnb-chain-toolkit/blob/HEAD/docs/PROJECT.md
+Source repository: https://github.com/nirholas/bnb-chain-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

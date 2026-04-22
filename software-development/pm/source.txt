@@ -1,0 +1,6 @@
+Agent: Product Manager Interviewer
+Alric.AI page: https://alric.ai/agents/pm
+Source file: https://github.com/cjy5507/forge/blob/HEAD/agents/pm.md
+Source repository: https://github.com/cjy5507/forge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

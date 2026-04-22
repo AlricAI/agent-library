@@ -1,0 +1,6 @@
+Agent: 001 Coingecko Source Complete
+Alric.AI page: https://alric.ai/agents/001-coingecko-source-complete
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/prompts/001-coingecko-source-complete.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

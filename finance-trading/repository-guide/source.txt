@@ -1,0 +1,6 @@
+Agent: REPOSITORY GUIDE
+Alric.AI page: https://alric.ai/agents/repository-guide
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/docs/REPOSITORY_GUIDE.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

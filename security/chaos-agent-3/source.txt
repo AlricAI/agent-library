@@ -1,0 +1,6 @@
+Agent: Chaos Agent
+Alric.AI page: https://alric.ai/agents/chaos-agent-3
+Source file: https://github.com/paperclipai/companies/blob/HEAD/trail-of-bits-security/agents/chaos-agent/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

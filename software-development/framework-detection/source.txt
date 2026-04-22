@@ -1,0 +1,6 @@
+Agent: Framework Detection
+Alric.AI page: https://alric.ai/agents/framework-detection
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/src/amplihack/vendor/blarify/agents/prompt_templates/framework_detection.py
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

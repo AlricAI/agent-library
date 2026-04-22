@@ -1,0 +1,6 @@
+Agent: Dr. Leo Tancredi
+Alric.AI page: https://alric.ai/agents/dr-leo-tancredi
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/kdense-science-lab/agents/visualization-specialist/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

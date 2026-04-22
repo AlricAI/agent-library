@@ -1,0 +1,6 @@
+Agent: AGENT FACTORY GUIDE
+Alric.AI page: https://alric.ai/agents/agent-factory-guide
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/AGENT_FACTORY_GUIDE.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

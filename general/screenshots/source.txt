@@ -1,0 +1,6 @@
+Agent: Screenshots
+Alric.AI page: https://alric.ai/agents/screenshots
+Source file: https://github.com/chmouel/lazyworktree/blob/HEAD/docs/screenshots.md
+Source repository: https://github.com/chmouel/lazyworktree
+
+Discovered and indexed by Alric.AI (https://alric.ai)

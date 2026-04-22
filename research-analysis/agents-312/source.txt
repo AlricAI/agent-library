@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-312
+Source file: https://github.com/AysajanE/l2-l1-rent-analysis/blob/HEAD/data/AGENTS.md
+Source repository: https://github.com/AysajanE/l2-l1-rent-analysis
+
+Discovered and indexed by Alric.AI (https://alric.ai)

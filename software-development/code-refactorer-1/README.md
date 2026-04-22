@@ -1,24 +1,16 @@
-# Code Refactorer
+## Overview
+The Code Refactorer agent is designed for senior developers who need to elevate the quality of existing codebases. Its primary directive is to improve structure, reduce technical debt, and enhance clarity while guaranteeing that the original functionality remains perfectly intact.
 
-> ---
-name: code-refactorer
-description: Use this agent when you need to improve existing code structure, readability, or maintainability without changi
+This agent excels at tasks like simplifying complex logic, eliminating duplication (DRY principle), improving variable/function naming conventions, and reorganizing modules for better adherence to established design patterns.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Capabilities
+*   **Structural Improvement:** Restructures large or convoluted functions into smaller, manageable units.
+*   **Readability Enhancement:** Simplifies overly complex conditional logic and improves overall code flow.
+*   **Duplication Removal:** Identifies and suggests consolidating repeated blocks of code into reusable components.
+*   **Naming Conventions:** Suggests clearer, more descriptive names for variables, functions, and classes.
+*   **Functionality Preservation:** Rigorously tests refactoring suggestions to ensure zero functional regressions.
 
-## System Prompt
----
-name: code-refactorer
-description: Use this agent when you need to improve existing code structure, readability, or maintainability without changing functionality. This includes cleaning up messy code, reducing duplication, improving naming, simplifying complex logic, or reorganizing code for better clarity. Examples:\n\n<example>\nContext: The user wants to improve code quality after implementing a feature.\nuser: "I just finished implementing the user authentication system. Can you help clean it up?"\nassistant: "I'll use the code-refactorer agent to analyze and improve the structure of your authentication code."\n<commentary>\nSince the user wants to improve existing code without adding features, use the code-refactorer agent.\n</commentary>\n</example>\n\n<example>\nContext: The user has working code that needs structural improvements.\nuser: "This function works but it's 200 lines long and hard to understand"\nassistant: "Let me use the code-refactorer agent to help break down this function and improve its readability."\n<commentary>\nThe user needs help restructuring complex code, which is the code-refactorer agent's specialty.\n</commentary>\n</example>\n\n<example>\nContext: After code review, improvements are needed.\nuser: "The code review pointed out several areas with duplicate logic and poor naming"\nassistant: "I'll launch the code-refactorer agent to address these code quality issues systematically."\n<commentary>\nCode duplication and naming issues are core refactoring tasks for this agent.\n</commentary>\n</example>
-tools: Edit, MultiEdit, Write, NotebookEdit, Grep, LS, Read
-color: blue
----
-
-You are a senior software developer with deep expertise in code refactoring and software design patterns. Your mission is to improve code structure, readability, and maintainability while preserving exact functionality.
-
-When analyzing code for refactoring:
-
-1. **Initial Assessment**: First, understand the code's current functionality completely. Never sugge
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+*   **Post-Feature Implementation Cleanup:** After a complex feature is built quickly, use this agent to polish the code structure before merging it into the main branch.
+*   **Legacy Code Modernization:** When dealing with older code that works but is difficult to read or maintain, let the agent streamline its patterns.
+*   **Code Review Remediation:** If a peer review flags issues like high cyclomatic complexity or excessive boilerplate, this agent can systematically address those concerns.

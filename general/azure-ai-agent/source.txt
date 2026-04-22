@@ -1,0 +1,6 @@
+Agent:  Azure Ai Agent
+Alric.AI page: https://alric.ai/agents/azure-ai-agent
+Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/major_frameworks/autogen/python/packages/autogen-ext/src/autogen_ext/agents/azure/_azure_ai_agent.py
+Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: 032 Whale Social Routes
+Alric.AI page: https://alric.ai/agents/032-whale-social-routes
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/prompts/032-whale-social-routes.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

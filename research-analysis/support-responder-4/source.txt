@@ -1,0 +1,6 @@
+Agent: Support Responder
+Alric.AI page: https://alric.ai/agents/support-responder-4
+Source file: https://github.com/paperclipai/companies/blob/HEAD/agency-agents/agents/support-support-responder/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

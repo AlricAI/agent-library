@@ -1,0 +1,6 @@
+Agent: Framework Detector
+Alric.AI page: https://alric.ai/agents/framework-detector
+Source file: https://github.com/anchapin/ModPorter-AI/blob/HEAD/ai-engine/agents/java_analyzer/framework_detector.py
+Source repository: https://github.com/anchapin/ModPorter-AI
+
+Discovered and indexed by Alric.AI (https://alric.ai)

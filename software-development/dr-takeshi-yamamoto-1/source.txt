@@ -1,0 +1,6 @@
+Agent: Dr. Takeshi Yamamoto
+Alric.AI page: https://alric.ai/agents/dr-takeshi-yamamoto-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/lab-automation-engineer/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

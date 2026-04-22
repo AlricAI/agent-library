@@ -1,0 +1,6 @@
+Agent: GOVERNANCE ENFORCEMENT SUMMARY
+Alric.AI page: https://alric.ai/agents/governance-enforcement-summary
+Source file: https://github.com/sighthoundinc/sighthound-content-ops/blob/HEAD/docs/GOVERNANCE_ENFORCEMENT_SUMMARY.md
+Source repository: https://github.com/sighthoundinc/sighthound-content-ops
+
+Discovered and indexed by Alric.AI (https://alric.ai)

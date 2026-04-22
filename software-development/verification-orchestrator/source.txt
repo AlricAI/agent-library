@@ -1,0 +1,6 @@
+Agent: verification-orchestrator
+Alric.AI page: https://alric.ai/agents/verification-orchestrator
+Source file: https://github.com/chuanseng-ng/digital-chip-design-agents/blob/HEAD/plugins/verification/agents/verification-orchestrator.md
+Source repository: https://github.com/chuanseng-ng/digital-chip-design-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

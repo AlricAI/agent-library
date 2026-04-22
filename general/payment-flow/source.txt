@@ -1,0 +1,6 @@
+Agent: Payment Flow
+Alric.AI page: https://alric.ai/agents/payment-flow
+Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/docs/payment_flow.md
+Source repository: https://github.com/Trollz1004/ANTIGRAVITY
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Beta Launch Commander
+Alric.AI page: https://alric.ai/agents/beta-launch-commander
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/beta-launch-commander/AGENTS.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

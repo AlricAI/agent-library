@@ -1,0 +1,6 @@
+Agent: REMOTE STAGING DEPLOYMENT
+Alric.AI page: https://alric.ai/agents/remote-staging-deployment
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/REMOTE_STAGING_DEPLOYMENT.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

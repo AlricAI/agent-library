@@ -1,0 +1,6 @@
+Agent: TOOLSET SUMMARY
+Alric.AI page: https://alric.ai/agents/toolset-summary
+Source file: https://github.com/cbwinslow/cloudcurio-monorepo-new/blob/HEAD/agents/toolsets/jcsnotfunny/TOOLSET_SUMMARY.md
+Source repository: https://github.com/cbwinslow/cloudcurio-monorepo-new
+
+Discovered and indexed by Alric.AI (https://alric.ai)

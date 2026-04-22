@@ -1,0 +1,6 @@
+Agent: feature-builder-lead
+Alric.AI page: https://alric.ai/agents/feature-builder-lead
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/.claude/agents/feature-builder-lead.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

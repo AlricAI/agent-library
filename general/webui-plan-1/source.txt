@@ -1,0 +1,6 @@
+Agent: Webui Plan
+Alric.AI page: https://alric.ai/agents/webui-plan-1
+Source file: https://github.com/NoPKT/omnimem/blob/HEAD/docs/webui-plan.md
+Source repository: https://github.com/NoPKT/omnimem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

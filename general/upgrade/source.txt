@@ -1,0 +1,6 @@
+Agent: UPGRADE
+Alric.AI page: https://alric.ai/agents/upgrade
+Source file: https://github.com/cbwinslow/cloudcurio-monorepo-new/blob/HEAD/docs/UPGRADE.md
+Source repository: https://github.com/cbwinslow/cloudcurio-monorepo-new
+
+Discovered and indexed by Alric.AI (https://alric.ai)

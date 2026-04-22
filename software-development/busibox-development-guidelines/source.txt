@@ -1,0 +1,6 @@
+Agent: busibox Development Guidelines
+Alric.AI page: https://alric.ai/agents/busibox-development-guidelines
+Source file: https://github.com/jazzmind/busibox/blob/HEAD/.cursor/rules/specify-rules.mdc
+Source repository: https://github.com/jazzmind/busibox
+
+Discovered and indexed by Alric.AI (https://alric.ai)

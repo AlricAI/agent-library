@@ -1,0 +1,6 @@
+Agent: rust-programming-expert
+Alric.AI page: https://alric.ai/agents/rust-programming-expert
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/.claude/agents/amplihack/specialized/rust-programming-expert.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

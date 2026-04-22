@@ -1,0 +1,6 @@
+Agent: Graphify Adoption Implementation 2026 04 07
+Alric.AI page: https://alric.ai/agents/graphify-adoption-implementation-2026-04-07
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/docs/graphify-adoption-implementation-2026-04-07.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

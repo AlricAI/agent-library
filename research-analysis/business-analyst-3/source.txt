@@ -1,0 +1,6 @@
+Agent: Business Analyst
+Alric.AI page: https://alric.ai/agents/business-analyst-3
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/.claude/plans/plugins/planning-workflow/scaffold/agents/business-analyst.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

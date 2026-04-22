@@ -1,0 +1,6 @@
+Agent: Xiaohongshu Specialist
+Alric.AI page: https://alric.ai/agents/xiaohongshu-specialist
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/agency-agents/agents/marketing-xiaohongshu-specialist/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

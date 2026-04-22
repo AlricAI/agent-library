@@ -1,0 +1,6 @@
+Agent: Cultural Intelligence Strategist
+Alric.AI page: https://alric.ai/agents/cultural-intelligence-strategist-3
+Source file: https://github.com/paperclipai/companies/blob/HEAD/agency-agents/agents/specialized-cultural-intelligence-strategist/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

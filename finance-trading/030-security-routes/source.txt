@@ -1,0 +1,6 @@
+Agent: 030 Security Routes
+Alric.AI page: https://alric.ai/agents/030-security-routes
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/prompts/030-security-routes.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

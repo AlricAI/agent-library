@@ -1,0 +1,6 @@
+Agent: TROUBLESHOOTING
+Alric.AI page: https://alric.ai/agents/troubleshooting-12
+Source file: https://github.com/Bijikyu/qtests/blob/HEAD/docs/TROUBLESHOOTING.md
+Source repository: https://github.com/Bijikyu/qtests
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: MCP TOOL CONFIGURATION SCHEMA
+Alric.AI page: https://alric.ai/agents/mcp-tool-configuration-schema
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/MCP_TOOL_CONFIGURATION_SCHEMA.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

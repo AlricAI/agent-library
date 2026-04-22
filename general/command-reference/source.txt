@@ -1,0 +1,6 @@
+Agent: Command Reference
+Alric.AI page: https://alric.ai/agents/command-reference
+Source file: https://github.com/rodhayl/specItGithubCopilot/blob/HEAD/docs/command-reference.md
+Source repository: https://github.com/rodhayl/specItGithubCopilot
+
+Discovered and indexed by Alric.AI (https://alric.ai)

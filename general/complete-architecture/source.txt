@@ -1,0 +1,6 @@
+Agent: Complete Architecture
+Alric.AI page: https://alric.ai/agents/complete-architecture
+Source file: https://github.com/boccileonardo/airstream-fm/blob/HEAD/docs/complete-architecture.md
+Source repository: https://github.com/boccileonardo/airstream-fm
+
+Discovered and indexed by Alric.AI (https://alric.ai)

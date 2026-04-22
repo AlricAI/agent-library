@@ -1,0 +1,6 @@
+Agent: Terms And Conditions
+Alric.AI page: https://alric.ai/agents/terms-and-conditions
+Source file: https://github.com/Wamocon/lp_energy/blob/HEAD/legal-docs/terms-and-conditions.md
+Source repository: https://github.com/Wamocon/lp_energy
+
+Discovered and indexed by Alric.AI (https://alric.ai)

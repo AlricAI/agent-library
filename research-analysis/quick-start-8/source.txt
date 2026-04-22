@@ -1,0 +1,6 @@
+Agent: Quick Start
+Alric.AI page: https://alric.ai/agents/quick-start-8
+Source file: https://github.com/Anakonn/langchain-v01/blob/HEAD/docs/modules/agents/quick_start.md
+Source repository: https://github.com/Anakonn/langchain-v01
+
+Discovered and indexed by Alric.AI (https://alric.ai)

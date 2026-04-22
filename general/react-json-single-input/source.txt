@@ -1,0 +1,6 @@
+Agent: React Json Single Input
+Alric.AI page: https://alric.ai/agents/react-json-single-input
+Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/major_frameworks/langchain/libs/langchain/langchain_classic/agents/output_parsers/react_json_single_input.py
+Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
+
+Discovered and indexed by Alric.AI (https://alric.ai)

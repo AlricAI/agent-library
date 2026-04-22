@@ -1,0 +1,6 @@
+Agent: Development Guide for Pinokio Projects
+Alric.AI page: https://alric.ai/agents/development-guide-for-pinokio-projects
+Source file: https://github.com/manat0912/Sam3video-pinokio/blob/HEAD/.cursorrules
+Source repository: https://github.com/manat0912/Sam3video-pinokio
+
+Discovered and indexed by Alric.AI (https://alric.ai)

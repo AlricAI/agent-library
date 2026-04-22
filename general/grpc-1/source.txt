@@ -1,0 +1,6 @@
+Agent: Grpc
+Alric.AI page: https://alric.ai/agents/grpc-1
+Source file: https://github.com/hl/epona/blob/HEAD/specs/grpc.md
+Source repository: https://github.com/hl/epona
+
+Discovered and indexed by Alric.AI (https://alric.ai)

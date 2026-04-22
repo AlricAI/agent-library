@@ -1,0 +1,6 @@
+Agent: Knowledge Graph Agent
+Alric.AI page: https://alric.ai/agents/knowledge-graph-agent-1
+Source file: https://github.com/sec-staff-lilithgames/Multi-Agents/blob/HEAD/camel/agents/knowledge_graph_agent.py
+Source repository: https://github.com/sec-staff-lilithgames/Multi-Agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: project-planner
+Alric.AI page: https://alric.ai/agents/project-planner-5
+Source file: https://github.com/techwavedev/agi-agent-kit/blob/HEAD/templates/.agent/agents/project-planner.md
+Source repository: https://github.com/techwavedev/agi-agent-kit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

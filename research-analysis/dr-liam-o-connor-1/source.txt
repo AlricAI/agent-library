@@ -1,0 +1,6 @@
+Agent: Dr. Liam O'Connor
+Alric.AI page: https://alric.ai/agents/dr-liam-o-connor-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/quantitative-analyst/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

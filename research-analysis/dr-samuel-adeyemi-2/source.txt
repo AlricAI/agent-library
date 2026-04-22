@@ -1,0 +1,6 @@
+Agent: Dr. Samuel Adeyemi
+Alric.AI page: https://alric.ai/agents/dr-samuel-adeyemi-2
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/biochemistry-specialist/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

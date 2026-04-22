@@ -1,0 +1,6 @@
+Agent: Prd Factory 10 10
+Alric.AI page: https://alric.ai/agents/prd-factory-10-10-1
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/docs/prd-factory-10-10.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

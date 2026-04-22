@@ -1,0 +1,6 @@
+Agent: PROMPT CANONICAL SOURCES
+Alric.AI page: https://alric.ai/agents/prompt-canonical-sources
+Source file: https://github.com/pllporg/karen/blob/HEAD/docs/PROMPT_CANONICAL_SOURCES.md
+Source repository: https://github.com/pllporg/karen
+
+Discovered and indexed by Alric.AI (https://alric.ai)

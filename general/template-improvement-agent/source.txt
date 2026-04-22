@@ -1,0 +1,6 @@
+Agent: Template Improvement Agent
+Alric.AI page: https://alric.ai/agents/template-improvement-agent
+Source file: https://github.com/jazzmind/busibox/blob/HEAD/srv/agent/app/agents/in-progress/template_improvement_agent.py
+Source repository: https://github.com/jazzmind/busibox
+
+Discovered and indexed by Alric.AI (https://alric.ai)

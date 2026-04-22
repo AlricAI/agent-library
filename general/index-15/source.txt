@@ -1,0 +1,6 @@
+Agent: Index
+Alric.AI page: https://alric.ai/agents/index-15
+Source file: https://github.com/GeorgePearse/bayesian_filters/blob/HEAD/docs/index.md
+Source repository: https://github.com/GeorgePearse/bayesian_filters
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Multi Hop Generator Agent
+Alric.AI page: https://alric.ai/agents/multi-hop-generator-agent-2
+Source file: https://github.com/danielgonzagat/megaIAAA/blob/HEAD/camel/camel/agents/multi_hop_generator_agent.py
+Source repository: https://github.com/danielgonzagat/megaIAAA
+
+Discovered and indexed by Alric.AI (https://alric.ai)

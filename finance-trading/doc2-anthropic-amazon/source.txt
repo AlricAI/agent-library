@@ -1,0 +1,6 @@
+Agent: Doc2 Anthropic Amazon
+Alric.AI page: https://alric.ai/agents/doc2-anthropic-amazon
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/context-engineering-intro/use-cases/agent-factory-with-subagents/agents/rag_agent/documents/doc2_anthropic_amazon.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

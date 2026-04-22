@@ -1,0 +1,6 @@
+Agent: PERMISSIONS
+Alric.AI page: https://alric.ai/agents/permissions-3
+Source file: https://github.com/sighthoundinc/sighthound-content-ops/blob/HEAD/docs/PERMISSIONS.md
+Source repository: https://github.com/sighthoundinc/sighthound-content-ops
+
+Discovered and indexed by Alric.AI (https://alric.ai)

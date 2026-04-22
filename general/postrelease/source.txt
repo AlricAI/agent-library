@@ -1,0 +1,6 @@
+Agent: Postrelease
+Alric.AI page: https://alric.ai/agents/postrelease
+Source file: https://github.com/chandra7924/https-github.com-gravitational-teleport/blob/HEAD/docs/postrelease.md
+Source repository: https://github.com/chandra7924/https-github.com-gravitational-teleport
+
+Discovered and indexed by Alric.AI (https://alric.ai)

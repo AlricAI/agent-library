@@ -1,0 +1,6 @@
+Agent: test-engineer
+Alric.AI page: https://alric.ai/agents/test-engineer-6
+Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/antigravity-ide-main/tests/manual-test-project/.agent/agents/test-engineer.md
+Source repository: https://github.com/ngTwg/Branding-Focused-Skills
+
+Discovered and indexed by Alric.AI (https://alric.ai)

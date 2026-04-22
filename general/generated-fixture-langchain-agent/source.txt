@@ -1,0 +1,6 @@
+Agent:  Generated Fixture Langchain Agent
+Alric.AI page: https://alric.ai/agents/generated-fixture-langchain-agent
+Source file: https://github.com/justindobbs/Tracecore/blob/HEAD/examples/langchain_adapter/agents/_generated_fixture_langchain_agent.py
+Source repository: https://github.com/justindobbs/Tracecore
+
+Discovered and indexed by Alric.AI (https://alric.ai)

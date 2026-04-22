@@ -1,0 +1,6 @@
+Agent: 03 Dashboard Trading Terminal
+Alric.AI page: https://alric.ai/agents/03-dashboard-trading-terminal
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/prompts/agents/03-dashboard-trading-terminal.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Complete Component Suite Summary
+Alric.AI page: https://alric.ai/agents/complete-component-suite-summary
+Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/design-specs/complete-component-suite-summary.md
+Source repository: https://github.com/Trollz1004/ANTIGRAVITY
+
+Discovered and indexed by Alric.AI (https://alric.ai)

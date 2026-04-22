@@ -1,0 +1,6 @@
+Agent: Root Agent
+Alric.AI page: https://alric.ai/agents/root-agent
+Source file: https://github.com/hippocampus-dev/hippocampus/blob/HEAD/cluster/applications/bot/bot/agent/root_agent.py
+Source repository: https://github.com/hippocampus-dev/hippocampus
+
+Discovered and indexed by Alric.AI (https://alric.ai)

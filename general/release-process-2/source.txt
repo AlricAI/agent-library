@@ -1,0 +1,6 @@
+Agent: RELEASE PROCESS
+Alric.AI page: https://alric.ai/agents/release-process-2
+Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/RELEASE_PROCESS.md
+Source repository: https://github.com/frumu-ai/tandem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

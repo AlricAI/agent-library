@@ -1,0 +1,16 @@
+# Review
+
+> Request a code review for the current work
+
+## Model
+- **Default:** `claude-sonnet-4-5`
+
+## System Prompt
+# Request Code Review
+
+**Focus Area:** $ARGUMENTS
+
+**Instructions:**
+1.  **Target:** I need a code quality and spec compliance review for the current changes.
+2.  **Action:** Please **invoke/use the `requesting-code-review` skill** or **use_skill("requesting-code-review")** immediately.
+3.  Focus your review on the files/areas specified above (if any).

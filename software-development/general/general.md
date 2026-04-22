@@ -1,0 +1,10 @@
+---
+name: General
+description: alwaysApply: true - Always use camelCase for non component files. - Always use PascalCase for component files.
+---
+---
+alwaysApply: true
+---
+- Always use camelCase for non component files.
+- Always use PascalCase for component files.
+- Prioritize tailwind for css.

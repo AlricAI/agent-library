@@ -1,0 +1,6 @@
+Agent: Max Iterations
+Alric.AI page: https://alric.ai/agents/max-iterations
+Source file: https://github.com/Anakonn/langchain-v01/blob/HEAD/docs/modules/agents/how_to/max_iterations.md
+Source repository: https://github.com/Anakonn/langchain-v01
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: domain-validator
+Alric.AI page: https://alric.ai/agents/domain-validator
+Source file: https://github.com/koenvorster/Personal_project_VorstersNV/blob/HEAD/.github/agents/domain-validator.agent.md
+Source repository: https://github.com/koenvorster/Personal_project_VorstersNV
+
+Discovered and indexed by Alric.AI (https://alric.ai)

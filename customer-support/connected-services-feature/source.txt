@@ -1,0 +1,6 @@
+Agent: Connected Services Feature
+Alric.AI page: https://alric.ai/agents/connected-services-feature
+Source file: https://github.com/sighthoundinc/sighthound-content-ops/blob/HEAD/docs/connected-services-feature.md
+Source repository: https://github.com/sighthoundinc/sighthound-content-ops
+
+Discovered and indexed by Alric.AI (https://alric.ai)

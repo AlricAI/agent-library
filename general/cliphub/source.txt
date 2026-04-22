@@ -1,0 +1,6 @@
+Agent: CLIPHUB
+Alric.AI page: https://alric.ai/agents/cliphub
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/doc/CLIPHUB.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

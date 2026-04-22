@@ -1,0 +1,6 @@
+Agent: House Rules
+Alric.AI page: https://alric.ai/agents/house-rules
+Source file: https://github.com/dcb/homeassistant-claude-kit/blob/HEAD/docs/house-rules.md
+Source repository: https://github.com/dcb/homeassistant-claude-kit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

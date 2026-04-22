@@ -1,0 +1,6 @@
+Agent: Configuration
+Alric.AI page: https://alric.ai/agents/configuration-7
+Source file: https://github.com/saithis/Ratatoskr/blob/HEAD/docs/configuration.md
+Source repository: https://github.com/saithis/Ratatoskr
+
+Discovered and indexed by Alric.AI (https://alric.ai)

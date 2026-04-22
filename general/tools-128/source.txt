@@ -1,0 +1,6 @@
+Agent: Tools
+Alric.AI page: https://alric.ai/agents/tools-128
+Source file: https://github.com/veggerby/mastra-sample/blob/HEAD/docs/tools.md
+Source repository: https://github.com/veggerby/mastra-sample
+
+Discovered and indexed by Alric.AI (https://alric.ai)

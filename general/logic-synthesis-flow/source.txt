@@ -1,0 +1,6 @@
+Agent: Logic Synthesis Flow
+Alric.AI page: https://alric.ai/agents/logic-synthesis-flow
+Source file: https://github.com/chuanseng-ng/digital-chip-design-agents/blob/HEAD/docs/Logic_Synthesis_Flow.md
+Source repository: https://github.com/chuanseng-ng/digital-chip-design-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

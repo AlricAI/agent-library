@@ -1,0 +1,20 @@
+# Type Testing
+
+> description: Writing typescript type testing globs: **/*.test-d.ts,**/*.test-d.cts,**/*.test-d.mts,**/*.test-d.tsx,**/*.test-d.ctsx,**/*.test-d.mtsx Type Testing
+
+## Tags
+`typescript`
+
+## System Prompt
+---
+description: Writing typescript type testing
+globs: **/*.test-d.ts,**/*.test-d.cts,**/*.test-d.mts,**/*.test-d.tsx,**/*.test-d.ctsx,**/*.test-d.mtsx
+---
+# Type Testing
+
+## Recommended
+
++ Write type test with `vitest`: `expectTypeOf`, `describe`, `it`,...
++ Don't need `expect.assertions` at the beginning of each test.
+
+## Custom

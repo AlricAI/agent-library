@@ -1,0 +1,6 @@
+Agent: Playwright Test Heal.Prompt
+Alric.AI page: https://alric.ai/agents/playwright-test-heal-prompt
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/node_modules/playwright/lib/agents/playwright-test-heal.prompt.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

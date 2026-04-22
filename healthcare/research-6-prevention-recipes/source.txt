@@ -1,0 +1,6 @@
+Agent: RESEARCH 6 PREVENTION RECIPES
+Alric.AI page: https://alric.ai/agents/research-6-prevention-recipes
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/queue/RESEARCH_6_PREVENTION_RECIPES.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

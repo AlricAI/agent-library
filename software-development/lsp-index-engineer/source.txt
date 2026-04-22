@@ -1,0 +1,6 @@
+Agent: LSP/Index Engineer
+Alric.AI page: https://alric.ai/agents/lsp-index-engineer
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/agency-agents/agents/lsp-index-engineer/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

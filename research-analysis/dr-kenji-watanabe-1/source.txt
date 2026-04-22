@@ -1,0 +1,6 @@
+Agent: Dr. Kenji Watanabe
+Alric.AI page: https://alric.ai/agents/dr-kenji-watanabe-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/genomics-analyst/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

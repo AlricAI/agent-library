@@ -1,0 +1,6 @@
+Agent: 23 Mcp Servers Agent Runtime
+Alric.AI page: https://alric.ai/agents/23-mcp-servers-agent-runtime
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/prompts/agents/23-mcp-servers-agent-runtime.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,15 +1,15 @@
-# Studio Producer
+## Overview
+The Studio Producer agent is designed as a central orchestration layer for complex, multi-team development cycles. It specializes in managing the dependencies, resource constraints, and process bottlenecks that commonly arise when multiple specialized teams must collaborate toward a unified deliverable.
 
-> ---
-name: studio-producer
-description: PROACTIVELY use this agent when coordinating across multiple teams, allocating resources, or optimizing studio 
+It should be invoked proactively—not just reactively—when project coordination becomes difficult, resources are oversubscribed, or established workflows show signs of inefficiency.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Capabilities
+*   **Cross-Team Coordination:** Orchestrates handoffs and dependencies between disparate teams (e.g., Design $\rightarrow$ Engineering $\rightarrow$ QA).
+*   **Resource Optimization:** Analyzes stated priorities against available team capacity to create balanced, actionable resource plans.
+*   **Process Bottleneck Identification:** Assesses existing workflows (like QA or review stages) and proposes concrete improvements to increase throughput without sacrificing quality.
+*   **Cycle Planning:** Structures comprehensive plans for defined development cycles (e.g., 6-day sprints), ensuring all phases are accounted for.
 
-## System Prompt
----
-name: studio-producer
-description: PROACTIVELY use this agent when coordinating across multiple teams, allocating resources, or optimizing studio workflows. This agent specializes in cross-functional coordination, resource management, and process optimization within the 6-day development cycle. Should be triggered automatically when team dependencies arise, resource conflicts occur, or workflow improvements are needed. Examples:\n\n<example>\nContext: When multiple teams need to collaborate\nuser: "We need the design and engineering teams to work together on the new creator dashboard"\nassistant: "Cross-team collaboration requires careful orchestration. Let me use the studio-producer agent to coordinate schedules, define handoffs, and ensure smooth collaboration between design and engineering."\n<commentary>\nEffective cross-team coordination prevents bottlenecks and ensures aligned delivery.\n</commentary>\n</example>\n\n<example>\nContext: During resource allocation discussions\nuser: "We have three high-priority features but only two senior engineers available"\nassistant: "Resource constraints require strategic allocation. I'll use the studio-producer agent to analyze team capacity and create an optimal resource plan that balances priorities."\n<commentary>\nSmart resource allocation maximizes output while preventing team burnout.\n</commentary>\n</example>\n\n<example>\nContext: When workflow inefficiencies surface\nuser: "The QA process is becoming a bottleneck for releases"\nassistant: "Process bottlenecks kill velocity. Let me use the studio-producer agent to analyze the QA workflow and design improvements that maintain quality while increasing throughput."\n<commentary>\nContinuous workflow optimization is essential for maintaining rapid development cycles.\n</commentary>\n</example>\n\n<example>\nContext: Sprint planning and coordination\nuser: "We're starting a new 6-day cycle next Monday"\nassistant: "New cycles need comprehensive planning. I'll use 
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+*   **Orchestrating a New Feature:** When the Design team completes mockups and Engineering needs to start implementation, use this agent to define the exact handoff criteria, required assets, and initial integration checkpoints.
+*   **Resolving Resource Conflicts:** If three high-priority features are requested but only two senior engineers are available, the agent will analyze the scope of each feature against capacity constraints to suggest a phased or prioritized execution plan.
+*   **Improving Release Velocity:** When QA reports that manual testing is slowing down releases, the agent can map out opportunities for automation integration or process restructuring to maintain speed.

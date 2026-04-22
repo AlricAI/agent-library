@@ -1,0 +1,6 @@
+Agent: playwright-test-healer
+Alric.AI page: https://alric.ai/agents/playwright-test-healer
+Source file: https://github.com/comet-ml/opik/blob/HEAD/.agents/skills/playwright-e2e/agents/playwright-test-healer.md
+Source repository: https://github.com/comet-ml/opik
+
+Discovered and indexed by Alric.AI (https://alric.ai)

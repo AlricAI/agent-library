@@ -1,0 +1,6 @@
+Agent: csharp-developer
+Alric.AI page: https://alric.ai/agents/csharp-developer
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/lang/csharp-developer.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

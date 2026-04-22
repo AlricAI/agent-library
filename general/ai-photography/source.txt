@@ -1,0 +1,6 @@
+Agent: Ai Photography
+Alric.AI page: https://alric.ai/agents/ai-photography
+Source file: https://github.com/samaeljvoolt-png/paperclip-refactor-foundation/blob/HEAD/bootstrap/alquim-ia/public/agents/ai-photography/AGENTS.md
+Source repository: https://github.com/samaeljvoolt-png/paperclip-refactor-foundation
+
+Discovered and indexed by Alric.AI (https://alric.ai)

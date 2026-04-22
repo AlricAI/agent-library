@@ -1,0 +1,6 @@
+Agent: Brand Voice
+Alric.AI page: https://alric.ai/agents/brand-voice
+Source file: https://github.com/blex2011/My-Context/blob/HEAD/context-components/brand-voice.md
+Source repository: https://github.com/blex2011/My-Context
+
+Discovered and indexed by Alric.AI (https://alric.ai)

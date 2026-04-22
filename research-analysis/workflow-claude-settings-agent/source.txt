@@ -1,0 +1,6 @@
+Agent: Claude Code Settings Auditor
+Alric.AI page: https://alric.ai/agents/workflow-claude-settings-agent
+Source file: https://github.com/Zidong-IA/BIBLIOTECA/blob/HEAD/references/repos-referencia/claude-code-best-practice/.claude/agents/workflows/best-practice/workflow-claude-settings-agent.md
+Source repository: https://github.com/Zidong-IA/BIBLIOTECA
+
+Discovered and indexed by Alric.AI (https://alric.ai)

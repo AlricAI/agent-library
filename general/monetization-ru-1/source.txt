@@ -1,0 +1,6 @@
+Agent: Monetization.Ru
+Alric.AI page: https://alric.ai/agents/monetization-ru-1
+Source file: https://github.com/alkozlov/puzzle-dazzle/blob/HEAD/docs/monetization.ru.md
+Source repository: https://github.com/alkozlov/puzzle-dazzle
+
+Discovered and indexed by Alric.AI (https://alric.ai)

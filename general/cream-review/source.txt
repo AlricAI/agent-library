@@ -1,0 +1,6 @@
+Agent: Cream Review
+Alric.AI page: https://alric.ai/agents/cream-review
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/architecture/cream_review.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

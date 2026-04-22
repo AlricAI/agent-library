@@ -1,4 +1,4 @@
-Agent: nextjs-app-router-developer
+Agent: Nextjs App Router Developer
 Alric.AI page: https://alric.ai/agents/nextjs-app-router-developer-1
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/nextjs-app-router-developer.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

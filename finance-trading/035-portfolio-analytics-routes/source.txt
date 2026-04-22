@@ -1,0 +1,6 @@
+Agent: 035 Portfolio Analytics Routes
+Alric.AI page: https://alric.ai/agents/035-portfolio-analytics-routes
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/prompts/035-portfolio-analytics-routes.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Dr. Nikolai Volkov
+Alric.AI page: https://alric.ai/agents/dr-nikolai-volkov-3
+Source file: https://github.com/paperclipai/companies/blob/HEAD/kdense-science-lab/agents/physical-sciences-lead/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Project Pipeline Manager
+Alric.AI page: https://alric.ai/agents/phases
+Source file: https://github.com/cjy5507/forge/blob/HEAD/docs/phases.md
+Source repository: https://github.com/cjy5507/forge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

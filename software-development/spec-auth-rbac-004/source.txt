@@ -1,0 +1,6 @@
+Agent: Spec Auth Rbac 004
+Alric.AI page: https://alric.ai/agents/spec-auth-rbac-004
+Source file: https://github.com/roberto-duran/StayHub/blob/HEAD/docs/spec-auth-rbac-004.md
+Source repository: https://github.com/roberto-duran/StayHub
+
+Discovered and indexed by Alric.AI (https://alric.ai)

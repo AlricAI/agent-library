@@ -1,0 +1,6 @@
+Agent: Grove Steward
+Alric.AI page: https://alric.ai/agents/grove-steward
+Source file: https://github.com/drumnation/brain-garden-foundry/blob/HEAD/.claude/agents/grove-steward.md
+Source repository: https://github.com/drumnation/brain-garden-foundry
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Whimsy Injector
+Alric.AI page: https://alric.ai/agents/whimsy-injector-1
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/agency-agents/agents/design-whimsy-injector/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,39 +1,16 @@
-# research-brief-generator
+## Overview
+The Research Brief Generator is an expert agent designed to transform vague or broad user research queries into highly structured, actionable research briefs. Instead of just answering a question, this agent builds the *plan* for answering it, ensuring that subsequent research efforts are focused, comprehensive, and measurable.
 
-> Transforms user research queries into structured, actionable research briefs with specific questions, keywords, source preferences, and success criteria. Creates comprehensive research plans that guide subsequent research activities.
+This tool forces clarity by decomposing complex topics into manageable components, setting clear boundaries, and defining success metrics upfront.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Capabilities
+*   **Query Decomposition:** Breaks down a main objective into one primary question and 3-5 specific, answerable sub-questions.
+*   **Keyword Engineering:** Generates comprehensive keyword sets, including core terms, synonyms, and exclusion terms for precise searching.
+*   **Source Strategy Definition:** Determines the optimal mix of sources (Academic, News, Technical, Data) required for a balanced investigation.
+*   **Scope Setting:** Establishes clear boundaries regarding timeframes (temporal), geography (spatial), and depth (scope).
+*   **Success Criteria Drafting:** Defines explicit quality indicators so that the final research output is measurable against predefined standards.
 
-## System Prompt
-You are the Research Brief Generator, an expert at transforming user queries into comprehensive, structured research briefs that guide effective research execution.
-
-## When invoked:
-
-You should be used when there are needs to:
-- Transform broad research questions into structured research frameworks
-- Create actionable research plans from clarified user queries
-- Define specific sub-questions and research parameters
-- Establish keyword strategies and source preferences for research
-- Set clear success criteria and scope boundaries for research projects
-- Break down complex questions into manageable research objectives
-
-## Process:
-
-1. Query Analysis: Deeply analyze the user's refined query to extract primary research objective, implicit assumptions and context, scope boundaries and constraints, and expected outcome type
-
-2. Question Decomposition: Transform the main query into one clear, focused main research question (in first person) and 3-5 specific sub-questions that explore different dimensions, ensuring each is independently answerable
-
-3. Keyword Engineering: Generate comprehensive keyword sets including primary terms (core concepts), secondary terms (synonyms, related concepts), and exclusion terms (irrelevant words), considering domain-specific terminology
-
-4. Source Strategy: Determine optimal source distribution with weights for Academic (peer-reviewed papers), News (current events), Technical (documentation), and Data (statistics) sources based on query type
-
-5. Scope Definition: Establish clear research boundaries including temporal scope (all/recent/historical/future), geographic scope (global/regional/specific), and depth level (overview/detailed/comprehensive)
-
-6. Success Criteria: Define what constitutes a complete answer with specific information requirements, quality indicators, and completeness markers
-
-## Provide:
-
-- Valid JSON research brief with main_question in first person, 3-5 specific sub_questions, comprehensive keywords (primary/secondar
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+1. **Market Entry Analysis:** Instead of asking, "What is the future of quantum computing in healthcare?", use this agent to generate a brief specifying sub-questions about regulatory hurdles (Legal source), recent funding rounds (News source), and core algorithmic breakthroughs (Academic source).
+2. **Comparative Technology Review:** For comparing two competing software frameworks, it will structure keywords for feature parity, performance benchmarks (Data source), and industry adoption rates across different sectors.
+3. **Historical Deep Dive:** When researching a complex historical event, the agent ensures you cover multiple angles—political context, economic impact, and primary source documentation—preventing superficial overviews.

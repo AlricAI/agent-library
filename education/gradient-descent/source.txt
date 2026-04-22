@@ -1,0 +1,6 @@
+Agent: Gradient Descent
+Alric.AI page: https://alric.ai/agents/gradient-descent
+Source file: https://github.com/ernanhughes/ernanhughes.github.io/blob/HEAD/blog/gradient_descent.md
+Source repository: https://github.com/ernanhughes/ernanhughes.github.io
+
+Discovered and indexed by Alric.AI (https://alric.ai)

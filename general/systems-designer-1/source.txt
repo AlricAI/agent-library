@@ -1,0 +1,6 @@
+Agent: Systems Designer
+Alric.AI page: https://alric.ai/agents/systems-designer-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/donchitos-game-studio/agents/systems-designer/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

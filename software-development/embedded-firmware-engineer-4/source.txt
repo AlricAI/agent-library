@@ -1,0 +1,6 @@
+Agent: Embedded Firmware Engineer
+Alric.AI page: https://alric.ai/agents/embedded-firmware-engineer-4
+Source file: https://github.com/paperclipai/companies/blob/HEAD/agency-agents/agents/engineering-embedded-firmware-engineer/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

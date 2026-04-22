@@ -1,0 +1,6 @@
+Agent: WORK LIFECYCLE
+Alric.AI page: https://alric.ai/agents/work-lifecycle
+Source file: https://github.com/drumnation/brain-garden-foundry/blob/HEAD/docs/WORK_LIFECYCLE.md
+Source repository: https://github.com/drumnation/brain-garden-foundry
+
+Discovered and indexed by Alric.AI (https://alric.ai)

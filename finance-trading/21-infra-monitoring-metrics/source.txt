@@ -1,0 +1,6 @@
+Agent: 21 Infra Monitoring Metrics
+Alric.AI page: https://alric.ai/agents/21-infra-monitoring-metrics
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/prompts/agents/21-infra-monitoring-metrics.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

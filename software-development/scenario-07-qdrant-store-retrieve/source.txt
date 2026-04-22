@@ -1,0 +1,6 @@
+Agent: Scenario 07 Qdrant Store Retrieve
+Alric.AI page: https://alric.ai/agents/scenario-07-qdrant-store-retrieve
+Source file: https://github.com/techwavedev/agi-agent-kit/blob/HEAD/tests/agents/scenario_07_qdrant_store_retrieve.md
+Source repository: https://github.com/techwavedev/agi-agent-kit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: ENTERPRISE INTEGRATION
+Alric.AI page: https://alric.ai/agents/enterprise-integration
+Source file: https://github.com/Bijikyu/qtests/blob/HEAD/docs/ENTERPRISE_INTEGRATION.md
+Source repository: https://github.com/Bijikyu/qtests
+
+Discovered and indexed by Alric.AI (https://alric.ai)

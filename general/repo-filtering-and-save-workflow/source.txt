@@ -1,0 +1,6 @@
+Agent: Repo Filtering And Save Workflow
+Alric.AI page: https://alric.ai/agents/repo-filtering-and-save-workflow
+Source file: https://github.com/robch/cycod/blob/HEAD/todo/repo-filtering-and-save-workflow.md
+Source repository: https://github.com/robch/cycod
+
+Discovered and indexed by Alric.AI (https://alric.ai)

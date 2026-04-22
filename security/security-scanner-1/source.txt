@@ -1,0 +1,6 @@
+Agent: Security Scanner
+Alric.AI page: https://alric.ai/agents/security-scanner-1
+Source file: https://github.com/drumnation/brain-garden-foundry/blob/HEAD/.claude/agents/security-scanner.md
+Source repository: https://github.com/drumnation/brain-garden-foundry
+
+Discovered and indexed by Alric.AI (https://alric.ai)

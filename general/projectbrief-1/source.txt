@@ -1,0 +1,6 @@
+Agent: Projectbrief
+Alric.AI page: https://alric.ai/agents/projectbrief-1
+Source file: https://github.com/Luxcium/fantastic-system-k22a/blob/HEAD/memory-bank/projectbrief.md
+Source repository: https://github.com/Luxcium/fantastic-system-k22a
+
+Discovered and indexed by Alric.AI (https://alric.ai)

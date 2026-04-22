@@ -1,0 +1,6 @@
+Agent: Coauthoring Agent
+Alric.AI page: https://alric.ai/agents/coauthoring-agent
+Source file: https://github.com/qemqemqem/mechawiki/blob/HEAD/src/agents/prompts/coauthoring_agent.md
+Source repository: https://github.com/qemqemqem/mechawiki
+
+Discovered and indexed by Alric.AI (https://alric.ai)

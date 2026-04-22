@@ -1,0 +1,6 @@
+Agent: AGENTS STANDARDS
+Alric.AI page: https://alric.ai/agents/agents-standards
+Source file: https://github.com/virtengine/virtengine/blob/HEAD/docs/AGENTS_STANDARDS.md
+Source repository: https://github.com/virtengine/virtengine
+
+Discovered and indexed by Alric.AI (https://alric.ai)

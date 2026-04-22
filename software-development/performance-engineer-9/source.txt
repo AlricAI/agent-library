@@ -1,4 +1,4 @@
-Agent: performance-engineer
+Agent: Performance Engineer
 Alric.AI page: https://alric.ai/agents/performance-engineer-9
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/performance-engineer.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

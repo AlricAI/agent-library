@@ -1,0 +1,6 @@
+Agent: Worker
+Alric.AI page: https://alric.ai/agents/worker
+Source file: https://github.com/robertmsale/.codex/blob/HEAD/roles/worker.md
+Source repository: https://github.com/robertmsale/.codex
+
+Discovered and indexed by Alric.AI (https://alric.ai)

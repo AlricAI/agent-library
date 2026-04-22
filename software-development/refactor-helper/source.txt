@@ -1,0 +1,6 @@
+Agent: refactor-helper
+Alric.AI page: https://alric.ai/agents/refactor-helper
+Source file: https://github.com/comet-ml/opik/blob/HEAD/.agents/skills/python-sdk/agents/refactor-helper.md
+Source repository: https://github.com/comet-ml/opik
+
+Discovered and indexed by Alric.AI (https://alric.ai)

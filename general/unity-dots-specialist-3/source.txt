@@ -1,0 +1,6 @@
+Agent: Unity DOTS Specialist
+Alric.AI page: https://alric.ai/agents/unity-dots-specialist-3
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/donchitos-game-studio/agents/unity-dots-specialist/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

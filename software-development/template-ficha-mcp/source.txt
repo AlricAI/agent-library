@@ -1,0 +1,6 @@
+Agent: Mcp Template Documentation Generator
+Alric.AI page: https://alric.ai/agents/template-ficha-mcp
+Source file: https://github.com/Zidong-IA/BIBLIOTECA/blob/HEAD/mcps/TEMPLATE-FICHA-MCP.md
+Source repository: https://github.com/Zidong-IA/BIBLIOTECA
+
+Discovered and indexed by Alric.AI (https://alric.ai)

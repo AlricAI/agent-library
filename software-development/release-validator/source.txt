@@ -1,0 +1,6 @@
+Agent: release-validator
+Alric.AI page: https://alric.ai/agents/release-validator
+Source file: https://github.com/rlajous/claude-code-commands/blob/HEAD/agents/release-validator.md
+Source repository: https://github.com/rlajous/claude-code-commands
+
+Discovered and indexed by Alric.AI (https://alric.ai)

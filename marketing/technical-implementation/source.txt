@@ -1,0 +1,6 @@
+Agent: TECHNICAL IMPLEMENTATION
+Alric.AI page: https://alric.ai/agents/technical-implementation
+Source file: https://github.com/koenvorster/Personal_project_VorstersNV/blob/HEAD/plan/TECHNICAL_IMPLEMENTATION.md
+Source repository: https://github.com/koenvorster/Personal_project_VorstersNV
+
+Discovered and indexed by Alric.AI (https://alric.ai)

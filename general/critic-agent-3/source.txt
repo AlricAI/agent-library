@@ -1,0 +1,6 @@
+Agent: Critic Agent
+Alric.AI page: https://alric.ai/agents/critic-agent-3
+Source file: https://github.com/dotojr123/crewai-production-ready/blob/HEAD/ai-workspace/frameworks/ROMA/venv/lib64/python3.10/site-packages/camel/agents/critic_agent.py
+Source repository: https://github.com/dotojr123/crewai-production-ready
+
+Discovered and indexed by Alric.AI (https://alric.ai)

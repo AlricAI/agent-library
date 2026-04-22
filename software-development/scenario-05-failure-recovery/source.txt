@@ -1,0 +1,6 @@
+Agent: Scenario 05 Failure Recovery
+Alric.AI page: https://alric.ai/agents/scenario-05-failure-recovery
+Source file: https://github.com/techwavedev/agi-agent-kit/blob/HEAD/tests/agents/scenario_05_failure_recovery.md
+Source repository: https://github.com/techwavedev/agi-agent-kit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

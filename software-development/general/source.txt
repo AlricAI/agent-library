@@ -1,0 +1,6 @@
+Agent: General
+Alric.AI page: https://alric.ai/agents/general
+Source file: https://github.com/mvacoimbra/vimput/blob/HEAD/.cursor/rules/general.mdc
+Source repository: https://github.com/mvacoimbra/vimput
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: UI REGRESSION ROLLOUT GATES
+Alric.AI page: https://alric.ai/agents/ui-regression-rollout-gates
+Source file: https://github.com/pllporg/karen/blob/HEAD/docs/UI_REGRESSION_ROLLOUT_GATES.md
+Source repository: https://github.com/pllporg/karen
+
+Discovered and indexed by Alric.AI (https://alric.ai)

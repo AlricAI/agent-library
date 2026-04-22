@@ -1,0 +1,6 @@
+Agent: Hugging Face Tool Agent
+Alric.AI page: https://alric.ai/agents/hugging-face-tool-agent
+Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/major_frameworks/camel/camel/agents/tool_agents/hugging_face_tool_agent.py
+Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
+
+Discovered and indexed by Alric.AI (https://alric.ai)

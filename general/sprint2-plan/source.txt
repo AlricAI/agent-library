@@ -1,0 +1,6 @@
+Agent: SPRINT2 PLAN
+Alric.AI page: https://alric.ai/agents/sprint2-plan
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/SPRINT2_PLAN.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: typescript-pro
+Alric.AI page: https://alric.ai/agents/typescript-pro-2
+Source file: https://github.com/julianromli/opencode-template/blob/HEAD/agent/typescript-pro.md
+Source repository: https://github.com/julianromli/opencode-template
+
+Discovered and indexed by Alric.AI (https://alric.ai)

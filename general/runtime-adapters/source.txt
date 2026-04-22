@@ -1,0 +1,6 @@
+Agent: RUNTIME ADAPTERS
+Alric.AI page: https://alric.ai/agents/runtime-adapters
+Source file: https://github.com/cbwinslow/cloudcurio-monorepo-new/blob/HEAD/docs/RUNTIME_ADAPTERS.md
+Source repository: https://github.com/cbwinslow/cloudcurio-monorepo-new
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Dr. Lin Wei
+Alric.AI page: https://alric.ai/agents/dr-lin-wei-2
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/databases-lead/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

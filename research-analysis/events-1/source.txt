@@ -1,0 +1,6 @@
+Agent:  Events
+Alric.AI page: https://alric.ai/agents/events-1
+Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/autogen/python/packages/autogen-ext/src/autogen_ext/agents/web_surfer/_events.py
+Source repository: https://github.com/ngTwg/Branding-Focused-Skills
+
+Discovered and indexed by Alric.AI (https://alric.ai)

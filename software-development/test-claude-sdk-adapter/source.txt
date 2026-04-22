@@ -1,0 +1,6 @@
+Agent: Test Claude Sdk Adapter
+Alric.AI page: https://alric.ai/agents/test-claude-sdk-adapter
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/tests/agents/goal_seeking/test_claude_sdk_adapter.py
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

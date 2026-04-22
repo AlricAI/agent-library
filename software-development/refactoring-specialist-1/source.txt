@@ -1,0 +1,6 @@
+Agent: Refactoring-Specialist
+Alric.AI page: https://alric.ai/agents/refactoring-specialist-1
+Source file: https://github.com/blazengreen360/hometower/blob/HEAD/.github/agents/refactoring-specialist.agent.md
+Source repository: https://github.com/blazengreen360/hometower
+
+Discovered and indexed by Alric.AI (https://alric.ai)

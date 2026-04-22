@@ -1,0 +1,6 @@
+Agent: TEAMS
+Alric.AI page: https://alric.ai/agents/teams-1
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/docs/TEAMS.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: CTO
+Alric.AI page: https://alric.ai/agents/cto-16
+Source file: https://github.com/paperclipai/companies/blob/HEAD/fullstack-forge/agents/cto/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-420
+Source file: https://github.com/stephenstubbs/zotero-mcp/blob/HEAD/openspec/AGENTS.md
+Source repository: https://github.com/stephenstubbs/zotero-mcp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

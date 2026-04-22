@@ -1,0 +1,6 @@
+Agent: Build Optimization V2
+Alric.AI page: https://alric.ai/agents/build-optimization-v2-1
+Source file: https://github.com/bagrounds/obsidian-github-publisher-sync/blob/HEAD/docs/build-optimization-v2.md
+Source repository: https://github.com/bagrounds/obsidian-github-publisher-sync
+
+Discovered and indexed by Alric.AI (https://alric.ai)

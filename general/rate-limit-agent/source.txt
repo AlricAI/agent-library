@@ -1,0 +1,6 @@
+Agent: Rate Limit Agent
+Alric.AI page: https://alric.ai/agents/rate-limit-agent
+Source file: https://github.com/justindobbs/Tracecore/blob/HEAD/agent_bench/agents/rate_limit_agent.py
+Source repository: https://github.com/justindobbs/Tracecore
+
+Discovered and indexed by Alric.AI (https://alric.ai)

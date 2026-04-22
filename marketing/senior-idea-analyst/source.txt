@@ -1,0 +1,7 @@
+Agent: "Senior Content Editor"
+
+Alric.AI page: https://alric.ai/agents/senior-idea-analyst
+Source file: https://github.com/dotojr123/crewai-production-ready/blob/HEAD/crewAI-examples/crews/landing_page_generator/src/landing_page_generator/config/agents.yaml
+Source repository: https://github.com/dotojr123/crewai-production-ready
+
+Discovered and indexed by Alric.AI (https://alric.ai)

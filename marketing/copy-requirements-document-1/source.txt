@@ -1,0 +1,6 @@
+Agent: Copy Requirements Document
+Alric.AI page: https://alric.ai/agents/copy-requirements-document-1
+Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/design-specs/copy-requirements-document.md
+Source repository: https://github.com/Trollz1004/ANTIGRAVITY
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Harness Doctor
+Alric.AI page: https://alric.ai/agents/harness-doctor
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/mcm-forge/agents/harness-doctor/AGENTS.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Data Generator
+Alric.AI page: https://alric.ai/agents/data-generator-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/product-compass-consulting/agents/data-generator/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

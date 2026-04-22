@@ -1,0 +1,6 @@
+Agent: Frontend Viewer
+Alric.AI page: https://alric.ai/agents/frontend-viewer
+Source file: https://github.com/anshulyadav1976/legacy-profen/blob/HEAD/docs/frontend-viewer.md
+Source repository: https://github.com/anshulyadav1976/legacy-profen
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Directory Awareness
+Alric.AI page: https://alric.ai/agents/directory-awareness-2
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/.cursor/rules/directory-awareness.mdc
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: YESTERDAY NEWS TODAY README
+Alric.AI page: https://alric.ai/agents/yesterday-news-today-readme
+Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/briefings/YESTERDAY-NEWS-TODAY-README.md
+Source repository: https://github.com/Trollz1004/ANTIGRAVITY
+
+Discovered and indexed by Alric.AI (https://alric.ai)

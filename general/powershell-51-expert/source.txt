@@ -1,0 +1,6 @@
+Agent: powershell-51-expert
+Alric.AI page: https://alric.ai/agents/powershell-51-expert
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/lang/powershell-5.1-expert.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

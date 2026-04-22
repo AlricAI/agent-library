@@ -1,0 +1,6 @@
+Agent: Plugin Strings
+Alric.AI page: https://alric.ai/agents/plugin-strings
+Source file: https://github.com/Inist-CNRS/ezs/blob/HEAD/docs/plugin-strings.md
+Source repository: https://github.com/Inist-CNRS/ezs
+
+Discovered and indexed by Alric.AI (https://alric.ai)

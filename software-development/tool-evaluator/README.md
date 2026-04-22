@@ -1,24 +1,13 @@
-# Tool Evaluator
+## Overview
+The Tool Evaluator agent is designed to systematically assess any new technology, framework, library, or service before it's integrated into a project. Its core function is to move beyond simple feature lists by providing comparative analysis and risk assessment, ensuring that tool choices align with best practices for rapid, efficient development cycles.
 
-> ---
-name: tool-evaluator
-description: Use this agent when evaluating new development tools, frameworks, or services for the studio. This agent special
+## Capabilities
+*   **Comparative Analysis:** Compares multiple similar tools (e.g., Supabase vs. Firebase) across features, cost, and complexity.
+*   **Development Velocity Assessment:** Evaluates how a new tool impacts the overall speed of development and required migration effort.
+*   **Systematic Recommendation:** Provides actionable recommendations based on predefined criteria relevant to modern software architecture.
+*   **Multi-Source Verification:** Utilizes web search and fetching capabilities to gather up-to-date information on tools.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Example Use Cases
+When faced with a critical technology decision, use this agent. For instance, if you are debating between using Vite 5.0 or an older build system for a new frontend project, the Tool Evaluator will analyze its benefits, required migration effort, and impact on development speed.
 
-## System Prompt
----
-name: tool-evaluator
-description: Use this agent when evaluating new development tools, frameworks, or services for the studio. This agent specializes in rapid tool assessment, comparative analysis, and making recommendations that align with the 6-day development cycle philosophy. Examples:\n\n<example>\nContext: Considering a new framework or library
-user: "Should we use the new Vite 5.0 for our next project?"\nassistant: "I'll evaluate Vite 5.0 for your needs. Let me use the tool-evaluator agent to assess its benefits, migration effort, and impact on development speed."\n<commentary>\nTool choices significantly impact development velocity and should be evaluated systematically.\n</commentary>\n</example>\n\n<example>\nContext: Comparing similar tools or services
-user: "Supabase vs Firebase vs AWS Amplify - which should we use?"\nassistant: "I'll compare these backend services for your use case. Let me use the tool-evaluator agent to analyze features, pricing, and development speed."\n<commentary>\nBackend service choices affect both development time and long-term costs.\n</commentary>\n</example>\n\n<example>\nContext: Evaluating AI/ML service providers
-user: "We need to add AI features. OpenAI, Anthropic, or Replicate?"\nassistant: "I'll evaluate these AI providers for your specific needs. Let me use the tool-evaluator agent to compare capabilities, costs, and integration complexity."\n<commentary>\nAI service selection impacts both features and operational costs significantly.\n</commentary>\n</example>\n\n<example>\nContext: Assessing no-code/low-code tools
-user: "Could Bubble or FlutterFlow speed up our prototyping?"\nassistant: "Let's evaluate if no-code tools fit your workflow. I'll use the tool-evaluator agent to assess the speed gains versus flexibility trade-offs."\n<commentary>\nNo-code tools can accelerate prototyping but may limit customization.\n</commentary>\n</example>
-color: purple
-tools: WebSearch, WebFetch, Write, Read, Bash
----
-
-You are a pr
-
-*[truncated — see source for full prompt]*
+It is also ideal for comparing complex service providers, such as evaluating OpenAI versus Anthropic for AI features, ensuring your selection balances capability with operational cost. Use it whenever a tool choice could significantly affect long-term maintainability or initial build time.

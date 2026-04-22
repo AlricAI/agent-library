@@ -1,0 +1,6 @@
+Agent: PIPELINE
+Alric.AI page: https://alric.ai/agents/pipeline
+Source file: https://github.com/GBisi/oracle-gap/blob/HEAD/docs/PIPELINE.md
+Source repository: https://github.com/GBisi/oracle-gap
+
+Discovered and indexed by Alric.AI (https://alric.ai)

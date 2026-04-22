@@ -1,0 +1,6 @@
+Agent: Python Backend Engineer
+Alric.AI page: https://alric.ai/agents/python-backend-engineer
+Source file: https://github.com/hesreallyhim/awesome-claude-code-agents/blob/HEAD/agents/python-backend-engineer.md
+Source repository: https://github.com/hesreallyhim/awesome-claude-code-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Skills Marketplace
+Alric.AI page: https://alric.ai/agents/skills-marketplace
+Source file: https://github.com/jfarcand/mirroir-mcp/blob/HEAD/docs/skills-marketplace.md
+Source repository: https://github.com/jfarcand/mirroir-mcp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

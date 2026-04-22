@@ -1,0 +1,6 @@
+Agent: FEED LIST PERFORMANCE
+Alric.AI page: https://alric.ai/agents/feed-list-performance
+Source file: https://github.com/rostiSe/mymemory/blob/HEAD/docs/FEED_LIST_PERFORMANCE.md
+Source repository: https://github.com/rostiSe/mymemory
+
+Discovered and indexed by Alric.AI (https://alric.ai)

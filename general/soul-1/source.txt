@@ -1,0 +1,6 @@
+Agent: SOUL
+Alric.AI page: https://alric.ai/agents/soul-1
+Source file: https://github.com/cass-clearly/remarq/blob/HEAD/agents/ceo/SOUL.md
+Source repository: https://github.com/cass-clearly/remarq
+
+Discovered and indexed by Alric.AI (https://alric.ai)

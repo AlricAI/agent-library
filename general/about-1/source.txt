@@ -1,0 +1,6 @@
+Agent: About
+Alric.AI page: https://alric.ai/agents/about-1
+Source file: https://github.com/chmouel/lazyworktree/blob/HEAD/docs/about.md
+Source repository: https://github.com/chmouel/lazyworktree
+
+Discovered and indexed by Alric.AI (https://alric.ai)

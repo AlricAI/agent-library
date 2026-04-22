@@ -1,0 +1,6 @@
+Agent: Architecture Python Migration
+Alric.AI page: https://alric.ai/agents/architecture-python-migration
+Source file: https://github.com/bhagyabanghadai/VEIL_MVP/blob/HEAD/docs/architecture_python_migration.md
+Source repository: https://github.com/bhagyabanghadai/VEIL_MVP
+
+Discovered and indexed by Alric.AI (https://alric.ai)

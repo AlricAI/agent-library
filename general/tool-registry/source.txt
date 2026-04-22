@@ -1,0 +1,6 @@
+Agent: TOOL REGISTRY
+Alric.AI page: https://alric.ai/agents/tool-registry
+Source file: https://github.com/cbwinslow/cloudcurio-monorepo-new/blob/HEAD/agents/tools/TOOL_REGISTRY.md
+Source repository: https://github.com/cbwinslow/cloudcurio-monorepo-new
+
+Discovered and indexed by Alric.AI (https://alric.ai)

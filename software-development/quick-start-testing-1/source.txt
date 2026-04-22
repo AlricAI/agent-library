@@ -1,0 +1,6 @@
+Agent: QUICK START TESTING
+Alric.AI page: https://alric.ai/agents/quick-start-testing-1
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/tests/QUICK_START_TESTING.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: playwright-test-healer
+Alric.AI page: https://alric.ai/agents/playwright-test-healer-2
+Source file: https://github.com/hippocampus-dev/hippocampus/blob/HEAD/cluster/applications/csviewer/.claude/agents/playwright-test-healer.md
+Source repository: https://github.com/hippocampus-dev/hippocampus
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: AUDIT CHECKLIST
+Alric.AI page: https://alric.ai/agents/audit-checklist
+Source file: https://github.com/sighthoundinc/sighthound-content-ops/blob/HEAD/audits/AUDIT_CHECKLIST.md
+Source repository: https://github.com/sighthoundinc/sighthound-content-ops
+
+Discovered and indexed by Alric.AI (https://alric.ai)

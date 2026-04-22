@@ -1,0 +1,6 @@
+Agent: Diplomacy System Architecture
+Alric.AI page: https://alric.ai/agents/diplomacy-system-architecture
+Source file: https://github.com/Tombonator3000/vector-war-games/blob/HEAD/docs/diplomacy-system-architecture.md
+Source repository: https://github.com/Tombonator3000/vector-war-games
+
+Discovered and indexed by Alric.AI (https://alric.ai)

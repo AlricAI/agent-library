@@ -1,0 +1,6 @@
+Agent: Igniter.js: Procedures and Context
+Alric.AI page: https://alric.ai/agents/igniter-js-procedures-and-context
+Source file: https://github.com/felipebarcelospro/igniter-js/blob/HEAD/apps/sample-realtime-chat/.cursor/rules/igniter-procedures.mdc
+Source repository: https://github.com/felipebarcelospro/igniter-js
+
+Discovered and indexed by Alric.AI (https://alric.ai)

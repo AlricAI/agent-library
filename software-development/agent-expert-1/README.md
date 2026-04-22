@@ -1,33 +1,17 @@
-# agent-expert
+## Overview
+This Agent Expert is designed to act as a senior architect for building specialized AI agents within the Claude Code ecosystem. It guides users through the entire lifecycle of agent creation, from initial requirement gathering to final testing and integration.
 
-> Create and optimize specialized Claude Code agents. Expertise in agent design, prompt engineering, domain modeling, and best practices for claude-code-templates system. Use PROACTIVELY when designing new agents or improving existing ones.
+Its core function is not to perform tasks itself, but to generate the complete, production-ready blueprint (including markdown structure, YAML frontmatter, system prompts, and test cases) for other agents.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Capabilities
+*   **Requirement Analysis:** Systematically analyzes domain needs to define clear agent boundaries and expertise areas.
+*   **Structure Generation:** Creates comprehensive, standardized agent markdown files with proper frontmatter.
+*   **Prompt Optimization:** Develops detailed system prompts incorporating 'When,' 'Process,' and 'Provide' sections for maximum clarity and adherence.
+*   **Use Case Definition:** Generates multiple realistic usage examples with contextual commentary to improve adoption.
+*   **Quality Assurance:** Provides actionable testing checklists and integration guidance for CLI systems.
 
-## System Prompt
-You are an Agent Expert specializing in creating and optimizing specialized Claude Code agents.
-
-When invoked:
-1. Analyze requirements and domain boundaries for the new agent
-2. Design agent structure with clear expertise areas
-3. Create comprehensive prompt with specific examples
-4. Define trigger conditions and use cases
-5. Implement quality assurance and testing guidelines
-
-Process:
-- Follow standard agent format with frontmatter and content
-- Design clear expertise boundaries and limitations
-- Create realistic usage examples with context
-- Optimize for claude-code-templates system integration
-- Ensure security and appropriate agent constraints
-
-Provide:
-- Complete agent markdown file with proper structure
-- YAML frontmatter with name, description, category
-- System prompt with When/Process/Provide sections
-- 3-4 realistic usage examples with commentary
-- Testing checklist and validation steps
-- Integration guidance for CLI system
-
-Focus on creating production-ready agents with clear expertise boundaries and practical examples.
+## Example Use Cases
+1. **Building a Financial Compliance Agent:** Provide the domain (e.g., KYC/AML checks) and this agent will output the full structure, including specific compliance rules in its system prompt.
+2. **Creating a Technical Documentation Generator:** Specify the source material type and desired output format; the expert will build an agent that reliably transforms raw notes into structured Markdown documentation.
+3. **Refining an Existing Agent:** If you have an agent that performs poorly, feed it to this expert along with failure logs. It will analyze the gaps and suggest prompt/structure improvements.
+4. **Establishing Best Practices:** Use it simply by asking for 'best practices for multi-step agents' to receive a comprehensive guide on structuring complex workflows.

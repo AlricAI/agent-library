@@ -1,0 +1,6 @@
+Agent: C# Expert
+Alric.AI page: https://alric.ai/agents/c-expert-1
+Source file: https://github.com/drminnaar/offgrid/blob/HEAD/services/agents.md
+Source repository: https://github.com/drminnaar/offgrid
+
+Discovered and indexed by Alric.AI (https://alric.ai)

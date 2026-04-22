@@ -1,0 +1,6 @@
+Agent: Worker Pipeline Patterns
+Alric.AI page: https://alric.ai/agents/worker-pipeline-patterns-1
+Source file: https://github.com/jerrison/11-job-application-assistant/blob/HEAD/docs/worker-pipeline-patterns.md
+Source repository: https://github.com/jerrison/11-job-application-assistant
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Manager Facade Spec
+Alric.AI page: https://alric.ai/agents/manager-facade-spec
+Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/specs/manager_facade_spec.md
+Source repository: https://github.com/rysweet/AzureHayMaker
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: UI PRD SCREEN BACKLOG
+Alric.AI page: https://alric.ai/agents/ui-prd-screen-backlog
+Source file: https://github.com/pllporg/karen/blob/HEAD/docs/UI_PRD_SCREEN_BACKLOG.md
+Source repository: https://github.com/pllporg/karen
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Audit Synth Agent
+Alric.AI page: https://alric.ai/agents/audit-synth-agent-2
+Source file: https://github.com/LORDBurnItUp/kds-openclaw/blob/HEAD/agent-frameworks/omnicoreagent-main/cookbook/showcase/omniavelis/agents/audit_synth_agent.py
+Source repository: https://github.com/LORDBurnItUp/kds-openclaw
+
+Discovered and indexed by Alric.AI (https://alric.ai)

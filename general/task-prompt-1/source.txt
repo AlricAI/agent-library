@@ -1,0 +1,6 @@
+Agent: Task Prompt
+Alric.AI page: https://alric.ai/agents/task-prompt-1
+Source file: https://github.com/45ck/noslop/blob/HEAD/experiment/task-prompt.md
+Source repository: https://github.com/45ck/noslop
+
+Discovered and indexed by Alric.AI (https://alric.ai)

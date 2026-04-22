@@ -1,0 +1,6 @@
+Agent: Docs.Acp
+Alric.AI page: https://alric.ai/agents/docs-acp
+Source file: https://github.com/OpenMOSS/OurClaw/blob/HEAD/openclaw/docs.acp.md
+Source repository: https://github.com/OpenMOSS/OurClaw
+
+Discovered and indexed by Alric.AI (https://alric.ai)

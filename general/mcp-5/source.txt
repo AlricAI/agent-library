@@ -1,0 +1,6 @@
+Agent: MCP
+Alric.AI page: https://alric.ai/agents/mcp-5
+Source file: https://github.com/theviderlab/ia-bootcamp-2005/blob/HEAD/docs/MCP.md
+Source repository: https://github.com/theviderlab/ia-bootcamp-2005
+
+Discovered and indexed by Alric.AI (https://alric.ai)

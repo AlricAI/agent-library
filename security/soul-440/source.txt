@@ -1,0 +1,6 @@
+Agent: SOUL
+Alric.AI page: https://alric.ai/agents/soul-440
+Source file: https://github.com/NextLeapClub/DevTeam/blob/HEAD/workflows/security-audit/agents/fixer/SOUL.md
+Source repository: https://github.com/NextLeapClub/DevTeam
+
+Discovered and indexed by Alric.AI (https://alric.ai)

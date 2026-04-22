@@ -1,0 +1,6 @@
+Agent: MEMORY
+Alric.AI page: https://alric.ai/agents/memory
+Source file: https://github.com/miku8miku/OpenClaw-Memory-Architecture/blob/HEAD/examples/MEMORY.md
+Source repository: https://github.com/miku8miku/OpenClaw-Memory-Architecture
+
+Discovered and indexed by Alric.AI (https://alric.ai)

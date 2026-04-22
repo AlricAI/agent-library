@@ -1,0 +1,6 @@
+Agent: Data Model
+Alric.AI page: https://alric.ai/agents/data-model
+Source file: https://github.com/julianromli/opencode-template/blob/HEAD/command/data-model.md
+Source repository: https://github.com/julianromli/opencode-template
+
+Discovered and indexed by Alric.AI (https://alric.ai)

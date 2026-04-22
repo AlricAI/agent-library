@@ -1,0 +1,6 @@
+Agent: IDENTITY
+Alric.AI page: https://alric.ai/agents/identity-19
+Source file: https://github.com/erickmcaro/shippulse/blob/HEAD/workflows/security-audit/agents/fixer/IDENTITY.md
+Source repository: https://github.com/erickmcaro/shippulse
+
+Discovered and indexed by Alric.AI (https://alric.ai)

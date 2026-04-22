@@ -1,0 +1,7 @@
+Agent: Private Investment Advisor
+
+Alric.AI page: https://alric.ai/agents/the-best-financial-analyst
+Source file: https://github.com/dotojr123/crewai-production-ready/blob/HEAD/crewAI-examples/crews/stock_analysis/src/stock_analysis/config/agents.yaml
+Source repository: https://github.com/dotojr123/crewai-production-ready
+
+Discovered and indexed by Alric.AI (https://alric.ai)

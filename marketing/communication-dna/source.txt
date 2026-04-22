@@ -1,0 +1,6 @@
+Agent: Communication Dna
+Alric.AI page: https://alric.ai/agents/communication-dna
+Source file: https://github.com/blex2011/My-Context/blob/HEAD/context-components/communication-dna.md
+Source repository: https://github.com/blex2011/My-Context
+
+Discovered and indexed by Alric.AI (https://alric.ai)

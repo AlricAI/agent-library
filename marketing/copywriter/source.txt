@@ -1,0 +1,6 @@
+Agent: Copywriter
+Alric.AI page: https://alric.ai/agents/copywriter
+Source file: https://github.com/cass-clearly/remarq/blob/HEAD/agents/product-council/copywriter.md
+Source repository: https://github.com/cass-clearly/remarq
+
+Discovered and indexed by Alric.AI (https://alric.ai)

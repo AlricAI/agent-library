@@ -1,0 +1,6 @@
+Agent: Quantum Flux Capacitor
+Alric.AI page: https://alric.ai/agents/quantum-flux-capacitor
+Source file: https://github.com/veggerby/mastra-sample/blob/HEAD/knowledge/quantum-flux-capacitor.md
+Source repository: https://github.com/veggerby/mastra-sample
+
+Discovered and indexed by Alric.AI (https://alric.ai)

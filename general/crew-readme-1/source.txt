@@ -1,0 +1,6 @@
+Agent: CREW README
+Alric.AI page: https://alric.ai/agents/crew-readme-1
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/nognog/CREW_README.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: fix-agent
+Alric.AI page: https://alric.ai/agents/fix-agent-1
+Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/.claude/agents/amplihack/specialized/fix-agent.md
+Source repository: https://github.com/rysweet/AzureHayMaker
+
+Discovered and indexed by Alric.AI (https://alric.ai)

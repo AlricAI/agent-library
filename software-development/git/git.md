@@ -1,0 +1,17 @@
+---
+name: Git
+description: description: Working with Git version control alwaysApply: false Git
+---
+---
+description: Working with Git version control
+alwaysApply: false
+---
+# Git
+
+## Recommended
+
++ Use descriptive commit messages following conventional commits with emoji format
++ Create meaningful branch names that reflect the feature or fix
++ Keep pull requests focused and of reasonable size
+
+## Custom

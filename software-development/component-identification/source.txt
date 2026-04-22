@@ -1,0 +1,6 @@
+Agent: Component Identification
+Alric.AI page: https://alric.ai/agents/component-identification
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/src/amplihack/vendor/blarify/agents/prompt_templates/component_identification.py
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

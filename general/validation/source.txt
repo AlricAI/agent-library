@@ -1,0 +1,6 @@
+Agent: Validation
+Alric.AI page: https://alric.ai/agents/validation
+Source file: https://github.com/anchapin/ModPorter-AI/blob/HEAD/ai-engine/agents/texture_converter/validation.py
+Source repository: https://github.com/anchapin/ModPorter-AI
+
+Discovered and indexed by Alric.AI (https://alric.ai)

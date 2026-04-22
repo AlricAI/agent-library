@@ -1,0 +1,6 @@
+Agent:  Tool Definitions
+Alric.AI page: https://alric.ai/agents/tool-definitions-6
+Source file: https://github.com/danielgonzagat/megaIAAA/blob/HEAD/autogen/python/packages/autogen-ext/src/autogen_ext/agents/file_surfer/_tool_definitions.py
+Source repository: https://github.com/danielgonzagat/megaIAAA
+
+Discovered and indexed by Alric.AI (https://alric.ai)

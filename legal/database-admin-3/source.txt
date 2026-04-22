@@ -1,0 +1,6 @@
+Agent: database-admin
+Alric.AI page: https://alric.ai/agents/database-admin-3
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/plugins/database-migrations/agents/database-admin.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

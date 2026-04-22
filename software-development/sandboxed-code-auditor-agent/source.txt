@@ -1,0 +1,6 @@
+Agent: Sandboxed Code Auditor Agent
+Alric.AI page: https://alric.ai/agents/sandboxed-code-auditor-agent
+Source file: https://github.com/justindobbs/Tracecore/blob/HEAD/agent_bench/agents/sandboxed_code_auditor_agent.py
+Source repository: https://github.com/justindobbs/Tracecore
+
+Discovered and indexed by Alric.AI (https://alric.ai)

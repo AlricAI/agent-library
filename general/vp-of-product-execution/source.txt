@@ -1,0 +1,6 @@
+Agent: VP of Product Execution
+Alric.AI page: https://alric.ai/agents/vp-of-product-execution
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/product-compass-consulting/agents/vp-execution/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

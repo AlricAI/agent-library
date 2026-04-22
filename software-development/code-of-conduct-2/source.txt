@@ -1,0 +1,6 @@
+Agent: CODE OF CONDUCT
+Alric.AI page: https://alric.ai/agents/code-of-conduct-2
+Source file: https://github.com/anshulyadav1976/legacy-profen/blob/HEAD/jwst-main/CODE_OF_CONDUCT.md
+Source repository: https://github.com/anshulyadav1976/legacy-profen
+
+Discovered and indexed by Alric.AI (https://alric.ai)

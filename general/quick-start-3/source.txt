@@ -1,0 +1,6 @@
+Agent: Quick Start
+Alric.AI page: https://alric.ai/agents/quick-start-3
+Source file: https://github.com/Anakonn/langchain-v01/blob/HEAD/i18n/ko/docusaurus-plugin-content-docs/current/modules/agents/quick_start.md
+Source repository: https://github.com/Anakonn/langchain-v01
+
+Discovered and indexed by Alric.AI (https://alric.ai)

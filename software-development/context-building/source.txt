@@ -1,0 +1,6 @@
+Agent: Context Building
+Alric.AI page: https://alric.ai/agents/context-building
+Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/patterns/context-building.md
+Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

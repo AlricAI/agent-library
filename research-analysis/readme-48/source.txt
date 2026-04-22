@@ -1,0 +1,6 @@
+Agent: README
+Alric.AI page: https://alric.ai/agents/readme-48
+Source file: https://github.com/waybarrios/cyber-agent/blob/HEAD/agents/report_agent/sessions/README.md
+Source repository: https://github.com/waybarrios/cyber-agent
+
+Discovered and indexed by Alric.AI (https://alric.ai)

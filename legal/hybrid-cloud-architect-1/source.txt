@@ -1,0 +1,6 @@
+Agent: hybrid-cloud-architect
+Alric.AI page: https://alric.ai/agents/hybrid-cloud-architect-1
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/plugins/cloud-infrastructure/agents/hybrid-cloud-architect.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

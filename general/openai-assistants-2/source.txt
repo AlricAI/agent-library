@@ -1,0 +1,6 @@
+Agent: Openai Assistants
+Alric.AI page: https://alric.ai/agents/openai-assistants-2
+Source file: https://github.com/Anakonn/langchain-v01/blob/HEAD/i18n/fr/docusaurus-plugin-content-docs/current/modules/agents/agent_types/openai_assistants.md
+Source repository: https://github.com/Anakonn/langchain-v01
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Integration Architecture
+Alric.AI page: https://alric.ai/agents/integration-architecture
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/docs/integration-architecture.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

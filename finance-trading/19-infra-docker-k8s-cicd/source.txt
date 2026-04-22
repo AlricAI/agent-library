@@ -1,0 +1,6 @@
+Agent: 19 Infra Docker K8s Cicd
+Alric.AI page: https://alric.ai/agents/19-infra-docker-k8s-cicd
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/prompts/agents/19-infra-docker-k8s-cicd.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

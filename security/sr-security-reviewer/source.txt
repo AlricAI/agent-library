@@ -1,0 +1,6 @@
+Agent: sr-security-reviewer
+Alric.AI page: https://alric.ai/agents/sr-security-reviewer
+Source file: https://github.com/fjpulidop/specrails-hub/blob/HEAD/.claude/agents/sr-security-reviewer.md
+Source repository: https://github.com/fjpulidop/specrails-hub
+
+Discovered and indexed by Alric.AI (https://alric.ai)

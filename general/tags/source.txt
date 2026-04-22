@@ -1,0 +1,6 @@
+Agent: Tags
+Alric.AI page: https://alric.ai/agents/tags
+Source file: https://github.com/weeklydevchat/weeklydevchat.github.io/blob/HEAD/docs/tags.md
+Source repository: https://github.com/weeklydevchat/weeklydevchat.github.io
+
+Discovered and indexed by Alric.AI (https://alric.ai)

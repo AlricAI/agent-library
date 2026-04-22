@@ -1,0 +1,6 @@
+Agent: Skill Gap Agent
+Alric.AI page: https://alric.ai/agents/skill-gap-agent
+Source file: https://github.com/nakamu12/lumineer/blob/HEAD/ai/app/agents/skill_gap_agent.py
+Source repository: https://github.com/nakamu12/lumineer
+
+Discovered and indexed by Alric.AI (https://alric.ai)

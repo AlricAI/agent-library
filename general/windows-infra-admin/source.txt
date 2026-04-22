@@ -1,0 +1,6 @@
+Agent: windows-infra-admin
+Alric.AI page: https://alric.ai/agents/windows-infra-admin
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/info-tech/admin/windows-infra-admin.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

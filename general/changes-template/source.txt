@@ -1,0 +1,6 @@
+Agent: Changes Template
+Alric.AI page: https://alric.ai/agents/changes-template
+Source file: https://github.com/Tiendil/feeds.fun/blob/HEAD/changes/changes_template.md
+Source repository: https://github.com/Tiendil/feeds.fun
+
+Discovered and indexed by Alric.AI (https://alric.ai)

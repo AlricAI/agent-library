@@ -1,0 +1,6 @@
+Agent: COORDINATION
+Alric.AI page: https://alric.ai/agents/coordination-4
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier2/sentinel/COORDINATION.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

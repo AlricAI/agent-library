@@ -1,0 +1,6 @@
+Agent: Src
+Alric.AI page: https://alric.ai/agents/src
+Source file: https://github.com/nirholas/bnb-chain-toolkit/blob/HEAD/mcp-servers/universal-crypto-mcp/docs/api-reference/agents/agenti/src.md
+Source repository: https://github.com/nirholas/bnb-chain-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

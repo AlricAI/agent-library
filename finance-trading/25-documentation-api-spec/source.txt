@@ -1,0 +1,6 @@
+Agent: 25 Documentation Api Spec
+Alric.AI page: https://alric.ai/agents/25-documentation-api-spec
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/prompts/agents/25-documentation-api-spec.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

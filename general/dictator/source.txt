@@ -1,0 +1,6 @@
+Agent: Dictator
+Alric.AI page: https://alric.ai/agents/dictator
+Source file: https://github.com/ernanhughes/ernanhughes.github.io/blob/HEAD/blog/dictator.md
+Source repository: https://github.com/ernanhughes/ernanhughes.github.io
+
+Discovered and indexed by Alric.AI (https://alric.ai)

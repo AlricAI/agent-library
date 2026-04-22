@@ -1,0 +1,6 @@
+Agent: Index
+Alric.AI page: https://alric.ai/agents/index-1
+Source file: https://github.com/scfuzzbench/scfuzzbench/blob/HEAD/docs/index.md
+Source repository: https://github.com/scfuzzbench/scfuzzbench
+
+Discovered and indexed by Alric.AI (https://alric.ai)

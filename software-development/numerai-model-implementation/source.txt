@@ -1,0 +1,6 @@
+Agent: numerai-model-implementation
+Alric.AI page: https://alric.ai/agents/numerai-model-implementation
+Source file: https://github.com/numerai/example-scripts/blob/HEAD/numerai/agents/skills/numerai-model-implementation/SKILL.md
+Source repository: https://github.com/numerai/example-scripts
+
+Discovered and indexed by Alric.AI (https://alric.ai)

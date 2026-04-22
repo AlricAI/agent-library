@@ -1,0 +1,6 @@
+Agent: Press Release Multiplatform
+Alric.AI page: https://alric.ai/agents/press-release-multiplatform
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/docs/press_release_multiplatform.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

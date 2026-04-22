@@ -1,0 +1,6 @@
+Agent: Sprint4 E2e Test Results
+Alric.AI page: https://alric.ai/agents/sprint4-e2e-test-results
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/claudedocs/sprint4-e2e-test-results.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

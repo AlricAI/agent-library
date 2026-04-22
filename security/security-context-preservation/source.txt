@@ -1,0 +1,6 @@
+Agent: SECURITY CONTEXT PRESERVATION
+Alric.AI page: https://alric.ai/agents/security-context-preservation
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/docs/SECURITY_CONTEXT_PRESERVATION.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

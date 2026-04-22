@@ -1,0 +1,117 @@
+---
+name: Faq
+description: ## Is this safe? Can the AI access my banking apps?
+model: claude-sonnet-4-5
+---
+# FAQ
+
+## Is this safe? Can the AI access my banking apps?
+
+This tool gives an AI agent full control of your iPhone screen — it can tap anything, type anything, and open any app. That includes banking apps, messages, and payments.
+
+To limit exposure:
+
+- **Fail-closed permissions**: Without a config file, only read-only tools (screenshot, describe_screen, status) are exposed. Mutating tools are hidden entirely.
+- **`blockedApps`**: Add sensitive apps to the deny list in `~/.mirroir-mcp/permissions.json`:
+  ```json
+  { "allow": ["tap", "swipe", "type_text"], "blockedApps": ["Wallet", "Banking"] }
+  ```
+- **Kill switch**: Closing the iPhone Mirroring window or locking the phone kills all input immediately. No persistent background access is possible.
+
+See [Security](security.md) for the full threat model and recommendations.
+
+## Why does my cursor jump when the AI is working?
+
+Every input tool (`tap`, `type_text`, `swipe`, etc.) must make iPhone Mirroring the frontmost app before sending input. macOS routes CGEvent input to the frontmost application — there is no API to direct input to a background window.
+
+**Mitigations:**
+
+- **Separate macOS Space** — Put iPhone Mirroring in its own Space. Your cursor position and text selection in the other Space are preserved.
+- **Batch interactions** — Run a sequence of phone commands together rather than interleaving with terminal work.
+- **Skills** — Chain multiple steps in a skill (SKILL.md or YAML). Focus is acquired once rather than per-tool-call.
+
+Read-only tools (`screenshot`, `describe_screen`, `start_recording`, `stop_recording`, `status`, `get_orientation`, `check_health`, `list_skills`, `get_skill`, `list_targets`, `calibrate_component`) do **not** steal focus.
+
+See [Known Limitations](limitations.md#focus-stealing) for details.
+
+## Does it work with any iPhone app?
+
+Yes. The MCP server operates at the screen level through macOS iPhone Mirroring — it taps, swipes, and types as if a human were interacting with the phone. No source code access, no app SDK, and no jailbreak required. If you can see it on screen, the AI can interact with it.
+
+## Can it paste text from my Mac clipboard?
+
+No. iPhone Mirroring does not bridge the Mac clipboard when paste is triggered programmatically. This was tested extensively with HID keystrokes (`Cmd+V`), AppleScript, `CGEvent`, and Accessibility API actions — none work. The clipboard bridge relies on the Continuity/Handoff stack which only responds to physical user input.
+
+Text is typed character-by-character through CGEvent key events instead.
+
+## How does input reach the iPhone?
+
+All input (touch and keyboard) is delivered via the macOS CGEvent API. CGEvent posts go through the system HID path, which iPhone Mirroring's Continuity compositor picks up and forwards to the physical iPhone over AirPlay + Bluetooth LE. No kernel extensions, no root privileges, no helper daemons.
+
+## Does it work with non-US keyboard layouts?
+
+Yes, with opt-in configuration. Set the `IPHONE_KEYBOARD_LAYOUT` environment variable to your iPhone's hardware keyboard layout, and the server uses `UCKeyTranslate` to map characters to the correct keycodes:
+
+```bash
+export IPHONE_KEYBOARD_LAYOUT="Canadian-CSA"
+```
+
+Accepted formats: `"Canadian-CSA"` or `"com.apple.keylayout.Canadian-CSA"`. Supported layouts include Canadian-CSA, French (AZERTY), German (QWERTZ), and others. Without this variable, the server sends US QWERTY keycodes (which is correct if your iPhone uses a US keyboard layout).
+
+**Known gap:** Two characters on the ISO section key (`§` and `±` on Canadian-CSA) cannot be typed because macOS and iPhone Mirroring disagree on the key mapping for that physical key. These characters are silently skipped.
+
+## What happens if iPhone Mirroring disconnects?
+
+All input stops immediately. The MCP server detects the disconnection through the Accessibility API and reports it via the `status` tool. No commands can be sent to the phone while disconnected. Reconnecting iPhone Mirroring restores functionality without restarting the server.
+
+## Can I restrict which tools the AI can use?
+
+Yes. Drop a `permissions.json` file in `~/.mirroir-mcp/` (global) or `.mirroir-mcp/` (project-local):
+
+```json
+{
+  "allow": ["tap", "swipe", "screenshot", "describe_screen"],
+  "deny": ["launch_app"],
+  "blockedApps": ["Wallet"]
+}
+```
+
+Tools not in the allow list are hidden from the MCP client entirely — it never sees them. Project-local config takes priority over global.
+
+See [Permissions](permissions.md) for all options.
+
+## Does iOS autocorrect interfere with typed text?
+
+Yes. iOS applies autocorrect to typed text the same way it does for physical keyboard input. Words may be silently changed after a space or punctuation is typed.
+
+To disable: **iPhone Settings > General > Keyboard > Auto-Correction > Off**.
+
+## Can multiple agents control the phone at once?
+
+No. The MCP server communicates via stdin/stdout, so each MCP client session connects to one server instance. Multiple server instances posting CGEvent input simultaneously would cause unpredictable behavior — macOS routes events to the frontmost window, not to specific processes. Use one MCP session at a time.
+
+## What is embacle and do I need it?
+
+[embacle](https://github.com/dravr-ai/dravr-embacle) is an optional AI vision runtime that can be embedded into mirroir-mcp via Rust FFI. When installed, `describe_screen` uses an AI vision model instead of local OCR, producing richer semantic descriptions of UI elements (buttons, cards, tabs, navigation structure) rather than raw text fragments.
+
+embacle routes requests through already-authenticated CLI tools (GitHub Copilot, Claude Code) — no separate API key needed. It is **not required** — local OCR works without it and is the default.
+
+Install via:
+```bash
+brew tap dravr-ai/tap
+brew install embacle-ffi
+swift build -c release  # rebuild to link the FFI
+```
+
+See [AI Vision Mode](../README.md#ai-vision-mode-embacle) for full setup.
+
+## Should I use AI vision mode or local OCR?
+
+| | Local OCR (default) | AI Vision (embacle) |
+|---|---|---|
+| Speed | ~200-500ms per screen | ~1-3s per screen |
+| Cost | Free, offline | Uses API credits via CLI agent |
+| Output | Raw text fragments with coordinates | Semantic UI elements (buttons, cards, tabs) |
+| Best for | Speed-critical skill execution, regression testing, CI | Exploration of unfamiliar apps, complex layouts |
+
+Use local OCR when speed matters and text is sufficient. Use AI vision when the agent needs to understand UI structure — especially during `generate_skill(action: "explore")` where semantic elements produce better exploration plans. You can combine both: use vision for exploration, then switch to OCR for compiled skill replay.

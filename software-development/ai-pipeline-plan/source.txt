@@ -1,0 +1,6 @@
+Agent: AI PIPELINE PLAN
+Alric.AI page: https://alric.ai/agents/ai-pipeline-plan
+Source file: https://github.com/rostiSe/mymemory/blob/HEAD/docs/AI_PIPELINE_PLAN.md
+Source repository: https://github.com/rostiSe/mymemory
+
+Discovered and indexed by Alric.AI (https://alric.ai)

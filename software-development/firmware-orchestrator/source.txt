@@ -1,0 +1,6 @@
+Agent: firmware-orchestrator
+Alric.AI page: https://alric.ai/agents/firmware-orchestrator
+Source file: https://github.com/chuanseng-ng/digital-chip-design-agents/blob/HEAD/plugins/firmware/agents/firmware-orchestrator.md
+Source repository: https://github.com/chuanseng-ng/digital-chip-design-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

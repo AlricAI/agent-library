@@ -1,0 +1,6 @@
+Agent: Test Openalex Response
+Alric.AI page: https://alric.ai/agents/test-openalex-response-1
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/sms-bot/agents/arxiv-research-graph/test_openalex_response.py
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

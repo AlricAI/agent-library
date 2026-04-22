@@ -1,0 +1,6 @@
+Agent: 008 L2beat Source
+Alric.AI page: https://alric.ai/agents/008-l2beat-source
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/prompts/008-l2beat-source.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

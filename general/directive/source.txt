@@ -1,0 +1,6 @@
+Agent: DIRECTIVE
+Alric.AI page: https://alric.ai/agents/directive
+Source file: https://github.com/LeviathanST/own-claw/blob/HEAD/workspace/DIRECTIVE.md
+Source repository: https://github.com/LeviathanST/own-claw
+
+Discovered and indexed by Alric.AI (https://alric.ai)

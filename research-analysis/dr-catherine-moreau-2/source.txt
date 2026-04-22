@@ -1,0 +1,6 @@
+Agent: Dr. Catherine Moreau
+Alric.AI page: https://alric.ai/agents/dr-catherine-moreau-2
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/lab-ops-lead/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

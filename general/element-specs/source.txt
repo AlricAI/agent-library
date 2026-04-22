@@ -1,0 +1,6 @@
+Agent: Element Specs
+Alric.AI page: https://alric.ai/agents/element-specs
+Source file: https://github.com/Maokus/MVMNT/blob/HEAD/thoughts/element-specs.md
+Source repository: https://github.com/Maokus/MVMNT
+
+Discovered and indexed by Alric.AI (https://alric.ai)

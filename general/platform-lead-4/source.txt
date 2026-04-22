@@ -1,0 +1,6 @@
+Agent: Platform Lead
+Alric.AI page: https://alric.ai/agents/platform-lead-4
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/fullstack-forge/agents/platform-lead/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

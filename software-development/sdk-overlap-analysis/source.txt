@@ -1,0 +1,6 @@
+Agent: SDK OVERLAP ANALYSIS
+Alric.AI page: https://alric.ai/agents/sdk-overlap-analysis
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/SDK_OVERLAP_ANALYSIS.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

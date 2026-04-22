@@ -1,0 +1,6 @@
+Agent: Adr
+Alric.AI page: https://alric.ai/agents/adr
+Source file: https://github.com/nakamu12/lumineer/blob/HEAD/docs/adr.md
+Source repository: https://github.com/nakamu12/lumineer
+
+Discovered and indexed by Alric.AI (https://alric.ai)

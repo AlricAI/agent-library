@@ -1,0 +1,6 @@
+Agent: Project
+Alric.AI page: https://alric.ai/agents/project-1
+Source file: https://github.com/stephenstubbs/zotero-mcp/blob/HEAD/openspec/project.md
+Source repository: https://github.com/stephenstubbs/zotero-mcp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

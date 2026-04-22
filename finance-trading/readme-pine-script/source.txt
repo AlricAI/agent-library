@@ -1,0 +1,6 @@
+Agent: README PINE SCRIPT
+Alric.AI page: https://alric.ai/agents/readme-pine-script
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/the-great-cryptonio/pinescript/README_PINE_SCRIPT.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

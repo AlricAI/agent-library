@@ -1,0 +1,6 @@
+Agent: BLACKBOARD VIEWS
+Alric.AI page: https://alric.ai/agents/blackboard-views
+Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/BLACKBOARD_VIEWS.md
+Source repository: https://github.com/frumu-ai/tandem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

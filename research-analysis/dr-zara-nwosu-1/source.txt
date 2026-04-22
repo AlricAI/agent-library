@@ -1,0 +1,6 @@
+Agent: Dr. Zara Nwosu
+Alric.AI page: https://alric.ai/agents/dr-zara-nwosu-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/critical-analysis-specialist/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

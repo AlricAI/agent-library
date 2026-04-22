@@ -1,0 +1,6 @@
+Agent: BUILD MCM FORGE ORCHESTRATOR
+Alric.AI page: https://alric.ai/agents/build-mcm-forge-orchestrator
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/docs/BUILD-MCM-FORGE-ORCHESTRATOR.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

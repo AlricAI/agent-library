@@ -1,0 +1,6 @@
+Agent: CCI CONTEXT ARCHITECTURE
+Alric.AI page: https://alric.ai/agents/cci-context-architecture
+Source file: https://github.com/HuaMick/AgenticEngineering/blob/HEAD/docs/CCI_CONTEXT_ARCHITECTURE.md
+Source repository: https://github.com/HuaMick/AgenticEngineering
+
+Discovered and indexed by Alric.AI (https://alric.ai)

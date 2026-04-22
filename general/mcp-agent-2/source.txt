@@ -1,0 +1,6 @@
+Agent: Mcp Agent
+Alric.AI page: https://alric.ai/agents/mcp-agent-2
+Source file: https://github.com/hippocampus-dev/hippocampus/blob/HEAD/cluster/applications/packages/cortex/cortex/llm/openai/agent/mcp_agent.py
+Source repository: https://github.com/hippocampus-dev/hippocampus
+
+Discovered and indexed by Alric.AI (https://alric.ai)

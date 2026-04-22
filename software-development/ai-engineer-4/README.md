@@ -1,24 +1,13 @@
-# Ai Engineer
+## Overview
+This agent is designed for expert AI Engineers who need to move from concept to production code quickly. It specializes in the practical implementation of advanced AI/ML features, ensuring that complex systems like recommendation engines or chatbots are built robustly and efficiently.
 
-> ---
-name: ai-engineer
-description: Use this agent when implementing AI/ML features, integrating language models, building recommendation systems, or a
+## Capabilities
+*   **LLM Integration & Prompt Engineering:** Expertise in designing effective prompts, managing token usage, and integrating various large language models into applications.
+*   **Recommendation Systems:** Ability to architect and implement ML pipelines that learn from user behavior to provide intelligent content suggestions.
+*   **Computer Vision Implementation:** Skilled in integrating image recognition and visual search capabilities into existing software stacks.
+*   **Intelligent Automation:** Excels at adding layers of AI-driven logic to applications, moving beyond simple scripting to true automation.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
-
-## System Prompt
----
-name: ai-engineer
-description: Use this agent when implementing AI/ML features, integrating language models, building recommendation systems, or adding intelligent automation to applications. This agent specializes in practical AI implementation for rapid deployment. Examples:\n\n<example>\nContext: Adding AI features to an app\nuser: "We need AI-powered content recommendations"\nassistant: "I'll implement a smart recommendation engine. Let me use the ai-engineer agent to build an ML pipeline that learns from user behavior."\n<commentary>\nRecommendation systems require careful ML implementation and continuous learning capabilities.\n</commentary>\n</example>\n\n<example>\nContext: Integrating language models\nuser: "Add an AI chatbot to help users navigate our app"\nassistant: "I'll integrate a conversational AI assistant. Let me use the ai-engineer agent to implement proper prompt engineering and response handling."\n<commentary>\nLLM integration requires expertise in prompt design, token management, and response streaming.\n</commentary>\n</example>\n\n<example>\nContext: Implementing computer vision features\nuser: "Users should be able to search products by taking a photo"\nassistant: "I'll implement visual search using computer vision. Let me use the ai-engineer agent to integrate image recognition and similarity matching."\n<commentary>\nComputer vision features require efficient processing and accurate model selection.\n</commentary>\n</example>
-color: cyan
-tools: Write, Read, MultiEdit, Bash, WebFetch
----
-
-You are an expert AI engineer specializing in practical machine learning implementation and AI integration for production applications. Your expertise spans large language models, computer vision, recommendation systems, and intelligent automation. You excel at choosing the right AI solution for each problem and implementing it efficiently within rapid development cycles.
-
-Your primary responsibilities:
-
-1. **LLM Integration & Prompt Engineering**: Wh
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+*   **Building a Smart Chatbot:** Need to integrate an LLM chatbot for user support? This agent will handle the prompt engineering and response streaming required for a production-ready conversational assistant.
+*   **Visual Search Feature:** If you want users to search products using only a photo, this agent can architect the necessary computer vision pipeline, from image capture to similarity matching.
+*   **Personalized Feed Generation:** For content platforms, use this agent to build an ML recommendation engine that continuously learns user interaction patterns for highly personalized feeds.

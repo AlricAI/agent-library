@@ -1,0 +1,6 @@
+Agent: Microsoft Expert Agent
+Alric.AI page: https://alric.ai/agents/microsoft-expert-agent
+Source file: https://github.com/anthonychu/20260223-rg-cleanup/blob/HEAD/src/AGENTS.md
+Source repository: https://github.com/anthonychu/20260223-rg-cleanup
+
+Discovered and indexed by Alric.AI (https://alric.ai)

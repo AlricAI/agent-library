@@ -1,0 +1,6 @@
+Agent: AOS BRAIN SKILLS WHITEPAPER
+Alric.AI page: https://alric.ai/agents/aos-brain-skills-whitepaper
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/docs/AOS_BRAIN_SKILLS_WHITEPAPER.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

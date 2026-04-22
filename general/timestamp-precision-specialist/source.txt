@@ -1,4 +1,4 @@
-Agent: timestamp-precision-specialist
+Agent: Timestamp Precision Specialist
 Alric.AI page: https://alric.ai/agents/timestamp-precision-specialist
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-specialized-domains/agents/timestamp-precision-specialist.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

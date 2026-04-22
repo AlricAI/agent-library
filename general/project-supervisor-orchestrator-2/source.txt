@@ -1,4 +1,4 @@
-Agent: project-supervisor-orchestrator
+Agent: Project Supervisor Orchestrator
 Alric.AI page: https://alric.ai/agents/project-supervisor-orchestrator-2
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/project-supervisor-orchestrator.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

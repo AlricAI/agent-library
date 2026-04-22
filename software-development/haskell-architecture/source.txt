@@ -1,0 +1,6 @@
+Agent: Haskell Architecture
+Alric.AI page: https://alric.ai/agents/haskell-architecture
+Source file: https://github.com/bagrounds/obsidian-github-publisher-sync/blob/HEAD/specs/haskell-architecture.md
+Source repository: https://github.com/bagrounds/obsidian-github-publisher-sync
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: 034 Solana Routes
+Alric.AI page: https://alric.ai/agents/034-solana-routes
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/prompts/034-solana-routes.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

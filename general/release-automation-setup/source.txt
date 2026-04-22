@@ -1,0 +1,6 @@
+Agent: RELEASE AUTOMATION SETUP
+Alric.AI page: https://alric.ai/agents/release-automation-setup
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/doc/RELEASE-AUTOMATION-SETUP.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

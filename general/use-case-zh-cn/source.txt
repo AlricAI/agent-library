@@ -1,0 +1,6 @@
+Agent: Use Case.Zh Cn
+Alric.AI page: https://alric.ai/agents/use-case-zh-cn
+Source file: https://github.com/Chshine1/lms-backend-nest/blob/HEAD/docs/use-case.zh-cn.md
+Source repository: https://github.com/Chshine1/lms-backend-nest
+
+Discovered and indexed by Alric.AI (https://alric.ai)

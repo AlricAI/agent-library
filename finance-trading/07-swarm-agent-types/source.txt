@@ -1,0 +1,6 @@
+Agent: 07 Swarm Agent Types
+Alric.AI page: https://alric.ai/agents/07-swarm-agent-types
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/prompts/agents/07-swarm-agent-types.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

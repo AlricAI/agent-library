@@ -1,0 +1,6 @@
+Agent: MONTHLY DEPARTMENT AUDIT FRAMEWORK
+Alric.AI page: https://alric.ai/agents/monthly-department-audit-framework
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/queue/MONTHLY_DEPARTMENT_AUDIT_FRAMEWORK.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

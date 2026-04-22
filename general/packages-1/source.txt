@@ -1,0 +1,6 @@
+Agent: PACKAGES
+Alric.AI page: https://alric.ai/agents/packages-1
+Source file: https://github.com/nareshv82/SemanticKernal/blob/HEAD/java/PACKAGES.md
+Source repository: https://github.com/nareshv82/SemanticKernal
+
+Discovered and indexed by Alric.AI (https://alric.ai)

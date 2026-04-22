@@ -1,0 +1,6 @@
+Agent: Nginx Websocket Config
+Alric.AI page: https://alric.ai/agents/nginx-websocket-config
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/nginx-websocket-config.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

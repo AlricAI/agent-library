@@ -1,0 +1,6 @@
+Agent: Automode Safety Architecture
+Alric.AI page: https://alric.ai/agents/automode-safety-architecture
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/automode-safety-architecture.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

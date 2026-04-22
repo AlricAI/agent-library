@@ -1,0 +1,6 @@
+Agent: security
+Alric.AI page: https://alric.ai/agents/security-8
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/.claude/agents/amplihack/specialized/security.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

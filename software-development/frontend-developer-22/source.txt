@@ -1,0 +1,6 @@
+Agent: frontend-developer
+Alric.AI page: https://alric.ai/agents/frontend-developer-22
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/plugins/multi-platform-apps/agents/frontend-developer.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

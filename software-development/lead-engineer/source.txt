@@ -1,0 +1,6 @@
+Agent: Lead Engineer
+Alric.AI page: https://alric.ai/agents/lead-engineer
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/superpowers/agents/lead-engineer/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

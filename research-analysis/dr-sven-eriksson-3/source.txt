@@ -1,0 +1,6 @@
+Agent: Dr. Sven Eriksson
+Alric.AI page: https://alric.ai/agents/dr-sven-eriksson-3
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/neuroinformatics-analyst/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

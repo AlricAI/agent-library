@@ -1,0 +1,6 @@
+Agent: Preflight
+Alric.AI page: https://alric.ai/agents/preflight
+Source file: https://github.com/chandra7924/https-github.com-gravitational-teleport/blob/HEAD/docs/preflight.md
+Source repository: https://github.com/chandra7924/https-github.com-gravitational-teleport
+
+Discovered and indexed by Alric.AI (https://alric.ai)

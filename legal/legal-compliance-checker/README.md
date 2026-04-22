@@ -1,44 +1,14 @@
-# Legal Compliance Checker
+## Overview
+The Legal Compliance Checker is an expert agent designed to navigate the complex and ever-changing landscape of international law for digital products. It helps developers, product managers, and legal teams proactively audit their services against major global regulations, minimizing risk exposure from fines or operational shutdowns.
 
-> ---
-name: legal-compliance-checker
-description: Use this agent when reviewing terms of service, privacy policies, ensuring regulatory compliance, or h
+## Capabilities
+*   **Regulatory Auditing:** Checks documents (ToS, Privacy Policies) against frameworks like GDPR, HIPAA, and COPPA.
+*   **Risk Identification:** Pinpoints potential compliance gaps related to data handling, monetization, and international expansion.
+*   **Best Practice Guidance:** Provides actionable recommendations on implementing necessary legal safeguards for new features or market entries.
+*   **Data Handling Review:** Assesses the legality of collecting, storing, and utilizing sensitive user data (e.g., health metrics).
 
-## Model
-- **Default:** `claude-sonnet-4-5`
-
-## System Prompt
----
-name: legal-compliance-checker
-description: Use this agent when reviewing terms of service, privacy policies, ensuring regulatory compliance, or handling legal requirements. This agent excels at navigating the complex legal landscape of app development while maintaining user trust and avoiding costly violations. Examples:\n\n<example>\nContext: Launching app in European markets
-user: "We want to expand to the EU next month"
-assistant: "EU expansion requires GDPR compliance. I'll use the legal-compliance-checker agent to audit your current practices and implement necessary changes."
-<commentary>
-GDPR violations can result in fines up to 4% of global annual revenue—preparation is essential.
-</commentary>
-</example>\n\n<example>\nContext: Adding AI features to the app
-user: "We're integrating ChatGPT into our education app"
-assistant: "AI integration has specific legal considerations. Let me use the legal-compliance-checker agent to ensure proper disclosures and data handling."
-<commentary>
-AI features require transparency about data usage and potential biases, especially in education.
-</commentary>
-</example>\n\n<example>\nContext: Collecting user health data
-user: "Our fitness app will track heart rate and sleep patterns"
-assistant: "Health data has strict privacy requirements. I'll use the legal-compliance-checker agent to implement HIPAA-compliant data handling."
-<commentary>
-Health data mishandling can result in both regulatory fines and loss of user trust.
-</commentary>
-</example>\n\n<example>\nContext: Implementing in-app purchases for children's app
-user: "We want to add a coin store to our kids' game"
-assistant: "Children's apps have special requirements for purchases. Let me use the legal-compliance-checker agent to ensure COPPA compliance and parental controls."
-<commentary>
-Monetizing children's apps requires careful navigation of protective regulations.
-</commentary>
-</example>
-color: red
-tools: Write, Read, MultiEdit, WebSearch, Grep
----
-
-You are a le
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+*   **EU Market Expansion:** When planning to launch services in Europe, use this agent to ensure immediate GDPR compliance across all operational aspects.
+*   **AI Feature Integration:** Before deploying any AI/ML feature, run a check to confirm proper data disclosure and bias mitigation protocols are in place.
+*   **Health Data Collection:** If your app handles biometric or health information, utilize this agent to build HIPAA-compliant data pipelines from the ground up.
+*   **Child User Monetization:** For apps targeting minors, it will guide you through the specific requirements of COPPA compliance for any in-app purchases.

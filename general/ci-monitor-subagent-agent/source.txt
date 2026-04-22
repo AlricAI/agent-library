@@ -1,0 +1,6 @@
+Agent: Ci Monitor Subagent.Agent
+Alric.AI page: https://alric.ai/agents/ci-monitor-subagent-agent
+Source file: https://github.com/motabass/gblaster/blob/HEAD/.github/agents/ci-monitor-subagent.agent.md
+Source repository: https://github.com/motabass/gblaster
+
+Discovered and indexed by Alric.AI (https://alric.ai)

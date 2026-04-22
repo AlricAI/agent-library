@@ -1,0 +1,6 @@
+Agent: CLAUDE CODE INTEGRATION
+Alric.AI page: https://alric.ai/agents/claude-code-integration
+Source file: https://github.com/Khamel83/Atlas_OLD/blob/HEAD/docs/CLAUDE_CODE_INTEGRATION.md
+Source repository: https://github.com/Khamel83/Atlas_OLD
+
+Discovered and indexed by Alric.AI (https://alric.ai)

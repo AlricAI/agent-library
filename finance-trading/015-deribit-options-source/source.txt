@@ -1,0 +1,6 @@
+Agent: 015 Deribit Options Source
+Alric.AI page: https://alric.ai/agents/015-deribit-options-source
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/prompts/015-deribit-options-source.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

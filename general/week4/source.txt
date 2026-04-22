@@ -1,0 +1,6 @@
+Agent: Week4
+Alric.AI page: https://alric.ai/agents/week4
+Source file: https://github.com/KushagraBharti/Beyond-Chat/blob/HEAD/weeklyUpdates/week4.md
+Source repository: https://github.com/KushagraBharti/Beyond-Chat
+
+Discovered and indexed by Alric.AI (https://alric.ai)

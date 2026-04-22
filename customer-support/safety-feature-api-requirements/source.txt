@@ -1,0 +1,6 @@
+Agent: Safety Feature Api Requirements
+Alric.AI page: https://alric.ai/agents/safety-feature-api-requirements
+Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/memory/safety-feature-api-requirements.md
+Source repository: https://github.com/Trollz1004/ANTIGRAVITY
+
+Discovered and indexed by Alric.AI (https://alric.ai)

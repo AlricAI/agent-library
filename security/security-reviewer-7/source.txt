@@ -1,0 +1,6 @@
+Agent: security-reviewer
+Alric.AI page: https://alric.ai/agents/security-reviewer-7
+Source file: https://github.com/nakamu12/lumineer/blob/HEAD/.claude/agents/security-reviewer.md
+Source repository: https://github.com/nakamu12/lumineer
+
+Discovered and indexed by Alric.AI (https://alric.ai)

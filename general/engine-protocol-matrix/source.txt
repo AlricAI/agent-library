@@ -1,0 +1,6 @@
+Agent: ENGINE PROTOCOL MATRIX
+Alric.AI page: https://alric.ai/agents/engine-protocol-matrix
+Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/ENGINE_PROTOCOL_MATRIX.md
+Source repository: https://github.com/frumu-ai/tandem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

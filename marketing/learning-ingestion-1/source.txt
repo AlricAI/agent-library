@@ -1,0 +1,6 @@
+Agent: Learning Ingestion
+Alric.AI page: https://alric.ai/agents/learning-ingestion-1
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/src/amplihack/agents/goal_seeking/learning_ingestion.py
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

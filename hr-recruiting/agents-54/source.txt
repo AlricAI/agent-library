@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-54
+Source file: https://github.com/NextLeapClub/DevTeam/blob/HEAD/workflows/security-audit/agents/prioritizer/AGENTS.md
+Source repository: https://github.com/NextLeapClub/DevTeam
+
+Discovered and indexed by Alric.AI (https://alric.ai)

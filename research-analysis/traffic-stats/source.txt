@@ -1,0 +1,6 @@
+Agent: Traffic Stats
+Alric.AI page: https://alric.ai/agents/traffic-stats
+Source file: https://github.com/Bitterbot-AI/bitterbot-desktop/blob/HEAD/docs/traffic-stats.md
+Source repository: https://github.com/Bitterbot-AI/bitterbot-desktop
+
+Discovered and indexed by Alric.AI (https://alric.ai)

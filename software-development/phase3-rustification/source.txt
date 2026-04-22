@@ -1,0 +1,6 @@
+Agent: Phase3 Rustification
+Alric.AI page: https://alric.ai/agents/phase3-rustification
+Source file: https://github.com/matthewdeanmartin/rmarc/blob/HEAD/spec/phase3_rustification.md
+Source repository: https://github.com/matthewdeanmartin/rmarc
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: LISTING SCHEMA
+Alric.AI page: https://alric.ai/agents/listing-schema-1
+Source file: https://github.com/rarestg/nyc-housing-scout/blob/HEAD/docs/LISTING_SCHEMA.md
+Source repository: https://github.com/rarestg/nyc-housing-scout
+
+Discovered and indexed by Alric.AI (https://alric.ai)

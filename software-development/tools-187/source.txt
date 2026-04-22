@@ -1,0 +1,6 @@
+Agent: TOOLS
+Alric.AI page: https://alric.ai/agents/tools-187
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/dirtsync/agents/ship-engineer/TOOLS.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

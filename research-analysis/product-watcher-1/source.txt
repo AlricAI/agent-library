@@ -1,4 +1,4 @@
-Agent: product-watcher
+Agent: Product Watcher
 Alric.AI page: https://alric.ai/agents/product-watcher-1
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/meeting-bots/agents/product-watcher.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

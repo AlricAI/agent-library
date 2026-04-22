@@ -1,0 +1,6 @@
+Agent: SOUL
+Alric.AI page: https://alric.ai/agents/soul-15
+Source file: https://github.com/erickmcaro/shippulse/blob/HEAD/workflows/bug-fix/agents/triager/SOUL.md
+Source repository: https://github.com/erickmcaro/shippulse
+
+Discovered and indexed by Alric.AI (https://alric.ai)

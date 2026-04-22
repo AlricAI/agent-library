@@ -1,0 +1,6 @@
+Agent: game-developer
+Alric.AI page: https://alric.ai/agents/game-developer-11
+Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/antigravity-ide-main/tests/manual-test-project/.agent/agents/game-developer.md
+Source repository: https://github.com/ngTwg/Branding-Focused-Skills
+
+Discovered and indexed by Alric.AI (https://alric.ai)

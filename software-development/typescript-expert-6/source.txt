@@ -1,4 +1,4 @@
-Agent: typescript-expert
+Agent: TypeScript Expert
 Alric.AI page: https://alric.ai/agents/typescript-expert-6
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/typescript-expert.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

@@ -1,0 +1,6 @@
+Agent: CMO
+Alric.AI page: https://alric.ai/agents/cmo-1
+Source file: https://github.com/Sri-Krishna-V/marketing-sales-agency/blob/HEAD/agents/cmo/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/marketing-sales-agency
+
+Discovered and indexed by Alric.AI (https://alric.ai)

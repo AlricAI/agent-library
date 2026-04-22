@@ -1,0 +1,6 @@
+Agent: BNB Chain AI Toolkit
+Alric.AI page: https://alric.ai/agents/bnb-chain-ai-toolkit-2
+Source file: https://github.com/nirholas/bnb-chain-toolkit/blob/HEAD/.windsurfrules
+Source repository: https://github.com/nirholas/bnb-chain-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

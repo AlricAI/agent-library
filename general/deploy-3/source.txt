@@ -1,0 +1,6 @@
+Agent: Deploy
+Alric.AI page: https://alric.ai/agents/deploy-3
+Source file: https://github.com/bagrounds/obsidian-github-publisher-sync/blob/HEAD/specs/deploy.md
+Source repository: https://github.com/bagrounds/obsidian-github-publisher-sync
+
+Discovered and indexed by Alric.AI (https://alric.ai)

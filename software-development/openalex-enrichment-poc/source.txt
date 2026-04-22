@@ -1,0 +1,6 @@
+Agent: Openalex Enrichment Poc
+Alric.AI page: https://alric.ai/agents/openalex-enrichment-poc
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/sms-bot/agents/arxiv-research-graph/openalex_enrichment_poc.py
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

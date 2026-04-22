@@ -1,0 +1,6 @@
+Agent: COMMUNITY
+Alric.AI page: https://alric.ai/agents/community
+Source file: https://github.com/danielgonzagat/megaIAAA/blob/HEAD/OpenHands/COMMUNITY.md
+Source repository: https://github.com/danielgonzagat/megaIAAA
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Release Workflow
+Alric.AI page: https://alric.ai/agents/release-workflow
+Source file: https://github.com/MaansenV/ECS2DTest/blob/HEAD/docs/release-workflow.md
+Source repository: https://github.com/MaansenV/ECS2DTest
+
+Discovered and indexed by Alric.AI (https://alric.ai)

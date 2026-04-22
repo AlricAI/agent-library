@@ -1,0 +1,6 @@
+Agent: Forge Developer
+Alric.AI page: https://alric.ai/agents/developer
+Source file: https://github.com/cjy5507/forge/blob/HEAD/agents/developer.md
+Source repository: https://github.com/cjy5507/forge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

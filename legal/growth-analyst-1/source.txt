@@ -1,0 +1,6 @@
+Agent: Growth Analyst
+Alric.AI page: https://alric.ai/agents/growth-analyst-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/clawteam-capital/agents/growth-analyst/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

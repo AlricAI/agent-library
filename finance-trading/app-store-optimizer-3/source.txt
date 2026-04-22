@@ -1,0 +1,6 @@
+Agent: App Store Optimizer
+Alric.AI page: https://alric.ai/agents/app-store-optimizer-3
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/marketing-app-store-optimizer/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: skill-md-adoption
+Alric.AI page: https://alric.ai/agents/skill-md-adoption
+Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/patterns/skill-md-adoption.md
+Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

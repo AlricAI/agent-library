@@ -1,0 +1,6 @@
+Agent: Twitter Launch Thread
+Alric.AI page: https://alric.ai/agents/twitter-launch-thread
+Source file: https://github.com/rlajous/claude-code-commands/blob/HEAD/content/twitter-launch-thread.md
+Source repository: https://github.com/rlajous/claude-code-commands
+
+Discovered and indexed by Alric.AI (https://alric.ai)

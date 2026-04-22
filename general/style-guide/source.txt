@@ -1,0 +1,6 @@
+Agent: STYLE GUIDE
+Alric.AI page: https://alric.ai/agents/style-guide
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/drawer/STYLE-GUIDE.md
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

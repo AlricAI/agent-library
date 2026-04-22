@@ -1,0 +1,6 @@
+Agent: cs-quality-regulatory
+Alric.AI page: https://alric.ai/agents/cs-quality-regulatory
+Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/claude-skills/agents/ra-qm-team/cs-quality-regulatory.md
+Source repository: https://github.com/ngTwg/Branding-Focused-Skills
+
+Discovered and indexed by Alric.AI (https://alric.ai)

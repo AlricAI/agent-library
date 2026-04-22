@@ -1,0 +1,6 @@
+Agent: Project
+Alric.AI page: https://alric.ai/agents/project-2
+Source file: https://github.com/qemqemqem/mechawiki/blob/HEAD/src/agents/prompts/project.md
+Source repository: https://github.com/qemqemqem/mechawiki
+
+Discovered and indexed by Alric.AI (https://alric.ai)

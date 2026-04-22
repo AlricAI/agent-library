@@ -1,0 +1,6 @@
+Agent: playwright-test-planner
+Alric.AI page: https://alric.ai/agents/playwright-test-planner
+Source file: https://github.com/comet-ml/opik/blob/HEAD/.agents/skills/playwright-e2e/agents/playwright-test-planner.md
+Source repository: https://github.com/comet-ml/opik
+
+Discovered and indexed by Alric.AI (https://alric.ai)

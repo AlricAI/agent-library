@@ -1,0 +1,6 @@
+Agent: Sprint4 Regression Test Report
+Alric.AI page: https://alric.ai/agents/sprint4-regression-test-report
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/claudedocs/sprint4-regression-test-report.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

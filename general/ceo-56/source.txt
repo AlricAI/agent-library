@@ -1,0 +1,6 @@
+Agent: CEO
+Alric.AI page: https://alric.ai/agents/ceo-56
+Source file: https://github.com/alliedbrother/TuneLLM_Labs_Agentic/blob/HEAD/agents/ceo/AGENTS.md
+Source repository: https://github.com/alliedbrother/TuneLLM_Labs_Agentic
+
+Discovered and indexed by Alric.AI (https://alric.ai)

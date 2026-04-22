@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-8
+Source file: https://github.com/alibaba/OpenSandbox/blob/HEAD/sdks/AGENTS.md
+Source repository: https://github.com/alibaba/OpenSandbox
+
+Discovered and indexed by Alric.AI (https://alric.ai)

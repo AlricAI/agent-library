@@ -1,0 +1,6 @@
+Agent: Standards
+Alric.AI page: https://alric.ai/agents/standards
+Source file: https://github.com/nirholas/bnb-chain-toolkit/blob/HEAD/docs/standards.md
+Source repository: https://github.com/nirholas/bnb-chain-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

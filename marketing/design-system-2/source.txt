@@ -1,0 +1,6 @@
+Agent: Design System
+Alric.AI page: https://alric.ai/agents/design-system-2
+Source file: https://github.com/fysoul17/cal-ai-clone/blob/HEAD/docs/design-system.md
+Source repository: https://github.com/fysoul17/cal-ai-clone
+
+Discovered and indexed by Alric.AI (https://alric.ai)

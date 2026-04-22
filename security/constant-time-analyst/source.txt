@@ -1,0 +1,6 @@
+Agent: Constant-Time Analyst
+Alric.AI page: https://alric.ai/agents/constant-time-analyst
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/trail-of-bits-security/agents/constant-time-analyst/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

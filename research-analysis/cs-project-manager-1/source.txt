@@ -1,0 +1,6 @@
+Agent: cs-project-manager
+Alric.AI page: https://alric.ai/agents/cs-project-manager-1
+Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/claude-skills/agents/project-management/cs-project-manager.md
+Source repository: https://github.com/ngTwg/Branding-Focused-Skills
+
+Discovered and indexed by Alric.AI (https://alric.ai)

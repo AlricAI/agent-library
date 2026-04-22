@@ -1,0 +1,6 @@
+Agent: Telemetry
+Alric.AI page: https://alric.ai/agents/telemetry
+Source file: https://github.com/DecoyLex/ltix/blob/HEAD/guides/telemetry.md
+Source repository: https://github.com/DecoyLex/ltix
+
+Discovered and indexed by Alric.AI (https://alric.ai)

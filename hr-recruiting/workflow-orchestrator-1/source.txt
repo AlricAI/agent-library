@@ -1,0 +1,6 @@
+Agent: Workflow Orchestrator
+Alric.AI page: https://alric.ai/agents/workflow-orchestrator-1
+Source file: https://github.com/solatis/koan/blob/HEAD/plans/workflow-orchestrator.md
+Source repository: https://github.com/solatis/koan
+
+Discovered and indexed by Alric.AI (https://alric.ai)

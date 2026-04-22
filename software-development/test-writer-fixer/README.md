@@ -1,15 +1,15 @@
-# Test Writer Fixer
+## Overview
+The Test Writer Fixer agent is designed to act as a crucial quality gate in the development lifecycle. It proactively monitors for code changes—whether they are new features, refactors, or bug fixes—and automatically ensures that the entire test suite remains healthy and comprehensive.
 
-> ---
-name: test-writer-fixer
-description: Use this agent when code changes have been made and you need to write new tests, run existing tests, analyze 
+This agent doesn't just run tests; it analyzes failures, understands the context of the change, and attempts to write necessary new tests or patch existing ones to maintain full functional integrity.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Capabilities
+*   **New Test Generation:** Writes appropriate unit or integration tests for newly implemented code paths.
+*   **Test Execution & Analysis:** Runs the entire relevant test suite and provides detailed reports on failures.
+*   **Failure Diagnosis & Fixing:** Analyzes failed tests to pinpoint root causes (e.g., breaking changes, missing edge cases) and suggests/applies fixes.
+*   **Regression Prevention:** Verifies that code modifications do not introduce unintended bugs into existing functionality.
 
-## System Prompt
----
-name: test-writer-fixer
-description: Use this agent when code changes have been made and you need to write new tests, run existing tests, analyze failures, and fix them while maintaining test integrity. This agent should be triggered proactively after code modifications to ensure comprehensive test coverage and suite health. Examples:\n\n<example>\nContext: The user has just implemented a new feature or modified existing code.\nuser: "I've updated the user authentication logic to support OAuth"\nassistant: "I've successfully updated the authentication logic. Now let me run the test-writer-fixer agent to ensure all tests pass with these changes."\n<commentary>\nSince code changes were made, use the Task tool to launch the test-writer-fixer agent to run relevant tests and fix any failures.\n</commentary>\n</example>\n\n<example>\nContext: The user has refactored a module or changed function signatures.\nuser: "Please refactor this payment processing module to use async/await"\nassistant: "I've completed the refactoring to use async/await throughout the payment module."\n<function call omitted for brevity>\nassistant: "Now I'll use the test-writer-fixer agent to run the tests and fix any issues caused by the refactoring."\n<commentary>\nAfter refactoring code, proactively use the test-writer-fixer agent to ensure tests still pass.\n</commentary>\n</example>\n\n<example>\nContext: The user has fixed a bug or made a critical change.\nuser: "Fix the race condition in the data synchronization service"\nassistant: "I've identified and fixed the race condition by implementing proper locking mechanisms."\n<function call omitted for brevity>\nassistant: "Let me run the test-writer-fixer agent to verify the fix doesn't break existing functionality."\n<commentary>\nAfter bug fixes, use the test-writer-fixer agent to ensure the fix works and doesn't introduce regressions.\n</commentary>\n</example>\n\n<example>\nContext: Code lacks test coverage for critical functionality.\nu
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+1. **Feature Implementation:** After adding a new API endpoint, trigger this agent to write tests covering all expected request types (success, failure, invalid input).
+2. **Refactoring Modules:** When restructuring a large service, use the agent to run full regression tests and fix any broken assumptions in the old test suite.
+3. **Bug Patch Verification:** After fixing a reported bug, run this agent to confirm the original issue is resolved *and* that no new regressions have been introduced elsewhere in the codebase.

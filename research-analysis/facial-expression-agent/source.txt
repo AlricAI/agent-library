@@ -1,0 +1,6 @@
+Agent: Facial Expression Analyzer
+Alric.AI page: https://alric.ai/agents/facial-expression-agent
+Source file: https://github.com/Zidong-IA/BIBLIOTECA/blob/HEAD/references/repos-referencia/awesome-llm-apps/advanced_ai_agents/multi_agent_apps/ai_speech_trainer_agent/backend/agents/facial_expression_agent.py
+Source repository: https://github.com/Zidong-IA/BIBLIOTECA
+
+Discovered and indexed by Alric.AI (https://alric.ai)

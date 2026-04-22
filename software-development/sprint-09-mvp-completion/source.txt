@@ -1,0 +1,6 @@
+Agent: Sprint 09 Mvp Completion
+Alric.AI page: https://alric.ai/agents/sprint-09-mvp-completion
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/sprints/sprint-09-mvp-completion.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

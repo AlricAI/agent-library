@@ -1,0 +1,6 @@
+Agent: MCP Resource Directory
+Alric.AI page: https://alric.ai/agents/fuentes-descarga
+Source file: https://github.com/Zidong-IA/BIBLIOTECA/blob/HEAD/mcps/FUENTES-DESCARGA.md
+Source repository: https://github.com/Zidong-IA/BIBLIOTECA
+
+Discovered and indexed by Alric.AI (https://alric.ai)

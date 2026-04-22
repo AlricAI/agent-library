@@ -1,0 +1,6 @@
+Agent: QUICKSTART CROSS COMPILE
+Alric.AI page: https://alric.ai/agents/quickstart-cross-compile
+Source file: https://github.com/madeindigio/remembrances-mcp/blob/HEAD/docs/QUICKSTART_CROSS_COMPILE.md
+Source repository: https://github.com/madeindigio/remembrances-mcp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

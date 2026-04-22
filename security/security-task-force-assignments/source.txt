@@ -1,0 +1,6 @@
+Agent: SECURITY TASK FORCE ASSIGNMENTS
+Alric.AI page: https://alric.ai/agents/security-task-force-assignments
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/queue/SECURITY_TASK_FORCE_ASSIGNMENTS.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

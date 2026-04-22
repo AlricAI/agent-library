@@ -1,0 +1,6 @@
+Agent: Audio Quality Controller
+Alric.AI page: https://alric.ai/agents/audio-quality-controller-1
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/audio-quality-controller.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

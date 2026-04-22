@@ -1,0 +1,6 @@
+Agent: Comprehensive Researcher
+Alric.AI page: https://alric.ai/agents/comprehensive-researcher
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-specialized-domains/agents/comprehensive-researcher.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

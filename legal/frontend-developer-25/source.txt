@@ -1,0 +1,6 @@
+Agent: Frontend Developer
+Alric.AI page: https://alric.ai/agents/frontend-developer-25
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/clawteam-engineering/agents/frontend-developer/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

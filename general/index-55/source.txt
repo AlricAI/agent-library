@@ -1,0 +1,6 @@
+Agent: Index
+Alric.AI page: https://alric.ai/agents/index-55
+Source file: https://github.com/BinaryTape/Open-Docs/blob/HEAD/docs/koog/agents/planner-agents/index.md
+Source repository: https://github.com/BinaryTape/Open-Docs
+
+Discovered and indexed by Alric.AI (https://alric.ai)

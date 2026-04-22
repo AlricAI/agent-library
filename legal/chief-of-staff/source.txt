@@ -1,0 +1,6 @@
+Agent: Chief of Staff
+Alric.AI page: https://alric.ai/agents/chief-of-staff
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/agency-agents/agents/chief-of-staff/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

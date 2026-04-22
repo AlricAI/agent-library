@@ -1,0 +1,6 @@
+Agent: Beads (bd) Issue Tracking
+Alric.AI page: https://alric.ai/agents/beads-bd-issue-tracking
+Source file: https://github.com/karolis-k/nyxis/blob/HEAD/.cursor/rules/beads.mdc
+Source repository: https://github.com/karolis-k/nyxis
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Features
+Alric.AI page: https://alric.ai/agents/features
+Source file: https://github.com/Michael-Obele/tif/blob/HEAD/tech-invoice-forge/features.md
+Source repository: https://github.com/Michael-Obele/tif
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: AgentSys Engineering
+Alric.AI page: https://alric.ai/agents/agentsys-engineering
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agentsys-engineering/COMPANY.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Architect
+Alric.AI page: https://alric.ai/agents/architect-8
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/cyber/reversing/architect.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

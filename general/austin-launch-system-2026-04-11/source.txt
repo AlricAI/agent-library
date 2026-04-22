@@ -1,0 +1,6 @@
+Agent: Austin Launch System 2026 04 11
+Alric.AI page: https://alric.ai/agents/austin-launch-system-2026-04-11
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/docs/austin-launch-system-2026-04-11.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

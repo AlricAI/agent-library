@@ -1,0 +1,6 @@
+Agent: MDOS One Pager
+Alric.AI page: https://alric.ai/agents/mdos-one-pager
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/proposals/MDOS_One_Pager.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

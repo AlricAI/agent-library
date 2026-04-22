@@ -1,0 +1,6 @@
+Agent: Backend TypeScript Architect
+Alric.AI page: https://alric.ai/agents/backend-typescript-architect-1
+Source file: https://github.com/hesreallyhim/awesome-claude-code-agents/blob/HEAD/agents/backend-typescript-architect.md
+Source repository: https://github.com/hesreallyhim/awesome-claude-code-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

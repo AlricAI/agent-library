@@ -1,0 +1,6 @@
+Agent: BUILD OPTIONS
+Alric.AI page: https://alric.ai/agents/build-options
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/reggiestarr-rs80/BUILD_OPTIONS.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

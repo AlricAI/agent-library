@@ -1,0 +1,6 @@
+Agent: Test Answer Synthesizer
+Alric.AI page: https://alric.ai/agents/test-answer-synthesizer
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/tests/agents/goal_seeking/test_answer_synthesizer.py
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

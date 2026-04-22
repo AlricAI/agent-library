@@ -1,0 +1,6 @@
+Agent: Firestore Rules
+Alric.AI page: https://alric.ai/agents/firestore-rules
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/docs/firestore-rules.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

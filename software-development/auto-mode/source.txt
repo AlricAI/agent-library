@@ -1,0 +1,6 @@
+Agent: AUTO MODE
+Alric.AI page: https://alric.ai/agents/auto-mode
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/docs/AUTO_MODE.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

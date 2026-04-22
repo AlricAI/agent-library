@@ -1,0 +1,6 @@
+Agent: Tool Test Agent
+Alric.AI page: https://alric.ai/agents/tool-test-agent
+Source file: https://github.com/qemqemqem/mechawiki/blob/HEAD/src/agents/tool_test_agent.py
+Source repository: https://github.com/qemqemqem/mechawiki
+
+Discovered and indexed by Alric.AI (https://alric.ai)

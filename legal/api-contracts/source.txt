@@ -1,0 +1,6 @@
+Agent: Api Contracts
+Alric.AI page: https://alric.ai/agents/api-contracts
+Source file: https://github.com/KushagraBharti/Beyond-Chat/blob/HEAD/docs/api-contracts.md
+Source repository: https://github.com/KushagraBharti/Beyond-Chat
+
+Discovered and indexed by Alric.AI (https://alric.ai)

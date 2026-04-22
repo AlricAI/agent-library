@@ -1,0 +1,6 @@
+Agent: Ruleset Examples
+Alric.AI page: https://alric.ai/agents/ruleset-examples
+Source file: https://github.com/hl/epona/blob/HEAD/specs/ruleset_examples.md
+Source repository: https://github.com/hl/epona
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Legacy Modernization Specialist
+Alric.AI page: https://alric.ai/agents/legacy-modernization-specialist-8
+Source file: https://github.com/paperclipai/companies/blob/HEAD/fullstack-forge/agents/legacy-modernization-specialist/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

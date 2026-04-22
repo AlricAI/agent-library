@@ -1,0 +1,6 @@
+Agent: systematic-debugger
+Alric.AI page: https://alric.ai/agents/systematic-debugger
+Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/kit/core/agents/systematic-debugger/AGENT.md
+Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

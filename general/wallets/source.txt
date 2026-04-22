@@ -1,0 +1,6 @@
+Agent: Wallets
+Alric.AI page: https://alric.ai/agents/wallets
+Source file: https://github.com/nirholas/bnb-chain-toolkit/blob/HEAD/docs/wallets.md
+Source repository: https://github.com/nirholas/bnb-chain-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

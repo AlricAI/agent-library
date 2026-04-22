@@ -1,0 +1,6 @@
+Agent: TRO 37 Social Media Agents
+Alric.AI page: https://alric.ai/agents/tro-37-social-media-agents
+Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/issues/TRO-37-social-media-agents.md
+Source repository: https://github.com/Trollz1004/ANTIGRAVITY
+
+Discovered and indexed by Alric.AI (https://alric.ai)

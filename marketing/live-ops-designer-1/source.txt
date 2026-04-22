@@ -1,0 +1,6 @@
+Agent: Live Ops Designer
+Alric.AI page: https://alric.ai/agents/live-ops-designer-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/donchitos-game-studio/agents/live-ops-designer/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

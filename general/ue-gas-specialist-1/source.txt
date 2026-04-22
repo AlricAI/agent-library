@@ -1,0 +1,6 @@
+Agent: UE GAS Specialist
+Alric.AI page: https://alric.ai/agents/ue-gas-specialist-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/donchitos-game-studio/agents/ue-gas-specialist/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

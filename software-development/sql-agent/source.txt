@@ -1,0 +1,6 @@
+Agent: SQL Query Generator
+Alric.AI page: https://alric.ai/agents/sql-agent
+Source file: https://github.com/xiaoland/agents/blob/HEAD/agents/github-copilot/sql.agent.md
+Source repository: https://github.com/xiaoland/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

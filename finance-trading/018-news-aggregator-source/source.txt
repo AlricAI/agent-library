@@ -1,0 +1,6 @@
+Agent: 018 News Aggregator Source
+Alric.AI page: https://alric.ai/agents/018-news-aggregator-source
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/prompts/018-news-aggregator-source.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

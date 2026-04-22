@@ -1,0 +1,6 @@
+Agent: Basal Agent
+Alric.AI page: https://alric.ai/agents/basal-agent-1
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/test-bench/environments/aos-brain-test/brain/agents/basal_agent.py
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

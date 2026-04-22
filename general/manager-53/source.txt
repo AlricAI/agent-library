@@ -1,0 +1,6 @@
+Agent: Manager
+Alric.AI page: https://alric.ai/agents/manager-53
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/software/machine-learning/operations/manager.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

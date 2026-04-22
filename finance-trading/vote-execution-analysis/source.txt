@@ -1,0 +1,6 @@
+Agent: Vote Execution Analysis
+Alric.AI page: https://alric.ai/agents/vote-execution-analysis
+Source file: https://github.com/AlliedToasters/perihelion/blob/HEAD/agents/p4/data/vote_execution_analysis.md
+Source repository: https://github.com/AlliedToasters/perihelion
+
+Discovered and indexed by Alric.AI (https://alric.ai)

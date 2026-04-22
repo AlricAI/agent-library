@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-15
+Source file: https://github.com/sandgardenhq/sgai/blob/HEAD/docs/AGENTS.md
+Source repository: https://github.com/sandgardenhq/sgai
+
+Discovered and indexed by Alric.AI (https://alric.ai)

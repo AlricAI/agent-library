@@ -1,0 +1,6 @@
+Agent: Sprint 04.5 Project Schema
+Alric.AI page: https://alric.ai/agents/sprint-04-5-project-schema-1
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/sprints/sprint-04.5-project-schema.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

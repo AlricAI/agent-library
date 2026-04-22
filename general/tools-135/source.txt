@@ -1,0 +1,6 @@
+Agent: TOOLS
+Alric.AI page: https://alric.ai/agents/tools-135
+Source file: https://github.com/kentonium3/kg-automation/blob/HEAD/scripts/openclaw/agents/felix-admin-capture/TOOLS.md
+Source repository: https://github.com/kentonium3/kg-automation
+
+Discovered and indexed by Alric.AI (https://alric.ai)

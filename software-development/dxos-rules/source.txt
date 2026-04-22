@@ -1,0 +1,6 @@
+Agent: DXOS Rules
+Alric.AI page: https://alric.ai/agents/dxos-rules
+Source file: https://github.com/dxos/dxos/blob/HEAD/.cursor/rules/dxos.mdc
+Source repository: https://github.com/dxos/dxos
+
+Discovered and indexed by Alric.AI (https://alric.ai)

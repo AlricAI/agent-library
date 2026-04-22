@@ -1,0 +1,6 @@
+Agent: Goap Agents
+Alric.AI page: https://alric.ai/agents/goap-agents
+Source file: https://github.com/BinaryTape/Open-Docs/blob/HEAD/docs/zh-Hant/koog/agents/planner-agents/goap-agents.md
+Source repository: https://github.com/BinaryTape/Open-Docs
+
+Discovered and indexed by Alric.AI (https://alric.ai)

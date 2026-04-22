@@ -1,0 +1,6 @@
+Agent: Methodology
+Alric.AI page: https://alric.ai/agents/methodology
+Source file: https://github.com/scfuzzbench/scfuzzbench/blob/HEAD/docs/methodology.md
+Source repository: https://github.com/scfuzzbench/scfuzzbench
+
+Discovered and indexed by Alric.AI (https://alric.ai)

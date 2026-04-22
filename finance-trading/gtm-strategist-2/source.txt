@@ -1,0 +1,6 @@
+Agent: GTM Strategist
+Alric.AI page: https://alric.ai/agents/gtm-strategist-2
+Source file: https://github.com/paperclipai/companies/blob/HEAD/product-compass-consulting/agents/gtm-strategist/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

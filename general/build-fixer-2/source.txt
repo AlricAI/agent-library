@@ -1,0 +1,6 @@
+Agent: Build Fixer
+Alric.AI page: https://alric.ai/agents/build-fixer-2
+Source file: https://github.com/Goblin1024/oh-my-kimi/blob/HEAD/prompts/build-fixer.md
+Source repository: https://github.com/Goblin1024/oh-my-kimi
+
+Discovered and indexed by Alric.AI (https://alric.ai)

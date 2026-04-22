@@ -1,0 +1,6 @@
+Agent: V8 Cloud Verification Explained
+Alric.AI page: https://alric.ai/agents/v8-cloud-verification-explained
+Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/content/v8-cloud-verification-explained.md
+Source repository: https://github.com/Trollz1004/ANTIGRAVITY
+
+Discovered and indexed by Alric.AI (https://alric.ai)

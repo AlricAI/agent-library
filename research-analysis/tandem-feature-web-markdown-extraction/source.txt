@@ -1,0 +1,6 @@
+Agent: Tandem Feature Web Markdown Extraction
+Alric.AI page: https://alric.ai/agents/tandem-feature-web-markdown-extraction
+Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/tandem-feature-web-markdown-extraction.md
+Source repository: https://github.com/frumu-ai/tandem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Github Issue
+Alric.AI page: https://alric.ai/agents/github-issue-2
+Source file: https://github.com/hb-agent/magic-indexer/blob/HEAD/docs/github-issue.md
+Source repository: https://github.com/hb-agent/magic-indexer
+
+Discovered and indexed by Alric.AI (https://alric.ai)

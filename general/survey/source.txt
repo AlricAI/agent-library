@@ -1,0 +1,6 @@
+Agent: SURVEY
+Alric.AI page: https://alric.ai/agents/survey
+Source file: https://github.com/HS-yunsik/MARL-3D-Scene-Optimization/blob/HEAD/ml-agents-develop/SURVEY.md
+Source repository: https://github.com/HS-yunsik/MARL-3D-Scene-Optimization
+
+Discovered and indexed by Alric.AI (https://alric.ai)

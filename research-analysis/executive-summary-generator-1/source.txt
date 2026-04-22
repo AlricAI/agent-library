@@ -1,0 +1,6 @@
+Agent: Executive Summary Generator
+Alric.AI page: https://alric.ai/agents/executive-summary-generator-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/support-executive-summary-generator/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

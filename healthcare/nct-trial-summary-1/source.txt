@@ -1,0 +1,6 @@
+Agent: Nct Trial Summary
+Alric.AI page: https://alric.ai/agents/nct-trial-summary-1
+Source file: https://github.com/AlliedToasters/perihelion/blob/HEAD/agents/p2/data/nct_trial_summary.md
+Source repository: https://github.com/AlliedToasters/perihelion
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: LESSONS
+Alric.AI page: https://alric.ai/agents/lessons-6
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/dirtsync/agents/critique-agent/LESSONS.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Vps
+Alric.AI page: https://alric.ai/agents/vps
+Source file: https://github.com/zapabob/clawdbot/blob/HEAD/docs/vps.md
+Source repository: https://github.com/zapabob/clawdbot
+
+Discovered and indexed by Alric.AI (https://alric.ai)

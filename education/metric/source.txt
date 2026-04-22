@@ -1,0 +1,6 @@
+Agent: Metric
+Alric.AI page: https://alric.ai/agents/metric
+Source file: https://github.com/ernanhughes/ernanhughes.github.io/blob/HEAD/blog/metric.md
+Source repository: https://github.com/ernanhughes/ernanhughes.github.io
+
+Discovered and indexed by Alric.AI (https://alric.ai)

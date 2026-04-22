@@ -1,0 +1,6 @@
+Agent: MCP
+Alric.AI page: https://alric.ai/agents/mcp-1
+Source file: https://github.com/dirmacs/ares/blob/HEAD/docs/MCP.md
+Source repository: https://github.com/dirmacs/ares
+
+Discovered and indexed by Alric.AI (https://alric.ai)

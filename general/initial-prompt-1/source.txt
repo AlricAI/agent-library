@@ -1,0 +1,6 @@
+Agent: Initial Prompt
+Alric.AI page: https://alric.ai/agents/initial-prompt-1
+Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/specs/initial-prompt.md
+Source repository: https://github.com/rysweet/AzureHayMaker
+
+Discovered and indexed by Alric.AI (https://alric.ai)

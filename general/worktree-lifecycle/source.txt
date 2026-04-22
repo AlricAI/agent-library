@@ -1,0 +1,6 @@
+Agent: Worktree Lifecycle
+Alric.AI page: https://alric.ai/agents/worktree-lifecycle
+Source file: https://github.com/chmouel/lazyworktree/blob/HEAD/docs/worktree-lifecycle.md
+Source repository: https://github.com/chmouel/lazyworktree
+
+Discovered and indexed by Alric.AI (https://alric.ai)

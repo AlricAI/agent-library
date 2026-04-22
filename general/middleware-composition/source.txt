@@ -1,0 +1,6 @@
+Agent: Middleware Composition
+Alric.AI page: https://alric.ai/agents/middleware-composition
+Source file: https://github.com/oorosh/agentic.net/blob/HEAD/docs/middleware-composition.md
+Source repository: https://github.com/oorosh/agentic.net
+
+Discovered and indexed by Alric.AI (https://alric.ai)

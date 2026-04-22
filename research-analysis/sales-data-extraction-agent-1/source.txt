@@ -1,0 +1,6 @@
+Agent: Sales Data Extraction Agent
+Alric.AI page: https://alric.ai/agents/sales-data-extraction-agent-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/sales-data-extraction-agent/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

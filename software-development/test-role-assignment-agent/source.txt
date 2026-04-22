@@ -1,0 +1,6 @@
+Agent: Test Role Assignment Agent
+Alric.AI page: https://alric.ai/agents/test-role-assignment-agent
+Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/major_frameworks/camel/test/agents/test_role_assignment_agent.py
+Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
+
+Discovered and indexed by Alric.AI (https://alric.ai)

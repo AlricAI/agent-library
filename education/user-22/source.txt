@@ -1,0 +1,6 @@
+Agent: USER
+Alric.AI page: https://alric.ai/agents/user-22
+Source file: https://github.com/LORDBurnItUp/kds-openclaw/blob/HEAD/lord-sav/USER.md
+Source repository: https://github.com/LORDBurnItUp/kds-openclaw
+
+Discovered and indexed by Alric.AI (https://alric.ai)

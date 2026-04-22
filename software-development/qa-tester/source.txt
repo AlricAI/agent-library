@@ -1,0 +1,6 @@
+Agent: QA Tester
+Alric.AI page: https://alric.ai/agents/qa-tester
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/donchitos-game-studio/agents/qa-tester/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

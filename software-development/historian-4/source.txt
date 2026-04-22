@@ -1,0 +1,6 @@
+Agent: historian
+Alric.AI page: https://alric.ai/agents/historian-4
+Source file: https://github.com/ryantking/agentctl/blob/HEAD/.claude/agents/historian.md
+Source repository: https://github.com/ryantking/agentctl
+
+Discovered and indexed by Alric.AI (https://alric.ai)

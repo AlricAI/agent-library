@@ -1,0 +1,6 @@
+Agent: Cursor Rules Agent
+Alric.AI page: https://alric.ai/agents/cursor-rules-agent-42
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/rules/.wip/typescript/react-nextjs-cloudflare/.cursorrules
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

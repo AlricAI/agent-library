@@ -1,0 +1,6 @@
+Agent: CTO
+Alric.AI page: https://alric.ai/agents/cto-8
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/gstack/agents/cto/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Discovery Coach
+Alric.AI page: https://alric.ai/agents/discovery-coach
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/agency-agents/agents/sales-discovery-coach/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

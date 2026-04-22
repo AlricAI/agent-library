@@ -1,0 +1,6 @@
+Agent: Test Customize Agent
+Alric.AI page: https://alric.ai/agents/test-customize-agent
+Source file: https://github.com/danielgonzagat/megaIAAA/blob/HEAD/EvoAgentX/tests/src/agents/test_customize_agent.py
+Source repository: https://github.com/danielgonzagat/megaIAAA
+
+Discovered and indexed by Alric.AI (https://alric.ai)

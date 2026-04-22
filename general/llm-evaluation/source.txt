@@ -1,0 +1,6 @@
+Agent: Llm Evaluation
+Alric.AI page: https://alric.ai/agents/llm-evaluation
+Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/patterns/llm-evaluation.md
+Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

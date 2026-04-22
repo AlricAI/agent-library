@@ -1,0 +1,6 @@
+Agent: Automation Research 2
+Alric.AI page: https://alric.ai/agents/automation-research-2
+Source file: https://github.com/Maokus/MVMNT/blob/HEAD/thoughts/automation-research-2.md
+Source repository: https://github.com/Maokus/MVMNT
+
+Discovered and indexed by Alric.AI (https://alric.ai)

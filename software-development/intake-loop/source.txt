@@ -1,0 +1,6 @@
+Agent: Intake Loop
+Alric.AI page: https://alric.ai/agents/intake-loop
+Source file: https://github.com/solatis/koan/blob/HEAD/docs/intake-loop.md
+Source repository: https://github.com/solatis/koan
+
+Discovered and indexed by Alric.AI (https://alric.ai)

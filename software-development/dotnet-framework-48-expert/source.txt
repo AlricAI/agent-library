@@ -1,0 +1,6 @@
+Agent: dotnet-framework-48-expert
+Alric.AI page: https://alric.ai/agents/dotnet-framework-48-expert
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/lang/dotnet-framework-4.8-expert.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

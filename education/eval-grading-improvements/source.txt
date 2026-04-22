@@ -1,0 +1,6 @@
+Agent: EVAL GRADING IMPROVEMENTS
+Alric.AI page: https://alric.ai/agents/eval-grading-improvements
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/docs/EVAL_GRADING_IMPROVEMENTS.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

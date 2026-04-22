@@ -1,0 +1,6 @@
+Agent: Architect Agent
+Alric.AI page: https://alric.ai/agents/architect-agent-1
+Source file: https://github.com/Zer0x25/mini-crm-tickets/blob/HEAD/prompts/architect-agent.md
+Source repository: https://github.com/Zer0x25/mini-crm-tickets
+
+Discovered and indexed by Alric.AI (https://alric.ai)

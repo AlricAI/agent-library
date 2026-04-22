@@ -1,0 +1,6 @@
+Agent: Market Intel Agent
+Alric.AI page: https://alric.ai/agents/market-intel-agent
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/market-intel-agent/AGENTS.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

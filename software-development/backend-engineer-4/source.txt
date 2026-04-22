@@ -1,0 +1,6 @@
+Agent: Backend-Engineer
+Alric.AI page: https://alric.ai/agents/backend-engineer-4
+Source file: https://github.com/blazengreen360/hometower/blob/HEAD/.github/agents/backend-engineer.agent.md
+Source repository: https://github.com/blazengreen360/hometower
+
+Discovered and indexed by Alric.AI (https://alric.ai)

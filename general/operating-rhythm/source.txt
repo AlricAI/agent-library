@@ -1,0 +1,6 @@
+Agent: Operating Rhythm
+Alric.AI page: https://alric.ai/agents/operating-rhythm
+Source file: https://github.com/blex2011/My-Context/blob/HEAD/context-components/operating-rhythm.md
+Source repository: https://github.com/blex2011/My-Context
+
+Discovered and indexed by Alric.AI (https://alric.ai)

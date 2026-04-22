@@ -1,0 +1,6 @@
+Agent: TECHNICAL
+Alric.AI page: https://alric.ai/agents/technical
+Source file: https://github.com/nirholas/bnb-chain-toolkit/blob/HEAD/docs/TECHNICAL.md
+Source repository: https://github.com/nirholas/bnb-chain-toolkit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

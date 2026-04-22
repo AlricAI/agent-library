@@ -1,0 +1,6 @@
+Agent: Session Lifecycle
+Alric.AI page: https://alric.ai/agents/session-lifecycle
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/session-lifecycle.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

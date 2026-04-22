@@ -1,0 +1,6 @@
+Agent: DOCUMENTATION UPDATES
+Alric.AI page: https://alric.ai/agents/documentation-updates
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/DOCUMENTATION_UPDATES.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

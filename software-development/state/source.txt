@@ -1,0 +1,6 @@
+Agent: State
+Alric.AI page: https://alric.ai/agents/state
+Source file: https://github.com/AlliedToasters/perihelion/blob/HEAD/tracking/state.md
+Source repository: https://github.com/AlliedToasters/perihelion
+
+Discovered and indexed by Alric.AI (https://alric.ai)

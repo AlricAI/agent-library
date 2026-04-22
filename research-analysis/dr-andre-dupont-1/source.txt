@@ -1,0 +1,6 @@
+Agent: Dr. Andre Dupont
+Alric.AI page: https://alric.ai/agents/dr-andre-dupont-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/document-specialist/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

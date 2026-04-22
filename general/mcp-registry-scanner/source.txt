@@ -1,0 +1,6 @@
+Agent: mcp-registry-scanner
+Alric.AI page: https://alric.ai/agents/mcp-registry-scanner
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/meta/plugins/mcp-registry-scanner.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

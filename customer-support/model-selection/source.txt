@@ -1,0 +1,6 @@
+Agent: Model Selection
+Alric.AI page: https://alric.ai/agents/model-selection
+Source file: https://github.com/ernanhughes/ernanhughes.github.io/blob/HEAD/SVM/model_selection.md
+Source repository: https://github.com/ernanhughes/ernanhughes.github.io
+
+Discovered and indexed by Alric.AI (https://alric.ai)

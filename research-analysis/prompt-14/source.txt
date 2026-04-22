@@ -1,0 +1,6 @@
+Agent: Prompt
+Alric.AI page: https://alric.ai/agents/prompt-14
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/skill-reviewer/subagents/analyzer/prompt.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

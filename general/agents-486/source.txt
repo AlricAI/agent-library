@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-486
+Source file: https://github.com/bhagyabanghadai/VEIL_MVP/blob/HEAD/docs/AGENTS.md
+Source repository: https://github.com/bhagyabanghadai/VEIL_MVP
+
+Discovered and indexed by Alric.AI (https://alric.ai)

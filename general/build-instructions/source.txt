@@ -1,0 +1,6 @@
+Agent: BUILD INSTRUCTIONS
+Alric.AI page: https://alric.ai/agents/build-instructions
+Source file: https://github.com/mochadwi/gummy-apps/blob/HEAD/docs/BUILD_INSTRUCTIONS.md
+Source repository: https://github.com/mochadwi/gummy-apps
+
+Discovered and indexed by Alric.AI (https://alric.ai)

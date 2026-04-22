@@ -1,0 +1,6 @@
+Agent: test-automator
+Alric.AI page: https://alric.ai/agents/test-automator-14
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/plugins/full-stack-orchestration/agents/test-automator.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

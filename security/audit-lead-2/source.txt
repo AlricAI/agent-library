@@ -1,0 +1,6 @@
+Agent: Audit Lead
+Alric.AI page: https://alric.ai/agents/audit-lead-2
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/trail-of-bits-security/agents/audit-lead/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

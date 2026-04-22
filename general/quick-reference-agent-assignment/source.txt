@@ -1,0 +1,6 @@
+Agent: QUICK REFERENCE AGENT ASSIGNMENT
+Alric.AI page: https://alric.ai/agents/quick-reference-agent-assignment
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/QUICK_REFERENCE_AGENT_ASSIGNMENT.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

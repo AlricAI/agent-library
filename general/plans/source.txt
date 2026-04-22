@@ -1,0 +1,6 @@
+Agent: PLANS
+Alric.AI page: https://alric.ai/agents/plans
+Source file: https://github.com/Luxcium/fantastic-system-k22a/blob/HEAD/memory-bank/agents/PLANS.md
+Source repository: https://github.com/Luxcium/fantastic-system-k22a
+
+Discovered and indexed by Alric.AI (https://alric.ai)

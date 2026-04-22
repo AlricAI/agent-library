@@ -1,0 +1,6 @@
+Agent: Shared Types
+Alric.AI page: https://alric.ai/agents/shared-types
+Source file: https://github.com/cap-jmk-real/agentron/blob/HEAD/contracts/shared-types.md
+Source repository: https://github.com/cap-jmk-real/agentron
+
+Discovered and indexed by Alric.AI (https://alric.ai)

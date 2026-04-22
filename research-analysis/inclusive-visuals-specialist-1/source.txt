@@ -1,0 +1,6 @@
+Agent: Inclusive Visuals Specialist
+Alric.AI page: https://alric.ai/agents/inclusive-visuals-specialist-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/design-inclusive-visuals-specialist/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

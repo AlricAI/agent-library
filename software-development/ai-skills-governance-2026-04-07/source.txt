@@ -1,0 +1,6 @@
+Agent: Ai Skills Governance 2026 04 07
+Alric.AI page: https://alric.ai/agents/ai-skills-governance-2026-04-07
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/docs/ai-skills-governance-2026-04-07.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

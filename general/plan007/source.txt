@@ -1,0 +1,6 @@
+Agent: Plan007
+Alric.AI page: https://alric.ai/agents/plan007
+Source file: https://github.com/zhs007/xiuxian/blob/HEAD/jules/plan007.md
+Source repository: https://github.com/zhs007/xiuxian
+
+Discovered and indexed by Alric.AI (https://alric.ai)

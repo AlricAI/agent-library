@@ -1,0 +1,6 @@
+Agent: Graphics Engineer
+Alric.AI page: https://alric.ai/agents/graphics-engineer
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/minimax-studio/agents/graphics-engineer/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: RPC USAGE
+Alric.AI page: https://alric.ai/agents/rpc-usage
+Source file: https://github.com/jmbish04/core-github-api/blob/HEAD/docs/RPC_USAGE.md
+Source repository: https://github.com/jmbish04/core-github-api
+
+Discovered and indexed by Alric.AI (https://alric.ai)

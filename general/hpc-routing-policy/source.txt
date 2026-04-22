@@ -1,0 +1,6 @@
+Agent: Hpc Routing Policy
+Alric.AI page: https://alric.ai/agents/hpc-routing-policy
+Source file: https://github.com/virtengine/virtengine/blob/HEAD/docs/hpc-routing-policy.md
+Source repository: https://github.com/virtengine/virtengine
+
+Discovered and indexed by Alric.AI (https://alric.ai)

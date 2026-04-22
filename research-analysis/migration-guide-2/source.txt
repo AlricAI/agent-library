@@ -1,0 +1,6 @@
+Agent: Migration Guide
+Alric.AI page: https://alric.ai/agents/migration-guide-2
+Source file: https://github.com/konjoai/vectro/blob/HEAD/docs/migration-guide.md
+Source repository: https://github.com/konjoai/vectro
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: COMPETITION RESEARCH
+Alric.AI page: https://alric.ai/agents/competition-research
+Source file: https://github.com/Monsoft-Solutions/monsoftsolutions.com/blob/HEAD/docs/COMPETITION-RESEARCH.md
+Source repository: https://github.com/Monsoft-Solutions/monsoftsolutions.com
+
+Discovered and indexed by Alric.AI (https://alric.ai)

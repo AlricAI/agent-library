@@ -1,0 +1,6 @@
+Agent: PROJECT VEND ANALYSIS
+Alric.AI page: https://alric.ai/agents/project-vend-analysis
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/incubator/PROJECT-VEND-ANALYSIS.md
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

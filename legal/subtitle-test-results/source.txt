@@ -1,0 +1,6 @@
+Agent: Subtitle Test Results
+Alric.AI page: https://alric.ai/agents/subtitle-test-results
+Source file: https://github.com/dcarmitage/claws/blob/HEAD/scripts/subtitle_test_results.md
+Source repository: https://github.com/dcarmitage/claws
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: PUBLISHING
+Alric.AI page: https://alric.ai/agents/publishing-2
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/doc/PUBLISHING.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

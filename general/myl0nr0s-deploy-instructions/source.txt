@@ -1,0 +1,6 @@
+Agent: MYL0NR0S DEPLOY INSTRUCTIONS
+Alric.AI page: https://alric.ai/agents/myl0nr0s-deploy-instructions
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/scripts/MYL0NR0S_DEPLOY_INSTRUCTIONS.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

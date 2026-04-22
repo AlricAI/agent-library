@@ -1,0 +1,6 @@
+Agent: Messaging
+Alric.AI page: https://alric.ai/agents/messaging-1
+Source file: https://github.com/rdaum/moor/blob/HEAD/doc/messaging.md
+Source repository: https://github.com/rdaum/moor
+
+Discovered and indexed by Alric.AI (https://alric.ai)

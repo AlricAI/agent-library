@@ -1,0 +1,41 @@
+# busibox Development Guidelines
+
+> busibox Development Guidelines Auto-generated from all feature plans. Last updated: 2025-10-14 # Active Technologies
+
+## Tags
+`python` `postgres` `redis`
+
+## System Prompt
+# busibox Development Guidelines
+
+Auto-generated from all feature plans. Last updated: 2025-10-14
+
+## Active Technologies
+- (001-create-an-initial)
+- Bash 5.x (scripts), Ansible 2.14+ (configuration management), NGINX 1.18+ (reverse proxy) (002-deploy-app-servers)
+- Python 3.11+ + FastAPI 0.104+, pymilvus 2.6+ (BM25 function support), redis-py 5.0+, boto3 (MinIO S3), psycopg 3.1+ (PostgreSQL async) (004-updated-data-service)
+- PostgreSQL 15+ (metadata, status), Milvus 2.6+ (vectors with BM25), MinIO (S3-compatible file storage), Redis 7.0+ (Streams for job queue) (004-updated-data-service)
+- Python 3.11+ + FastAPI 0.115+, Pydantic AI 0.0.20+, SQLAlchemy 2.0+ (async), asyncpg, APScheduler 3.10+, python-jose (JWT), httpx, OpenTelemetry SDK, sse-starlette (005-i-want-to)
+- PostgreSQL 15+ (agent definitions, runs, tokens, workflows, scorers) (005-i-want-to)
+- Python 3.11+ (existing agent-server stack) + FastAPI, SQLAlchemy, Pydantic, LiteLLM, APScheduler (all already integrated) (006-busibox-agents-specs)
+- PostgreSQL 15+ with existing schema (agent_definitions, tool_definitions, workflow_definitions, eval_definitions, scheduled_runs, run_records) (006-busibox-agents-specs)
+
+## Project Structure
+```
+src/
+tests/
+```
+
+## Commands
+# Add commands for 
+
+## Code Style
+: Follow standard conventions
+
+## Recent Changes
+- 006-busibox-agents-specs: Added Python 3.11+ (existing agent-server stack) + FastAPI, SQLAlchemy, Pydantic, LiteLLM, APScheduler (all already integrated)
+- 005-i-want-to: Added Python 3.11+ + FastAPI 0.115+, Pydantic AI 0.0.20+, SQLAlchemy 2.0+ (async), asyncpg, APScheduler 3.10+, python-jose (JWT), httpx, OpenTelemetry SDK, sse-starlette
+- 004-updated-data-service: Added Python 3.11+ + FastAPI 0.104+, pymilvus 2.6+ (BM25 function support), redis-py 5.0+, boto3 (MinIO S3), psycopg 3.1+ (PostgreSQL async)
+
+<!-- MANUAL ADDITIONS START -->
+<!-- MANUAL ADDITIONS END -->

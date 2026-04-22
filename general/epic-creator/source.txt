@@ -1,0 +1,6 @@
+Agent: epic-creator
+Alric.AI page: https://alric.ai/agents/epic-creator
+Source file: https://github.com/HuaMick/AgenticEngineering/blob/HEAD/.claude/agents/epic-creator.md
+Source repository: https://github.com/HuaMick/AgenticEngineering
+
+Discovered and indexed by Alric.AI (https://alric.ai)

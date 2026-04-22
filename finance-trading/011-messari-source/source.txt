@@ -1,0 +1,6 @@
+Agent: 011 Messari Source
+Alric.AI page: https://alric.ai/agents/011-messari-source
+Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/prompts/011-messari-source.md
+Source repository: https://github.com/nirholas/crypto-vision
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Packaging Agent
+Alric.AI page: https://alric.ai/agents/packaging-agent
+Source file: https://github.com/anchapin/ModPorter-AI/blob/HEAD/ai-engine/agents/packaging_agent.py
+Source repository: https://github.com/anchapin/ModPorter-AI
+
+Discovered and indexed by Alric.AI (https://alric.ai)

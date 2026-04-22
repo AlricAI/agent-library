@@ -1,0 +1,6 @@
+Agent: Consolidation Plan
+Alric.AI page: https://alric.ai/agents/consolidation-plan
+Source file: https://github.com/alexandertataurov/vpn-suite/blob/HEAD/docs/consolidation-plan.md
+Source repository: https://github.com/alexandertataurov/vpn-suite
+
+Discovered and indexed by Alric.AI (https://alric.ai)

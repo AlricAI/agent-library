@@ -1,0 +1,6 @@
+Agent: Grade Service
+Alric.AI page: https://alric.ai/agents/grade-service
+Source file: https://github.com/DecoyLex/ltix/blob/HEAD/guides/grade-service.md
+Source repository: https://github.com/DecoyLex/ltix
+
+Discovered and indexed by Alric.AI (https://alric.ai)

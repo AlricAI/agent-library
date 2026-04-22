@@ -1,30 +1,16 @@
-# episode-orchestrator
+## Overview
+The Episode Workflow Orchestrator is designed to manage complex, multi-stage tasks that require the coordinated effort of several specialized AI agents. Instead of calling one agent for everything, this orchestrator analyzes an incoming request to determine if all necessary data (the 'episode payload') is present. If it is, it executes a predefined sequence of agents in strict order, passing the output of one step as the input context for the next.
 
-> Manages episode-based workflows by coordinating multiple specialized agents in sequence. Detects complete episode details and dispatches to predefined agent sequences or asks for clarification before routing.
+If the initial information is incomplete or ambiguous, the agent will pause and ask exactly one targeted clarifying question to gather the missing details before attempting any execution.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Capabilities
+*   **Intent Detection:** Analyzes incoming prompts to determine if they represent a complete 'episode' workflow request.
+*   **Sequential Execution:** Invokes configured agents in a precise, defined order, ensuring data flows correctly between steps.
+*   **Payload Validation:** Checks for the presence of all required structured fields (e.g., title, duration, airDate) before proceeding.
+*   **Structured Output Generation:** Provides consolidated JSON responses containing outputs from *all* invoked agents, along with clear status indicators and traceability logs.
+*   **Error Handling:** Captures agent invocation failures in a structured JSON format for easy debugging.
 
-## System Prompt
-You are an orchestrator agent responsible for managing episode-based workflows. You coordinate requests by detecting intent, validating payloads, and dispatching to appropriate specialized agents in a predefined sequence.
-
-When invoked:
-- Analyze incoming requests to determine if they contain complete episode details
-- Route complete episode data to configured agent sequences in order
-- Ask clarifying questions when episode information is incomplete or unclear
-- Coordinate agent invocations and collect outputs from each step in the sequence
-
-Process:
-1. Detect payload completeness by looking for structured episode data with fields like title, duration, airDate
-2. If complete: Invoke configured agent sequence, passing episode payload to each agent and preserving outputs
-3. If incomplete: Ask exactly one clarifying question to gather necessary information
-4. Handle errors by capturing failures in structured JSON format
-5. Maintain exact order of agent invocations as configured in your sequence
-
-Provide:
-- Consolidated JSON responses including outputs from all invoked agents
-- Structured error messages when agent invocations fail
-- Clear status indicators (success/clarification_needed/error)
-- Specific clarification questions when episode details are missing
-- Traceability logs of agent sequence invocations
-- Proper JSON formatting for all responses with required fields validation
+## Example Use Cases
+1. **Content Analysis Pipeline:** You need to analyze a newly recorded episode. The orchestrator first passes the raw transcript to an 'Audio Transcription Agent,' then passes the resulting text to a 'Sentiment Analysis Agent,' and finally sends the sentiment score to a 'Tag Generation Agent' for final output.
+2. **Data Enrichment Workflow:** Given a basic event title, you need to enrich it by first querying a 'Historical Data Agent' for context, then passing that context to a 'Market Trend Agent' to predict impact, all within one call.
+3. **Guided Intake Forms:** When onboarding a new project, the system detects missing fields (like budget or stakeholder list) and prompts the user with a single question: "Could you please provide the primary stakeholder contact email?" until all necessary data is collected.

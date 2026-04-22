@@ -1,0 +1,6 @@
+Agent: Power Steering Worktree Troubleshooting
+Alric.AI page: https://alric.ai/agents/power-steering-worktree-troubleshooting
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/docs/power-steering-worktree-troubleshooting.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: BLOG WRITING SKILL
+Alric.AI page: https://alric.ai/agents/blog-writing-skill
+Source file: https://github.com/Monsoft-Solutions/monsoftsolutions.com/blob/HEAD/docs/BLOG-WRITING-SKILL.md
+Source repository: https://github.com/Monsoft-Solutions/monsoftsolutions.com
+
+Discovered and indexed by Alric.AI (https://alric.ai)

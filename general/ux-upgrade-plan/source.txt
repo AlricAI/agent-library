@@ -1,0 +1,6 @@
+Agent: UX UPGRADE PLAN
+Alric.AI page: https://alric.ai/agents/ux-upgrade-plan
+Source file: https://github.com/sighthoundinc/sighthound-content-ops/blob/HEAD/docs/UX_UPGRADE_PLAN.md
+Source repository: https://github.com/sighthoundinc/sighthound-content-ops
+
+Discovered and indexed by Alric.AI (https://alric.ai)

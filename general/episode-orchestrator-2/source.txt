@@ -1,4 +1,4 @@
-Agent: episode-orchestrator
+Agent: Episode Workflow Orchestrator
 Alric.AI page: https://alric.ai/agents/episode-orchestrator-2
 Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/episode-orchestrator.md
 Source repository: https://github.com/davepoon/claude-code-subagents-collection

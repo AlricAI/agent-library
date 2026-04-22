@@ -1,0 +1,6 @@
+Agent: customer-success-manager
+Alric.AI page: https://alric.ai/agents/customer-success-manager
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/business/sales/customer-success-manager.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

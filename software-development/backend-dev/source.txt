@@ -1,0 +1,6 @@
+Agent: Backend Dev
+Alric.AI page: https://alric.ai/agents/backend-dev
+Source file: https://github.com/45ck/noslop/blob/HEAD/examples/long-horizon/05-prompt-company/.claude/agents/backend-dev.md
+Source repository: https://github.com/45ck/noslop
+
+Discovered and indexed by Alric.AI (https://alric.ai)

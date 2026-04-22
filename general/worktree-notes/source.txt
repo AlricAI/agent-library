@@ -1,0 +1,6 @@
+Agent: Worktree Notes
+Alric.AI page: https://alric.ai/agents/worktree-notes
+Source file: https://github.com/chmouel/lazyworktree/blob/HEAD/docs/worktree-notes.md
+Source repository: https://github.com/chmouel/lazyworktree
+
+Discovered and indexed by Alric.AI (https://alric.ai)

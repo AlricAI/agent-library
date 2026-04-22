@@ -1,0 +1,6 @@
+Agent: Code For Human
+Alric.AI page: https://alric.ai/agents/code-for-human
+Source file: https://github.com/xiaoland/agents/blob/HEAD/prompts/code-for-human.md
+Source repository: https://github.com/xiaoland/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

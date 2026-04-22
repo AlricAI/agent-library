@@ -1,0 +1,6 @@
+Agent: Analytics Reporter
+Alric.AI page: https://alric.ai/agents/analytics-reporter-1
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/agency-agents/agents/support-analytics-reporter/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

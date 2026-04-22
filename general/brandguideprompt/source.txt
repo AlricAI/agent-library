@@ -1,0 +1,6 @@
+Agent: Brandguideprompt
+Alric.AI page: https://alric.ai/agents/brandguideprompt
+Source file: https://github.com/pllporg/karen/blob/HEAD/brand/Brandguideprompt.md
+Source repository: https://github.com/pllporg/karen
+
+Discovered and indexed by Alric.AI (https://alric.ai)

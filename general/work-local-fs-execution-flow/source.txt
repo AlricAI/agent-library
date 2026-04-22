@@ -1,0 +1,6 @@
+Agent: Work Local Fs Execution Flow
+Alric.AI page: https://alric.ai/agents/work-local-fs-execution-flow
+Source file: https://github.com/tbrandenburg/work/blob/HEAD/docs/work-local-fs-execution-flow.md
+Source repository: https://github.com/tbrandenburg/work
+
+Discovered and indexed by Alric.AI (https://alric.ai)

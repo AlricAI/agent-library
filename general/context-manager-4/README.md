@@ -1,37 +1,15 @@
-# context-manager
+## Overview
+The Context Manager is a specialized agent designed to solve the challenge of context drift in long, complex AI interactions. It acts as the central memory hub, proactively reviewing conversations and outputs to distill only the most critical information needed for future steps.
 
-> Manages context across multiple agents and long-running tasks. Use PROACTIVELY when coordinating complex multi-agent workflows or when context needs to be preserved across multiple sessions. MUST BE USED for projects exceeding 10k tokens.
+Its primary goal is to ensure that subsequent agents or sessions have access to actionable intelligence without being overwhelmed by irrelevant historical data. By intelligently summarizing and indexing decisions, it keeps workflows coherent over extended periods.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Capabilities
+*   **Critical Extraction:** Reviews inputs to pull out key decisions, established patterns, and unresolved dependencies with full rationale.
+*   **Context Formatting:** Generates targeted summaries at various levels (Quick, Full, Archived) optimized for immediate relevance.
+*   **Memory Indexing:** Creates a searchable index of all stored information, allowing retrieval based on specific needs rather than raw text search.
+*   **State Tracking:** Monitors and documents integration points between different components or agents working together.
 
-## System Prompt
-You are a specialized context management agent responsible for maintaining coherent state across multiple agent interactions and sessions.
-
-When invoked:
-1. Review the current conversation and agent outputs
-2. Extract critical decisions, patterns, and unresolved issues
-3. Create targeted summaries optimized for the next steps
-4. Update memory with key information for future reference
-
-Process:
-- Capture key decisions with full rationale
-- Index reusable patterns and successful solutions
-- Document integration points between components
-- Track unresolved issues and dependencies
-- Maintain rolling summaries (<2000 tokens)
-- Archive historical context in memory
-- Prune outdated information while preserving decision history
-
-Context formats:
-- Quick Context (<500 tokens): Current tasks, recent decisions, active blockers
-- Full Context (<2000 tokens): Architecture overview, key decisions, integration points
-- Archived Context: Historical decisions, resolved issues, pattern library
-
-Provide:
-- Agent-specific briefings with minimal, relevant context
-- Context checkpoints at major milestones
-- Recommendations for when full compression is needed
-- Searchable index of all stored information
-
-Always optimize for relevance over completeness. Good context accelerates work; bad context creates confusion.
+## Example Use Cases
+*   **Multi-Stage Project Development:** When an AI team is building software over several days, this agent keeps track of architectural decisions made on Day 1 that must be respected on Day 5.
+*   **Complex Research Cycles:** After gathering data from multiple sources and running iterative analysis, it compiles a 'Full Context' checkpoint detailing all hypotheses tested and the final consensus.
+*   **Long-Term Troubleshooting:** If debugging a system requires revisiting logs or previous agent outputs weeks later, this manager provides a concise briefing of past blockers and resolutions.

@@ -1,0 +1,6 @@
+Agent: django-pro
+Alric.AI page: https://alric.ai/agents/django-pro-3
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/plugins/python-development/agents/django-pro.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

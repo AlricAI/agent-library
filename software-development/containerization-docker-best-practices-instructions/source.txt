@@ -1,0 +1,6 @@
+Agent: Docker Best Practices Guide
+Alric.AI page: https://alric.ai/agents/containerization-docker-best-practices-instructions
+Source file: https://github.com/tfha/agent-instructions/blob/HEAD/instructions/containerization-docker-best-practices.instructions.md
+Source repository: https://github.com/tfha/agent-instructions
+
+Discovered and indexed by Alric.AI (https://alric.ai)

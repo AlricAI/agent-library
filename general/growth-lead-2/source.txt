@@ -1,0 +1,6 @@
+Agent: Growth Lead
+Alric.AI page: https://alric.ai/agents/growth-lead-2
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/growth-lead/AGENTS.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: DEVELOPING Zh
+Alric.AI page: https://alric.ai/agents/developing-zh
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/doc/DEVELOPING-zh.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

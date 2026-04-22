@@ -1,0 +1,6 @@
+Agent: WASTE FEEDER README
+Alric.AI page: https://alric.ai/agents/waste-feeder-readme
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/scripts/WASTE_FEEDER_README.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Scenario 01 Single Subagent
+Alric.AI page: https://alric.ai/agents/scenario-01-single-subagent-1
+Source file: https://github.com/techwavedev/agi-agent-kit/blob/HEAD/templates/base/tests/agents/scenario_01_single_subagent.md
+Source repository: https://github.com/techwavedev/agi-agent-kit
+
+Discovered and indexed by Alric.AI (https://alric.ai)

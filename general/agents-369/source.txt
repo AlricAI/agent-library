@@ -1,0 +1,6 @@
+Agent: AGENTS
+Alric.AI page: https://alric.ai/agents/agents-369
+Source file: https://github.com/stussysenik/e-nable/blob/HEAD/server/AGENTS.md
+Source repository: https://github.com/stussysenik/e-nable
+
+Discovered and indexed by Alric.AI (https://alric.ai)

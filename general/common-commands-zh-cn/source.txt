@@ -1,0 +1,6 @@
+Agent: Common Commands.Zh CN
+Alric.AI page: https://alric.ai/agents/common-commands-zh-cn
+Source file: https://github.com/NoPKT/omnimem/blob/HEAD/docs/common-commands.zh-CN.md
+Source repository: https://github.com/NoPKT/omnimem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

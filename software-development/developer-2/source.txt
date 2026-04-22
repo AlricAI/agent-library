@@ -1,0 +1,6 @@
+Agent: Developer
+Alric.AI page: https://alric.ai/agents/developer-2
+Source file: https://github.com/Wamocon/lp_energy/blob/HEAD/.github/agents/developer.agent.md
+Source repository: https://github.com/Wamocon/lp_energy
+
+Discovered and indexed by Alric.AI (https://alric.ai)

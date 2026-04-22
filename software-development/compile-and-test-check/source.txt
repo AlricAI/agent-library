@@ -1,0 +1,6 @@
+Agent: Compile and test check
+Alric.AI page: https://alric.ai/agents/compile-and-test-check
+Source file: https://github.com/hippocampus-dev/hippocampus/blob/HEAD/files/home/kai/.config/claudex/config/agents/verification.md
+Source repository: https://github.com/hippocampus-dev/hippocampus
+
+Discovered and indexed by Alric.AI (https://alric.ai)

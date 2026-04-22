@@ -1,0 +1,6 @@
+Agent: Learn
+Alric.AI page: https://alric.ai/agents/learn
+Source file: https://github.com/julianromli/opencode-template/blob/HEAD/command/learn.md
+Source repository: https://github.com/julianromli/opencode-template
+
+Discovered and indexed by Alric.AI (https://alric.ai)

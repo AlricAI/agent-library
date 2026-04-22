@@ -1,0 +1,6 @@
+Agent: Brand Guardian
+Alric.AI page: https://alric.ai/agents/brand-guardian-2
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/agency-agents/agents/design-brand-guardian/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

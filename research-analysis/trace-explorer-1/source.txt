@@ -1,0 +1,6 @@
+Agent: trace-explorer
+Alric.AI page: https://alric.ai/agents/trace-explorer-1
+Source file: https://github.com/HuaMick/AgenticEngineering/blob/HEAD/.claude/agents/trace-explorer.md
+Source repository: https://github.com/HuaMick/AgenticEngineering
+
+Discovered and indexed by Alric.AI (https://alric.ai)

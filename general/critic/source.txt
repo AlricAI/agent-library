@@ -1,0 +1,6 @@
+Agent: Critic
+Alric.AI page: https://alric.ai/agents/critic
+Source file: https://github.com/j-huthmacher/AlphaWorm/blob/HEAD/dev/agents/ddpg/critic.py
+Source repository: https://github.com/j-huthmacher/AlphaWorm
+
+Discovered and indexed by Alric.AI (https://alric.ai)

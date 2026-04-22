@@ -1,0 +1,6 @@
+Agent: ARCHITECTURE
+Alric.AI page: https://alric.ai/agents/architecture-6
+Source file: https://github.com/Maokus/MVMNT/blob/HEAD/docs/ARCHITECTURE.md
+Source repository: https://github.com/Maokus/MVMNT
+
+Discovered and indexed by Alric.AI (https://alric.ai)

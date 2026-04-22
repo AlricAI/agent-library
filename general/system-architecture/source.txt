@@ -1,0 +1,6 @@
+Agent: System Architecture
+Alric.AI page: https://alric.ai/agents/system-architecture
+Source file: https://github.com/KushagraBharti/Beyond-Chat/blob/HEAD/docs/system-architecture.md
+Source repository: https://github.com/KushagraBharti/Beyond-Chat
+
+Discovered and indexed by Alric.AI (https://alric.ai)

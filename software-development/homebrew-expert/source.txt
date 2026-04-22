@@ -1,0 +1,6 @@
+Agent: homebrew-expert
+Alric.AI page: https://alric.ai/agents/homebrew-expert
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/release/homebrew-expert.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

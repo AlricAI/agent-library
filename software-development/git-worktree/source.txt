@@ -1,0 +1,6 @@
+Agent: GIT WORKTREE
+Alric.AI page: https://alric.ai/agents/git-worktree
+Source file: https://github.com/Monsoft-Solutions/monsoftsolutions.com/blob/HEAD/docs/GIT-WORKTREE.md
+Source repository: https://github.com/Monsoft-Solutions/monsoftsolutions.com
+
+Discovered and indexed by Alric.AI (https://alric.ai)

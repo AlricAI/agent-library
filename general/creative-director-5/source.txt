@@ -1,0 +1,6 @@
+Agent: Creative Director
+Alric.AI page: https://alric.ai/agents/creative-director-5
+Source file: https://github.com/samaeljvoolt-png/paperclip-refactor-foundation/blob/HEAD/bootstrap/alquim-ia/public/agents/creative-director/AGENTS.md
+Source repository: https://github.com/samaeljvoolt-png/paperclip-refactor-foundation
+
+Discovered and indexed by Alric.AI (https://alric.ai)

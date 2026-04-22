@@ -1,0 +1,6 @@
+Agent: TESTING
+Alric.AI page: https://alric.ai/agents/testing-16
+Source file: https://github.com/nakamu12/lumineer/blob/HEAD/docs/TESTING.md
+Source repository: https://github.com/nakamu12/lumineer
+
+Discovered and indexed by Alric.AI (https://alric.ai)

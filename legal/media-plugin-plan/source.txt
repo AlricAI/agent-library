@@ -1,0 +1,6 @@
+Agent: MEDIA PLUGIN PLAN
+Alric.AI page: https://alric.ai/agents/media-plugin-plan
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/claudio/MEDIA-PLUGIN-PLAN.md
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

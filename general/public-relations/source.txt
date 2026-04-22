@@ -1,0 +1,6 @@
+Agent: Public Relations
+Alric.AI page: https://alric.ai/agents/public-relations
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/marketing/brand/public-relations.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

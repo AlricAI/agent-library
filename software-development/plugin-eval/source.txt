@@ -1,0 +1,6 @@
+Agent: Plugin Eval
+Alric.AI page: https://alric.ai/agents/plugin-eval
+Source file: https://github.com/wshobson/agents/blob/HEAD/docs/plugin-eval.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

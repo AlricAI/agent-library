@@ -1,0 +1,6 @@
+Agent: SQL Analyst
+Alric.AI page: https://alric.ai/agents/sql-analyst-1
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/product-compass-consulting/agents/sql-analyst/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

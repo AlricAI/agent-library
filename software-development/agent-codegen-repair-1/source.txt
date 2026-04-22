@@ -1,0 +1,6 @@
+Agent: Agent Codegen Repair
+Alric.AI page: https://alric.ai/agents/agent-codegen-repair-1
+Source file: https://github.com/aditya-thakare/CXecute/blob/HEAD/server/agents/agent_codegen_repair.md
+Source repository: https://github.com/aditya-thakare/CXecute
+
+Discovered and indexed by Alric.AI (https://alric.ai)

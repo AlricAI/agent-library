@@ -1,0 +1,6 @@
+Agent: php-pro
+Alric.AI page: https://alric.ai/agents/php-pro-2
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/lang/php-pro.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

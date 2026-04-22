@@ -1,0 +1,6 @@
+Agent: incident-responder
+Alric.AI page: https://alric.ai/agents/incident-responder-4
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/plugins/incident-response/agents/incident-responder.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

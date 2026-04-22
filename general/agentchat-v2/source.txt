@@ -1,0 +1,6 @@
+Agent: AGENTCHAT V2
+Alric.AI page: https://alric.ai/agents/agentchat-v2
+Source file: https://github.com/dcarmitage/claws/blob/HEAD/systems/AGENTCHAT_V2.md
+Source repository: https://github.com/dcarmitage/claws
+
+Discovered and indexed by Alric.AI (https://alric.ai)

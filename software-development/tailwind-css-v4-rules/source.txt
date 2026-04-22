@@ -1,0 +1,6 @@
+Agent: Tailwind CSS v4 Rules
+Alric.AI page: https://alric.ai/agents/tailwind-css-v4-rules
+Source file: https://github.com/laravel-gtm/session-migration/blob/HEAD/.cursor/rules/tailwind.mdc
+Source repository: https://github.com/laravel-gtm/session-migration
+
+Discovered and indexed by Alric.AI (https://alric.ai)

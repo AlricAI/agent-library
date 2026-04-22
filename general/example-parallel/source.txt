@@ -1,0 +1,6 @@
+Agent: Example Parallel
+Alric.AI page: https://alric.ai/agents/example-parallel
+Source file: https://github.com/Inist-CNRS/ezs/blob/HEAD/docs/example-parallel.md
+Source repository: https://github.com/Inist-CNRS/ezs
+
+Discovered and indexed by Alric.AI (https://alric.ai)

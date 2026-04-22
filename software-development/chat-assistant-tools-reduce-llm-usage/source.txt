@@ -1,0 +1,6 @@
+Agent: Chat assistant & tools: reduce LLM usage
+Alric.AI page: https://alric.ai/agents/chat-assistant-tools-reduce-llm-usage
+Source file: https://github.com/cap-jmk-real/agentron/blob/HEAD/.cursor/rules/chat-reduce-llm.mdc
+Source repository: https://github.com/cap-jmk-real/agentron
+
+Discovered and indexed by Alric.AI (https://alric.ai)

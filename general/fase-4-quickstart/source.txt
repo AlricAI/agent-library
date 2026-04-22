@@ -1,0 +1,6 @@
+Agent: FASE 4 QUICKSTART
+Alric.AI page: https://alric.ai/agents/fase-4-quickstart
+Source file: https://github.com/koenvorster/Personal_project_VorstersNV/blob/HEAD/plan/FASE_4_QUICKSTART.md
+Source repository: https://github.com/koenvorster/Personal_project_VorstersNV
+
+Discovered and indexed by Alric.AI (https://alric.ai)

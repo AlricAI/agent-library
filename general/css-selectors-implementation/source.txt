@@ -1,0 +1,6 @@
+Agent: Css Selectors Implementation
+Alric.AI page: https://alric.ai/agents/css-selectors-implementation
+Source file: https://github.com/Saluana/or3-chat/blob/HEAD/docs/css-selectors-implementation.md
+Source repository: https://github.com/Saluana/or3-chat
+
+Discovered and indexed by Alric.AI (https://alric.ai)

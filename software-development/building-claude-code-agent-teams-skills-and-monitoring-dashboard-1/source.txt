@@ -1,0 +1,6 @@
+Agent: Building Claude Code Agent Teams Skills And Monitoring Dashboard
+Alric.AI page: https://alric.ai/agents/building-claude-code-agent-teams-skills-and-monitoring-dashboard-1
+Source file: https://github.com/JustinWangJP/cc-agent-teams-action-monitor/blob/HEAD/blog/building-claude-code-agent-teams-skills-and-monitoring-dashboard.md
+Source repository: https://github.com/JustinWangJP/cc-agent-teams-action-monitor
+
+Discovered and indexed by Alric.AI (https://alric.ai)

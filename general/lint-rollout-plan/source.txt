@@ -1,0 +1,6 @@
+Agent: Lint Rollout Plan
+Alric.AI page: https://alric.ai/agents/lint-rollout-plan
+Source file: https://github.com/Maokus/MVMNT/blob/HEAD/thoughts/lint-rollout-plan.md
+Source repository: https://github.com/Maokus/MVMNT
+
+Discovered and indexed by Alric.AI (https://alric.ai)

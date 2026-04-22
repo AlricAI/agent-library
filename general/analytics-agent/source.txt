@@ -1,0 +1,6 @@
+Agent: Analytics Agent
+Alric.AI page: https://alric.ai/agents/analytics-agent
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/analytics-agent/AGENTS.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)
