@@ -1,0 +1,6 @@
+Agent: Game Audio Architect
+Alric.AI page: https://alric.ai/agents/game-audio-engineer-1
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/game-development/game-audio-engineer.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

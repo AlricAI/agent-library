@@ -1,0 +1,6 @@
+Agent: Legal Document Review Specialist
+Alric.AI page: https://alric.ai/agents/legal-document-review
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/specialized/legal-document-review.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

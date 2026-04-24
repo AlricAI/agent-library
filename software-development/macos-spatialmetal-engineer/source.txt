@@ -1,4 +1,4 @@
-Agent: macOS Spatial/Metal Engineer
+Agent: Metal Engineer
 Alric.AI page: https://alric.ai/agents/macos-spatialmetal-engineer
 Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/agency-agents/agents/macos-spatial-metal-engineer/AGENTS.md
 Source repository: https://github.com/datappt8/UOPC

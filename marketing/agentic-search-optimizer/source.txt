@@ -1,0 +1,6 @@
+Agent: Webmcp Agent Readiness Auditor
+Alric.AI page: https://alric.ai/agents/agentic-search-optimizer
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/marketing/marketing-agentic-search-optimizer.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

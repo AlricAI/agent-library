@@ -1,0 +1,6 @@
+Agent: Loan Officer Assistant
+Alric.AI page: https://alric.ai/agents/loan-officer-assistant
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/specialized/loan-officer-assistant.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

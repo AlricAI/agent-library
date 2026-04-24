@@ -1,6 +1,0 @@
-Agent: Cross-Border E-Commerce Specialist
-Alric.AI page: https://alric.ai/agents/cross-border-e-commerce-specialist
-Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/agency-agents/agents/marketing-cross-border-ecommerce/AGENTS.md
-Source repository: https://github.com/datappt8/UOPC
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Marketing Content Strategist
+Alric.AI page: https://alric.ai/agents/content-creator
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/marketing/marketing-content-creator.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

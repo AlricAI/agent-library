@@ -1,0 +1,6 @@
+Agent: Short Video Editing Coach
+Alric.AI page: https://alric.ai/agents/short-video-editing-coach-1
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/marketing/marketing-short-video-editing-coach.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

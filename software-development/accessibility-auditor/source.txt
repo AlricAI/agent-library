@@ -1,0 +1,6 @@
+Agent: Accessibility Auditor
+Alric.AI page: https://alric.ai/agents/accessibility-auditor
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/testing/testing-accessibility-auditor.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Kuaishou Marketing Strategist
+Alric.AI page: https://alric.ai/agents/kuaishou-strategist-1
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/marketing/marketing-kuaishou-strategist.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

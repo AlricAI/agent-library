@@ -1,0 +1,6 @@
+Agent: Nexus Spatial Discovery
+Alric.AI page: https://alric.ai/agents/nexus-spatial-discovery
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/examples/nexus-spatial-discovery.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

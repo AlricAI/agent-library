@@ -1,0 +1,6 @@
+Agent: Filament Structure Optimizer
+Alric.AI page: https://alric.ai/agents/filament-optimization-specialist
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/engineering/engineering-filament-optimization-specialist.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

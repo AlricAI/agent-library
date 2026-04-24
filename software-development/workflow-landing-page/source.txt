@@ -1,0 +1,6 @@
+Agent: Landing Page Sprint
+Alric.AI page: https://alric.ai/agents/workflow-landing-page
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/examples/workflow-landing-page.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

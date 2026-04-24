@@ -1,6 +1,0 @@
-Agent: Evidence Collector
-Alric.AI page: https://alric.ai/agents/evidence-collector-1
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/testing-evidence-collector/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Zhihu Thought Leader Strategist
+Alric.AI page: https://alric.ai/agents/zhihu-strategist
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/marketing/marketing-zhihu-strategist.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

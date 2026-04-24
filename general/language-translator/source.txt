@@ -1,0 +1,6 @@
+Agent: Bilingual Context Translator
+Alric.AI page: https://alric.ai/agents/language-translator
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/specialized/language-translator.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Stateful Multi-Agent Workflow
+Alric.AI page: https://alric.ai/agents/workflow-with-memory
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/examples/workflow-with-memory.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

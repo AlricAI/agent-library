@@ -1,0 +1,6 @@
+Agent: Growth Hacker Strategist
+Alric.AI page: https://alric.ai/agents/growth-hacker-2
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/marketing/marketing-growth-hacker.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

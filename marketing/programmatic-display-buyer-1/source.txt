@@ -1,0 +1,6 @@
+Agent: Programmatic Display Media Buyer
+Alric.AI page: https://alric.ai/agents/programmatic-display-buyer-1
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/paid-media/paid-media-programmatic-buyer.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

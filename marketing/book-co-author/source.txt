@@ -1,0 +1,6 @@
+Agent: Thought Leadership Book Co-Author
+Alric.AI page: https://alric.ai/agents/book-co-author
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/marketing/marketing-book-co-author.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

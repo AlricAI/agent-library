@@ -1,6 +1,0 @@
-Agent: Mobile App Builder
-Alric.AI page: https://alric.ai/agents/mobile-app-builder-1
-Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/agency-agents/agents/engineering-mobile-app-builder/AGENTS.md
-Source repository: https://github.com/datappt8/UOPC
-
-Discovered and indexed by Alric.AI (https://alric.ai)

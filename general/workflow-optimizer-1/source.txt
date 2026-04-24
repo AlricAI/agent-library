@@ -1,0 +1,6 @@
+Agent: Workflow Optimizer
+Alric.AI page: https://alric.ai/agents/workflow-optimizer-1
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/testing/testing-workflow-optimizer.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

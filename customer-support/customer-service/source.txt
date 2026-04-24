@@ -1,0 +1,6 @@
+Agent: Universal Customer Support Agent
+Alric.AI page: https://alric.ai/agents/customer-service
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/specialized/customer-service.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

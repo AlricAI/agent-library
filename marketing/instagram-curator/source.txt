@@ -1,0 +1,6 @@
+Agent: Instagram Marketing Curator
+Alric.AI page: https://alric.ai/agents/instagram-curator
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/marketing/marketing-instagram-curator.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

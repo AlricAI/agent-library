@@ -1,0 +1,6 @@
+Agent: Product Feedback Synthesizer
+Alric.AI page: https://alric.ai/agents/feedback-synthesizer-2
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/product/product-feedback-synthesizer.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

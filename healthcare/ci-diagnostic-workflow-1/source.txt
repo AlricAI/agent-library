@@ -1,6 +1,0 @@
-Agent: ci-diagnostic-workflow
-Alric.AI page: https://alric.ai/agents/ci-diagnostic-workflow-1
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/amplifier-bundle/agents/specialized/ci-diagnostic-workflow.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

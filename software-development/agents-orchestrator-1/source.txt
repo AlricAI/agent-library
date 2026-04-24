@@ -1,0 +1,6 @@
+Agent: Workflow Orchestrator
+Alric.AI page: https://alric.ai/agents/agents-orchestrator-1
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/specialized/agents-orchestrator.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

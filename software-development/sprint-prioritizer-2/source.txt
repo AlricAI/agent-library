@@ -1,0 +1,6 @@
+Agent: Product Sprint Prioritizer
+Alric.AI page: https://alric.ai/agents/sprint-prioritizer-2
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/product/product-sprint-prioritizer.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

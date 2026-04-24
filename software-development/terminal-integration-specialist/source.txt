@@ -1,0 +1,6 @@
+Agent: Terminal Integration Specialist
+Alric.AI page: https://alric.ai/agents/terminal-integration-specialist
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/spatial-computing/terminal-integration-specialist.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

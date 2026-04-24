@@ -1,0 +1,6 @@
+Agent: Zk Steward
+Alric.AI page: https://alric.ai/agents/zk-steward
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/specialized/zk-steward.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

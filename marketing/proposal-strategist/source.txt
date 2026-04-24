@@ -1,0 +1,6 @@
+Agent: Proposal Strategist
+Alric.AI page: https://alric.ai/agents/proposal-strategist
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/sales/sales-proposal-strategist.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Level Designer
+Alric.AI page: https://alric.ai/agents/level-designer-2
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/game-development/level-designer.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

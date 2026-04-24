@@ -1,0 +1,6 @@
+Agent: Financial Planning And Analysis Analyst
+Alric.AI page: https://alric.ai/agents/fp-a-analyst
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/finance/finance-fpa-analyst.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

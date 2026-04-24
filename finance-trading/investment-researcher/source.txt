@@ -1,0 +1,6 @@
+Agent: Investment Research Analyst
+Alric.AI page: https://alric.ai/agents/investment-researcher
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/finance/finance-investment-researcher.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Startup Mvp Workflow Coordinator
+Alric.AI page: https://alric.ai/agents/workflow-startup-mvp
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/examples/workflow-startup-mvp.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

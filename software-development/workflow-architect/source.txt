@@ -1,0 +1,6 @@
+Agent: Workflow Specification Architect
+Alric.AI page: https://alric.ai/agents/workflow-architect
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/specialized/specialized-workflow-architect.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: WeChat Official Account Strategist
+Alric.AI page: https://alric.ai/agents/wechat-official-account-manager
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/marketing/marketing-wechat-official-account.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

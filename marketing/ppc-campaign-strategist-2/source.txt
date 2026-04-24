@@ -1,6 +1,0 @@
-Agent: Ppc Campaign Strategist
-Alric.AI page: https://alric.ai/agents/ppc-campaign-strategist-2
-Source file: https://github.com/paperclipai/companies/blob/HEAD/agency-agents/agents/paid-media-ppc-strategist/AGENTS.md
-Source repository: https://github.com/paperclipai/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

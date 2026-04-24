@@ -1,0 +1,6 @@
+Agent: Narrative Structure Analyst
+Alric.AI page: https://alric.ai/agents/narratologist-1
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/academic/academic-narratologist.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

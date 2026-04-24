@@ -1,6 +1,0 @@
-Agent: Generate AI Specification Document
-Alric.AI page: https://alric.ai/agents/generate-ai-specification-document
-Source file: https://github.com/tfha/agent-instructions/blob/HEAD/prompts/create-specification.prompt.md
-Source repository: https://github.com/tfha/agent-instructions
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Weibo Marketing Strategist
+Alric.AI page: https://alric.ai/agents/weibo-strategist-1
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/marketing/marketing-weibo-strategist.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

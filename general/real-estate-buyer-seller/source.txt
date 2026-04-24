@@ -1,0 +1,6 @@
+Agent: Real Estate Transaction Specialist
+Alric.AI page: https://alric.ai/agents/real-estate-buyer-seller
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/specialized/real-estate-buyer-seller.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

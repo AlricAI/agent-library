@@ -1,0 +1,6 @@
+Agent: Tax Strategy Advisor
+Alric.AI page: https://alric.ai/agents/tax-strategist
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/finance/finance-tax-strategist.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

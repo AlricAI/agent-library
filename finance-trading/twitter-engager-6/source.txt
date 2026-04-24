@@ -1,6 +1,0 @@
-Agent: Twitter Engager
-Alric.AI page: https://alric.ai/agents/twitter-engager-6
-Source file: https://github.com/paperclipai/companies/blob/HEAD/agency-agents/agents/marketing-twitter-engager/AGENTS.md
-Source repository: https://github.com/paperclipai/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

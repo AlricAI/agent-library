@@ -1,0 +1,6 @@
+Agent: Cross Border ECommerce Strategist
+Alric.AI page: https://alric.ai/agents/cross-border-e-commerce-specialist-1
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/marketing/marketing-cross-border-ecommerce.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

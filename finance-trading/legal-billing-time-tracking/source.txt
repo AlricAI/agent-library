@@ -1,0 +1,6 @@
+Agent: Legal Billing And Time Tracking
+Alric.AI page: https://alric.ai/agents/legal-billing-time-tracking
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/specialized/legal-billing-time-tracking.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

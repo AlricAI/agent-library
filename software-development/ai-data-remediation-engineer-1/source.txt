@@ -1,0 +1,6 @@
+Agent: Data Remediation Engineer
+Alric.AI page: https://alric.ai/agents/ai-data-remediation-engineer-1
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/engineering/engineering-ai-data-remediation-engineer.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

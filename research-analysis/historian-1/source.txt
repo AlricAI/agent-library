@@ -1,0 +1,6 @@
+Agent: Academic Historian
+Alric.AI page: https://alric.ai/agents/historian-1
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/academic/academic-historian.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

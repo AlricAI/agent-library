@@ -1,0 +1,6 @@
+Agent: Paid Media Creative Strategist
+Alric.AI page: https://alric.ai/agents/ad-creative-strategist
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/paid-media/paid-media-creative-strategist.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

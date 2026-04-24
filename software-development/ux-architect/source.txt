@@ -1,0 +1,6 @@
+Agent: UX Architecture Specialist
+Alric.AI page: https://alric.ai/agents/ux-architect
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/design/design-ux-architect.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Visionos Spatial Engineer
+Alric.AI page: https://alric.ai/agents/visionos-spatial-engineer-1
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/spatial-computing/visionos-spatial-engineer.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

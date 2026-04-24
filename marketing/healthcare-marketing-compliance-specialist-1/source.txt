@@ -1,0 +1,6 @@
+Agent: China Healthcare Marketing Compliance
+Alric.AI page: https://alric.ai/agents/healthcare-marketing-compliance-specialist-1
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/specialized/healthcare-marketing-compliance.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

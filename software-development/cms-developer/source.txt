@@ -1,0 +1,6 @@
+Agent: CMS Development Specialist
+Alric.AI page: https://alric.ai/agents/cms-developer
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/engineering/engineering-cms-developer.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

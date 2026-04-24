@@ -1,0 +1,6 @@
+Agent: Voice Ai Pipeline Architect
+Alric.AI page: https://alric.ai/agents/voice-ai-integration-engineer
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/engineering/engineering-voice-ai-integration-engineer.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Nexus Strategy
+Alric.AI page: https://alric.ai/agents/nexus-strategy
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/strategy/nexus-strategy.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

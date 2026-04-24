@@ -1,0 +1,6 @@
+Agent: Agent Identity And Trust Architect
+Alric.AI page: https://alric.ai/agents/agentic-identity-trust-architect
+Source file: https://github.com/msitarzewski/agency-agents/blob/HEAD/specialized/agentic-identity-trust.md
+Source repository: https://github.com/msitarzewski/agency-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)
