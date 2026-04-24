@@ -1,6 +1,0 @@
-Agent: Humanity Ai Omidyar
-Alric.AI page: https://alric.ai/agents/humanity-ai-omidyar-1
-Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/sms-bot/agents/cs-chat/docsrepo/humanity-ai-omidyar.md
-Source repository: https://github.com/bdecrem/vibeceo
-
-Discovered and indexed by Alric.AI (https://alric.ai)

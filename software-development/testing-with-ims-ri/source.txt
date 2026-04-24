@@ -1,6 +1,0 @@
-Agent: Testing With Ims Ri
-Alric.AI page: https://alric.ai/agents/testing-with-ims-ri
-Source file: https://github.com/DecoyLex/ltix/blob/HEAD/guides/testing-with-ims-ri.md
-Source repository: https://github.com/DecoyLex/ltix
-
-Discovered and indexed by Alric.AI (https://alric.ai)

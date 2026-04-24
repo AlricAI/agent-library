@@ -1,6 +1,0 @@
-Agent: Autonomous Org Launch Checklist
-Alric.AI page: https://alric.ai/agents/autonomous-org-launch-checklist
-Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/docs/autonomous-org-launch-checklist.md
-Source repository: https://github.com/ognjhunt/Blueprint-WebApp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

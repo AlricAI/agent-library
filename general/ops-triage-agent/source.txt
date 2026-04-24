@@ -1,6 +1,0 @@
-Agent: Ops Triage Agent
-Alric.AI page: https://alric.ai/agents/ops-triage-agent
-Source file: https://github.com/justindobbs/Tracecore/blob/HEAD/agent_bench/agents/ops_triage_agent.py
-Source repository: https://github.com/justindobbs/Tracecore
-
-Discovered and indexed by Alric.AI (https://alric.ai)

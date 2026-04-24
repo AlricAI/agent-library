@@ -1,6 +1,0 @@
-Agent: BUGFIX START PAUSED
-Alric.AI page: https://alric.ai/agents/bugfix-start-paused
-Source file: https://github.com/qemqemqem/mechawiki/blob/HEAD/notes/BUGFIX_START_PAUSED.md
-Source repository: https://github.com/qemqemqem/mechawiki
-
-Discovered and indexed by Alric.AI (https://alric.ai)

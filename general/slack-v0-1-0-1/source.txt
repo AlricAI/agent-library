@@ -1,6 +1,0 @@
-Agent: Slack V0.1.0
-Alric.AI page: https://alric.ai/agents/slack-v0-1-0-1
-Source file: https://github.com/hulunote/hulunote/blob/HEAD/releases/slack_v0.1.0.md
-Source repository: https://github.com/hulunote/hulunote
-
-Discovered and indexed by Alric.AI (https://alric.ai)

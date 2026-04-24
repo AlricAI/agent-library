@@ -1,0 +1,6 @@
+Agent: Organizational Structure Assistant
+Alric.AI page: https://alric.ai/agents/organizational-structure-assistant
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier1/judy/SOUL.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

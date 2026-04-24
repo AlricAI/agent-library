@@ -1,6 +1,0 @@
-Agent: Codex
-Alric.AI page: https://alric.ai/agents/codex-1
-Source file: https://github.com/blex2011/My-Context/blob/HEAD/guides/codex.md
-Source repository: https://github.com/blex2011/My-Context
-
-Discovered and indexed by Alric.AI (https://alric.ai)

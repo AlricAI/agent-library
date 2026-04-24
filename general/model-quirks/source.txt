@@ -1,6 +1,0 @@
-Agent: Model Quirks
-Alric.AI page: https://alric.ai/agents/model-quirks
-Source file: https://github.com/NVIDIA-NeMo/RL/blob/HEAD/docs/model-quirks.md
-Source repository: https://github.com/NVIDIA-NeMo/RL
-
-Discovered and indexed by Alric.AI (https://alric.ai)

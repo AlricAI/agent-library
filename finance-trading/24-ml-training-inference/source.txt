@@ -1,6 +1,0 @@
-Agent: 24 Ml Training Inference
-Alric.AI page: https://alric.ai/agents/24-ml-training-inference
-Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/prompts/agents/24-ml-training-inference.md
-Source repository: https://github.com/nirholas/crypto-vision
-
-Discovered and indexed by Alric.AI (https://alric.ai)

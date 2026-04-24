@@ -1,6 +1,0 @@
-Agent: CENTRAL HUB
-Alric.AI page: https://alric.ai/agents/central-hub-2
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/DepotChaos/CENTRAL_HUB.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

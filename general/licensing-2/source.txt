@@ -1,6 +1,0 @@
-Agent: LICENSING
-Alric.AI page: https://alric.ai/agents/licensing-2
-Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/LICENSING.md
-Source repository: https://github.com/frumu-ai/tandem
-
-Discovered and indexed by Alric.AI (https://alric.ai)

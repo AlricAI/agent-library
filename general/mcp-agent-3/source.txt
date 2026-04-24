@@ -1,6 +1,0 @@
-Agent: Mcp Agent
-Alric.AI page: https://alric.ai/agents/mcp-agent-3
-Source file: https://github.com/dotojr123/crewai-production-ready/blob/HEAD/ai-workspace/frameworks/CAMEL/camel/agents/mcp_agent.py
-Source repository: https://github.com/dotojr123/crewai-production-ready
-
-Discovered and indexed by Alric.AI (https://alric.ai)

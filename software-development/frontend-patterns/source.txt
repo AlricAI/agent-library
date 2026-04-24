@@ -1,6 +1,0 @@
-Agent: frontend-patterns
-Alric.AI page: https://alric.ai/agents/frontend-patterns
-Source file: https://github.com/julianromli/opencode-template/blob/HEAD/skill/frontend-patterns.md
-Source repository: https://github.com/julianromli/opencode-template
-
-Discovered and indexed by Alric.AI (https://alric.ai)

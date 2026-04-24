@@ -1,6 +1,0 @@
-Agent: Index
-Alric.AI page: https://alric.ai/agents/index-14
-Source file: https://github.com/robch/cycod/blob/HEAD/docs/index.md
-Source repository: https://github.com/robch/cycod
-
-Discovered and indexed by Alric.AI (https://alric.ai)

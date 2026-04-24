@@ -1,0 +1,6 @@
+Agent: Attachment Processor Agent
+Alric.AI page: https://alric.ai/agents/attachment-processor-agent
+Source file: https://github.com/jazzmind/busibox/blob/HEAD/srv/agent/app/agents/in-progress/attachment_agent.py
+Source repository: https://github.com/jazzmind/busibox
+
+Discovered and indexed by Alric.AI (https://alric.ai)

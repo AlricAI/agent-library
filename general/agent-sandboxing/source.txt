@@ -1,6 +1,0 @@
-Agent: Agent Sandboxing
-Alric.AI page: https://alric.ai/agents/agent-sandboxing
-Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/patterns/agent-sandboxing.md
-Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

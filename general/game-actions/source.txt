@@ -1,6 +1,0 @@
-Agent: Game Actions
-Alric.AI page: https://alric.ai/agents/game-actions
-Source file: https://github.com/keyteki/keyteki/blob/HEAD/docs/game-actions.md
-Source repository: https://github.com/keyteki/keyteki
-
-Discovered and indexed by Alric.AI (https://alric.ai)

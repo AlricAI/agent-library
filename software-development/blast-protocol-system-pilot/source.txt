@@ -1,0 +1,6 @@
+Agent: Blast Protocol System Pilot
+Alric.AI page: https://alric.ai/agents/blast-protocol-system-pilot
+Source file: https://github.com/LORDBurnItUp/kds-openclaw/blob/HEAD/lord-sav/BLAST_PROTOCOL.md
+Source repository: https://github.com/LORDBurnItUp/kds-openclaw
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Update Specification Document
-Alric.AI page: https://alric.ai/agents/update-specification-prompt
-Source file: https://github.com/tfha/agent-instructions/blob/HEAD/prompts/update-specification.prompt.md
-Source repository: https://github.com/tfha/agent-instructions
-
-Discovered and indexed by Alric.AI (https://alric.ai)

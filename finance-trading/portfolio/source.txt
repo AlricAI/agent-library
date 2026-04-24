@@ -1,6 +1,0 @@
-Agent: Portfolio
-Alric.AI page: https://alric.ai/agents/portfolio
-Source file: https://github.com/seungwoo7050/book-task-3/blob/HEAD/blog/portfolio.md
-Source repository: https://github.com/seungwoo7050/book-task-3
-
-Discovered and indexed by Alric.AI (https://alric.ai)

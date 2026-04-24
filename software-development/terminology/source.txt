@@ -1,6 +1,0 @@
-Agent: Forge Terminology Guide
-Alric.AI page: https://alric.ai/agents/terminology
-Source file: https://github.com/cjy5507/forge/blob/HEAD/docs/terminology.md
-Source repository: https://github.com/cjy5507/forge
-
-Discovered and indexed by Alric.AI (https://alric.ai)

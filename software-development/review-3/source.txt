@@ -1,6 +1,0 @@
-Agent: Review
-Alric.AI page: https://alric.ai/agents/review-3
-Source file: https://github.com/rlajous/claude-code-commands/blob/HEAD/commands/review.md
-Source repository: https://github.com/rlajous/claude-code-commands
-
-Discovered and indexed by Alric.AI (https://alric.ai)

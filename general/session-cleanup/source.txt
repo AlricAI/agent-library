@@ -1,6 +1,0 @@
-Agent: SESSION CLEANUP
-Alric.AI page: https://alric.ai/agents/session-cleanup
-Source file: https://github.com/qemqemqem/mechawiki/blob/HEAD/notes/SESSION_CLEANUP.md
-Source repository: https://github.com/qemqemqem/mechawiki
-
-Discovered and indexed by Alric.AI (https://alric.ai)

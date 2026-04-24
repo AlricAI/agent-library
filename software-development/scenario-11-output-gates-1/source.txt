@@ -1,6 +1,0 @@
-Agent: Scenario 11 Output Gates
-Alric.AI page: https://alric.ai/agents/scenario-11-output-gates-1
-Source file: https://github.com/techwavedev/agi-agent-kit/blob/HEAD/tests/agents/scenario_11_output_gates.md
-Source repository: https://github.com/techwavedev/agi-agent-kit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Custom Logger System Guide
-Alric.AI page: https://alric.ai/agents/custom-logger-system-guide
-Source file: https://github.com/nirholas/bnb-chain-toolkit/blob/HEAD/.cursor/rules/logging-system.mdc
-Source repository: https://github.com/nirholas/bnb-chain-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

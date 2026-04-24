@@ -1,6 +1,0 @@
-Agent: Install Uninstall.Zh CN
-Alric.AI page: https://alric.ai/agents/install-uninstall-zh-cn
-Source file: https://github.com/NoPKT/omnimem/blob/HEAD/docs/install-uninstall.zh-CN.md
-Source repository: https://github.com/NoPKT/omnimem
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Writing Guidelines for Humans and LLMs
-Alric.AI page: https://alric.ai/agents/writing-guidelines-for-humans-and-llms
-Source file: https://github.com/felipebarcelospro/igniter-js/blob/HEAD/.cursor/rules/writing-guidelines.mdc
-Source repository: https://github.com/felipebarcelospro/igniter-js
-
-Discovered and indexed by Alric.AI (https://alric.ai)

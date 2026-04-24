@@ -1,6 +1,0 @@
-Agent: Marketplace Semantic Search
-Alric.AI page: https://alric.ai/agents/marketplace-semantic-search
-Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/docs/marketplace-semantic-search.md
-Source repository: https://github.com/ognjhunt/Blueprint-WebApp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

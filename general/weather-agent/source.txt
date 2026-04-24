@@ -1,6 +1,0 @@
-Agent: Dubai Weather Reporter
-Alric.AI page: https://alric.ai/agents/weather-agent
-Source file: https://github.com/Zidong-IA/BIBLIOTECA/blob/HEAD/references/repos-referencia/claude-code-best-practice/.claude/agents/weather-agent.md
-Source repository: https://github.com/Zidong-IA/BIBLIOTECA
-
-Discovered and indexed by Alric.AI (https://alric.ai)

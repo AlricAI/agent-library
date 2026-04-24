@@ -1,6 +1,0 @@
-Agent: Release Notes
-Alric.AI page: https://alric.ai/agents/release-notes-2
-Source file: https://github.com/rlajous/claude-code-commands/blob/HEAD/commands/release-notes.md
-Source repository: https://github.com/rlajous/claude-code-commands
-
-Discovered and indexed by Alric.AI (https://alric.ai)

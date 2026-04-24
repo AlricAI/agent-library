@@ -1,6 +1,0 @@
-Agent: Secure Container
-Alric.AI page: https://alric.ai/agents/secure-container
-Source file: https://github.com/alibaba/OpenSandbox/blob/HEAD/docs/secure-container.md
-Source repository: https://github.com/alibaba/OpenSandbox
-
-Discovered and indexed by Alric.AI (https://alric.ai)

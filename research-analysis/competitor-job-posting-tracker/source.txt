@@ -1,0 +1,6 @@
+Agent: Competitor Job Posting Tracker
+Alric.AI page: https://alric.ai/agents/competitor-job-posting-tracker
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/competitor-job-postings.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

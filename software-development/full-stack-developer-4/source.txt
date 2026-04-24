@@ -1,0 +1,6 @@
+Agent: Full Stack Developer
+Alric.AI page: https://alric.ai/agents/full-stack-developer-4
+Source file: https://github.com/Wamocon/energy/blob/HEAD/.github/agents/developer.agent.md
+Source repository: https://github.com/Wamocon/energy
+
+Discovered and indexed by Alric.AI (https://alric.ai)

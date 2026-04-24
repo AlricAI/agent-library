@@ -1,0 +1,6 @@
+Agent: Project Session Bootstrap
+Alric.AI page: https://alric.ai/agents/project-session-bootstrap
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/coo-session-start.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Default
-Alric.AI page: https://alric.ai/agents/default
-Source file: https://github.com/aymenfurter/aymenfurter.ch/blob/HEAD/archetypes/default.md
-Source repository: https://github.com/aymenfurter/aymenfurter.ch
-
-Discovered and indexed by Alric.AI (https://alric.ai)

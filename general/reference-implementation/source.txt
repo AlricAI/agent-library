@@ -1,6 +1,0 @@
-Agent: REFERENCE IMPLEMENTATION
-Alric.AI page: https://alric.ai/agents/reference-implementation
-Source file: https://github.com/cbwinslow/cloudcurio-monorepo-new/blob/HEAD/agents/toolsets/jcsnotfunny/REFERENCE_IMPLEMENTATION.md
-Source repository: https://github.com/cbwinslow/cloudcurio-monorepo-new
-
-Discovered and indexed by Alric.AI (https://alric.ai)

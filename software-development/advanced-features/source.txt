@@ -1,6 +1,0 @@
-Agent: ADVANCED FEATURES
-Alric.AI page: https://alric.ai/agents/advanced-features
-Source file: https://github.com/Bijikyu/qtests/blob/HEAD/docs/ADVANCED_FEATURES.md
-Source repository: https://github.com/Bijikyu/qtests
-
-Discovered and indexed by Alric.AI (https://alric.ai)

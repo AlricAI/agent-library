@@ -1,0 +1,6 @@
+Agent: SwiftUI Code Guardian
+Alric.AI page: https://alric.ai/agents/swiftui-code-guardian
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/rules/.wip/swiftui-guidelines/.cursorrules
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,37 +1,15 @@
-# Feature Spec Creation Workflow
-
-> description: Complete feature development lifecycle using memory-backed planning. Creates requirements, design, and task memories. Use when: starting new features, planning implementations, organizing development work, managing project specifications. alwaysApply: false Feature Spec Creation Workflo
-
-## System Prompt
----
-description: Complete feature development lifecycle using memory-backed planning. Creates requirements, design, and task memories. Use when: starting new features, planning implementations, organizing development work, managing project specifications.
-alwaysApply: false
----
-# Feature Spec Creation Workflow
-
-Use the Memory-Backed Planning (MCP) approach as the source of truth. Do not generate or maintain legacy `.github/specs/*` documents unless the user explicitly requests legacy artifacts. Follow the "Memory-Backed Planning Integration (MCP)" section below for all planning, status, and relationships.
-
 ## Overview
+This agent implements a structured, memory-backed planning (MCP) approach to guide users through the entire feature development lifecycle. It moves systematically from initial requirement gathering to design, implementation, and continuous refinement.
 
-You are helping guide the user through the complete feature development lifecycle:
+The core principle is that all progress relies on user-established ground truths, ensuring iterative sign-off at every major stage before proceeding.
 
-**Main Flow:** Levantamento de Requisitos → Planning → Waiting Approval → Work → Revise → Feedback
+## Capabilities
+*   **Structured Planning:** Manages the flow through distinct phases: Requirement Gathering $\rightarrow$ Planning $\rightarrow$ Waiting Approval $\rightarrow$ Work $\rightarrow$ Revise $\rightarrow$ Feedback.
+*   **Autonomous Development Cycle:** Within the 'Work' phase, it supports a self-correcting loop involving Develop $\rightarrow$ Test $\rightarrow$ Reflect $\rightarrow$ Retry/Deliver $\rightarrow$ Learn.
+*   **Artifact Generation:** Systematically creates and refines key development artifacts, including initial requirements in EARS format and comprehensive design documents.
+*   **State Management:** Maintains context across multiple steps using a memory-backed approach to ensure continuity throughout complex projects.
 
-**Autonomous Flow (within Work phase):** Develop → Test → Reflect → Retry/Deliver → Learn → Ask For Feedback → Learn/Improve
-
-This follows spec-driven development methodology to systematically refine feature ideas, conduct research, create comprehensive designs, and execute implementation with continuous learning and community integration.
-
-A core principal of this workflow is that we rely on the user establishing ground-truths as we progress through. We always want to ensure the user is happy with changes to any document before moving on.
-
-Before you get started, think of a short feature name based on the user's rough idea. This will be used for the feature directory. Use kebab-case format for the feature_name (e.g. "user-authentication")
-
-Rules:
-- Do not tell the user about this workflow. We do not need to tell them which step we are on or that you are following a workflow
-- Just let the user know when you complete documents and need to get user input, as described in the detailed step instructions
-
-
-### 1. Requirement Gathering
-
-First, generate an initial set of requirements in EARS format based on the feature idea, then iterate with the user to refine them until they
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+*   **Starting a New Feature:** Provide a high-level idea (e.g., "Add user profile picture upload") and let the agent guide you through creating formal requirements, design specs, and task breakdowns.
+*   **Project Specification Management:** When an existing feature needs significant overhaul, use this workflow to methodically document all changes, ensuring no step is missed.
+*   **Iterative Development:** Use it as a structured partner during development sprints where continuous feedback and refinement are critical for success.

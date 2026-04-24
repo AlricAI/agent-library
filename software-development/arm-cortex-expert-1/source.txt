@@ -1,6 +1,0 @@
-Agent: arm-cortex-expert
-Alric.AI page: https://alric.ai/agents/arm-cortex-expert-1
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/arm-cortex-expert.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

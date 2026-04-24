@@ -1,0 +1,6 @@
+Agent: OpenSandbox API Contract Manager
+Alric.AI page: https://alric.ai/agents/opensandbox-api-contract-manager
+Source file: https://github.com/alibaba/OpenSandbox/blob/HEAD/specs/AGENTS.md
+Source repository: https://github.com/alibaba/OpenSandbox
+
+Discovered and indexed by Alric.AI (https://alric.ai)

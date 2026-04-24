@@ -1,6 +1,0 @@
-Agent: e2e-tester
-Alric.AI page: https://alric.ai/agents/e2e-tester
-Source file: https://github.com/laguagu/claude-code-nextjs-skills/blob/HEAD/agents/e2e-tester.md
-Source repository: https://github.com/laguagu/claude-code-nextjs-skills
-
-Discovered and indexed by Alric.AI (https://alric.ai)

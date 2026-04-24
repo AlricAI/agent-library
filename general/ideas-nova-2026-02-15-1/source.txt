@@ -1,6 +1,0 @@
-Agent: Ideas Nova 2026 02 15
-Alric.AI page: https://alric.ai/agents/ideas-nova-2026-02-15-1
-Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/shipshot/ideas-nova-2026-02-15.md
-Source repository: https://github.com/bdecrem/vibeceo
-
-Discovered and indexed by Alric.AI (https://alric.ai)

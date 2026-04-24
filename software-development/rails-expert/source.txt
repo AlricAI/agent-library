@@ -1,6 +1,0 @@
-Agent: Rails Expert
-Alric.AI page: https://alric.ai/agents/rails-expert
-Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/rails-expert.md
-Source repository: https://github.com/0xfurai/claude-code-subagents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

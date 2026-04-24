@@ -1,6 +1,0 @@
-Agent: Ci
-Alric.AI page: https://alric.ai/agents/ci
-Source file: https://github.com/zapabob/clawdbot/blob/HEAD/docs/ci.md
-Source repository: https://github.com/zapabob/clawdbot
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Revenue Ops Pricing Agent
-Alric.AI page: https://alric.ai/agents/revenue-ops-pricing-agent
-Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/revenue-ops-pricing-agent/AGENTS.md
-Source repository: https://github.com/ognjhunt/Blueprint-WebApp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

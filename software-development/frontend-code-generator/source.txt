@@ -1,0 +1,6 @@
+Agent: Frontend Code Generator
+Alric.AI page: https://alric.ai/agents/frontend-code-generator
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/rules/.wip/html-tailwind-css-javascript-cursorrules-prompt-fi/.cursorrules
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

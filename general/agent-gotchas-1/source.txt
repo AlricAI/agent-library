@@ -1,6 +1,0 @@
-Agent: Agent Gotchas
-Alric.AI page: https://alric.ai/agents/agent-gotchas-1
-Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit-pt-br/blob/HEAD/patterns/agent-gotchas.md
-Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit-pt-br
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: AGENTS
-Alric.AI page: https://alric.ai/agents/agents-287
-Source file: https://github.com/erickmcaro/shippulse/blob/HEAD/workflows/bug-fix/agents/triager/AGENTS.md
-Source repository: https://github.com/erickmcaro/shippulse
-
-Discovered and indexed by Alric.AI (https://alric.ai)

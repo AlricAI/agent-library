@@ -1,6 +1,0 @@
-Agent: FREE VS PAID COMPARISON
-Alric.AI page: https://alric.ai/agents/free-vs-paid-comparison
-Source file: https://github.com/massoudsh/Findash/blob/HEAD/docs/FREE_VS_PAID_COMPARISON.md
-Source repository: https://github.com/massoudsh/Findash
-
-Discovered and indexed by Alric.AI (https://alric.ai)

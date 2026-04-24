@@ -1,6 +1,0 @@
-Agent: Blueprint Document
-Alric.AI page: https://alric.ai/agents/blueprint-document
-Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/docs/blueprint_document.md
-Source repository: https://github.com/ognjhunt/Blueprint-WebApp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

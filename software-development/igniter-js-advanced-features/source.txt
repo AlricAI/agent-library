@@ -1,6 +1,0 @@
-Agent: Igniter.js: Advanced Features
-Alric.AI page: https://alric.ai/agents/igniter-js-advanced-features
-Source file: https://github.com/felipebarcelospro/igniter-js/blob/HEAD/apps/starter-bun-react-app/.cursor/rules/igniter-advanced-features.mdc
-Source repository: https://github.com/felipebarcelospro/igniter-js
-
-Discovered and indexed by Alric.AI (https://alric.ai)

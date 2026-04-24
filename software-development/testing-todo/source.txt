@@ -1,6 +1,0 @@
-Agent: Testing Todo
-Alric.AI page: https://alric.ai/agents/testing-todo
-Source file: https://github.com/df49b9cd/OmniRelay/blob/HEAD/tests/testing-todo.md
-Source repository: https://github.com/df49b9cd/OmniRelay
-
-Discovered and indexed by Alric.AI (https://alric.ai)

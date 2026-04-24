@@ -1,6 +1,0 @@
-Agent: Codemap
-Alric.AI page: https://alric.ai/agents/codemap-5
-Source file: https://github.com/MaansenV/ECS2DTest/blob/HEAD/tools/codemap.md
-Source repository: https://github.com/MaansenV/ECS2DTest
-
-Discovered and indexed by Alric.AI (https://alric.ai)

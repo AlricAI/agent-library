@@ -1,0 +1,6 @@
+Agent: Chief Executive Officer Agent
+Alric.AI page: https://alric.ai/agents/chief-executive-officer-agent
+Source file: https://github.com/cass-clearly/remarq/blob/HEAD/agents/ceo/HEARTBEAT.md
+Source repository: https://github.com/cass-clearly/remarq
+
+Discovered and indexed by Alric.AI (https://alric.ai)

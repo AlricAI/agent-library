@@ -1,6 +1,0 @@
-Agent: Repository Rules
-Alric.AI page: https://alric.ai/agents/repository-rules
-Source file: https://github.com/Zer0x25/mini-crm-tickets/blob/HEAD/docs/repository-rules.md
-Source repository: https://github.com/Zer0x25/mini-crm-tickets
-
-Discovered and indexed by Alric.AI (https://alric.ai)

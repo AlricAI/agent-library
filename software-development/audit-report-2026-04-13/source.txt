@@ -1,6 +1,0 @@
-Agent: AUDIT REPORT 2026 04 13
-Alric.AI page: https://alric.ai/agents/audit-report-2026-04-13
-Source file: https://github.com/hb-agent/magic-indexer/blob/HEAD/docs/AUDIT_REPORT_2026-04-13.md
-Source repository: https://github.com/hb-agent/magic-indexer
-
-Discovered and indexed by Alric.AI (https://alric.ai)

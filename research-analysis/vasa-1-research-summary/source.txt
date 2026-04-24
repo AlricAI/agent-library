@@ -1,6 +1,0 @@
-Agent: VASA 1 RESEARCH SUMMARY
-Alric.AI page: https://alric.ai/agents/vasa-1-research-summary
-Source file: https://github.com/FGD-ATR-EP/AGS/blob/HEAD/docs/VASA_1_RESEARCH_SUMMARY.md
-Source repository: https://github.com/FGD-ATR-EP/AGS
-
-Discovered and indexed by Alric.AI (https://alric.ai)

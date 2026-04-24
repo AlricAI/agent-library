@@ -1,6 +1,0 @@
-Agent: Valhalla Routing
-Alric.AI page: https://alric.ai/agents/valhalla-routing
-Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/valhalla-routing.md
-Source repository: https://github.com/golfballnut/mcmforge
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: DATA DICTIONARY
-Alric.AI page: https://alric.ai/agents/data-dictionary-1
-Source file: https://github.com/nakamu12/lumineer/blob/HEAD/docs/DATA_DICTIONARY.md
-Source repository: https://github.com/nakamu12/lumineer
-
-Discovered and indexed by Alric.AI (https://alric.ai)

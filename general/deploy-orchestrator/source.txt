@@ -1,6 +1,0 @@
-Agent: DEPLOY ORCHESTRATOR
-Alric.AI page: https://alric.ai/agents/deploy-orchestrator
-Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/src/DEPLOY_ORCHESTRATOR.md
-Source repository: https://github.com/rysweet/AzureHayMaker
-
-Discovered and indexed by Alric.AI (https://alric.ai)

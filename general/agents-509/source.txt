@@ -1,6 +1,0 @@
-Agent: AGENTS
-Alric.AI page: https://alric.ai/agents/agents-509
-Source file: https://github.com/townie/do-it/blob/HEAD/agents/ceo/AGENTS.md
-Source repository: https://github.com/townie/do-it
-
-Discovered and indexed by Alric.AI (https://alric.ai)

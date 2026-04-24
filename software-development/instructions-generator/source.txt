@@ -1,0 +1,6 @@
+Agent: Instructions Generator
+Alric.AI page: https://alric.ai/agents/instructions-generator
+Source file: https://github.com/AlexL70/linkshortener/blob/HEAD/.github/agents/instructions-generator.agent.md
+Source repository: https://github.com/AlexL70/linkshortener
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: CLI Pulse V0.2 Execution Plan
-Alric.AI page: https://alric.ai/agents/cli-pulse-v0-2-execution-plan-1
-Source file: https://github.com/JasonYeYuhe/cli-pulse/blob/HEAD/docs/CLI_Pulse_v0.2_Execution_Plan.md
-Source repository: https://github.com/JasonYeYuhe/cli-pulse
-
-Discovered and indexed by Alric.AI (https://alric.ai)

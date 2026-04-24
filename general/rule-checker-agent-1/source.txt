@@ -1,6 +1,0 @@
-Agent: Rule Checker Agent
-Alric.AI page: https://alric.ai/agents/rule-checker-agent-1
-Source file: https://github.com/LORDBurnItUp/kds-openclaw/blob/HEAD/agent-frameworks/omnicoreagent-main/cookbook/showcase/omniavelis/agents/rule_checker_agent.py
-Source repository: https://github.com/LORDBurnItUp/kds-openclaw
-
-Discovered and indexed by Alric.AI (https://alric.ai)

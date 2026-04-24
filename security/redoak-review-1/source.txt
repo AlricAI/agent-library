@@ -1,6 +1,0 @@
-Agent: RedOak Review
-Alric.AI page: https://alric.ai/agents/redoak-review-1
-Source file: https://github.com/paperclipai/companies/blob/HEAD/redoak-review/COMPANY.md
-Source repository: https://github.com/paperclipai/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

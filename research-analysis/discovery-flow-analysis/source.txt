@@ -1,6 +1,0 @@
-Agent: Discovery Flow Analysis
-Alric.AI page: https://alric.ai/agents/discovery-flow-analysis
-Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/discovery-flow-analysis.md
-Source repository: https://github.com/frankbria/codeframe
-
-Discovered and indexed by Alric.AI (https://alric.ai)

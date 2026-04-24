@@ -1,0 +1,6 @@
+Agent: VPS Client Setup Guide
+Alric.AI page: https://alric.ai/agents/vps-client-setup-guide
+Source file: https://github.com/donmasakayan/vpscli/blob/HEAD/client/AGENTS.md
+Source repository: https://github.com/donmasakayan/vpscli
+
+Discovered and indexed by Alric.AI (https://alric.ai)

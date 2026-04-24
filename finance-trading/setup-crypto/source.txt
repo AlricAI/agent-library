@@ -1,6 +1,0 @@
-Agent: Setup Crypto
-Alric.AI page: https://alric.ai/agents/setup-crypto
-Source file: https://github.com/danielgonzagat/megaIAAA/blob/HEAD/federated-learning-lib/setup-crypto.md
-Source repository: https://github.com/danielgonzagat/megaIAAA
-
-Discovered and indexed by Alric.AI (https://alric.ai)

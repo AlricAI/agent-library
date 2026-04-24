@@ -1,4 +1,4 @@
-Agent: architect-review
+Agent: Architect Review
 Alric.AI page: https://alric.ai/agents/architect-review-6
 Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/plugins/comprehensive-review/agents/architect-review.md
 Source repository: https://github.com/aRustyDev/agents

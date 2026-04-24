@@ -1,6 +1,0 @@
-Agent: libtmux Python Project Rules
-Alric.AI page: https://alric.ai/agents/libtmux-python-project-rules
-Source file: https://github.com/tmux-python/libtmux/blob/HEAD/.windsurfrules
-Source repository: https://github.com/tmux-python/libtmux
-
-Discovered and indexed by Alric.AI (https://alric.ai)

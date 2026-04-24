@@ -1,6 +1,0 @@
-Agent: numerai-experiment-design
-Alric.AI page: https://alric.ai/agents/numerai-experiment-design-1
-Source file: https://github.com/numerai/example-scripts/blob/HEAD/numerai/agents/skills/numerai-experiment-design/SKILL.md
-Source repository: https://github.com/numerai/example-scripts
-
-Discovered and indexed by Alric.AI (https://alric.ai)

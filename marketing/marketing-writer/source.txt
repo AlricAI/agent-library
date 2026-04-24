@@ -1,6 +1,0 @@
-Agent: Marketing Content Specialist
-Alric.AI page: https://alric.ai/agents/marketing-writer
-Source file: https://github.com/webdevtodayjason/sub-agents/blob/HEAD/agents/marketing-writer/agent.md
-Source repository: https://github.com/webdevtodayjason/sub-agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

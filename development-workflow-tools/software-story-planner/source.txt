@@ -1,0 +1,6 @@
+Agent: Software Story Planner
+Alric.AI page: https://alric.ai/agents/software-story-planner
+Source file: https://github.com/tribemetrics/antfarm-claude-code/blob/HEAD/workflows/feature-dev/agents/planner/SOUL.md
+Source repository: https://github.com/tribemetrics/antfarm-claude-code
+
+Discovered and indexed by Alric.AI (https://alric.ai)

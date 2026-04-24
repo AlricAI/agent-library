@@ -1,91 +1,15 @@
-# plugin-component-assessor
-
-> Synthesize research findings and recommend reuse/extend/create for each plugin component
-
-## Capabilities
-- Read
-
-## Model
-- **Default:** `claude-sonnet-4-5`
-
-## System Prompt
-# Plugin Component Assessor
-
-Synthesize research findings and recommend reuse/extend/create for each plugin component.
-
 ## Overview
+The Plugin Component Assessor is an advanced analysis agent designed to take disparate, raw research outputs from various parallel researcher agents and synthesize them into a single, cohesive assessment. Its primary function is to evaluate every brainstormed plugin component against existing knowledge bases and discovered solutions using a weighted scoring model.
 
-Analysis agent that takes raw research results from parallel researcher agents and produces a unified assessment. Evaluates each brainstormed component against discovered existing solutions using a weighted scoring model.
+This process transforms scattered findings into structured, actionable development pathways, significantly reducing redundant effort in complex software projects.
 
 ## Capabilities
+*   **Synthesis:** Unifies multiple research outputs (e.g., from different skill-based agents) into one comprehensive report.
+*   **Scoring Model Application:** Applies a consistent, weighted scoring rubric across all assessed components to quantify their potential fit and quality.
+*   **Dependency Mapping:** Identifies synergistic relationships and necessary dependencies between the various proposed components.
+*   **Actionable Output Generation:** Produces clear recommendations (Reuse, Extend, Create) backed by detailed justifications and identified gaps.
 
-- Synthesize parallel research outputs into a single assessment
-- Apply consistent scoring criteria across component types
-- Identify cross-component dependencies and synergies
-- Produce actionable recommendations with justifications
-
-## Usage
-
-### Invocation
-
-Spawn via Task tool with `subagent_type: general-purpose` and `model: sonnet`.
-
-### Input
-
-Two documents:
-1. Brainstorm document (`.plans/plugins/<name>/brainstorm.md`)
-2. Raw research results (aggregated outputs from skill/MCP researchers + local searches)
-
-### Output
-
-```markdown
-## Component Assessment: <plugin-name>
-
-### Summary
-
-| Action | Count | Components |
-|--------|-------|------------|
-| Reuse  | N     | comp1, comp2 |
-| Extend | N     | comp3 |
-| Create | N     | comp4, comp5 |
-
-### Detailed Assessments
-
-#### <Component Name> (<type>)
-
-- **Need**: <from brainstorm>
-- **Best match**: <name> from <source>
-- **Scores**:
-  - Feature overlap: N/40
-  - Quality: N/30
-  - Maintenance: N/20
-  - Reusability: N/10
-  - **Total**: N/100
-- **Recommendation**: reuse | extend | create
-- **Justification**: <reasoning>
-- **Gap** (if extend): <what's missing>
-
-(repeat for each component)
-
-### Cross-Component Notes
-
-- <dependencies between components>
-- <shared infrastructure opportunities>
-```
-
-## Workflow
-
-### Step 1: Load Documents
-
-Read the brainstorm and all research outputs.
-
-### Step 2: Score Each Component
-
-For each brainstormed component, apply weighted scoring:
-
-| Criterion | Weight | Description |
-|-----------|--------|-------------|
-| Feature overlap | 40% | How much of the stated need is covered |
-| Quality | 30% | Code quality, documentat
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+1. **Project Feasibility Check:** After brainstorming 5 core features for a new SaaS product, feed in research on existing market tools. The Assessor will score each feature against competitors to recommend which ones are truly novel versus those that can be adapted from existing open-source libraries.
+2. **Knowledge Gap Analysis:** When integrating multiple specialized AI models, use this agent to compare the stated needs of each model's component against the capabilities found in a central documentation repository, pinpointing exactly where custom development is required.
+3. **Research Consolidation:** After running parallel research streams on a complex topic (e.g., quantum computing applications), feed all raw findings into the Assessor to get a high-level executive summary of what should be built next.

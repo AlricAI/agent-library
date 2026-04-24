@@ -1,6 +1,0 @@
-Agent: Summary
-Alric.AI page: https://alric.ai/agents/summary
-Source file: https://github.com/Bijikyu/qtests/blob/HEAD/lib/summary.md
-Source repository: https://github.com/Bijikyu/qtests
-
-Discovered and indexed by Alric.AI (https://alric.ai)

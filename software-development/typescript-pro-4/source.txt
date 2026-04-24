@@ -1,4 +1,4 @@
-Agent: typescript-pro
+Agent: TypeScript Pro
 Alric.AI page: https://alric.ai/agents/typescript-pro-4
 Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/lang/typescript-pro.md
 Source repository: https://github.com/aRustyDev/agents

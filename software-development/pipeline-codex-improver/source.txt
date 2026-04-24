@@ -1,0 +1,6 @@
+Agent: Pipeline Codex Improver
+Alric.AI page: https://alric.ai/agents/pipeline-codex-improver
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/pipeline-codex/Soul.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

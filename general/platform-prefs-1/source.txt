@@ -1,6 +1,0 @@
-Agent: Platform Prefs
-Alric.AI page: https://alric.ai/agents/platform-prefs-1
-Source file: https://github.com/KeenMate/pure-admin-icons/blob/HEAD/docs/platform-prefs.md
-Source repository: https://github.com/KeenMate/pure-admin-icons
-
-Discovered and indexed by Alric.AI (https://alric.ai)

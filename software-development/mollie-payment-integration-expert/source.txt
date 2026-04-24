@@ -1,0 +1,6 @@
+Agent: Mollie Payment Integration Expert
+Alric.AI page: https://alric.ai/agents/mollie-payment-integration-expert
+Source file: https://github.com/koenvorster/Personal_project_VorstersNV/blob/HEAD/.github/agents/mollie-expert.agent.md
+Source repository: https://github.com/koenvorster/Personal_project_VorstersNV
+
+Discovered and indexed by Alric.AI (https://alric.ai)

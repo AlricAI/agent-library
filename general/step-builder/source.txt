@@ -1,6 +1,0 @@
-Agent: Step Builder
-Alric.AI page: https://alric.ai/agents/step-builder
-Source file: https://github.com/joggrdocs/funkai/blob/HEAD/packages/agents/docs/step-builder.md
-Source repository: https://github.com/joggrdocs/funkai
-
-Discovered and indexed by Alric.AI (https://alric.ai)

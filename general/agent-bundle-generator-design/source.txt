@@ -1,6 +1,0 @@
-Agent: Agent Bundle Generator Design
-Alric.AI page: https://alric.ai/agents/agent-bundle-generator-design
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/docs/agent-bundle-generator-design.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

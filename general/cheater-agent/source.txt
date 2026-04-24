@@ -1,6 +1,0 @@
-Agent: Cheater Agent
-Alric.AI page: https://alric.ai/agents/cheater-agent
-Source file: https://github.com/justindobbs/Tracecore/blob/HEAD/agent_bench/agents/cheater_agent.py
-Source repository: https://github.com/justindobbs/Tracecore
-
-Discovered and indexed by Alric.AI (https://alric.ai)

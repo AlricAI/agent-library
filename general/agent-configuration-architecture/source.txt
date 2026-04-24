@@ -1,6 +1,0 @@
-Agent: AGENT CONFIGURATION ARCHITECTURE
-Alric.AI page: https://alric.ai/agents/agent-configuration-architecture
-Source file: https://github.com/frankbria/codeframe/blob/HEAD/claudedocs/AGENT_CONFIGURATION_ARCHITECTURE.md
-Source repository: https://github.com/frankbria/codeframe
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: GraphQL Architect Pro
+Alric.AI page: https://alric.ai/agents/graphql-architect-pro
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/backend-development/agents/graphql-architect.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

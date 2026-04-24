@@ -1,0 +1,6 @@
+Agent: Scope Gap Analyst
+Alric.AI page: https://alric.ai/agents/scope-gap-analyst-3
+Source file: https://github.com/erickmcaro/shippulse/blob/HEAD/workflows/project-gap-analysis/agents/epic-gap-planner/IDENTITY.md
+Source repository: https://github.com/erickmcaro/shippulse
+
+Discovered and indexed by Alric.AI (https://alric.ai)

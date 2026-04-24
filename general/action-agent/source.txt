@@ -1,6 +1,0 @@
-Agent: Action Agent
-Alric.AI page: https://alric.ai/agents/action-agent
-Source file: https://github.com/danielgonzagat/megaIAAA/blob/HEAD/EvoAgentX/evoagentx/agents/action_agent.py
-Source repository: https://github.com/danielgonzagat/megaIAAA
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Statistics
-Alric.AI page: https://alric.ai/agents/statistics
-Source file: https://github.com/chehaba/prospecting/blob/HEAD/outbound/statistics.md
-Source repository: https://github.com/chehaba/prospecting
-
-Discovered and indexed by Alric.AI (https://alric.ai)

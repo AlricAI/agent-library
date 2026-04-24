@@ -1,6 +1,0 @@
-Agent: MASTER SKILL TEMPLATE
-Alric.AI page: https://alric.ai/agents/master-skill-template
-Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/MASTER-SKILL-TEMPLATE.md
-Source repository: https://github.com/golfballnut/mcmforge
-
-Discovered and indexed by Alric.AI (https://alric.ai)

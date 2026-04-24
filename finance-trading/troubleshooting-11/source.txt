@@ -1,6 +1,0 @@
-Agent: TROUBLESHOOTING
-Alric.AI page: https://alric.ai/agents/troubleshooting-11
-Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/docs/TROUBLESHOOTING.md
-Source repository: https://github.com/nirholas/crypto-vision
-
-Discovered and indexed by Alric.AI (https://alric.ai)

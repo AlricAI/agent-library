@@ -1,0 +1,6 @@
+Agent: Environment Setup Validator
+Alric.AI page: https://alric.ai/agents/environment-setup-validator
+Source file: https://github.com/NextLeapClub/DevTeam/blob/HEAD/agents/shared/setup/SOUL.md
+Source repository: https://github.com/NextLeapClub/DevTeam
+
+Discovered and indexed by Alric.AI (https://alric.ai)

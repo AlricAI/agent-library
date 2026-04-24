@@ -1,6 +1,0 @@
-Agent: Ml Framework Research
-Alric.AI page: https://alric.ai/agents/ml-framework-research
-Source file: https://github.com/DreadPirateRobertz/trading-bot/blob/HEAD/docs/ml-framework-research.md
-Source repository: https://github.com/DreadPirateRobertz/trading-bot
-
-Discovered and indexed by Alric.AI (https://alric.ai)

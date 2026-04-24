@@ -1,6 +1,0 @@
-Agent: SOCIAL POSTS 003
-Alric.AI page: https://alric.ai/agents/social-posts-003
-Source file: https://github.com/sighthoundinc/sighthound-content-ops/blob/HEAD/audits/SOCIAL_POSTS_003.md
-Source repository: https://github.com/sighthoundinc/sighthound-content-ops
-
-Discovered and indexed by Alric.AI (https://alric.ai)

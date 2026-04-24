@@ -1,6 +1,0 @@
-Agent: Org Hardening Execution 2026 04 11
-Alric.AI page: https://alric.ai/agents/org-hardening-execution-2026-04-11
-Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/docs/org-hardening-execution-2026-04-11.md
-Source repository: https://github.com/ognjhunt/Blueprint-WebApp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

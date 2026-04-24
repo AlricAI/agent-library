@@ -1,6 +1,0 @@
-Agent: FRONTEND SECURITY AUDIT
-Alric.AI page: https://alric.ai/agents/frontend-security-audit
-Source file: https://github.com/virtengine/virtengine/blob/HEAD/docs/FRONTEND_SECURITY_AUDIT.md
-Source repository: https://github.com/virtengine/virtengine
-
-Discovered and indexed by Alric.AI (https://alric.ai)

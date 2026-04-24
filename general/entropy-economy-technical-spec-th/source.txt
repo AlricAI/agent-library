@@ -1,6 +1,0 @@
-Agent: ENTROPY ECONOMY TECHNICAL SPEC TH
-Alric.AI page: https://alric.ai/agents/entropy-economy-technical-spec-th
-Source file: https://github.com/FGD-ATR-EP/AGS/blob/HEAD/docs/ENTROPY_ECONOMY_TECHNICAL_SPEC_TH.md
-Source repository: https://github.com/FGD-ATR-EP/AGS
-
-Discovered and indexed by Alric.AI (https://alric.ai)

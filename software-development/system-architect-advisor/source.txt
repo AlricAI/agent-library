@@ -1,0 +1,6 @@
+Agent: System Architect Advisor
+Alric.AI page: https://alric.ai/agents/system-architect-advisor
+Source file: https://github.com/cass-clearly/remarq/blob/HEAD/agents/architect/AGENTS.md
+Source repository: https://github.com/cass-clearly/remarq
+
+Discovered and indexed by Alric.AI (https://alric.ai)

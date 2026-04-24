@@ -1,0 +1,6 @@
+Agent: System Health Check
+Alric.AI page: https://alric.ai/agents/system-health-check
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/mcm-forge/agents/ceo/HEARTBEAT.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

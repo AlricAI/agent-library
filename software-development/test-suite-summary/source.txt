@@ -1,6 +1,0 @@
-Agent: TEST SUITE SUMMARY
-Alric.AI page: https://alric.ai/agents/test-suite-summary
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/tests/TEST_SUITE_SUMMARY.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

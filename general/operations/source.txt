@@ -1,6 +1,0 @@
-Agent: Operations
-Alric.AI page: https://alric.ai/agents/operations
-Source file: https://github.com/scfuzzbench/scfuzzbench/blob/HEAD/docs/operations.md
-Source repository: https://github.com/scfuzzbench/scfuzzbench
-
-Discovered and indexed by Alric.AI (https://alric.ai)

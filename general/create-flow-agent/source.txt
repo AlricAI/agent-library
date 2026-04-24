@@ -1,6 +1,0 @@
-Agent: Create Flow Agent
-Alric.AI page: https://alric.ai/agents/create-flow-agent
-Source file: https://github.com/joggrdocs/funkai/blob/HEAD/packages/agents/docs/create-flow-agent.md
-Source repository: https://github.com/joggrdocs/funkai
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: SOUL
-Alric.AI page: https://alric.ai/agents/soul-149
-Source file: https://github.com/kentonium3/kg-automation/blob/HEAD/scripts/openclaw/agents/felix-admin-capture/SOUL.md
-Source repository: https://github.com/kentonium3/kg-automation
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: ISSUE SPEC MAPPING
-Alric.AI page: https://alric.ai/agents/issue-spec-mapping
-Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/docs/ISSUE_SPEC_MAPPING.md
-Source repository: https://github.com/rysweet/AzureHayMaker
-
-Discovered and indexed by Alric.AI (https://alric.ai)

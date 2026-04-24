@@ -1,6 +1,0 @@
-Agent: RELEASING
-Alric.AI page: https://alric.ai/agents/releasing-2
-Source file: https://github.com/claybowl/doer/blob/HEAD/doc/RELEASING.md
-Source repository: https://github.com/claybowl/doer
-
-Discovered and indexed by Alric.AI (https://alric.ai)

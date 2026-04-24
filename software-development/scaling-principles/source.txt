@@ -1,6 +1,0 @@
-Agent: Scaling Principles
-Alric.AI page: https://alric.ai/agents/scaling-principles
-Source file: https://github.com/Khamel83/Atlas_OLD/blob/HEAD/docs/scaling_principles.md
-Source repository: https://github.com/Khamel83/Atlas_OLD
-
-Discovered and indexed by Alric.AI (https://alric.ai)

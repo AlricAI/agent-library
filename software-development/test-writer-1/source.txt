@@ -1,6 +1,0 @@
-Agent: Test Writer
-Alric.AI page: https://alric.ai/agents/test-writer-1
-Source file: https://github.com/aditya-thakare/CXecute/blob/HEAD/server/agents/test_writer.md
-Source repository: https://github.com/aditya-thakare/CXecute
-
-Discovered and indexed by Alric.AI (https://alric.ai)

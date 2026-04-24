@@ -1,0 +1,6 @@
+Agent: Kubernetes Platform Architect
+Alric.AI page: https://alric.ai/agents/kubernetes-platform-architect
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/cloud-infrastructure/agents/kubernetes-architect.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

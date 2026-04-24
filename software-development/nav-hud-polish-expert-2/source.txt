@@ -1,0 +1,6 @@
+Agent: Nav Hud Polish Expert
+Alric.AI page: https://alric.ai/agents/nav-hud-polish-expert-2
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/dirtsync/agents/nav-hud-polish-expert/HEARTBEAT.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

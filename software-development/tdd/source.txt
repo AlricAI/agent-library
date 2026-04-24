@@ -1,6 +1,0 @@
-Agent: Test Driven Development Specialist
-Alric.AI page: https://alric.ai/agents/tdd
-Source file: https://github.com/webdevtodayjason/sub-agents/blob/HEAD/commands/tdd.md
-Source repository: https://github.com/webdevtodayjason/sub-agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Trigger.dev Configuration (v4)
-Alric.AI page: https://alric.ai/agents/trigger-dev-configuration-v4
-Source file: https://github.com/rostiSe/mymemory/blob/HEAD/apps/server/.cursor/rules/trigger.config.mdc
-Source repository: https://github.com/rostiSe/mymemory
-
-Discovered and indexed by Alric.AI (https://alric.ai)

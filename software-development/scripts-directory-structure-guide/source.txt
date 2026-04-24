@@ -1,6 +1,0 @@
-Agent: Scripts Directory Structure Guide
-Alric.AI page: https://alric.ai/agents/scripts-directory-structure-guide
-Source file: https://github.com/nirholas/bnb-chain-toolkit/blob/HEAD/.cursor/rules/scripts-structure.mdc
-Source repository: https://github.com/nirholas/bnb-chain-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

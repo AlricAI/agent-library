@@ -1,6 +1,0 @@
-Agent: Project Shipper
-Alric.AI page: https://alric.ai/agents/project-shipper
-Source file: https://github.com/contains-studio/agents/blob/HEAD/project-management/project-shipper.md
-Source repository: https://github.com/contains-studio/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

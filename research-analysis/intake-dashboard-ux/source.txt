@@ -1,6 +1,0 @@
-Agent: Intake Dashboard Ux
-Alric.AI page: https://alric.ai/agents/intake-dashboard-ux
-Source file: https://github.com/solatis/koan/blob/HEAD/plans/intake-dashboard-ux.md
-Source repository: https://github.com/solatis/koan
-
-Discovered and indexed by Alric.AI (https://alric.ai)

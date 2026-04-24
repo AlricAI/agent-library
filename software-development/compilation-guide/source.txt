@@ -1,6 +1,0 @@
-Agent: Compilation Guide
-Alric.AI page: https://alric.ai/agents/compilation-guide
-Source file: https://github.com/rodhayl/specItGithubCopilot/blob/HEAD/docs/compilation-guide.md
-Source repository: https://github.com/rodhayl/specItGithubCopilot
-
-Discovered and indexed by Alric.AI (https://alric.ai)

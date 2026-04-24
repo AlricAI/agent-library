@@ -1,6 +1,0 @@
-Agent: PRICING GUIDE TEXAS
-Alric.AI page: https://alric.ai/agents/pricing-guide-texas
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/pulp/PRICING_GUIDE_TEXAS.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

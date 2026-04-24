@@ -1,0 +1,6 @@
+Agent: Pragmatic Code Gatekeeper
+Alric.AI page: https://alric.ai/agents/pragmatic-code-gatekeeper-2
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/mcm-forge/agents/forge-reviewer/SOUL.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

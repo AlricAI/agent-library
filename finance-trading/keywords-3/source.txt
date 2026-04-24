@@ -1,6 +1,0 @@
-Agent: KEYWORDS
-Alric.AI page: https://alric.ai/agents/keywords-3
-Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/docs/KEYWORDS.md
-Source repository: https://github.com/nirholas/crypto-vision
-
-Discovered and indexed by Alric.AI (https://alric.ai)

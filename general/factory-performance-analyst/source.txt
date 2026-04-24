@@ -1,0 +1,6 @@
+Agent: Factory Performance Analyst
+Alric.AI page: https://alric.ai/agents/factory-performance-analyst
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/mcm-forge/agents/factory-analyst/AGENTS.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

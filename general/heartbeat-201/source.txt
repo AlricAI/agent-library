@@ -1,6 +1,0 @@
-Agent: HEARTBEAT
-Alric.AI page: https://alric.ai/agents/heartbeat-201
-Source file: https://github.com/LORDBurnItUp/kds-openclaw/blob/HEAD/lord-sav/HEARTBEAT.md
-Source repository: https://github.com/LORDBurnItUp/kds-openclaw
-
-Discovered and indexed by Alric.AI (https://alric.ai)

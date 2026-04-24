@@ -1,6 +1,0 @@
-Agent: My Agent
-Alric.AI page: https://alric.ai/agents/my-agent
-Source file: https://github.com/justindobbs/Tracecore/blob/HEAD/examples/minimal_start/agents/my_agent.py
-Source repository: https://github.com/justindobbs/Tracecore
-
-Discovered and indexed by Alric.AI (https://alric.ai)

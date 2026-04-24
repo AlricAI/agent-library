@@ -1,142 +1,42 @@
 ---
-name: Planner Agent
-description: """Structured planner-style baseline agent.
+name: Index
+description: プランナーエージェント（Planner agents）は、反復的なプランニングサイクルを通じて、多段階のタスクを計画し実行するAIエージェントです。
+これらは継続的にプランを構築または更新し、ステップを実行し、現在の状態に照らして完了条件をチェックします。
+
+プランナーエージェントは、上位レベルの目
 model: claude-sonnet-4-5
 ---
-"""Structured planner-style baseline agent."""
+# プランナーエージェント
 
-from __future__ import annotations
+プランナーエージェント（Planner agents）は、反復的なプランニングサイクルを通じて、多段階のタスクを計画し実行するAIエージェントです。
+これらは継続的にプランを構築または更新し、ステップを実行し、現在の状態に照らして完了条件をチェックします。
 
+プランナーエージェントは、上位レベルの目標をより小さく実行可能なステップに分解し、
+各ステップの結果に基づいてプランを適応させる必要がある複雑なタスクに適しています。
 
-class StructuredPlannerAgent:
-    """Maintains a simple plan queue and retries transient failures."""
+[グラフベースのエージェント](../graph-based-agents.md)ではすべてのノードとエッジを定義しますが、
+プランナーエージェントでは、型指定された入力と出力を持つアクション（ノード）のみを定義します。
+プランナーは、目的の状態を達成するために適した妥当なエッジを作成し、
+ステップ間の最適パスを更新することもできます。
+これにより、グラフベースのエージェントと比較して、より強力ですが制御性は低くなる、よりダイナミックなアプローチが可能になります。
 
-    def __init__(self) -> None:
-        self.reset({})
+プランナーエージェントは、反復的なプランニングサイクルを通じて動作します：
 
-    def reset(self, task_spec):
-        self.task_spec = task_spec or {}
-        self.obs = None
-        self.plan: list[dict] = []
-        self.payload_template: dict | None = None
-        self.handshake_template: str | None = None
-        self.handshake_id: str | None = None
-        self.pending_wait: int = 0
-        self.cached_token: str | None = None
-        self.output_committed = False
-        self.output_key = self.task_spec.get("output_key", "ACCESS_TOKEN")
+1. プランナーは、現在の状態に基づいてプランを作成または更新します。
+2. プランナーはプランから1つのステップを実行し、状態を更新します。
+3. プランナーは、現在の状態に応じてプランが完了したかどうかを判断します。
+    - プランが完了している場合、サイクルは終了します。
+    - プランが完了していない場合、サイクルは最初のステップから繰り返されます。
 
-    def observe(self, observation):
-        self.obs = observation
+```mermaid
+graph LR
+  A[プランの作成または更新] --> B["ステップの実行と状態の更新"]
+  B --> C["完了確認"]
+  C -->|完了| D[[終了]]
+  C -->|"未完了"| A
+```
 
-    def _schedule(self, action: dict) -> None:
-        self.plan.append(action)
+Koogは、2つのタイプのプランナーエージェントを提供しています：
 
-    def _next(self) -> dict | None:
-        if self.plan:
-            return self.plan.pop(0)
-        return None
-
-    def _ensure_handshake_plan(self):
-        if not self.plan:
-            self.plan.extend(
-                [
-                    {"type": "get_handshake_template", "args": {}},
-                    {"type": "call_api", "args": {"endpoint": "/handshake"}},
-                ]
-            )
-
-    def act(self) -> dict:
-        last_action = self.obs.get("last_action") if self.obs else None
-        last_result = self.obs.get("last_action_result") if self.obs else None
-        action_type = last_action.get("type") if last_action else None
-
-        if action_type == "get_required_payload" and last_result and last_result.get("ok"):
-            self.payload_template = dict(last_result.get("payload_template", {}))
-
-        if action_type == "get_handshake_template" and last_result and last_result.get("ok"):
-            self.handshake_template = last_result.get("template")
-
-        if action_type == "call_api" and last_result:
-            endpoint = last_action.get("args", {}).get("endpoint") if last_action else None
-            if endpoint == "/handshake":
-                if last_result.get("ok"):
-                    self.handshake_id = last_result.get("handshake_id")
-                    response = self._handshake_phrase()
-                    return {
-                        "type": "call_api",
-                        "args": {
-                            "endpoint": "/handshake_commit",
-                            "payload": {"handshake_id": self.handshake_id, "response": response},
-                        },
-                    }
-                self.handshake_id = None
-            elif endpoint == "/handshake_commit" and not last_result.get("ok"):
-                self.handshake_id = None
-            elif endpoint == "/token":
-                if last_result.get("ok"):
-                    token = last_result.get("data", {}).get("token")
-                    if token:
-                        self.cached_token = token
-                        return {"type": "set_output", "args": {"key": self.output_key, "value": token}}
-                else:
-                    error = last_result.get("error")
-                    if error == "rate_limited":
-                        retry_after = int(last_result.get("retry_after", 1)) or 1
-                        self.pending_wait = retry_after
-                        return {"type": "wait", "args": {"steps": retry_after}}
-                    if error == "temporary_failure":
-                        return self._call_token()
-                    if error in {"bad_request", "invalid_handshake", "handshake_expired"}:
-                        self.payload_template = None
-                        self.handshake_id = None
-                        self.plan.clear()
-                        self._ensure_handshake_plan()
-                        return self._next() or self._call_token()
-
-        if action_type == "set_output" and last_result and last_result.get("ok"):
-            self.output_committed = True
-            return {"type": "wait", "args": {"steps": 1}}
-
-        if self.pending_wait > 0:
-            if action_type == "wait":
-                self.pending_wait = 0
-            else:
-                return {"type": "wait", "args": {"steps": self.pending_wait}}
-
-        if self.cached_token and not self.output_committed:
-            return {"type": "set_output", "args": {"key": self.output_key, "value": self.cached_token}}
-
-        next_action = self._next()
-        if next_action:
-            return next_action
-
-        if self.payload_template is None:
-            return {"type": "get_required_payload", "args": {}}
-
-        if self.handshake_id is None:
-            self._ensure_handshake_plan()
-            return self._next()
-
-        return self._call_token()
-
-    def _call_token(self) -> dict:
-        payload = dict(self.payload_template or {})
-        if self.handshake_id:
-            payload["handshake_id"] = self.handshake_id
-        return {"type": "call_api", "args": {"endpoint": "/token", "payload": payload}}
-
-    def _handshake_phrase(self) -> str:
-        if not self.handshake_template or not self.handshake_id:
-            return ""
-        template = self.handshake_template.replace("<handshake_id>", self.handshake_id)
-        marker = "respond with:"
-        lower = template.lower()
-        idx = lower.find(marker)
-        phrase = template[idx + len(marker):] if idx != -1 else template
-        for sep in ("\n", "\r"):
-            pos = phrase.find(sep)
-            if pos != -1:
-                phrase = phrase[:pos]
-                break
-        return phrase.strip().strip(". ")
+- [LLMベースのプランナー](llm-based-planners.md)は、LLMを使用してプランを作成および更新します。
+- [GOAPエージェント](goap-agents.md)は、最適なアクションシーケンスを決定するために特別なアルゴリズムを使用します。

@@ -1,0 +1,6 @@
+Agent: QA Bug Finder
+Alric.AI page: https://alric.ai/agents/qa-bug-finder
+Source file: https://github.com/blazengreen360/hometower/blob/HEAD/.github/agents/qa-bug-finder.agent.md
+Source repository: https://github.com/blazengreen360/hometower
+
+Discovered and indexed by Alric.AI (https://alric.ai)

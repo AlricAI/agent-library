@@ -1,0 +1,6 @@
+Agent: Systems Programming Expert
+Alric.AI page: https://alric.ai/agents/systems-programming-expert
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/systems-programming/agents/c-pro.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

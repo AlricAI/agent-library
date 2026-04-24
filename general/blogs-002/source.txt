@@ -1,6 +1,0 @@
-Agent: BLOGS 002
-Alric.AI page: https://alric.ai/agents/blogs-002
-Source file: https://github.com/sighthoundinc/sighthound-content-ops/blob/HEAD/audits/BLOGS_002.md
-Source repository: https://github.com/sighthoundinc/sighthound-content-ops
-
-Discovered and indexed by Alric.AI (https://alric.ai)

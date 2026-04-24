@@ -1,6 +1,0 @@
-Agent: Voice Agent
-Alric.AI page: https://alric.ai/agents/voice-agent
-Source file: https://github.com/jazzmind/busibox/blob/HEAD/srv/agent/app/agents/voice_agent.py
-Source repository: https://github.com/jazzmind/busibox
-
-Discovered and indexed by Alric.AI (https://alric.ai)

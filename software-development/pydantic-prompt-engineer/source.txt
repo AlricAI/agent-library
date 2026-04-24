@@ -1,0 +1,6 @@
+Agent: Pydantic Prompt Engineer
+Alric.AI page: https://alric.ai/agents/pydantic-prompt-engineer
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/context-engineering-intro/use-cases/agent-factory-with-subagents/.claude/agents/pydantic-ai-prompt-engineer.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

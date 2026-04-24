@@ -1,6 +1,0 @@
-Agent: Local Workstation
-Alric.AI page: https://alric.ai/agents/local-workstation
-Source file: https://github.com/NVIDIA-NeMo/RL/blob/HEAD/docs/local-workstation.md
-Source repository: https://github.com/NVIDIA-NeMo/RL
-
-Discovered and indexed by Alric.AI (https://alric.ai)

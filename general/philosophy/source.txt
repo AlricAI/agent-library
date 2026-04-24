@@ -1,6 +1,0 @@
-Agent: PHILOSOPHY
-Alric.AI page: https://alric.ai/agents/philosophy
-Source file: https://github.com/100monkeys-ai/forgejs/blob/HEAD/spec/PHILOSOPHY.md
-Source repository: https://github.com/100monkeys-ai/forgejs
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Code Review Expert
+Alric.AI page: https://alric.ai/agents/code-review-expert-13
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/plugins/comprehensive-review/agents/code-reviewer.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

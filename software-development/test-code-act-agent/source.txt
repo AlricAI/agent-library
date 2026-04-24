@@ -1,6 +1,0 @@
-Agent: Test Code Act Agent
-Alric.AI page: https://alric.ai/agents/test-code-act-agent
-Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/major_frameworks/llama_index/llama-index-core/tests/agent/workflow/test_code_act_agent.py
-Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
-
-Discovered and indexed by Alric.AI (https://alric.ai)

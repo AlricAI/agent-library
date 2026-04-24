@@ -1,0 +1,6 @@
+Agent: DDD Model Designer
+Alric.AI page: https://alric.ai/agents/ddd-model-designer
+Source file: https://github.com/koenvorster/Personal_project_VorstersNV/blob/HEAD/.github/agents/ddd-modeler.agent.md
+Source repository: https://github.com/koenvorster/Personal_project_VorstersNV
+
+Discovered and indexed by Alric.AI (https://alric.ai)

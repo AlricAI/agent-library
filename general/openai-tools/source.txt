@@ -1,6 +1,0 @@
-Agent: Openai Tools
-Alric.AI page: https://alric.ai/agents/openai-tools
-Source file: https://github.com/Anakonn/langchain-v01/blob/HEAD/i18n/es/docusaurus-plugin-content-docs/current/modules/agents/agent_types/openai_tools.md
-Source repository: https://github.com/Anakonn/langchain-v01
-
-Discovered and indexed by Alric.AI (https://alric.ai)

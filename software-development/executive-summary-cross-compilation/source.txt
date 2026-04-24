@@ -1,6 +1,0 @@
-Agent: EXECUTIVE SUMMARY CROSS COMPILATION
-Alric.AI page: https://alric.ai/agents/executive-summary-cross-compilation
-Source file: https://github.com/madeindigio/remembrances-mcp/blob/HEAD/docs/EXECUTIVE_SUMMARY_CROSS_COMPILATION.md
-Source repository: https://github.com/madeindigio/remembrances-mcp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

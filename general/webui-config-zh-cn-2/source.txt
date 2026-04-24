@@ -1,6 +1,0 @@
-Agent: Webui Config.Zh CN
-Alric.AI page: https://alric.ai/agents/webui-config-zh-cn-2
-Source file: https://github.com/NoPKT/omnimem/blob/HEAD/docs/webui-config.zh-CN.md
-Source repository: https://github.com/NoPKT/omnimem
-
-Discovered and indexed by Alric.AI (https://alric.ai)

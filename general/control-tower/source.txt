@@ -1,6 +1,0 @@
-Agent: Control Tower
-Alric.AI page: https://alric.ai/agents/control-tower
-Source file: https://github.com/techwavedev/agi-agent-kit/blob/HEAD/directives/control_tower.md
-Source repository: https://github.com/techwavedev/agi-agent-kit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

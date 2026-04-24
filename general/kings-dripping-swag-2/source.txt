@@ -1,6 +1,0 @@
-Agent: KINGS DRIPPING SWAG
-Alric.AI page: https://alric.ai/agents/kings-dripping-swag-2
-Source file: https://github.com/LORDBurnItUp/kds-openclaw/blob/HEAD/lord-sav/KINGS_DRIPPING_SWAG.md
-Source repository: https://github.com/LORDBurnItUp/kds-openclaw
-
-Discovered and indexed by Alric.AI (https://alric.ai)

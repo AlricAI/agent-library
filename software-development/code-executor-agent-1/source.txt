@@ -1,6 +1,0 @@
-Agent:  Code Executor Agent
-Alric.AI page: https://alric.ai/agents/code-executor-agent-1
-Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/major_frameworks/autogen/python/packages/autogen-agentchat/src/autogen_agentchat/agents/_code_executor_agent.py
-Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
-
-Discovered and indexed by Alric.AI (https://alric.ai)

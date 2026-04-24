@@ -1,6 +1,0 @@
-Agent: Json Logging
-Alric.AI page: https://alric.ai/agents/json-logging
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/docs/json_logging.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

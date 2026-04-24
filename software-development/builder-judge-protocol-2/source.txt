@@ -1,0 +1,6 @@
+Agent: Builder Judge Protocol
+Alric.AI page: https://alric.ai/agents/builder-judge-protocol-2
+Source file: https://github.com/PetroczyP/Builder-Judge-Agent-Loop/blob/HEAD/agent-loop/PROTOCOL.md
+Source repository: https://github.com/PetroczyP/Builder-Judge-Agent-Loop
+
+Discovered and indexed by Alric.AI (https://alric.ai)

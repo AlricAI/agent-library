@@ -1,7 +1,0 @@
-Agent: Software Quality Control Engineer
-
-Alric.AI page: https://alric.ai/agents/senior-software-engineer-1
-Source file: https://github.com/dotojr123/crewai-production-ready/blob/HEAD/crewAI-examples/crews/game-builder-crew/src/game_builder_crew/config/agents.yaml
-Source repository: https://github.com/dotojr123/crewai-production-ready
-
-Discovered and indexed by Alric.AI (https://alric.ai)

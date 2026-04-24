@@ -1,6 +1,0 @@
-Agent: AGENTS
-Alric.AI page: https://alric.ai/agents/agents-456
-Source file: https://github.com/zapabob/clawdbot/blob/HEAD/extensions/AGENTS.md
-Source repository: https://github.com/zapabob/clawdbot
-
-Discovered and indexed by Alric.AI (https://alric.ai)

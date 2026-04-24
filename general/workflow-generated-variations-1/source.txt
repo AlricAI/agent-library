@@ -1,6 +1,0 @@
-Agent: WORKFLOW GENERATED VARIATIONS
-Alric.AI page: https://alric.ai/agents/workflow-generated-variations-1
-Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/WORKFLOW_GENERATED_VARIATIONS.md
-Source repository: https://github.com/frumu-ai/tandem
-
-Discovered and indexed by Alric.AI (https://alric.ai)

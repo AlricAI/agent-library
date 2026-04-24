@@ -1,6 +1,0 @@
-Agent: Benchmark Reality Gap
-Alric.AI page: https://alric.ai/agents/benchmark-reality-gap
-Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/patterns/benchmark-reality-gap.md
-Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Auto_Loop
+Alric.AI page: https://alric.ai/agents/autoloop
+Source file: https://github.com/bluekid2457/MarketingDashboard2/blob/HEAD/.github/agents/auto_loop.agent.md
+Source repository: https://github.com/bluekid2457/MarketingDashboard2
+
+Discovered and indexed by Alric.AI (https://alric.ai)

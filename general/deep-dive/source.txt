@@ -1,6 +1,0 @@
-Agent: Deep Dive
-Alric.AI page: https://alric.ai/agents/deep-dive
-Source file: https://github.com/blex2011/My-Context/blob/HEAD/discovery/deep-dive.md
-Source repository: https://github.com/blex2011/My-Context
-
-Discovered and indexed by Alric.AI (https://alric.ai)

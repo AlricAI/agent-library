@@ -1,6 +1,0 @@
-Agent: AGENT SMITH REFERENCE
-Alric.AI page: https://alric.ai/agents/agent-smith-reference-2
-Source file: https://github.com/LORDBurnItUp/kds-openclaw/blob/HEAD/lord-sav/AGENT_SMITH_REFERENCE.md
-Source repository: https://github.com/LORDBurnItUp/kds-openclaw
-
-Discovered and indexed by Alric.AI (https://alric.ai)

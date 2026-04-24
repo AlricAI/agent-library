@@ -1,6 +1,0 @@
-Agent: Nrps V2p0 Implementation Plan
-Alric.AI page: https://alric.ai/agents/nrps-v2p0-implementation-plan
-Source file: https://github.com/DecoyLex/ltix/blob/HEAD/plans/nrps-v2p0-implementation-plan.md
-Source repository: https://github.com/DecoyLex/ltix
-
-Discovered and indexed by Alric.AI (https://alric.ai)

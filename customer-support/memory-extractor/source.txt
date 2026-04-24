@@ -1,6 +1,0 @@
-Agent: memory-extractor
-Alric.AI page: https://alric.ai/agents/memory-extractor
-Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/claude-ops/agents/memory-extractor.md
-Source repository: https://github.com/davepoon/claude-code-subagents-collection
-
-Discovered and indexed by Alric.AI (https://alric.ai)

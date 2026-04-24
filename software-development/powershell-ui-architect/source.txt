@@ -1,4 +1,4 @@
-Agent: powershell-ui-architect
+Agent: PowerShell Ui Architect
 Alric.AI page: https://alric.ai/agents/powershell-ui-architect
 Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/ui/pwsh-ui-architect.md
 Source repository: https://github.com/aRustyDev/agents

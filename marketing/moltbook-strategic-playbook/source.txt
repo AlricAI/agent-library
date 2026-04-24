@@ -1,0 +1,6 @@
+Agent: Moltbook Strategic Playbook
+Alric.AI page: https://alric.ai/agents/moltbook-strategic-playbook
+Source file: https://github.com/ShieldnestORG/team-dashboard/blob/HEAD/agents/moltbook/PLAYBOOK.md
+Source repository: https://github.com/ShieldnestORG/team-dashboard
+
+Discovered and indexed by Alric.AI (https://alric.ai)

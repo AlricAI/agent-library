@@ -1,6 +1,0 @@
-Agent: Work Poc
-Alric.AI page: https://alric.ai/agents/work-poc
-Source file: https://github.com/tbrandenburg/work/blob/HEAD/docs/work-poc.md
-Source repository: https://github.com/tbrandenburg/work
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Context Management
-Alric.AI page: https://alric.ai/agents/context-management-1
-Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/best-practices/context-management.md
-Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

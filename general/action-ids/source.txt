@@ -1,6 +1,0 @@
-Agent: Action Ids
-Alric.AI page: https://alric.ai/agents/action-ids
-Source file: https://github.com/chmouel/lazyworktree/blob/HEAD/docs/action-ids.md
-Source repository: https://github.com/chmouel/lazyworktree
-
-Discovered and indexed by Alric.AI (https://alric.ai)

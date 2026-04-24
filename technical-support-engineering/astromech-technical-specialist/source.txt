@@ -1,0 +1,6 @@
+Agent: Astromech Technical Specialist
+Alric.AI page: https://alric.ai/agents/astromech-technical-specialist
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/r2-c4/SOUL.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

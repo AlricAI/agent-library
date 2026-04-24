@@ -1,6 +1,0 @@
-Agent: Sisyphus Lite
-Alric.AI page: https://alric.ai/agents/sisyphus-lite
-Source file: https://github.com/Goblin1024/oh-my-kimi/blob/HEAD/prompts/sisyphus-lite.md
-Source repository: https://github.com/Goblin1024/oh-my-kimi
-
-Discovered and indexed by Alric.AI (https://alric.ai)

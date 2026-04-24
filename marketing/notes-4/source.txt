@@ -1,6 +1,0 @@
-Agent: Notes
-Alric.AI page: https://alric.ai/agents/notes-4
-Source file: https://github.com/ss44/ss44.ca/blob/HEAD/archetypes/notes.md
-Source repository: https://github.com/ss44/ss44.ca
-
-Discovered and indexed by Alric.AI (https://alric.ai)

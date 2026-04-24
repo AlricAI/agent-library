@@ -1,6 +1,0 @@
-Agent: CLAUDE
-Alric.AI page: https://alric.ai/agents/claude-24
-Source file: https://github.com/zapabob/clawdbot/blob/HEAD/extensions/CLAUDE.md
-Source repository: https://github.com/zapabob/clawdbot
-
-Discovered and indexed by Alric.AI (https://alric.ai)

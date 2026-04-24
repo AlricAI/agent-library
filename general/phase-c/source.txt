@@ -1,6 +1,0 @@
-Agent: Phase C
-Alric.AI page: https://alric.ai/agents/phase-c
-Source file: https://github.com/NoPKT/omnimem/blob/HEAD/docs/phase-c.md
-Source repository: https://github.com/NoPKT/omnimem
-
-Discovered and indexed by Alric.AI (https://alric.ai)

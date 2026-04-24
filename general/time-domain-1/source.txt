@@ -1,6 +1,0 @@
-Agent: Time Domain
-Alric.AI page: https://alric.ai/agents/time-domain-1
-Source file: https://github.com/Maokus/MVMNT/blob/HEAD/docs/time-domain.md
-Source repository: https://github.com/Maokus/MVMNT
-
-Discovered and indexed by Alric.AI (https://alric.ai)

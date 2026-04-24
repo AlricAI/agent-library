@@ -1,6 +1,0 @@
-Agent: SIMILARITY
-Alric.AI page: https://alric.ai/agents/similarity
-Source file: https://github.com/nvandessel/floop/blob/HEAD/docs/SIMILARITY.md
-Source repository: https://github.com/nvandessel/floop
-
-Discovered and indexed by Alric.AI (https://alric.ai)

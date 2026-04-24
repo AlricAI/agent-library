@@ -1,6 +1,0 @@
-Agent: AWARENESS
-Alric.AI page: https://alric.ai/agents/awareness
-Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/drawer/AWARENESS.md
-Source repository: https://github.com/bdecrem/vibeceo
-
-Discovered and indexed by Alric.AI (https://alric.ai)

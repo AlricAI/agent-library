@@ -1,6 +1,0 @@
-Agent: PROJECT STRUCTURE
-Alric.AI page: https://alric.ai/agents/project-structure
-Source file: https://github.com/massoudsh/Findash/blob/HEAD/docs/PROJECT_STRUCTURE.md
-Source repository: https://github.com/massoudsh/Findash
-
-Discovered and indexed by Alric.AI (https://alric.ai)

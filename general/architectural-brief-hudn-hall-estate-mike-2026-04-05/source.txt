@@ -1,6 +1,0 @@
-Agent: ARCHITECTURAL BRIEF Hudn Hall Estate Mike 2026 04 05
-Alric.AI page: https://alric.ai/agents/architectural-brief-hudn-hall-estate-mike-2026-04-05
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/reports/ARCHITECTURAL_BRIEF_Hudn_Hall_Estate_Mike_2026-04-05.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

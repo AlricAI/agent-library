@@ -1,6 +1,0 @@
-Agent: FAQ
-Alric.AI page: https://alric.ai/agents/faq-2
-Source file: https://github.com/nirholas/bnb-chain-toolkit/blob/HEAD/agents/defi-agents/docs/FAQ.md
-Source repository: https://github.com/nirholas/bnb-chain-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

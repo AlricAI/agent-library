@@ -1,6 +1,0 @@
-Agent: FIX PLAN APPSTORE MACOS V1.8 Rejection
-Alric.AI page: https://alric.ai/agents/fix-plan-appstore-macos-v1-8-rejection
-Source file: https://github.com/JasonYeYuhe/cli-pulse/blob/HEAD/docs/FIX_PLAN_APPSTORE_MACOS_v1.8_rejection.md
-Source repository: https://github.com/JasonYeYuhe/cli-pulse
-
-Discovered and indexed by Alric.AI (https://alric.ai)

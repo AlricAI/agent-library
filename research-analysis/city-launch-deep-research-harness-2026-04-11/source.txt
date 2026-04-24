@@ -1,6 +1,0 @@
-Agent: City Launch Deep Research Harness 2026 04 11
-Alric.AI page: https://alric.ai/agents/city-launch-deep-research-harness-2026-04-11
-Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/docs/city-launch-deep-research-harness-2026-04-11.md
-Source repository: https://github.com/ognjhunt/Blueprint-WebApp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

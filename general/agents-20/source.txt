@@ -1,6 +1,0 @@
-Agent: AGENTS
-Alric.AI page: https://alric.ai/agents/agents-20
-Source file: https://github.com/Maokus/MVMNT/blob/HEAD/docs/AGENTS.md
-Source repository: https://github.com/Maokus/MVMNT
-
-Discovered and indexed by Alric.AI (https://alric.ai)

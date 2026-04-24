@@ -1,6 +1,0 @@
-Agent: Onboarding
-Alric.AI page: https://alric.ai/agents/onboarding
-Source file: https://github.com/drminnaar/offgrid/blob/HEAD/docs/onboarding.md
-Source repository: https://github.com/drminnaar/offgrid
-
-Discovered and indexed by Alric.AI (https://alric.ai)

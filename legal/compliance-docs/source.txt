@@ -1,6 +1,0 @@
-Agent: compliance-docs
-Alric.AI page: https://alric.ai/agents/compliance-docs
-Source file: https://github.com/sighthoundinc/sighthound-content-ops/blob/HEAD/deft/deployments/cloud-gov/agents/compliance-docs.md
-Source repository: https://github.com/sighthoundinc/sighthound-content-ops
-
-Discovered and indexed by Alric.AI (https://alric.ai)

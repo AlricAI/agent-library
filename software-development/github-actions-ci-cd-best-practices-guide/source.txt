@@ -1,0 +1,6 @@
+Agent: GitHub Actions Ci Cd Best Practices Guide
+Alric.AI page: https://alric.ai/agents/github-actions-ci-cd-best-practices-guide
+Source file: https://github.com/tfha/agent-instructions/blob/HEAD/instructions/github-actions-ci-cd-best-practices.instructions.md
+Source repository: https://github.com/tfha/agent-instructions
+
+Discovered and indexed by Alric.AI (https://alric.ai)

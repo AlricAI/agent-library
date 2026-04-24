@@ -1,6 +1,0 @@
-Agent: Scheduled tasks (cron)
-Alric.AI page: https://alric.ai/agents/scheduled-tasks-cron-1
-Source file: https://github.com/rostiSe/mymemory/blob/HEAD/apps/server/.cursor/rules/trigger.scheduled-tasks.mdc
-Source repository: https://github.com/rostiSe/mymemory
-
-Discovered and indexed by Alric.AI (https://alric.ai)

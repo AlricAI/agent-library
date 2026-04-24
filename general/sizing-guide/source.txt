@@ -1,6 +1,0 @@
-Agent: Sizing Guide
-Alric.AI page: https://alric.ai/agents/sizing-guide
-Source file: https://github.com/hl/epona/blob/HEAD/specs/sizing_guide.md
-Source repository: https://github.com/hl/epona
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Operator
-Alric.AI page: https://alric.ai/agents/operator
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/.claude/plans/plugins/planning-workflow/scaffold/agents/operator.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Offgrid Technical Librarian
+Alric.AI page: https://alric.ai/agents/offgrid-technical-librarian-2
+Source file: https://github.com/drminnaar/offgrid/blob/HEAD/docs/agents.md
+Source repository: https://github.com/drminnaar/offgrid
+
+Discovered and indexed by Alric.AI (https://alric.ai)

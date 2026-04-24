@@ -1,6 +1,0 @@
-Agent: Getting Started
-Alric.AI page: https://alric.ai/agents/getting-started-12
-Source file: https://github.com/joshrotenberg/agent_workshop/blob/HEAD/guides/getting-started.md
-Source repository: https://github.com/joshrotenberg/agent_workshop
-
-Discovered and indexed by Alric.AI (https://alric.ai)

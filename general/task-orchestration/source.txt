@@ -1,6 +1,0 @@
-Agent: Task Orchestration
-Alric.AI page: https://alric.ai/agents/task-orchestration
-Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/patterns/task-orchestration.md
-Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

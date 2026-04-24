@@ -1,6 +1,0 @@
-Agent: BP InteractionSystem
-Alric.AI page: https://alric.ai/agents/bp-interactionsystem
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/technical/unreal-expert/blueprints/BP_InteractionSystem.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

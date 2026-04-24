@@ -1,6 +1,0 @@
-Agent: PRINCIPLES
-Alric.AI page: https://alric.ai/agents/principles-1
-Source file: https://github.com/dcarmitage/claws/blob/HEAD/systems/PRINCIPLES.md
-Source repository: https://github.com/dcarmitage/claws
-
-Discovered and indexed by Alric.AI (https://alric.ai)

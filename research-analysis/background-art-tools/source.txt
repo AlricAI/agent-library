@@ -1,6 +1,0 @@
-Agent: Background Art Tools
-Alric.AI page: https://alric.ai/agents/background-art-tools
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/research/background_art_tools.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

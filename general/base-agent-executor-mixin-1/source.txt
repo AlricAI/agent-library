@@ -1,6 +1,0 @@
-Agent: Base Agent Executor Mixin
-Alric.AI page: https://alric.ai/agents/base-agent-executor-mixin-1
-Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/crewai/lib/crewai/src/crewai/agents/agent_builder/base_agent_executor_mixin.py
-Source repository: https://github.com/ngTwg/Branding-Focused-Skills
-
-Discovered and indexed by Alric.AI (https://alric.ai)

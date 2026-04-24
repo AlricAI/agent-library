@@ -1,0 +1,6 @@
+Agent: Preference Pattern Analyzer
+Alric.AI page: https://alric.ai/agents/preference-pattern-analyzer-2
+Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/.claude/agents/amplihack/specialized/preference-reviewer.md
+Source repository: https://github.com/rysweet/AzureHayMaker
+
+Discovered and indexed by Alric.AI (https://alric.ai)

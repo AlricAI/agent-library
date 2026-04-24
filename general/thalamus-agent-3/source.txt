@@ -1,6 +1,0 @@
-Agent: Thalamus Agent
-Alric.AI page: https://alric.ai/agents/thalamus-agent-3
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/brain/agents/thalamus_agent.py
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

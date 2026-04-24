@@ -1,6 +1,0 @@
-Agent: Meta Clarification Example
-Alric.AI page: https://alric.ai/agents/meta-clarification-example
-Source file: https://github.com/Khamel83/Atlas_OLD/blob/HEAD/examples/meta_clarification_example.md
-Source repository: https://github.com/Khamel83/Atlas_OLD
-
-Discovered and indexed by Alric.AI (https://alric.ai)

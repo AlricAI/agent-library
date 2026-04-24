@@ -1,0 +1,6 @@
+Agent: Materials Scientist Analyst
+Alric.AI page: https://alric.ai/agents/materials-scientist-analyst-2
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/materials-scientist/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

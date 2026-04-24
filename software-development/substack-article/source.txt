@@ -1,6 +1,0 @@
-Agent: Substack Article
-Alric.AI page: https://alric.ai/agents/substack-article
-Source file: https://github.com/rlajous/claude-code-commands/blob/HEAD/content/substack-article.md
-Source repository: https://github.com/rlajous/claude-code-commands
-
-Discovered and indexed by Alric.AI (https://alric.ai)

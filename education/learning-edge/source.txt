@@ -1,6 +1,0 @@
-Agent: Learning Edge
-Alric.AI page: https://alric.ai/agents/learning-edge
-Source file: https://github.com/blex2011/My-Context/blob/HEAD/context-components/learning-edge.md
-Source repository: https://github.com/blex2011/My-Context
-
-Discovered and indexed by Alric.AI (https://alric.ai)

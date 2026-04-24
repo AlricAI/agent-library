@@ -1,6 +1,0 @@
-Agent: Ep06 Hooks
-Alric.AI page: https://alric.ai/agents/ep06-hooks
-Source file: https://github.com/ohama/MyGsd/blob/HEAD/youtube/ep06-hooks.md
-Source repository: https://github.com/ohama/MyGsd
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: OXIDIZER
-Alric.AI page: https://alric.ai/agents/oxidizer-1
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/docs/OXIDIZER.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

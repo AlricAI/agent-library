@@ -1,6 +1,0 @@
-Agent: COMMENTS CHANGELOG
-Alric.AI page: https://alric.ai/agents/comments-changelog
-Source file: https://github.com/sighthoundinc/sighthound-content-ops/blob/HEAD/docs/COMMENTS_CHANGELOG.md
-Source repository: https://github.com/sighthoundinc/sighthound-content-ops
-
-Discovered and indexed by Alric.AI (https://alric.ai)

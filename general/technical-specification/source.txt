@@ -1,6 +1,0 @@
-Agent: TECHNICAL SPECIFICATION
-Alric.AI page: https://alric.ai/agents/technical-specification
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/docs/TECHNICAL_SPECIFICATION.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

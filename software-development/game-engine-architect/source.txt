@@ -1,0 +1,6 @@
+Agent: Game Engine Architect
+Alric.AI page: https://alric.ai/agents/game-engine-architect
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/core/game-developer.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

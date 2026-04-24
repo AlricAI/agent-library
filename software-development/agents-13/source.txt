@@ -1,6 +1,0 @@
-Agent: AGENTS
-Alric.AI page: https://alric.ai/agents/agents-13
-Source file: https://github.com/keyteki/keyteki/blob/HEAD/server/AGENTS.md
-Source repository: https://github.com/keyteki/keyteki
-
-Discovered and indexed by Alric.AI (https://alric.ai)

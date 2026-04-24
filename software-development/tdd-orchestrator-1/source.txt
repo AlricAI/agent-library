@@ -1,6 +1,0 @@
-Agent: Tdd Workflow Orchestrator
-Alric.AI page: https://alric.ai/agents/tdd-orchestrator-1
-Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/tdd-workflows/agents/tdd-orchestrator.md
-Source repository: https://github.com/wshobson/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Ingestion Behavioral Rules Governance
-Alric.AI page: https://alric.ai/agents/ingestion-behavioral-rules-governance
-Source file: https://github.com/dannySubsense/PineScript-Builder/blob/HEAD/docs/ingestion_behavioral_rules_governance.md
-Source repository: https://github.com/dannySubsense/PineScript-Builder
-
-Discovered and indexed by Alric.AI (https://alric.ai)

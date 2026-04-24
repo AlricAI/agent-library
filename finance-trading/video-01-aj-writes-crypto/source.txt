@@ -1,6 +1,0 @@
-Agent: VIDEO 01 AJ WRITES CRYPTO
-Alric.AI page: https://alric.ai/agents/video-01-aj-writes-crypto
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/the-great-cryptonio/education/video-summaries/VIDEO_01_AJ_WRITES_CRYPTO.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

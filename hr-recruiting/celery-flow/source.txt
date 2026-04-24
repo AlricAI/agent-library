@@ -1,6 +1,0 @@
-Agent: CELERY FLOW
-Alric.AI page: https://alric.ai/agents/celery-flow
-Source file: https://github.com/massoudsh/Findash/blob/HEAD/docs/CELERY_FLOW.md
-Source repository: https://github.com/massoudsh/Findash
-
-Discovered and indexed by Alric.AI (https://alric.ai)

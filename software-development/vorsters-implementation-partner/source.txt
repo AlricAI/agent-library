@@ -1,0 +1,6 @@
+Agent: Vorsters Implementation Partner
+Alric.AI page: https://alric.ai/agents/vorsters-implementation-partner
+Source file: https://github.com/koenvorster/Personal_project_VorstersNV/blob/HEAD/.github/agents/developer.agent.md
+Source repository: https://github.com/koenvorster/Personal_project_VorstersNV
+
+Discovered and indexed by Alric.AI (https://alric.ai)

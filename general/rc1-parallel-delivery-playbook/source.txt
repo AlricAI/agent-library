@@ -1,6 +1,0 @@
-Agent: RC1 PARALLEL DELIVERY PLAYBOOK
-Alric.AI page: https://alric.ai/agents/rc1-parallel-delivery-playbook
-Source file: https://github.com/pllporg/karen/blob/HEAD/docs/RC1_PARALLEL_DELIVERY_PLAYBOOK.md
-Source repository: https://github.com/pllporg/karen
-
-Discovered and indexed by Alric.AI (https://alric.ai)

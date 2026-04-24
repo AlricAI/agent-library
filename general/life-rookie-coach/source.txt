@@ -1,0 +1,6 @@
+Agent: Life Rookie Coach
+Alric.AI page: https://alric.ai/agents/life-rookie-coach
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/meeting-bots/agents/life-rookie.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

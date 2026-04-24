@@ -1,6 +1,0 @@
-Agent: PRD
-Alric.AI page: https://alric.ai/agents/prd-3
-Source file: https://github.com/fysoul17/cal-ai-clone/blob/HEAD/docs/PRD.md
-Source repository: https://github.com/fysoul17/cal-ai-clone
-
-Discovered and indexed by Alric.AI (https://alric.ai)

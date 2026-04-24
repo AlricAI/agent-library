@@ -1,6 +1,0 @@
-Agent: Working With Roles
-Alric.AI page: https://alric.ai/agents/working-with-roles
-Source file: https://github.com/DecoyLex/ltix/blob/HEAD/guides/working-with-roles.md
-Source repository: https://github.com/DecoyLex/ltix
-
-Discovered and indexed by Alric.AI (https://alric.ai)

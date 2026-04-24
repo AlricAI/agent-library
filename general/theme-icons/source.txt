@@ -1,6 +1,0 @@
-Agent: Theme Icons
-Alric.AI page: https://alric.ai/agents/theme-icons
-Source file: https://github.com/Saluana/or3-chat/blob/HEAD/docs/theme-icons.md
-Source repository: https://github.com/Saluana/or3-chat
-
-Discovered and indexed by Alric.AI (https://alric.ai)

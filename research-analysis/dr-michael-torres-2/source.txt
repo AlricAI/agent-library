@@ -1,6 +1,0 @@
-Agent: Dr. Michael Torres
-Alric.AI page: https://alric.ai/agents/dr-michael-torres-2
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/research-methods-lead/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Git Commit Helper
+Alric.AI page: https://alric.ai/agents/git-commit-helper
+Source file: https://github.com/julianromli/opencode-template/blob/HEAD/command/commit.md
+Source repository: https://github.com/julianromli/opencode-template
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Molecular Docking Specialist
+Alric.AI page: https://alric.ai/agents/molecular-docking-specialist
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/molecular-docking-specialist/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

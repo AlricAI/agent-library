@@ -1,6 +1,0 @@
-Agent: INGESTION LOG
-Alric.AI page: https://alric.ai/agents/ingestion-log
-Source file: https://github.com/Siebenwind/7w_wiki/blob/HEAD/Logs/INGESTION_LOG.md
-Source repository: https://github.com/Siebenwind/7w_wiki
-
-Discovered and indexed by Alric.AI (https://alric.ai)

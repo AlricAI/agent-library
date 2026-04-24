@@ -1,6 +1,0 @@
-Agent: Week7
-Alric.AI page: https://alric.ai/agents/week7-1
-Source file: https://github.com/KushagraBharti/Beyond-Chat/blob/HEAD/weeklyUpdates/week7.md
-Source repository: https://github.com/KushagraBharti/Beyond-Chat
-
-Discovered and indexed by Alric.AI (https://alric.ai)

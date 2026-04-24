@@ -1,6 +1,0 @@
-Agent: refactoring-specialist
-Alric.AI page: https://alric.ai/agents/refactoring-specialist
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/tool/refactoring-specialist.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

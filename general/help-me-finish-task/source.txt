@@ -1,6 +1,0 @@
-Agent: Help Me Finish Task
-Alric.AI page: https://alric.ai/agents/help-me-finish-task
-Source file: https://github.com/intentee/poet/blob/HEAD/prompts/help-me-finish-task.md
-Source repository: https://github.com/intentee/poet
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Founding Engineer
+Alric.AI page: https://alric.ai/agents/founding-engineer-9
+Source file: https://github.com/townie/do-it/blob/HEAD/agents/founding-engineer/AGENTS.md
+Source repository: https://github.com/townie/do-it
+
+Discovered and indexed by Alric.AI (https://alric.ai)

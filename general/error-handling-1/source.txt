@@ -1,6 +1,0 @@
-Agent: Error Handling
-Alric.AI page: https://alric.ai/agents/error-handling-1
-Source file: https://github.com/DecoyLex/ltix/blob/HEAD/guides/error-handling.md
-Source repository: https://github.com/DecoyLex/ltix
-
-Discovered and indexed by Alric.AI (https://alric.ai)

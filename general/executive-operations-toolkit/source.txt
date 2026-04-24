@@ -1,0 +1,6 @@
+Agent: Executive Operations Toolkit
+Alric.AI page: https://alric.ai/agents/executive-operations-toolkit
+Source file: https://github.com/cass-clearly/remarq/blob/HEAD/agents/ceo/TOOLS.md
+Source repository: https://github.com/cass-clearly/remarq
+
+Discovered and indexed by Alric.AI (https://alric.ai)

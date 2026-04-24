@@ -1,0 +1,6 @@
+Agent: Local Operations Strategist
+Alric.AI page: https://alric.ai/agents/local-operations-strategist
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/hume/SOUL.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

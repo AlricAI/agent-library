@@ -1,6 +1,0 @@
-Agent: error-detective
-Alric.AI page: https://alric.ai/agents/error-detective-10
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/plugins/error-debugging/agents/error-detective.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

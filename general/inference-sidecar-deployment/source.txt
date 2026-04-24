@@ -1,6 +1,0 @@
-Agent: Inference Sidecar Deployment
-Alric.AI page: https://alric.ai/agents/inference-sidecar-deployment
-Source file: https://github.com/virtengine/virtengine/blob/HEAD/docs/inference-sidecar-deployment.md
-Source repository: https://github.com/virtengine/virtengine
-
-Discovered and indexed by Alric.AI (https://alric.ai)

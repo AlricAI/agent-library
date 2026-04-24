@@ -1,0 +1,6 @@
+Agent: Operator Constraint Navigator
+Alric.AI page: https://alric.ai/agents/operator-constraint-navigator-2
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/site-operator-partnership-agent/Soul.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

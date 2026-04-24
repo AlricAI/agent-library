@@ -1,6 +1,0 @@
-Agent: SECURITY
-Alric.AI page: https://alric.ai/agents/security-26
-Source file: https://github.com/OpenMOSS/OurClaw/blob/HEAD/openclaw/SECURITY.md
-Source repository: https://github.com/OpenMOSS/OurClaw
-
-Discovered and indexed by Alric.AI (https://alric.ai)

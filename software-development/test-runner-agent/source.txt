@@ -1,0 +1,6 @@
+Agent: Test Runner Agent
+Alric.AI page: https://alric.ai/agents/test-runner-agent
+Source file: https://github.com/webdevtodayjason/sub-agents/blob/HEAD/commands/test.md
+Source repository: https://github.com/webdevtodayjason/sub-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

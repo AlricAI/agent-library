@@ -1,6 +1,0 @@
-Agent: BRAIN COMPARISON ANALYSIS
-Alric.AI page: https://alric.ai/agents/brain-comparison-analysis-1
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/docs/BRAIN_COMPARISON_ANALYSIS.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Tdd
-Alric.AI page: https://alric.ai/agents/tdd-1
-Source file: https://github.com/rlajous/claude-code-commands/blob/HEAD/commands/tdd.md
-Source repository: https://github.com/rlajous/claude-code-commands
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: DB SYNC SERVER
-Alric.AI page: https://alric.ai/agents/db-sync-server-1
-Source file: https://github.com/madeindigio/remembrances-mcp/blob/HEAD/docs/DB_SYNC_SERVER.md
-Source repository: https://github.com/madeindigio/remembrances-mcp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

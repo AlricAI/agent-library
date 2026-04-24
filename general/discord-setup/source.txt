@@ -1,6 +1,0 @@
-Agent: DISCORD SETUP
-Alric.AI page: https://alric.ai/agents/discord-setup
-Source file: https://github.com/anchapin/ModPorter-AI/blob/HEAD/docs/DISCORD-SETUP.md
-Source repository: https://github.com/anchapin/ModPorter-AI
-
-Discovered and indexed by Alric.AI (https://alric.ai)

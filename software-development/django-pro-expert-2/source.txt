@@ -1,0 +1,6 @@
+Agent: Django Pro Expert
+Alric.AI page: https://alric.ai/agents/django-pro-expert-2
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/python-development/agents/django-pro.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

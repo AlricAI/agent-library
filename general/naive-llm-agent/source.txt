@@ -1,6 +1,0 @@
-Agent: Naive Llm Agent
-Alric.AI page: https://alric.ai/agents/naive-llm-agent
-Source file: https://github.com/justindobbs/Tracecore/blob/HEAD/agent_bench/agents/naive_llm_agent.py
-Source repository: https://github.com/justindobbs/Tracecore
-
-Discovered and indexed by Alric.AI (https://alric.ai)

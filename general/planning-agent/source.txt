@@ -1,6 +1,0 @@
-Agent: planning agent
-Alric.AI page: https://alric.ai/agents/planning-agent
-Source file: https://github.com/Saluana/or3-chat/blob/HEAD/.github/agents/planning-agent.md
-Source repository: https://github.com/Saluana/or3-chat
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Ledger Finance Tracker
+Alric.AI page: https://alric.ai/agents/ledger-finance-tracker
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/ledger/SOUL.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

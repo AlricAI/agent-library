@@ -1,6 +1,0 @@
-Agent: Code Subagents Index
-Alric.AI page: https://alric.ai/agents/agent-index
-Source file: https://github.com/gensecaihq/Claude-Code-Subagents-Collection/blob/HEAD/subagents/AGENT_INDEX.md
-Source repository: https://github.com/gensecaihq/Claude-Code-Subagents-Collection
-
-Discovered and indexed by Alric.AI (https://alric.ai)

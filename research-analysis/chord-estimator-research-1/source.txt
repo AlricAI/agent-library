@@ -1,6 +1,0 @@
-Agent: Chord Estimator Research 1
-Alric.AI page: https://alric.ai/agents/chord-estimator-research-1
-Source file: https://github.com/Maokus/MVMNT/blob/HEAD/thoughts/chord-estimator-research-1.md
-Source repository: https://github.com/Maokus/MVMNT
-
-Discovered and indexed by Alric.AI (https://alric.ai)

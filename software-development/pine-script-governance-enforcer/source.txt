@@ -1,0 +1,6 @@
+Agent: Pine Script Governance Enforcer
+Alric.AI page: https://alric.ai/agents/pine-script-governance-enforcer
+Source file: https://github.com/dannySubsense/PineScript-Builder/blob/HEAD/docs/ingestion_behavioral_rules_governance.md
+Source repository: https://github.com/dannySubsense/PineScript-Builder
+
+Discovered and indexed by Alric.AI (https://alric.ai)

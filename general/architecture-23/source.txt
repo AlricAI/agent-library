@@ -1,6 +1,0 @@
-Agent: Architecture
-Alric.AI page: https://alric.ai/agents/architecture-23
-Source file: https://github.com/joggrdocs/funkai/blob/HEAD/docs/architecture.md
-Source repository: https://github.com/joggrdocs/funkai
-
-Discovered and indexed by Alric.AI (https://alric.ai)

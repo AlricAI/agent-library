@@ -1,6 +1,0 @@
-Agent: Lti Core V1p3
-Alric.AI page: https://alric.ai/agents/lti-core-v1p3
-Source file: https://github.com/DecoyLex/ltix/blob/HEAD/specs/lti-core-v1p3.md
-Source repository: https://github.com/DecoyLex/ltix
-
-Discovered and indexed by Alric.AI (https://alric.ai)

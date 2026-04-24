@@ -1,6 +1,0 @@
-Agent: Generate Leads
-Alric.AI page: https://alric.ai/agents/generate-leads
-Source file: https://github.com/chehaba/prospecting/blob/HEAD/agent/generate-leads.md
-Source repository: https://github.com/chehaba/prospecting
-
-Discovered and indexed by Alric.AI (https://alric.ai)

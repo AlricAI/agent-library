@@ -1,0 +1,6 @@
+Agent: Olivia Design System Lead
+Alric.AI page: https://alric.ai/agents/olivia-design-system-lead
+Source file: https://github.com/LoveAndCoding/olivia/blob/HEAD/agents/designer/AGENTS.md
+Source repository: https://github.com/LoveAndCoding/olivia
+
+Discovered and indexed by Alric.AI (https://alric.ai)

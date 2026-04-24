@@ -1,6 +1,0 @@
-Agent: Base Agent Test
-Alric.AI page: https://alric.ai/agents/base-agent-test
-Source file: https://github.com/danielgonzagat/megaIAAA/blob/HEAD/crewAI/tests/agents/agent_builder/base_agent_test.py
-Source repository: https://github.com/danielgonzagat/megaIAAA
-
-Discovered and indexed by Alric.AI (https://alric.ai)

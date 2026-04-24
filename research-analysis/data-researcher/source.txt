@@ -1,6 +1,0 @@
-Agent: data-researcher
-Alric.AI page: https://alric.ai/agents/data-researcher
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/data/science/data-researcher.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

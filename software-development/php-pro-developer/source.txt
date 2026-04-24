@@ -1,0 +1,6 @@
+Agent: Php Pro Developer
+Alric.AI page: https://alric.ai/agents/php-pro-developer
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/web-scripting/agents/php-pro.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

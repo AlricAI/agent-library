@@ -1,0 +1,6 @@
+Agent: Tdd Workflow Guide
+Alric.AI page: https://alric.ai/agents/tdd-workflow-guide
+Source file: https://github.com/rlajous/claude-code-commands/blob/HEAD/commands/tdd.md
+Source repository: https://github.com/rlajous/claude-code-commands
+
+Discovered and indexed by Alric.AI (https://alric.ai)

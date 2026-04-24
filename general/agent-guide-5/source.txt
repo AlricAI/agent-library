@@ -1,6 +1,0 @@
-Agent: AGENT GUIDE
-Alric.AI page: https://alric.ai/agents/agent-guide-5
-Source file: https://github.com/dotojr123/crewai-production-ready/blob/HEAD/ai-workspace/AGENT_GUIDE.md
-Source repository: https://github.com/dotojr123/crewai-production-ready
-
-Discovered and indexed by Alric.AI (https://alric.ai)

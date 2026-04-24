@@ -1,6 +1,0 @@
-Agent: CEO
-Alric.AI page: https://alric.ai/agents/ceo-58
-Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/mcm-forge/agents/ceo/AGENTS.md
-Source repository: https://github.com/golfballnut/mcmforge
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Terms And Conditions
-Alric.AI page: https://alric.ai/agents/terms-and-conditions-2
-Source file: https://github.com/Wamocon/wamohub/blob/HEAD/legal-docs/terms-and-conditions.md
-Source repository: https://github.com/Wamocon/wamohub
-
-Discovered and indexed by Alric.AI (https://alric.ai)

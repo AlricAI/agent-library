@@ -1,6 +1,0 @@
-Agent: Speech
-Alric.AI page: https://alric.ai/agents/speech
-Source file: https://github.com/aymenfurter/aymenfurter.ch/blob/HEAD/archetypes/speech.md
-Source repository: https://github.com/aymenfurter/aymenfurter.ch
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Ux Designer Next Steps
-Alric.AI page: https://alric.ai/agents/ux-designer-next-steps
-Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/memory/ux-designer-next-steps.md
-Source repository: https://github.com/Trollz1004/ANTIGRAVITY
-
-Discovered and indexed by Alric.AI (https://alric.ai)

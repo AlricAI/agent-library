@@ -1,0 +1,6 @@
+Agent: Proteomics Database Specialist
+Alric.AI page: https://alric.ai/agents/proteomics-database-specialist
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/proteomics-db-specialist/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

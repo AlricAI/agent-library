@@ -1,6 +1,0 @@
-Agent: Migration Tool
-Alric.AI page: https://alric.ai/agents/migration-tool
-Source file: https://github.com/anshulyadav1976/legacy-profen/blob/HEAD/docs/migration-tool.md
-Source repository: https://github.com/anshulyadav1976/legacy-profen
-
-Discovered and indexed by Alric.AI (https://alric.ai)

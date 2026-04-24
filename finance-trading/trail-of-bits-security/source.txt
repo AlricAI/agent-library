@@ -1,6 +1,0 @@
-Agent: Trail of Bits Security
-Alric.AI page: https://alric.ai/agents/trail-of-bits-security
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/trail-of-bits-security/COMPANY.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: React Performance Optimizer
+Alric.AI page: https://alric.ai/agents/react-performance-optimizer
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/react-performance-optimization.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

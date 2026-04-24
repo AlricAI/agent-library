@@ -1,6 +1,0 @@
-Agent: Index
-Alric.AI page: https://alric.ai/agents/index-51
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/docs/index.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

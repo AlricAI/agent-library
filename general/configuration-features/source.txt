@@ -1,6 +1,0 @@
-Agent: Configuration Features
-Alric.AI page: https://alric.ai/agents/configuration-features
-Source file: https://github.com/robch/cycod/blob/HEAD/docs/configuration-features.md
-Source repository: https://github.com/robch/cycod
-
-Discovered and indexed by Alric.AI (https://alric.ai)

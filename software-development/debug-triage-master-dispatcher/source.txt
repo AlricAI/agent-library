@@ -1,0 +1,6 @@
+Agent: Debug Triage Master Dispatcher
+Alric.AI page: https://alric.ai/agents/debug-triage-master-dispatcher
+Source file: https://github.com/dreadstar/orbot-abhaya-android/blob/HEAD/vscode-skills/debug-triage.md
+Source repository: https://github.com/dreadstar/orbot-abhaya-android
+
+Discovered and indexed by Alric.AI (https://alric.ai)

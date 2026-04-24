@@ -1,6 +1,0 @@
-Agent: Design System Update April 2026
-Alric.AI page: https://alric.ai/agents/design-system-update-april-2026
-Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/design-specs/design-system-update-april-2026.md
-Source repository: https://github.com/Trollz1004/ANTIGRAVITY
-
-Discovered and indexed by Alric.AI (https://alric.ai)

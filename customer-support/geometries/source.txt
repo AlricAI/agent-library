@@ -1,6 +1,0 @@
-Agent: Geometries
-Alric.AI page: https://alric.ai/agents/geometries
-Source file: https://github.com/Hyper3Labs/hyper-scatter/blob/HEAD/docs/geometries.md
-Source repository: https://github.com/Hyper3Labs/hyper-scatter
-
-Discovered and indexed by Alric.AI (https://alric.ai)

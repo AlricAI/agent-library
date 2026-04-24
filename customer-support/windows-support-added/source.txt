@@ -1,6 +1,0 @@
-Agent: WINDOWS SUPPORT ADDED
-Alric.AI page: https://alric.ai/agents/windows-support-added
-Source file: https://github.com/madeindigio/remembrances-mcp/blob/HEAD/docs/WINDOWS_SUPPORT_ADDED.md
-Source repository: https://github.com/madeindigio/remembrances-mcp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Codebase Aware Context Loader
+Alric.AI page: https://alric.ai/agents/codebase-aware-context-loader
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/codebase-aware/core.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

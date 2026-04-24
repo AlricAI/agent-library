@@ -1,6 +1,0 @@
-Agent: Api
-Alric.AI page: https://alric.ai/agents/api-3
-Source file: https://github.com/anshulyadav1976/legacy-profen/blob/HEAD/docs/api.md
-Source repository: https://github.com/anshulyadav1976/legacy-profen
-
-Discovered and indexed by Alric.AI (https://alric.ai)

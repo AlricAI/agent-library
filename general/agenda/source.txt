@@ -1,6 +1,0 @@
-Agent: Agenda
-Alric.AI page: https://alric.ai/agents/agenda
-Source file: https://github.com/hl/epona/blob/HEAD/specs/agenda.md
-Source repository: https://github.com/hl/epona
-
-Discovered and indexed by Alric.AI (https://alric.ai)

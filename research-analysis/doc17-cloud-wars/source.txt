@@ -1,6 +1,0 @@
-Agent: Doc17 Cloud Wars
-Alric.AI page: https://alric.ai/agents/doc17-cloud-wars
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/context-engineering-intro/use-cases/agent-factory-with-subagents/agents/rag_agent/documents/doc17_cloud_wars.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

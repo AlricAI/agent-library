@@ -1,6 +1,0 @@
-Agent: BP StateMachine
-Alric.AI page: https://alric.ai/agents/bp-statemachine
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/technical/unreal-expert/blueprints/BP_StateMachine.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

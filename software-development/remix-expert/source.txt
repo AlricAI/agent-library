@@ -1,6 +1,0 @@
-Agent: Remix Web Application Expert
-Alric.AI page: https://alric.ai/agents/remix-expert
-Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/remix-expert.md
-Source repository: https://github.com/0xfurai/claude-code-subagents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Notion Sync Troubleshooting
-Alric.AI page: https://alric.ai/agents/notion-sync-troubleshooting
-Source file: https://github.com/AureliusIvan/cursor-next-template/blob/HEAD/docs/notion-sync-troubleshooting.md
-Source repository: https://github.com/AureliusIvan/cursor-next-template
-
-Discovered and indexed by Alric.AI (https://alric.ai)

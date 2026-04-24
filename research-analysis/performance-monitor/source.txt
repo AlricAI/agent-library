@@ -1,6 +1,0 @@
-Agent: performance-monitor
-Alric.AI page: https://alric.ai/agents/performance-monitor
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/meta/orchestration/performance-monitor.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

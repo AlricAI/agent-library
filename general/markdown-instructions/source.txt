@@ -1,6 +1,0 @@
-Agent: Markdown Content Validator
-Alric.AI page: https://alric.ai/agents/markdown-instructions
-Source file: https://github.com/tfha/agent-instructions/blob/HEAD/instructions/markdown.instructions.md
-Source repository: https://github.com/tfha/agent-instructions
-
-Discovered and indexed by Alric.AI (https://alric.ai)

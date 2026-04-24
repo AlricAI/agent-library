@@ -1,6 +1,0 @@
-Agent: TARGETV2
-Alric.AI page: https://alric.ai/agents/targetv2-1
-Source file: https://github.com/Baguspanji/jimpitan-app/blob/HEAD/docs/TARGETV2.MD
-Source repository: https://github.com/Baguspanji/jimpitan-app
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: agents
-Alric.AI page: https://alric.ai/agents/agents-566
-Source file: https://github.com/RomanEntertainmentSoftwareLLC/Autonomous-Corp-Capital/blob/HEAD/config/agents.yaml
-Source repository: https://github.com/RomanEntertainmentSoftwareLLC/Autonomous-Corp-Capital
-
-Discovered and indexed by Alric.AI (https://alric.ai)

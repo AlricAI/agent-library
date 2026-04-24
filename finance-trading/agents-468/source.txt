@@ -1,6 +1,0 @@
-Agent: AGENTS
-Alric.AI page: https://alric.ai/agents/agents-468
-Source file: https://github.com/karis-ai/karis/blob/HEAD/agents/AGENTS.md
-Source repository: https://github.com/karis-ai/karis
-
-Discovered and indexed by Alric.AI (https://alric.ai)

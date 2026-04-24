@@ -1,6 +1,0 @@
-Agent: Igniter.js: Core Architecture
-Alric.AI page: https://alric.ai/agents/igniter-js-core-architecture-5
-Source file: https://github.com/felipebarcelospro/igniter-js/blob/HEAD/apps/starter-deno-rest-api/.cursor/rules/igniter-architecture.mdc
-Source repository: https://github.com/felipebarcelospro/igniter-js
-
-Discovered and indexed by Alric.AI (https://alric.ai)

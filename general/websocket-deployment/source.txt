@@ -1,6 +1,0 @@
-Agent: WEBSOCKET DEPLOYMENT
-Alric.AI page: https://alric.ai/agents/websocket-deployment
-Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/web/WEBSOCKET-DEPLOYMENT.md
-Source repository: https://github.com/bdecrem/vibeceo
-
-Discovered and indexed by Alric.AI (https://alric.ai)

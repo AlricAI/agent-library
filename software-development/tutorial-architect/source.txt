@@ -1,0 +1,6 @@
+Agent: Tutorial Architect
+Alric.AI page: https://alric.ai/agents/tutorial-architect
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/pixelpit/xSOUL-SOUL.md
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

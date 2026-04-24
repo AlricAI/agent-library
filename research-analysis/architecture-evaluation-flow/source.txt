@@ -1,6 +1,0 @@
-Agent: Architecture Evaluation Flow
-Alric.AI page: https://alric.ai/agents/architecture-evaluation-flow
-Source file: https://github.com/chuanseng-ng/digital-chip-design-agents/blob/HEAD/docs/Architecture_Evaluation_Flow.md
-Source repository: https://github.com/chuanseng-ng/digital-chip-design-agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Trail Point Of Interest Discovery
+Alric.AI page: https://alric.ai/agents/trail-point-of-interest-discovery
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/poi-discovery-v2.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

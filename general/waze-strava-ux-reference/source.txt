@@ -1,6 +1,0 @@
-Agent: WAZE STRAVA UX REFERENCE
-Alric.AI page: https://alric.ai/agents/waze-strava-ux-reference
-Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/dirtsync/agents/app-designer/WAZE-STRAVA-UX-REFERENCE.md
-Source repository: https://github.com/golfballnut/mcmforge
-
-Discovered and indexed by Alric.AI (https://alric.ai)

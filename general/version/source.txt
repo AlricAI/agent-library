@@ -1,6 +1,0 @@
-Agent: VERSION
-Alric.AI page: https://alric.ai/agents/version
-Source file: https://github.com/NVIDIA/cccl/blob/HEAD/docs/VERSION.md
-Source repository: https://github.com/NVIDIA/cccl
-
-Discovered and indexed by Alric.AI (https://alric.ai)

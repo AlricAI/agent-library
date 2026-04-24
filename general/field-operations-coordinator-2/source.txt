@@ -1,0 +1,6 @@
+Agent: Field Operations Coordinator
+Alric.AI page: https://alric.ai/agents/field-operations-coordinator-2
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/field-ops-agent/Tools.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

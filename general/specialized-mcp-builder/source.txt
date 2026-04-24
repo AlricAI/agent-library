@@ -1,0 +1,6 @@
+Agent: Specialized Mcp Builder
+Alric.AI page: https://alric.ai/agents/specialized-mcp-builder
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/specialized-mcp-builder/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

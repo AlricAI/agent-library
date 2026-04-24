@@ -1,0 +1,6 @@
+Agent: Paperclip Scheduler Recovery Assistant
+Alric.AI page: https://alric.ai/agents/paperclip-scheduler-recovery-assistant
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/docs/paperclip-routine-scheduler-recovery-handoff-2026-04-02.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

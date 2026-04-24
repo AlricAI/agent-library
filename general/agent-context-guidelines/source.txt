@@ -1,6 +1,0 @@
-Agent: Agent Context Guidelines
-Alric.AI page: https://alric.ai/agents/agent-context-guidelines
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/agent-context-guidelines.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

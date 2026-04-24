@@ -1,6 +1,0 @@
-Agent: README
-Alric.AI page: https://alric.ai/agents/readme-24
-Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/major_frameworks/camel/apps/agents/README.md
-Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
-
-Discovered and indexed by Alric.AI (https://alric.ai)

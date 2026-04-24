@@ -1,6 +1,0 @@
-Agent: SKILLS MASTER
-Alric.AI page: https://alric.ai/agents/skills-master-1
-Source file: https://github.com/partme-ai/claw-agents/blob/HEAD/docs/SKILLS-MASTER.md
-Source repository: https://github.com/partme-ai/claw-agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

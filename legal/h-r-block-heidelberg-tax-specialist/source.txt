@@ -1,6 +1,0 @@
-Agent: H&R Block Heidelberg Tax Specialist
-Alric.AI page: https://alric.ai/agents/h-r-block-heidelberg-tax-specialist
-Source file: https://github.com/twhoff/tax-fy2425/blob/HEAD/.github/agents/tax-specialist.agent.md
-Source repository: https://github.com/twhoff/tax-fy2425
-
-Discovered and indexed by Alric.AI (https://alric.ai)

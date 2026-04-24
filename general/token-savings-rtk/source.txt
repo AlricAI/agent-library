@@ -1,6 +1,0 @@
-Agent: Token Savings Rtk
-Alric.AI page: https://alric.ai/agents/token-savings-rtk
-Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/patterns/token-savings-rtk.md
-Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

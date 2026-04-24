@@ -1,0 +1,6 @@
+Agent: Nuxt Retro Chat Engineer
+Alric.AI page: https://alric.ai/agents/nuxt-retro-chat-engineer
+Source file: https://github.com/Saluana/or3-chat/blob/HEAD/.github/agents/retro-agent-v2-cloud.md
+Source repository: https://github.com/Saluana/or3-chat
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: GLOBAL 003
-Alric.AI page: https://alric.ai/agents/global-003
-Source file: https://github.com/sighthoundinc/sighthound-content-ops/blob/HEAD/audits/GLOBAL_003.md
-Source repository: https://github.com/sighthoundinc/sighthound-content-ops
-
-Discovered and indexed by Alric.AI (https://alric.ai)

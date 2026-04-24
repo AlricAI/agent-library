@@ -1,6 +1,0 @@
-Agent: Context Forge Integrator
-Alric.AI page: https://alric.ai/agents/context-forge-integration-plan
-Source file: https://github.com/webdevtodayjason/sub-agents/blob/HEAD/docs/CONTEXT-FORGE-INTEGRATION-PLAN.md
-Source repository: https://github.com/webdevtodayjason/sub-agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

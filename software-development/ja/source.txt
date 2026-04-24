@@ -1,6 +1,0 @@
-Agent: Ja
-Alric.AI page: https://alric.ai/agents/ja
-Source file: https://github.com/hippocampus-dev/hippocampus/blob/HEAD/resume/ja.md
-Source repository: https://github.com/hippocampus-dev/hippocampus
-
-Discovered and indexed by Alric.AI (https://alric.ai)

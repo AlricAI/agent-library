@@ -1,6 +1,0 @@
-Agent: EVOLUTION ROADMAP
-Alric.AI page: https://alric.ai/agents/evolution-roadmap
-Source file: https://github.com/FGD-ATR-EP/AGS/blob/HEAD/docs/EVOLUTION_ROADMAP.md
-Source repository: https://github.com/FGD-ATR-EP/AGS
-
-Discovered and indexed by Alric.AI (https://alric.ai)

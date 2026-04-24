@@ -1,6 +1,0 @@
-Agent: HOW TO AGENTS
-Alric.AI page: https://alric.ai/agents/how-to-agents-1
-Source file: https://github.com/koenvorster/Personal_project_VorstersNV/blob/HEAD/plan/HOW_TO_AGENTS.md
-Source repository: https://github.com/koenvorster/Personal_project_VorstersNV
-
-Discovered and indexed by Alric.AI (https://alric.ai)

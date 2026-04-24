@@ -1,4 +1,4 @@
-Agent: pydantic-ai-validator
+Agent: Pydantic Ai Validator
 Alric.AI page: https://alric.ai/agents/pydantic-ai-validator
 Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/context-engineering-intro/use-cases/agent-factory-with-subagents/.claude/agents/pydantic-ai-validator.md
 Source repository: https://github.com/aRustyDev/agents

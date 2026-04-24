@@ -1,4 +1,4 @@
-Agent: devops-engineer
+Agent: DevOps Engineer
 Alric.AI page: https://alric.ai/agents/devops-engineer-1
 Source file: https://github.com/koenvorster/Personal_project_VorstersNV/blob/HEAD/.github/agents/devops-engineer.agent.md
 Source repository: https://github.com/koenvorster/Personal_project_VorstersNV

@@ -1,0 +1,6 @@
+Agent: Verification And Formal Methods Lead
+Alric.AI page: https://alric.ai/agents/verification-and-formal-methods-lead
+Source file: https://github.com/paperclipai/companies/blob/HEAD/trail-of-bits-security/agents/verification-lead/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

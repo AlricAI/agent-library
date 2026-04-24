@@ -1,6 +1,0 @@
-Agent: Planning Widget
-Alric.AI page: https://alric.ai/agents/planning-widget
-Source file: https://github.com/solatis/koan/blob/HEAD/docs/planning-widget.md
-Source repository: https://github.com/solatis/koan
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Pppf Revision Memo
-Alric.AI page: https://alric.ai/agents/pppf-revision-memo
-Source file: https://github.com/eph/path-perturb-pf-2/blob/HEAD/paper/pppf_revision_memo.md
-Source repository: https://github.com/eph/path-perturb-pf-2
-
-Discovered and indexed by Alric.AI (https://alric.ai)

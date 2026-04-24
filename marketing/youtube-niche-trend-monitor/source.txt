@@ -1,0 +1,6 @@
+Agent: YouTube Niche Trend Monitor
+Alric.AI page: https://alric.ai/agents/youtube-niche-trend-monitor
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/youtube-niche-monitor.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

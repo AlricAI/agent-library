@@ -1,6 +1,0 @@
-Agent: SECURITY
-Alric.AI page: https://alric.ai/agents/security-3
-Source file: https://github.com/nirholas/bnb-chain-toolkit/blob/HEAD/erc8004-agents/SECURITY.md
-Source repository: https://github.com/nirholas/bnb-chain-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

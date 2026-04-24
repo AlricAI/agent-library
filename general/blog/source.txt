@@ -1,6 +1,0 @@
-Agent: BLOG
-Alric.AI page: https://alric.ai/agents/blog
-Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/incubator/BLOG.md
-Source repository: https://github.com/bdecrem/vibeceo
-
-Discovered and indexed by Alric.AI (https://alric.ai)

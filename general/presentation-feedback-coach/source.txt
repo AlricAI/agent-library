@@ -1,0 +1,6 @@
+Agent: Presentation Feedback Coach
+Alric.AI page: https://alric.ai/agents/presentation-feedback-coach
+Source file: https://github.com/Zidong-IA/BIBLIOTECA/blob/HEAD/references/repos-referencia/awesome-llm-apps/advanced_ai_agents/multi_agent_apps/ai_speech_trainer_agent/backend/agents/feedback_agent.py
+Source repository: https://github.com/Zidong-IA/BIBLIOTECA
+
+Discovered and indexed by Alric.AI (https://alric.ai)

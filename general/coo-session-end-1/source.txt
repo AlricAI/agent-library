@@ -1,6 +1,0 @@
-Agent: coo-session-end
-Alric.AI page: https://alric.ai/agents/coo-session-end-1
-Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/coo-session-end.md
-Source repository: https://github.com/golfballnut/mcmforge
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Database Optimizer Expert
-Alric.AI page: https://alric.ai/agents/database-optimizer-1
-Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/database-cloud-optimization/agents/database-optimizer.md
-Source repository: https://github.com/wshobson/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

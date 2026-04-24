@@ -1,6 +1,0 @@
-Agent: Logic Auditor Agent
-Alric.AI page: https://alric.ai/agents/logic-auditor-agent
-Source file: https://github.com/anchapin/ModPorter-AI/blob/HEAD/ai-engine/agents/logic_auditor_agent.py
-Source repository: https://github.com/anchapin/ModPorter-AI
-
-Discovered and indexed by Alric.AI (https://alric.ai)

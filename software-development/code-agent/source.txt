@@ -1,6 +1,0 @@
-Agent: Code Agent
-Alric.AI page: https://alric.ai/agents/code-agent
-Source file: https://github.com/MervinPraison/PraisonAIDocs/blob/HEAD/praisonaiagents/agent/code_agent.py
-Source repository: https://github.com/MervinPraison/PraisonAIDocs
-
-Discovered and indexed by Alric.AI (https://alric.ai)

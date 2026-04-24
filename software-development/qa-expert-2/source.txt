@@ -1,6 +1,0 @@
-Agent: qa-expert
-Alric.AI page: https://alric.ai/agents/qa-expert-2
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/quality/qa-expert.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

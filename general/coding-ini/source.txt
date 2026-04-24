@@ -1,6 +1,0 @@
-Agent: Coding Ini
-Alric.AI page: https://alric.ai/agents/coding-ini
-Source file: https://github.com/Inist-CNRS/ezs/blob/HEAD/docs/coding-ini.md
-Source repository: https://github.com/Inist-CNRS/ezs
-
-Discovered and indexed by Alric.AI (https://alric.ai)

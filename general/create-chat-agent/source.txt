@@ -1,6 +1,0 @@
-Agent: Create Chat Agent
-Alric.AI page: https://alric.ai/agents/create-chat-agent
-Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/major_frameworks/camel/examples/agents/create_chat_agent.py
-Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
-
-Discovered and indexed by Alric.AI (https://alric.ai)

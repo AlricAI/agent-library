@@ -1,6 +1,0 @@
-Agent: E2e Test Failures 2026 01 13
-Alric.AI page: https://alric.ai/agents/e2e-test-failures-2026-01-13-1
-Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/e2e-test-failures-2026-01-13.md
-Source repository: https://github.com/frankbria/codeframe
-
-Discovered and indexed by Alric.AI (https://alric.ai)

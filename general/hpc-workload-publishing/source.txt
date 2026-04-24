@@ -1,6 +1,0 @@
-Agent: Hpc Workload Publishing
-Alric.AI page: https://alric.ai/agents/hpc-workload-publishing
-Source file: https://github.com/virtengine/virtengine/blob/HEAD/docs/hpc-workload-publishing.md
-Source repository: https://github.com/virtengine/virtengine
-
-Discovered and indexed by Alric.AI (https://alric.ai)

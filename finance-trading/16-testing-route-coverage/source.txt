@@ -1,6 +1,0 @@
-Agent: 16 Testing Route Coverage
-Alric.AI page: https://alric.ai/agents/16-testing-route-coverage
-Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/prompts/agents/16-testing-route-coverage.md
-Source repository: https://github.com/nirholas/crypto-vision
-
-Discovered and indexed by Alric.AI (https://alric.ai)

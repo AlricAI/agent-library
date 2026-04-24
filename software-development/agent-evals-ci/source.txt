@@ -1,6 +1,0 @@
-Agent: Agent Evals Ci
-Alric.AI page: https://alric.ai/agents/agent-evals-ci
-Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/patterns/agent-evals-ci.md
-Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Rams
-Alric.AI page: https://alric.ai/agents/rams
-Source file: https://github.com/julianromli/opencode-template/blob/HEAD/command/rams.md
-Source repository: https://github.com/julianromli/opencode-template
-
-Discovered and indexed by Alric.AI (https://alric.ai)

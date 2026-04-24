@@ -1,0 +1,6 @@
+Agent: Gallery Reference Finder
+Alric.AI page: https://alric.ai/agents/gallery-reference-finder
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/meigen-ai-design/agents/gallery-researcher.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

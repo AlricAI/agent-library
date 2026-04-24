@@ -1,6 +1,0 @@
-Agent: Project Structure
-Alric.AI page: https://alric.ai/agents/project-structure-3
-Source file: https://github.com/sec-staff-lilithgames/Multi-Agents/blob/HEAD/guideline/project_structure.md
-Source repository: https://github.com/sec-staff-lilithgames/Multi-Agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

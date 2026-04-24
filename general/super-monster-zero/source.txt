@@ -1,0 +1,6 @@
+Agent: Super Monster Zero
+Alric.AI page: https://alric.ai/agents/super-monster-zero
+Source file: https://github.com/LORDBurnItUp/kds-openclaw/blob/HEAD/lord-sav/SUPER_MONSTER_ZERO.md
+Source repository: https://github.com/LORDBurnItUp/kds-openclaw
+
+Discovered and indexed by Alric.AI (https://alric.ai)

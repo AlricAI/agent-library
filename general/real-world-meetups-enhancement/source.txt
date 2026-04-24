@@ -1,6 +1,0 @@
-Agent: Real World Meetups Enhancement
-Alric.AI page: https://alric.ai/agents/real-world-meetups-enhancement
-Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/design-specs/real-world-meetups-enhancement.md
-Source repository: https://github.com/Trollz1004/ANTIGRAVITY
-
-Discovered and indexed by Alric.AI (https://alric.ai)

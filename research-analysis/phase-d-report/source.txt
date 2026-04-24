@@ -1,6 +1,0 @@
-Agent: Phase D Report
-Alric.AI page: https://alric.ai/agents/phase-d-report
-Source file: https://github.com/NoPKT/omnimem/blob/HEAD/docs/phase-d-report.md
-Source repository: https://github.com/NoPKT/omnimem
-
-Discovered and indexed by Alric.AI (https://alric.ai)

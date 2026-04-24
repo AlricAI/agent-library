@@ -1,0 +1,6 @@
+Agent: Autonomous Life Assistant
+Alric.AI page: https://alric.ai/agents/autonomous-life-assistant
+Source file: https://github.com/OpenMOSS/OurClaw/blob/HEAD/commonworkspace/SOUL.md
+Source repository: https://github.com/OpenMOSS/OurClaw
+
+Discovered and indexed by Alric.AI (https://alric.ai)

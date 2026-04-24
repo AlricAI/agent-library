@@ -1,0 +1,6 @@
+Agent: Content Creator Pro
+Alric.AI page: https://alric.ai/agents/content-creator-pro
+Source file: https://github.com/contains-studio/agents/blob/HEAD/marketing/content-creator.md
+Source repository: https://github.com/contains-studio/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

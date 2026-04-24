@@ -1,6 +1,0 @@
-Agent: Meetup Feature Enhancement Detailed
-Alric.AI page: https://alric.ai/agents/meetup-feature-enhancement-detailed
-Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/design-specs/meetup-feature-enhancement-detailed.md
-Source repository: https://github.com/Trollz1004/ANTIGRAVITY
-
-Discovered and indexed by Alric.AI (https://alric.ai)

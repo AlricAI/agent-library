@@ -1,6 +1,0 @@
-Agent: RESEARCH 3 DAILY TRACKER
-Alric.AI page: https://alric.ai/agents/research-3-daily-tracker
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/queue/RESEARCH_3_DAILY_TRACKER.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

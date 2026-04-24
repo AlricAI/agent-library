@@ -1,6 +1,0 @@
-Agent: Hudn Hall Issia Notes Mike 2026 04 05
-Alric.AI page: https://alric.ai/agents/hudn-hall-issia-notes-mike-2026-04-05
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/reports/hudn_hall_issia_notes_mike_2026-04-05.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

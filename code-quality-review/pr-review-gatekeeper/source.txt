@@ -1,0 +1,6 @@
+Agent: PR Review Gatekeeper
+Alric.AI page: https://alric.ai/agents/pr-review-gatekeeper
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/mcm-forge/agents/forge-reviewer/HEARTBEAT.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

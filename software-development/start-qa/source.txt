@@ -1,6 +1,0 @@
-Agent: Start Qa
-Alric.AI page: https://alric.ai/agents/start-qa
-Source file: https://github.com/rlajous/claude-code-commands/blob/HEAD/commands/start-qa.md
-Source repository: https://github.com/rlajous/claude-code-commands
-
-Discovered and indexed by Alric.AI (https://alric.ai)

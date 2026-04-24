@@ -1,4 +1,4 @@
-Agent: csharp-pro
+Agent: CSharp Pro
 Alric.AI page: https://alric.ai/agents/csharp-pro-1
 Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/csharp-pro.md
 Source repository: https://github.com/aRustyDev/agents

@@ -1,6 +1,0 @@
-Agent: Implementation Planner
-Alric.AI page: https://alric.ai/agents/planner-chatmode
-Source file: https://github.com/tfha/agent-instructions/blob/HEAD/chatmodes/planner.chatmode.md
-Source repository: https://github.com/tfha/agent-instructions
-
-Discovered and indexed by Alric.AI (https://alric.ai)

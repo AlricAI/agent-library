@@ -1,6 +1,0 @@
-Agent: Chat Backend Heap Planning Context
-Alric.AI page: https://alric.ai/agents/chat-backend-heap-planning-context
-Source file: https://github.com/cap-jmk-real/agentron/blob/HEAD/docs/chat-backend-heap-planning-context.md
-Source repository: https://github.com/cap-jmk-real/agentron
-
-Discovered and indexed by Alric.AI (https://alric.ai)

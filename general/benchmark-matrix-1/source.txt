@@ -1,6 +1,0 @@
-Agent: Benchmark Matrix
-Alric.AI page: https://alric.ai/agents/benchmark-matrix-1
-Source file: https://github.com/numman-ali/mlxr/blob/HEAD/docs/benchmark-matrix.md
-Source repository: https://github.com/numman-ali/mlxr
-
-Discovered and indexed by Alric.AI (https://alric.ai)

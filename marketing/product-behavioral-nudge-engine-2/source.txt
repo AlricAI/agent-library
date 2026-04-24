@@ -1,0 +1,6 @@
+Agent: Product Behavioral Nudge Engine
+Alric.AI page: https://alric.ai/agents/product-behavioral-nudge-engine-2
+Source file: https://github.com/paperclipai/companies/blob/HEAD/agency-agents/agents/product-behavioral-nudge-engine/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

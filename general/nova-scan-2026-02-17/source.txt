@@ -1,6 +1,0 @@
-Agent: Nova Scan 2026 02 17
-Alric.AI page: https://alric.ai/agents/nova-scan-2026-02-17
-Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/shipshot/nova-scan-2026-02-17.md
-Source repository: https://github.com/bdecrem/vibeceo
-
-Discovered and indexed by Alric.AI (https://alric.ai)

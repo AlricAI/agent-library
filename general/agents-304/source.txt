@@ -1,6 +1,0 @@
-Agent: AGENTS
-Alric.AI page: https://alric.ai/agents/agents-304
-Source file: https://github.com/Minh-Tam-Solution/tinysdlc/blob/HEAD/templates/agents/pjm/AGENTS.md
-Source repository: https://github.com/Minh-Tam-Solution/tinysdlc
-
-Discovered and indexed by Alric.AI (https://alric.ai)

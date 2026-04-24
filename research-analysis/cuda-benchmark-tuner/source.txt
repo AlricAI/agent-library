@@ -1,0 +1,6 @@
+Agent: CUDA Benchmark Tuner
+Alric.AI page: https://alric.ai/agents/cuda-benchmark-tuner
+Source file: https://github.com/NVIDIA/cccl/blob/HEAD/.cursor/rules/tuning-analysis.mdc
+Source repository: https://github.com/NVIDIA/cccl
+
+Discovered and indexed by Alric.AI (https://alric.ai)

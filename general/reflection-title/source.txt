@@ -1,6 +1,0 @@
-Agent: Reflection Title
-Alric.AI page: https://alric.ai/agents/reflection-title
-Source file: https://github.com/bagrounds/obsidian-github-publisher-sync/blob/HEAD/specs/reflection-title.md
-Source repository: https://github.com/bagrounds/obsidian-github-publisher-sync
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: ADMIN SETUP
-Alric.AI page: https://alric.ai/agents/admin-setup-1
-Source file: https://github.com/KenotheFalcon/Pact/blob/HEAD/docs/ADMIN_SETUP.md
-Source repository: https://github.com/KenotheFalcon/Pact
-
-Discovered and indexed by Alric.AI (https://alric.ai)

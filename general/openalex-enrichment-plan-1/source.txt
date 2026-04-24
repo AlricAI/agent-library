@@ -1,6 +1,0 @@
-Agent: OPENALEX ENRICHMENT PLAN
-Alric.AI page: https://alric.ai/agents/openalex-enrichment-plan-1
-Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/sms-bot/agents/arxiv-research-graph/OPENALEX_ENRICHMENT_PLAN.md
-Source repository: https://github.com/bdecrem/vibeceo
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Pull Request Creator
+Alric.AI page: https://alric.ai/agents/pull-request-creator-3
+Source file: https://github.com/snarktank/antfarm/blob/HEAD/agents/shared/pr/AGENTS.md
+Source repository: https://github.com/snarktank/antfarm
+
+Discovered and indexed by Alric.AI (https://alric.ai)

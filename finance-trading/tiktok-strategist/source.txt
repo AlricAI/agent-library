@@ -1,6 +1,0 @@
-Agent: Tiktok Strategist
-Alric.AI page: https://alric.ai/agents/tiktok-strategist
-Source file: https://github.com/contains-studio/agents/blob/HEAD/marketing/tiktok-strategist.md
-Source repository: https://github.com/contains-studio/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Content Marketing Strategist
+Alric.AI page: https://alric.ai/agents/content-marketing-strategist-2
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-sales-marketing/agents/content-marketer.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

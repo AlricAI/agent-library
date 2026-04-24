@@ -1,6 +1,0 @@
-Agent: AGENT WORKFLOW README
-Alric.AI page: https://alric.ai/agents/agent-workflow-readme
-Source file: https://github.com/koenvorster/Personal_project_VorstersNV/blob/HEAD/plan/AGENT_WORKFLOW_README.md
-Source repository: https://github.com/koenvorster/Personal_project_VorstersNV
-
-Discovered and indexed by Alric.AI (https://alric.ai)

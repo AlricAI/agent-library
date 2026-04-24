@@ -1,6 +1,0 @@
-Agent: PowerShell Scripting Guidelines
-Alric.AI page: https://alric.ai/agents/powershell-instructions
-Source file: https://github.com/tfha/agent-instructions/blob/HEAD/instructions/powershell.instructions.md
-Source repository: https://github.com/tfha/agent-instructions
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: MONTHLY LEGAL AUDIT SCHEDULE
-Alric.AI page: https://alric.ai/agents/monthly-legal-audit-schedule
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/queue/MONTHLY_LEGAL_AUDIT_SCHEDULE.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

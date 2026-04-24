@@ -1,6 +1,0 @@
-Agent: Findash M1: Data Collector Agent
-Alric.AI page: https://alric.ai/agents/findash-m1-data-collector-agent
-Source file: https://github.com/massoudsh/Findash/blob/HEAD/.cursor/rules/findash-data-collector.mdc
-Source repository: https://github.com/massoudsh/Findash
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Xml Agent
-Alric.AI page: https://alric.ai/agents/xml-agent-2
-Source file: https://github.com/Anakonn/langchain-v01/blob/HEAD/docs/modules/agents/agent_types/xml_agent.md
-Source repository: https://github.com/Anakonn/langchain-v01
-
-Discovered and indexed by Alric.AI (https://alric.ai)

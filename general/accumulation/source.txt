@@ -1,6 +1,0 @@
-Agent: Accumulation
-Alric.AI page: https://alric.ai/agents/accumulation
-Source file: https://github.com/hl/epona/blob/HEAD/specs/accumulation.md
-Source repository: https://github.com/hl/epona
-
-Discovered and indexed by Alric.AI (https://alric.ai)

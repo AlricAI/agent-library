@@ -1,6 +1,0 @@
-Agent: LINKEDIN POST
-Alric.AI page: https://alric.ai/agents/linkedin-post
-Source file: https://github.com/koenvorster/Personal_project_VorstersNV/blob/HEAD/documentatie/LINKEDIN_POST.md
-Source repository: https://github.com/koenvorster/Personal_project_VorstersNV
-
-Discovered and indexed by Alric.AI (https://alric.ai)

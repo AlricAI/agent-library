@@ -1,6 +1,0 @@
-Agent: FRONTEND MVP README
-Alric.AI page: https://alric.ai/agents/frontend-mvp-readme
-Source file: https://github.com/anchapin/ModPorter-AI/blob/HEAD/frontend/FRONTEND_MVP_README.md
-Source repository: https://github.com/anchapin/ModPorter-AI
-
-Discovered and indexed by Alric.AI (https://alric.ai)

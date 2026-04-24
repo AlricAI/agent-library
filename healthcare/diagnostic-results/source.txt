@@ -1,6 +1,0 @@
-Agent: DIAGNOSTIC RESULTS
-Alric.AI page: https://alric.ai/agents/diagnostic-results
-Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/sms-bot/agents/recruiting/DIAGNOSTIC-RESULTS.md
-Source repository: https://github.com/bdecrem/vibeceo
-
-Discovered and indexed by Alric.AI (https://alric.ai)

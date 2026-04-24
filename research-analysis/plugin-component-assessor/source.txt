@@ -1,4 +1,4 @@
-Agent: plugin-component-assessor
+Agent: Plugin Component Assessor
 Alric.AI page: https://alric.ai/agents/plugin-component-assessor
 Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/meta/plugins/plugin-component-assessor.md
 Source repository: https://github.com/aRustyDev/agents

@@ -1,6 +1,0 @@
-Agent: Cpp Code Specialist
-Alric.AI page: https://alric.ai/agents/cpp-engineer-1
-Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-language-specialists/agents/cpp-engineer.md
-Source repository: https://github.com/davepoon/claude-code-subagents-collection
-
-Discovered and indexed by Alric.AI (https://alric.ai)

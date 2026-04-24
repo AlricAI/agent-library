@@ -1,6 +1,0 @@
-Agent: UI INTERACTION COMPLIANCE CHECKLIST
-Alric.AI page: https://alric.ai/agents/ui-interaction-compliance-checklist
-Source file: https://github.com/pllporg/karen/blob/HEAD/docs/UI_INTERACTION_COMPLIANCE_CHECKLIST.md
-Source repository: https://github.com/pllporg/karen
-
-Discovered and indexed by Alric.AI (https://alric.ai)

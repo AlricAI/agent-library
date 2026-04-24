@@ -1,6 +1,0 @@
-Agent: KNOWN ISSUES
-Alric.AI page: https://alric.ai/agents/known-issues
-Source file: https://github.com/dirmacs/ares/blob/HEAD/docs/KNOWN_ISSUES.md
-Source repository: https://github.com/dirmacs/ares
-
-Discovered and indexed by Alric.AI (https://alric.ai)

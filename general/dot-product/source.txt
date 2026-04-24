@@ -1,6 +1,0 @@
-Agent: DOT PRODUCT
-Alric.AI page: https://alric.ai/agents/dot-product
-Source file: https://github.com/nareshv82/SemanticKernal/blob/HEAD/docs/DOT_PRODUCT.md
-Source repository: https://github.com/nareshv82/SemanticKernal
-
-Discovered and indexed by Alric.AI (https://alric.ai)

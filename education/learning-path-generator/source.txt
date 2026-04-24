@@ -1,0 +1,6 @@
+Agent: Learning Path Generator
+Alric.AI page: https://alric.ai/agents/learning-path-generator
+Source file: https://github.com/nakamu12/lumineer/blob/HEAD/ai/app/agents/path_agent.py
+Source repository: https://github.com/nakamu12/lumineer
+
+Discovered and indexed by Alric.AI (https://alric.ai)

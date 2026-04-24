@@ -1,6 +1,0 @@
-Agent: Example Ollama
-Alric.AI page: https://alric.ai/agents/example-ollama
-Source file: https://github.com/genmcp/gen-mcp/blob/HEAD/docs/example-ollama.md
-Source repository: https://github.com/genmcp/gen-mcp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Bull Case Analyst
+Alric.AI page: https://alric.ai/agents/bull-case-analyst
+Source file: https://github.com/TauricResearch/TradingAgents/blob/HEAD/tradingagents/agents/researchers/bull_researcher.py
+Source repository: https://github.com/TauricResearch/TradingAgents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

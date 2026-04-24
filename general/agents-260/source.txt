@@ -1,6 +1,0 @@
-Agent: AGENTS
-Alric.AI page: https://alric.ai/agents/agents-260
-Source file: https://github.com/PetroczyP/Builder-Judge-Agent-Loop/blob/HEAD/src/templates/agents/AGENTS.md
-Source repository: https://github.com/PetroczyP/Builder-Judge-Agent-Loop
-
-Discovered and indexed by Alric.AI (https://alric.ai)

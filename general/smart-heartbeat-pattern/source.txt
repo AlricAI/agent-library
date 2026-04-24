@@ -1,6 +1,0 @@
-Agent: SMART HEARTBEAT PATTERN
-Alric.AI page: https://alric.ai/agents/smart-heartbeat-pattern
-Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/SMART_HEARTBEAT_PATTERN.md
-Source repository: https://github.com/frumu-ai/tandem
-
-Discovered and indexed by Alric.AI (https://alric.ai)

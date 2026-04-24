@@ -1,6 +1,0 @@
-Agent: Sprint Plan Phase3
-Alric.AI page: https://alric.ai/agents/sprint-plan-phase3
-Source file: https://github.com/KushagraBharti/Beyond-Chat/blob/HEAD/docs/sprint-plan-phase3.md
-Source repository: https://github.com/KushagraBharti/Beyond-Chat
-
-Discovered and indexed by Alric.AI (https://alric.ai)

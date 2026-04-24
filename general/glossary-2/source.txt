@@ -1,6 +1,0 @@
-Agent: Glossary
-Alric.AI page: https://alric.ai/agents/glossary-2
-Source file: https://github.com/tmux-python/libtmux/blob/HEAD/docs/glossary.md
-Source repository: https://github.com/tmux-python/libtmux
-
-Discovered and indexed by Alric.AI (https://alric.ai)

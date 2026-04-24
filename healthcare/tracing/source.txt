@@ -1,6 +1,0 @@
-Agent: TRACING
-Alric.AI page: https://alric.ai/agents/tracing
-Source file: https://github.com/rdaum/moor/blob/HEAD/doc/TRACING.md
-Source repository: https://github.com/rdaum/moor
-
-Discovered and indexed by Alric.AI (https://alric.ai)

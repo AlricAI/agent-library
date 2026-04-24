@@ -1,0 +1,6 @@
+Agent: Visual Bug Fix Agent
+Alric.AI page: https://alric.ai/agents/visual-bug-fix-agent
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/visual-bug-fix.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

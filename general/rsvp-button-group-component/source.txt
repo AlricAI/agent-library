@@ -1,6 +1,0 @@
-Agent: Rsvp Button Group Component
-Alric.AI page: https://alric.ai/agents/rsvp-button-group-component
-Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/design-specs/rsvp-button-group-component.md
-Source repository: https://github.com/Trollz1004/ANTIGRAVITY
-
-Discovered and indexed by Alric.AI (https://alric.ai)

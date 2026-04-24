@@ -1,0 +1,6 @@
+Agent: Network Architect Pro
+Alric.AI page: https://alric.ai/agents/network-architect-pro-2
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/infrastructure/networking/network-engineer.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

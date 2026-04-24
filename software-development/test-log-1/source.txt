@@ -1,6 +1,0 @@
-Agent: Test Log
-Alric.AI page: https://alric.ai/agents/test-log-1
-Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/major_frameworks/langchain/libs/langchain/tests/unit_tests/agents/format_scratchpad/test_log.py
-Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
-
-Discovered and indexed by Alric.AI (https://alric.ai)

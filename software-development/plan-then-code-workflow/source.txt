@@ -1,0 +1,6 @@
+Agent: Plan Then Code Workflow
+Alric.AI page: https://alric.ai/agents/plan-then-code-workflow
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/plan-then-code/workflow.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Loader
-Alric.AI page: https://alric.ai/agents/loader
-Source file: https://github.com/qemqemqem/mechawiki/blob/HEAD/src/agents/prompts/loader.py
-Source repository: https://github.com/qemqemqem/mechawiki
-
-Discovered and indexed by Alric.AI (https://alric.ai)

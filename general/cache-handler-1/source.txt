@@ -1,6 +1,0 @@
-Agent: Cache Handler
-Alric.AI page: https://alric.ai/agents/cache-handler-1
-Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/crewai/lib/crewai/src/crewai/agents/cache/cache_handler.py
-Source repository: https://github.com/ngTwg/Branding-Focused-Skills
-
-Discovered and indexed by Alric.AI (https://alric.ai)

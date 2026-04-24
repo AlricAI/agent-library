@@ -1,4 +1,4 @@
-Agent: javascript-pro
+Agent: JavaScript Pro
 Alric.AI page: https://alric.ai/agents/javascript-pro-2
 Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/lang/javascript-pro.md
 Source repository: https://github.com/aRustyDev/agents

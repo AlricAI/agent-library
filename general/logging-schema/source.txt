@@ -1,6 +1,0 @@
-Agent: LOGGING SCHEMA
-Alric.AI page: https://alric.ai/agents/logging-schema
-Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/LOGGING_SCHEMA.md
-Source repository: https://github.com/frumu-ai/tandem
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Targets
-Alric.AI page: https://alric.ai/agents/targets
-Source file: https://github.com/chehaba/prospecting/blob/HEAD/reports/targets.md
-Source repository: https://github.com/chehaba/prospecting
-
-Discovered and indexed by Alric.AI (https://alric.ai)

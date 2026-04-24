@@ -1,6 +1,0 @@
-Agent: Codebase Documentation Navigator
-Alric.AI page: https://alric.ai/agents/distributed-docs-1
-Source file: https://github.com/xiaoland/agents/blob/HEAD/prompts/distributed-docs.md
-Source repository: https://github.com/xiaoland/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

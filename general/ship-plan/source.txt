@@ -1,6 +1,0 @@
-Agent: SHIP PLAN
-Alric.AI page: https://alric.ai/agents/ship-plan
-Source file: https://github.com/rarestg/nyc-housing-scout/blob/HEAD/docs/SHIP_PLAN.md
-Source repository: https://github.com/rarestg/nyc-housing-scout
-
-Discovered and indexed by Alric.AI (https://alric.ai)

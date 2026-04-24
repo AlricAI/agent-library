@@ -1,6 +1,0 @@
-Agent: Release Automation
-Alric.AI page: https://alric.ai/agents/release-automation
-Source file: https://github.com/alibaba/OpenSandbox/blob/HEAD/docs/release-automation.md
-Source repository: https://github.com/alibaba/OpenSandbox
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,4 +1,4 @@
-Agent: mlops-engineer
+Agent: MLOps Engineer
 Alric.AI page: https://alric.ai/agents/mlops-engineer-3
 Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/plugins/machine-learning-ops/agents/mlops-engineer.md
 Source repository: https://github.com/aRustyDev/agents

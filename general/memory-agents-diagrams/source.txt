@@ -1,6 +1,0 @@
-Agent: MEMORY AGENTS DIAGRAMS
-Alric.AI page: https://alric.ai/agents/memory-agents-diagrams
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/MEMORY_AGENTS_DIAGRAMS.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

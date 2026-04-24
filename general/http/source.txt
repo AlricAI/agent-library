@@ -1,6 +1,0 @@
-Agent: Http
-Alric.AI page: https://alric.ai/agents/http
-Source file: https://github.com/frumu-ai/tandem/blob/HEAD/contracts/http.md
-Source repository: https://github.com/frumu-ai/tandem
-
-Discovered and indexed by Alric.AI (https://alric.ai)

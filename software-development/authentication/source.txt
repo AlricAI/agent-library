@@ -1,6 +1,0 @@
-Agent: Authentication
-Alric.AI page: https://alric.ai/agents/authentication
-Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/authentication.md
-Source repository: https://github.com/frankbria/codeframe
-
-Discovered and indexed by Alric.AI (https://alric.ai)

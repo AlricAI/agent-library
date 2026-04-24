@@ -1,6 +1,0 @@
-Agent: N8n Manual Scheduled Sync Workflow
-Alric.AI page: https://alric.ai/agents/n8n-manual-scheduled-sync-workflow
-Source file: https://github.com/Kookylo/claude_workflow_generator/blob/HEAD/n8n-hubspot-instantly-integration/n8n-manual-scheduled-sync-workflow.md
-Source repository: https://github.com/Kookylo/claude_workflow_generator
-
-Discovered and indexed by Alric.AI (https://alric.ai)

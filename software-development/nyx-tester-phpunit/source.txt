@@ -1,4 +1,4 @@
-Agent: Nyx - Tester (PHPUnit)
+Agent: Nyx Tester
 Alric.AI page: https://alric.ai/agents/nyx-tester-phpunit
 Source file: https://github.com/hoanngocle/nova/blob/HEAD/.github/agents/nyx-tester.agent.md
 Source repository: https://github.com/hoanngocle/nova

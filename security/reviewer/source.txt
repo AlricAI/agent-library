@@ -1,6 +1,0 @@
-Agent: Reviewer
-Alric.AI page: https://alric.ai/agents/reviewer
-Source file: https://github.com/Wamocon/lp_energy/blob/HEAD/.github/agents/reviewer.agent.md
-Source repository: https://github.com/Wamocon/lp_energy
-
-Discovered and indexed by Alric.AI (https://alric.ai)

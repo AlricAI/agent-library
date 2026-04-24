@@ -1,6 +1,0 @@
-Agent: Claude Ai User Preferences
-Alric.AI page: https://alric.ai/agents/claude-ai-user-preferences
-Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/briefings/claude-ai-user-preferences.md
-Source repository: https://github.com/Trollz1004/ANTIGRAVITY
-
-Discovered and indexed by Alric.AI (https://alric.ai)

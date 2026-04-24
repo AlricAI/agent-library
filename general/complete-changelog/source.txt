@@ -1,6 +1,0 @@
-Agent: COMPLETE CHANGELOG
-Alric.AI page: https://alric.ai/agents/complete-changelog
-Source file: https://github.com/KenotheFalcon/Pact/blob/HEAD/docs/COMPLETE_CHANGELOG.md
-Source repository: https://github.com/KenotheFalcon/Pact
-
-Discovered and indexed by Alric.AI (https://alric.ai)

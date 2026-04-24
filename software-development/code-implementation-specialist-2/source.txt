@@ -1,0 +1,6 @@
+Agent: Code Implementation Specialist
+Alric.AI page: https://alric.ai/agents/code-implementation-specialist-2
+Source file: https://github.com/ryantking/agentctl/blob/HEAD/.claude/agents/engineer.md
+Source repository: https://github.com/ryantking/agentctl
+
+Discovered and indexed by Alric.AI (https://alric.ai)

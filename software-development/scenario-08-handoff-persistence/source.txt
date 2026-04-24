@@ -1,6 +1,0 @@
-Agent: Scenario 08 Handoff Persistence
-Alric.AI page: https://alric.ai/agents/scenario-08-handoff-persistence
-Source file: https://github.com/techwavedev/agi-agent-kit/blob/HEAD/tests/agents/scenario_08_handoff_persistence.md
-Source repository: https://github.com/techwavedev/agi-agent-kit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

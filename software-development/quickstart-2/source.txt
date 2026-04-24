@@ -1,6 +1,0 @@
-Agent: Quickstart
-Alric.AI page: https://alric.ai/agents/quickstart-2
-Source file: https://github.com/tmux-python/libtmux/blob/HEAD/docs/quickstart.md
-Source repository: https://github.com/tmux-python/libtmux
-
-Discovered and indexed by Alric.AI (https://alric.ai)

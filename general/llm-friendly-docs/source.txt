@@ -1,6 +1,0 @@
-Agent: Llm Friendly Docs
-Alric.AI page: https://alric.ai/agents/llm-friendly-docs
-Source file: https://github.com/getsentry/sentry-docs/blob/HEAD/specs/llm-friendly-docs.md
-Source repository: https://github.com/getsentry/sentry-docs
-
-Discovered and indexed by Alric.AI (https://alric.ai)

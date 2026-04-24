@@ -1,6 +1,0 @@
-Agent: Cd Engineer
-Alric.AI page: https://alric.ai/agents/cd-engineer
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/software/infrastructure/cd-engineer.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: DirtSync Chief Executive Officer
+Alric.AI page: https://alric.ai/agents/dirtsync-chief-executive-officer-3
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/dirtsync/agents/ceo/AGENTS.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

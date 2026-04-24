@@ -1,0 +1,6 @@
+Agent: Documentation Generator
+Alric.AI page: https://alric.ai/agents/documentation-generator-2
+Source file: https://github.com/webdevtodayjason/sub-agents/blob/HEAD/commands/document.md
+Source repository: https://github.com/webdevtodayjason/sub-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

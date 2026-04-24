@@ -1,6 +1,0 @@
-Agent: ACTIVE PHASES
-Alric.AI page: https://alric.ai/agents/active-phases
-Source file: https://github.com/pllporg/karen/blob/HEAD/docs/ACTIVE_PHASES.md
-Source repository: https://github.com/pllporg/karen
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Ledger Nine Finance Manager
+Alric.AI page: https://alric.ai/agents/ledger-nine-finance-manager
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/ledger-9/ENABLED_SKILLS.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Screens.En
-Alric.AI page: https://alric.ai/agents/screens-en
-Source file: https://github.com/alkozlov/puzzle-dazzle/blob/HEAD/docs/screens.en.md
-Source repository: https://github.com/alkozlov/puzzle-dazzle
-
-Discovered and indexed by Alric.AI (https://alric.ai)

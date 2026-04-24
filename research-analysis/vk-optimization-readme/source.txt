@@ -1,6 +1,0 @@
-Agent: VK OPTIMIZATION README
-Alric.AI page: https://alric.ai/agents/vk-optimization-readme
-Source file: https://github.com/virtengine/virtengine/blob/HEAD/scripts/VK-OPTIMIZATION-README.md
-Source repository: https://github.com/virtengine/virtengine
-
-Discovered and indexed by Alric.AI (https://alric.ai)

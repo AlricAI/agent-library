@@ -1,6 +1,0 @@
-Agent: Base
-Alric.AI page: https://alric.ai/agents/base-8
-Source file: https://github.com/danmartinez78/dimos-unitree/blob/HEAD/dimos/agents/memory/base.py
-Source repository: https://github.com/danmartinez78/dimos-unitree
-
-Discovered and indexed by Alric.AI (https://alric.ai)

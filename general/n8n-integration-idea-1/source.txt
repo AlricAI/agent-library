@@ -1,6 +1,0 @@
-Agent: N8n Integration Idea
-Alric.AI page: https://alric.ai/agents/n8n-integration-idea-1
-Source file: https://github.com/Saluana/or3-chat/blob/HEAD/planning/n8n-integration-idea.md
-Source repository: https://github.com/Saluana/or3-chat
-
-Discovered and indexed by Alric.AI (https://alric.ai)

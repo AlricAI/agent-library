@@ -1,6 +1,0 @@
-Agent: Website.Agent
-Alric.AI page: https://alric.ai/agents/website-agent
-Source file: https://github.com/madeindigio/remembrances-mcp/blob/HEAD/.github/agents/website.agent.md
-Source repository: https://github.com/madeindigio/remembrances-mcp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

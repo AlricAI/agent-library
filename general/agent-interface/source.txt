@@ -1,6 +1,0 @@
-Agent: Agent Interface
-Alric.AI page: https://alric.ai/agents/agent-interface
-Source file: https://github.com/justindobbs/Tracecore/blob/HEAD/docs/agents/agent_interface.md
-Source repository: https://github.com/justindobbs/Tracecore
-
-Discovered and indexed by Alric.AI (https://alric.ai)

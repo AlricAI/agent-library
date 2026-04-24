@@ -1,6 +1,0 @@
-Agent: Custom Agent
-Alric.AI page: https://alric.ai/agents/custom-agent-2
-Source file: https://github.com/Anakonn/langchain-v01/blob/HEAD/i18n/es/docusaurus-plugin-content-docs/current/modules/agents/how_to/custom_agent.md
-Source repository: https://github.com/Anakonn/langchain-v01
-
-Discovered and indexed by Alric.AI (https://alric.ai)

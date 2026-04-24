@@ -1,6 +1,0 @@
-Agent: Testing And Coverage
-Alric.AI page: https://alric.ai/agents/testing-and-coverage-1
-Source file: https://github.com/cap-jmk-real/agentron/blob/HEAD/docs/testing-and-coverage.md
-Source repository: https://github.com/cap-jmk-real/agentron
-
-Discovered and indexed by Alric.AI (https://alric.ai)

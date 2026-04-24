@@ -1,6 +1,0 @@
-Agent: Game Completion Audit
-Alric.AI page: https://alric.ai/agents/game-completion-audit
-Source file: https://github.com/Tombonator3000/vector-war-games/blob/HEAD/docs/game-completion-audit.md
-Source repository: https://github.com/Tombonator3000/vector-war-games
-
-Discovered and indexed by Alric.AI (https://alric.ai)

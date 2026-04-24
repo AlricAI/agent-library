@@ -1,6 +1,0 @@
-Agent: Autogen Quickstart
-Alric.AI page: https://alric.ai/agents/autogen-quickstart
-Source file: https://github.com/justindobbs/Tracecore/blob/HEAD/tutorials/autogen_quickstart.md
-Source repository: https://github.com/justindobbs/Tracecore
-
-Discovered and indexed by Alric.AI (https://alric.ai)

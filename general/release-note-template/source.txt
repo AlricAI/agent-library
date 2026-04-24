@@ -1,6 +1,0 @@
-Agent: RELEASE NOTE TEMPLATE
-Alric.AI page: https://alric.ai/agents/release-note-template
-Source file: https://github.com/alibaba/OpenSandbox/blob/HEAD/docs/RELEASE_NOTE_TEMPLATE.md
-Source repository: https://github.com/alibaba/OpenSandbox
-
-Discovered and indexed by Alric.AI (https://alric.ai)

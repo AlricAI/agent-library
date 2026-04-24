@@ -1,6 +1,0 @@
-Agent: Knowledge File
-Alric.AI page: https://alric.ai/agents/knowledge-file-1
-Source file: https://github.com/blessonism/openclaw-memory-architecture/blob/HEAD/templates/knowledge-file.md
-Source repository: https://github.com/blessonism/openclaw-memory-architecture
-
-Discovered and indexed by Alric.AI (https://alric.ai)

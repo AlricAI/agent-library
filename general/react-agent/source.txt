@@ -1,6 +1,0 @@
-Agent: React Agent
-Alric.AI page: https://alric.ai/agents/react-agent
-Source file: https://github.com/omnirexflora-labs/omnicoreagent/blob/HEAD/src/omnicoreagent/core/agents/react_agent.py
-Source repository: https://github.com/omnirexflora-labs/omnicoreagent
-
-Discovered and indexed by Alric.AI (https://alric.ai)

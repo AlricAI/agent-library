@@ -1,0 +1,6 @@
+Agent: Create RFC Document
+Alric.AI page: https://alric.ai/agents/create-rfc-document
+Source file: https://github.com/rlajous/claude-code-commands/blob/HEAD/commands/rfc.md
+Source repository: https://github.com/rlajous/claude-code-commands
+
+Discovered and indexed by Alric.AI (https://alric.ai)

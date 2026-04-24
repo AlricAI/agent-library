@@ -1,6 +1,0 @@
-Agent: TELEGRAM BOT
-Alric.AI page: https://alric.ai/agents/telegram-bot
-Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/docs/TELEGRAM_BOT.md
-Source repository: https://github.com/nirholas/crypto-vision
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Moltler - elastic-script Development Rules
-Alric.AI page: https://alric.ai/agents/moltler-elastic-script-development-rules
-Source file: https://github.com/bahaaldine/moltler/blob/HEAD/.cursorrules
-Source repository: https://github.com/bahaaldine/moltler
-
-Discovered and indexed by Alric.AI (https://alric.ai)

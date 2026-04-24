@@ -1,6 +1,0 @@
-Agent: VIDEO 20 STRATEGY VALIDATION PROCESS
-Alric.AI page: https://alric.ai/agents/video-20-strategy-validation-process
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/the-great-cryptonio/education/video-summaries/VIDEO_20_STRATEGY_VALIDATION_PROCESS.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

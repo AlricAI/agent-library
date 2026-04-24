@@ -1,6 +1,0 @@
-Agent: TASKS Mcp
-Alric.AI page: https://alric.ai/agents/tasks-mcp
-Source file: https://github.com/datappt8/UOPC/blob/HEAD/doc/TASKS-mcp.md
-Source repository: https://github.com/datappt8/UOPC
-
-Discovered and indexed by Alric.AI (https://alric.ai)

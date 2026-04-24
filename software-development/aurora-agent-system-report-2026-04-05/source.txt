@@ -1,6 +1,0 @@
-Agent: AURORA AGENT SYSTEM REPORT 2026 04 05
-Alric.AI page: https://alric.ai/agents/aurora-agent-system-report-2026-04-05
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/reports/AURORA_AGENT_SYSTEM_REPORT_2026-04-05.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

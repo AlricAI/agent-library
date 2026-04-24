@@ -1,6 +1,0 @@
-Agent: django-developer
-Alric.AI page: https://alric.ai/agents/django-developer-1
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/lang/django-developer.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

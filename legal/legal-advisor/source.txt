@@ -1,6 +1,0 @@
-Agent: Legal Compliance Advisor
-Alric.AI page: https://alric.ai/agents/legal-advisor
-Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/hr-legal-compliance/agents/legal-advisor.md
-Source repository: https://github.com/wshobson/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

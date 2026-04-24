@@ -1,6 +1,0 @@
-Agent: OPENVINO BUILD
-Alric.AI page: https://alric.ai/agents/openvino-build
-Source file: https://github.com/madeindigio/remembrances-mcp/blob/HEAD/docs/OPENVINO_BUILD.md
-Source repository: https://github.com/madeindigio/remembrances-mcp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

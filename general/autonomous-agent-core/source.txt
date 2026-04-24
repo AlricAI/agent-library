@@ -1,0 +1,6 @@
+Agent: Autonomous Agent Core
+Alric.AI page: https://alric.ai/agents/autonomous-agent-core
+Source file: https://github.com/OpenMOSS/OurClaw/blob/HEAD/commonworkspace/SOUL.md
+Source repository: https://github.com/OpenMOSS/OurClaw
+
+Discovered and indexed by Alric.AI (https://alric.ai)

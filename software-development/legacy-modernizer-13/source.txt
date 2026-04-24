@@ -1,6 +1,0 @@
-Agent: legacy-modernizer
-Alric.AI page: https://alric.ai/agents/legacy-modernizer-13
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/core/legacy-modernizer.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Mac App Product Spec
-Alric.AI page: https://alric.ai/agents/mac-app-product-spec-1
-Source file: https://github.com/numman-ali/mlxr/blob/HEAD/docs/mac-app-product-spec.md
-Source repository: https://github.com/numman-ali/mlxr
-
-Discovered and indexed by Alric.AI (https://alric.ai)

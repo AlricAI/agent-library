@@ -1,6 +1,0 @@
-Agent: Ast Grep
-Alric.AI page: https://alric.ai/agents/ast-grep-1
-Source file: https://github.com/dew-labs/wolfy-interface/blob/HEAD/.cursor/rules/ast-grep.mdc
-Source repository: https://github.com/dew-labs/wolfy-interface
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Poi Research Tool
+Alric.AI page: https://alric.ai/agents/poi-research-tool
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/poi-research.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

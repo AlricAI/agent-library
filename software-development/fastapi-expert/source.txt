@@ -1,6 +1,0 @@
-Agent: Fastapi Expert
-Alric.AI page: https://alric.ai/agents/fastapi-expert
-Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/fastapi-expert.md
-Source repository: https://github.com/0xfurai/claude-code-subagents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Startup CTO
-Alric.AI page: https://alric.ai/agents/startup-cto-1
-Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/claude-skills/agents/personas/startup-cto.md
-Source repository: https://github.com/ngTwg/Branding-Focused-Skills
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Native Access Expansions Installed
-Alric.AI page: https://alric.ai/agents/native-access-expansions-installed
-Source file: https://github.com/kmorrill/op-xy-vibing/blob/HEAD/docs/native-access-expansions-installed.md
-Source repository: https://github.com/kmorrill/op-xy-vibing
-
-Discovered and indexed by Alric.AI (https://alric.ai)

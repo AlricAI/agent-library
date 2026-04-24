@@ -1,6 +1,0 @@
-Agent: Release & tagging
-Alric.AI page: https://alric.ai/agents/release-tagging
-Source file: https://github.com/cap-jmk-real/agentron/blob/HEAD/.cursor/rules/release-tagging.mdc
-Source repository: https://github.com/cap-jmk-real/agentron
-
-Discovered and indexed by Alric.AI (https://alric.ai)

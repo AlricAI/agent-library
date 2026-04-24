@@ -1,8 +1,0 @@
----
-name: Renderer Release Instructions
-description: 1. Renderer-Release
-Release com.ecs2d.renderer as version <VERSION> using the repo workflow. Run the scripted release flow from the repo root, push th
-model: claude-sonnet-4-5
----
-1. Renderer-Release
-Release com.ecs2d.renderer as version <VERSION> using the repo workflow. Run the scripted release flow from the repo root, push the commit and tag, and report the created commit hash and tag.

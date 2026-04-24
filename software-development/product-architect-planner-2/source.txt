@@ -1,0 +1,6 @@
+Agent: Product Architect Planner
+Alric.AI page: https://alric.ai/agents/product-architect-planner-2
+Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/MCP_IMPROVEMENTS.md
+Source repository: https://github.com/frumu-ai/tandem
+
+Discovered and indexed by Alric.AI (https://alric.ai)

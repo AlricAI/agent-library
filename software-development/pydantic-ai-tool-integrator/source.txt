@@ -1,6 +1,0 @@
-Agent: pydantic-ai-tool-integrator
-Alric.AI page: https://alric.ai/agents/pydantic-ai-tool-integrator
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/context-engineering-intro/use-cases/agent-factory-with-subagents/.claude/agents/pydantic-ai-tool-integrator.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Cvdf1 Cryptographic Review
-Alric.AI page: https://alric.ai/agents/cvdf1-cryptographic-review
-Source file: https://github.com/AlliedToasters/perihelion/blob/HEAD/agents/p4/data/cvdf1_cryptographic_review.md
-Source repository: https://github.com/AlliedToasters/perihelion
-
-Discovered and indexed by Alric.AI (https://alric.ai)

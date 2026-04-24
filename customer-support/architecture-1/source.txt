@@ -1,6 +1,0 @@
-Agent: ARCHITECTURE
-Alric.AI page: https://alric.ai/agents/architecture-1
-Source file: https://github.com/anchapin/ModPorter-AI/blob/HEAD/docs/ARCHITECTURE.md
-Source repository: https://github.com/anchapin/ModPorter-AI
-
-Discovered and indexed by Alric.AI (https://alric.ai)

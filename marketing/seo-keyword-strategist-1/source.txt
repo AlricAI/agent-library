@@ -1,4 +1,4 @@
-Agent: seo-keyword-strategist
+Agent: SEO Keyword Strategist
 Alric.AI page: https://alric.ai/agents/seo-keyword-strategist-1
 Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/seo-keyword-strategist.md
 Source repository: https://github.com/aRustyDev/agents

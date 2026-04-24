@@ -1,0 +1,6 @@
+Agent: Hunter Lead Generation Specialist
+Alric.AI page: https://alric.ai/agents/hunter-lead-generation-specialist
+Source file: https://github.com/claybowl/doer/blob/HEAD/agents/hunter/AGENTS.md
+Source repository: https://github.com/claybowl/doer
+
+Discovered and indexed by Alric.AI (https://alric.ai)

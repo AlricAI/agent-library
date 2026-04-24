@@ -1,6 +1,0 @@
-Agent: BOARD CAPABILITIES
-Alric.AI page: https://alric.ai/agents/board-capabilities
-Source file: https://github.com/fabkury/p3a/blob/HEAD/docs/BOARD-CAPABILITIES.md
-Source repository: https://github.com/fabkury/p3a
-
-Discovered and indexed by Alric.AI (https://alric.ai)

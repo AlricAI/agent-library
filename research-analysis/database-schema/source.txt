@@ -1,6 +1,0 @@
-Agent: Database Schema
-Alric.AI page: https://alric.ai/agents/database-schema
-Source file: https://github.com/danialutegenov/roomieHKU-app/blob/HEAD/docs/database-schema.md
-Source repository: https://github.com/danialutegenov/roomieHKU-app
-
-Discovered and indexed by Alric.AI (https://alric.ai)

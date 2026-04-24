@@ -1,6 +1,0 @@
-Agent: Sprint 07 Context Mgmt
-Alric.AI page: https://alric.ai/agents/sprint-07-context-mgmt
-Source file: https://github.com/frankbria/codeframe/blob/HEAD/sprints/sprint-07-context-mgmt.md
-Source repository: https://github.com/frankbria/codeframe
-
-Discovered and indexed by Alric.AI (https://alric.ai)

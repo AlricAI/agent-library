@@ -1,0 +1,6 @@
+Agent: Opencouncil Issue Creator
+Alric.AI page: https://alric.ai/agents/opencouncil-issue-creator
+Source file: https://github.com/schemalabz/nix-openclaw/blob/HEAD/workspace/SOUL.md
+Source repository: https://github.com/schemalabz/nix-openclaw
+
+Discovered and indexed by Alric.AI (https://alric.ai)

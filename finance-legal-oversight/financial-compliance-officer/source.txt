@@ -1,0 +1,6 @@
+Agent: Financial Compliance Officer
+Alric.AI page: https://alric.ai/agents/financial-compliance-officer
+Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/paperclip/agents/cfo/SOUL.md
+Source repository: https://github.com/Trollz1004/ANTIGRAVITY
+
+Discovered and indexed by Alric.AI (https://alric.ai)

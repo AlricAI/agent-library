@@ -1,6 +1,0 @@
-Agent: Frontmatter Path Timestamps
-Alric.AI page: https://alric.ai/agents/frontmatter-path-timestamps
-Source file: https://github.com/bagrounds/obsidian-github-publisher-sync/blob/HEAD/docs/frontmatter-path-timestamps.md
-Source repository: https://github.com/bagrounds/obsidian-github-publisher-sync
-
-Discovered and indexed by Alric.AI (https://alric.ai)

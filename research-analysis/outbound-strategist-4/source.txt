@@ -1,6 +1,0 @@
-Agent: Outbound Strategist
-Alric.AI page: https://alric.ai/agents/outbound-strategist-4
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/sales-outbound-strategist/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

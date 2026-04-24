@@ -1,6 +1,0 @@
-Agent: Work Order Submission Guide
-Alric.AI page: https://alric.ai/agents/work-order-submission-guide
-Source file: https://github.com/fl-sean03/AgentGate/blob/HEAD/docs/work-order-submission-guide.md
-Source repository: https://github.com/fl-sean03/AgentGate
-
-Discovered and indexed by Alric.AI (https://alric.ai)

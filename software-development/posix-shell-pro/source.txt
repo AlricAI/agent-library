@@ -1,6 +1,0 @@
-Agent: POSIX Shell Scripting Pro
-Alric.AI page: https://alric.ai/agents/posix-shell-pro
-Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/shell-scripting/agents/posix-shell-pro.md
-Source repository: https://github.com/wshobson/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

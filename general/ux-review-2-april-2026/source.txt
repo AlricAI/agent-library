@@ -1,6 +1,0 @@
-Agent: Ux Review 2 April 2026
-Alric.AI page: https://alric.ai/agents/ux-review-2-april-2026
-Source file: https://github.com/Wamocon/energy/blob/HEAD/requirements/ux-review-2-april-2026.md
-Source repository: https://github.com/Wamocon/energy
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Installation
-Alric.AI page: https://alric.ai/agents/installation
-Source file: https://github.com/aiming-lab/ClawArena/blob/HEAD/docs/installation.md
-Source repository: https://github.com/aiming-lab/ClawArena
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Expert Code Reviewer
+Alric.AI page: https://alric.ai/agents/expert-code-reviewer
+Source file: https://github.com/wshobson/agents/blob/HEAD/.claude/agents/code-reviewer.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

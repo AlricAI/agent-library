@@ -1,6 +1,0 @@
-Agent: DEVELOPING AMPLIHACK
-Alric.AI page: https://alric.ai/agents/developing-amplihack
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/docs/DEVELOPING_AMPLIHACK.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

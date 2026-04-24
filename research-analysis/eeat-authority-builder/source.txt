@@ -1,0 +1,6 @@
+Agent: EeaT Authority Builder
+Alric.AI page: https://alric.ai/agents/eeat-authority-builder
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/seo-authority-builder.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

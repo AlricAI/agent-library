@@ -1,6 +1,0 @@
-Agent: AGENTS
-Alric.AI page: https://alric.ai/agents/agents-441
-Source file: https://github.com/opsmill/infrahub/blob/HEAD/docs/AGENTS.md
-Source repository: https://github.com/opsmill/infrahub
-
-Discovered and indexed by Alric.AI (https://alric.ai)

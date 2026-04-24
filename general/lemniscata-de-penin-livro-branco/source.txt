@@ -1,6 +1,0 @@
-Agent: Lemniscata De Penin Livro Branco
-Alric.AI page: https://alric.ai/agents/lemniscata-de-penin-livro-branco
-Source file: https://github.com/danielgonzagat/megaIAAA/blob/HEAD/Lemniscata/Lemniscata_de_Penin_Livro_Branco.md
-Source repository: https://github.com/danielgonzagat/megaIAAA
-
-Discovered and indexed by Alric.AI (https://alric.ai)

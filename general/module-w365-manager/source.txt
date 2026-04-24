@@ -1,6 +1,0 @@
-Agent: MODULE W365 MANAGER
-Alric.AI page: https://alric.ai/agents/module-w365-manager
-Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/specs/MODULE_W365_MANAGER.md
-Source repository: https://github.com/rysweet/AzureHayMaker
-
-Discovered and indexed by Alric.AI (https://alric.ai)

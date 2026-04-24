@@ -1,6 +1,0 @@
-Agent: Planner
-Alric.AI page: https://alric.ai/agents/planner-5
-Source file: https://github.com/Wamocon/wamohub/blob/HEAD/.github/agents/planner.agent.md
-Source repository: https://github.com/Wamocon/wamohub
-
-Discovered and indexed by Alric.AI (https://alric.ai)

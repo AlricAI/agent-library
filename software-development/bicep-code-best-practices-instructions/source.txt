@@ -1,6 +1,0 @@
-Agent: Bicep Code Best Practices Guide
-Alric.AI page: https://alric.ai/agents/bicep-code-best-practices-instructions
-Source file: https://github.com/tfha/agent-instructions/blob/HEAD/instructions/bicep-code-best-practices.instructions.md
-Source repository: https://github.com/tfha/agent-instructions
-
-Discovered and indexed by Alric.AI (https://alric.ai)

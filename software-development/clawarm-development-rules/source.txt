@@ -1,6 +1,0 @@
-Agent: ClawArm Development Rules
-Alric.AI page: https://alric.ai/agents/clawarm-development-rules
-Source file: https://github.com/Clawland-AI/Clawarm/blob/HEAD/.cursorrules
-Source repository: https://github.com/Clawland-AI/Clawarm
-
-Discovered and indexed by Alric.AI (https://alric.ai)

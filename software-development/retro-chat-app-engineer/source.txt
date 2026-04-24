@@ -1,0 +1,6 @@
+Agent: Retro Chat App Engineer
+Alric.AI page: https://alric.ai/agents/retro-chat-app-engineer
+Source file: https://github.com/Saluana/or3-chat/blob/HEAD/.github/agents/retro-agent.md
+Source repository: https://github.com/Saluana/or3-chat
+
+Discovered and indexed by Alric.AI (https://alric.ai)

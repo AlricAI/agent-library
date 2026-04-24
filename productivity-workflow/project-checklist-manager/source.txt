@@ -1,0 +1,6 @@
+Agent: Project Checklist Manager
+Alric.AI page: https://alric.ai/agents/project-checklist-manager
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier1/judy/IDENTITY.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

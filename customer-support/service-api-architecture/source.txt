@@ -1,6 +1,0 @@
-Agent: Service Api Architecture
-Alric.AI page: https://alric.ai/agents/service-api-architecture
-Source file: https://github.com/linuxfoundation/lfx-mcp/blob/HEAD/docs/service-api-architecture.md
-Source repository: https://github.com/linuxfoundation/lfx-mcp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

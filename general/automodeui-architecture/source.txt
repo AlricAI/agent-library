@@ -1,6 +1,0 @@
-Agent: AutoModeUI Architecture
-Alric.AI page: https://alric.ai/agents/automodeui-architecture
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/AutoModeUI_Architecture.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

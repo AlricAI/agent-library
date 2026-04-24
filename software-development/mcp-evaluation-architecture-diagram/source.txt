@@ -1,6 +1,0 @@
-Agent: MCP EVALUATION ARCHITECTURE DIAGRAM
-Alric.AI page: https://alric.ai/agents/mcp-evaluation-architecture-diagram
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/MCP_EVALUATION_ARCHITECTURE_DIAGRAM.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

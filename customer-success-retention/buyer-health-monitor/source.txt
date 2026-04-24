@@ -1,0 +1,6 @@
+Agent: Buyer Health Monitor
+Alric.AI page: https://alric.ai/agents/buyer-health-monitor
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/buyer-success-agent/Heartbeat.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Cloud Architect Pro
+Alric.AI page: https://alric.ai/agents/cloud-architect-pro
+Source file: https://github.com/lst97/claude-code-sub-agents/blob/HEAD/agents/infrastructure/cloud-architect.md
+Source repository: https://github.com/lst97/claude-code-sub-agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: TROUBLESHOOTING
-Alric.AI page: https://alric.ai/agents/troubleshooting-4
-Source file: https://github.com/alibaba/OpenSandbox/blob/HEAD/server/TROUBLESHOOTING.md
-Source repository: https://github.com/alibaba/OpenSandbox
-
-Discovered and indexed by Alric.AI (https://alric.ai)

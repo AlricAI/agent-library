@@ -1,0 +1,6 @@
+Agent: Comparison Insight Generator
+Alric.AI page: https://alric.ai/agents/comparison-insight-generator
+Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/anthropic-skills/skills/skill-creator/agents/analyzer.md
+Source repository: https://github.com/ngTwg/Branding-Focused-Skills
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Llm Based Planners
-Alric.AI page: https://alric.ai/agents/llm-based-planners-3
-Source file: https://github.com/BinaryTape/Open-Docs/blob/HEAD/docs/ko/koog/agents/planner-agents/llm-based-planners.md
-Source repository: https://github.com/BinaryTape/Open-Docs
-
-Discovered and indexed by Alric.AI (https://alric.ai)

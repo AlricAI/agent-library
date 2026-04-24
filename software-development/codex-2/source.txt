@@ -1,6 +1,0 @@
-Agent: CODEX
-Alric.AI page: https://alric.ai/agents/codex-2
-Source file: https://github.com/PetroczyP/Builder-Judge-Agent-Loop/blob/HEAD/src/templates/agents/CODEX.md
-Source repository: https://github.com/PetroczyP/Builder-Judge-Agent-Loop
-
-Discovered and indexed by Alric.AI (https://alric.ai)

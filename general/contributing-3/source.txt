@@ -1,6 +1,0 @@
-Agent: CONTRIBUTING
-Alric.AI page: https://alric.ai/agents/contributing-3
-Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/agents/CONTRIBUTING.md
-Source repository: https://github.com/nirholas/crypto-vision
-
-Discovered and indexed by Alric.AI (https://alric.ai)

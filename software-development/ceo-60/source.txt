@@ -1,6 +1,0 @@
-Agent: CEO
-Alric.AI page: https://alric.ai/agents/ceo-60
-Source file: https://github.com/paperclipai/companies/blob/HEAD/agentsys-engineering/agents/ceo/AGENTS.md
-Source repository: https://github.com/paperclipai/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

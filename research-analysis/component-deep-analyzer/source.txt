@@ -1,6 +1,0 @@
-Agent: component-deep-analyzer
-Alric.AI page: https://alric.ai/agents/component-deep-analyzer
-Source file: https://github.com/devfullcycle/mba-ia-prompt-engineering/blob/HEAD/4-prompts-e-workflow-de-agentes/agents/component-deep-analyzer.md
-Source repository: https://github.com/devfullcycle/mba-ia-prompt-engineering
-
-Discovered and indexed by Alric.AI (https://alric.ai)

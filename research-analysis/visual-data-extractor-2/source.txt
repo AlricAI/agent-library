@@ -1,0 +1,6 @@
+Agent: Visual Data Extractor
+Alric.AI page: https://alric.ai/agents/visual-data-extractor-2
+Source file: https://github.com/Goblin1024/oh-my-kimi/blob/HEAD/prompts/vision.md
+Source repository: https://github.com/Goblin1024/oh-my-kimi
+
+Discovered and indexed by Alric.AI (https://alric.ai)

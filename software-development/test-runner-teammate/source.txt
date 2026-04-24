@@ -1,4 +1,4 @@
-Agent: test-runner-teammate
+Agent: Test Runner Teammate
 Alric.AI page: https://alric.ai/agents/test-runner-teammate
 Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/.claude/agents/test-runner-teammate.md
 Source repository: https://github.com/golfballnut/mcmforge

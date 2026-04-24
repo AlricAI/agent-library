@@ -1,4 +1,4 @@
-Agent: ci-debugger
+Agent: CI Debugger
 Alric.AI page: https://alric.ai/agents/ci-debugger
 Source file: https://github.com/koenvorster/Personal_project_VorstersNV/blob/HEAD/.claude/agents/ci-debugger.md
 Source repository: https://github.com/koenvorster/Personal_project_VorstersNV

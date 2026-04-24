@@ -1,6 +1,0 @@
-Agent: Compliance Audit Summary
-Alric.AI page: https://alric.ai/agents/compliance-audit-summary
-Source file: https://github.com/KenotheFalcon/Pact/blob/HEAD/docs/Compliance_Audit_Summary.md
-Source repository: https://github.com/KenotheFalcon/Pact
-
-Discovered and indexed by Alric.AI (https://alric.ai)

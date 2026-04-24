@@ -1,6 +1,0 @@
-Agent: VALIDATION
-Alric.AI page: https://alric.ai/agents/validation-2
-Source file: https://github.com/matteocervelli/llms/blob/HEAD/docs/VALIDATION.md
-Source repository: https://github.com/matteocervelli/llms
-
-Discovered and indexed by Alric.AI (https://alric.ai)

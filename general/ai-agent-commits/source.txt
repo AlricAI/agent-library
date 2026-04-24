@@ -1,6 +1,0 @@
-Agent: AI AGENT COMMITS
-Alric.AI page: https://alric.ai/agents/ai-agent-commits
-Source file: https://github.com/anchapin/ModPorter-AI/blob/HEAD/docs/AI_AGENT_COMMITS.md
-Source repository: https://github.com/anchapin/ModPorter-AI
-
-Discovered and indexed by Alric.AI (https://alric.ai)

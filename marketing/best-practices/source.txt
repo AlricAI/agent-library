@@ -1,6 +1,0 @@
-Agent: Best Practices
-Alric.AI page: https://alric.ai/agents/best-practices
-Source file: https://github.com/cass-clearly/remarq/blob/HEAD/docs/best-practices.md
-Source repository: https://github.com/cass-clearly/remarq
-
-Discovered and indexed by Alric.AI (https://alric.ai)

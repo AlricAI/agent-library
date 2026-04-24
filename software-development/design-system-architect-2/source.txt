@@ -1,0 +1,6 @@
+Agent: Design System Architect
+Alric.AI page: https://alric.ai/agents/design-system-architect-2
+Source file: https://github.com/cjy5507/forge/blob/HEAD/agents/designer.md
+Source repository: https://github.com/cjy5507/forge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

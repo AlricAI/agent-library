@@ -1,6 +1,0 @@
-Agent: Development Workflow Guide
-Alric.AI page: https://alric.ai/agents/development-workflow-guide-1
-Source file: https://github.com/nirholas/bnb-chain-toolkit/blob/HEAD/agents/defi-agents/.cursor/rules/development-workflow.mdc
-Source repository: https://github.com/nirholas/bnb-chain-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

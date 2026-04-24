@@ -1,6 +1,0 @@
-Agent: Dr. Clara Fontaine
-Alric.AI page: https://alric.ai/agents/dr-clara-fontaine-1
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/quantum-computing-scientist/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,4 +1,4 @@
-Agent: codebase-analyst
+Agent: Codebase Analyst
 Alric.AI page: https://alric.ai/agents/codebase-analyst
 Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/context-engineering-intro/use-cases/ai-coding-workflows-foundation/agents/codebase-analyst.md
 Source repository: https://github.com/aRustyDev/agents

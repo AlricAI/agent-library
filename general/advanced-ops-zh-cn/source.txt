@@ -1,6 +1,0 @@
-Agent: Advanced Ops.Zh CN
-Alric.AI page: https://alric.ai/agents/advanced-ops-zh-cn
-Source file: https://github.com/NoPKT/omnimem/blob/HEAD/docs/advanced-ops.zh-CN.md
-Source repository: https://github.com/NoPKT/omnimem
-
-Discovered and indexed by Alric.AI (https://alric.ai)

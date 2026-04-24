@@ -1,0 +1,6 @@
+Agent: Deprecation Analyzer
+Alric.AI page: https://alric.ai/agents/deprecation-analyzer
+Source file: https://github.com/dxos/dxos/blob/HEAD/.claude/agents/deprecation-checker.md
+Source repository: https://github.com/dxos/dxos
+
+Discovered and indexed by Alric.AI (https://alric.ai)

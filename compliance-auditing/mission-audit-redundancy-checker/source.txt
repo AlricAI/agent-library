@@ -1,0 +1,6 @@
+Agent: Mission Audit Redundancy Checker
+Alric.AI page: https://alric.ai/agents/mission-audit-redundancy-checker
+Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/paperclip/agents/mission-guardian-codex/SOUL.md
+Source repository: https://github.com/Trollz1004/ANTIGRAVITY
+
+Discovered and indexed by Alric.AI (https://alric.ai)

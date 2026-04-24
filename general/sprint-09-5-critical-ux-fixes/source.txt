@@ -1,6 +1,0 @@
-Agent: Sprint 09.5 Critical Ux Fixes
-Alric.AI page: https://alric.ai/agents/sprint-09-5-critical-ux-fixes
-Source file: https://github.com/frankbria/codeframe/blob/HEAD/sprints/sprint-09.5-critical-ux-fixes.md
-Source repository: https://github.com/frankbria/codeframe
-
-Discovered and indexed by Alric.AI (https://alric.ai)

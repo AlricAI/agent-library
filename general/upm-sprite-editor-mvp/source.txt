@@ -1,6 +1,0 @@
-Agent: Upm Sprite Editor Mvp
-Alric.AI page: https://alric.ai/agents/upm-sprite-editor-mvp
-Source file: https://github.com/MaansenV/ECS2DTest/blob/HEAD/interview/upm-sprite-editor-mvp.md
-Source repository: https://github.com/MaansenV/ECS2DTest
-
-Discovered and indexed by Alric.AI (https://alric.ai)

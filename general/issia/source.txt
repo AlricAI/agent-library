@@ -1,6 +1,0 @@
-Agent: ISSIA
-Alric.AI page: https://alric.ai/agents/issia
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/agents/mike_builder/projects/ISSIA.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

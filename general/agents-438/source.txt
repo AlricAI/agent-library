@@ -1,6 +1,0 @@
-Agent: AGENTS
-Alric.AI page: https://alric.ai/agents/agents-438
-Source file: https://github.com/oracle/graalpython/blob/HEAD/docs/AGENTS.md
-Source repository: https://github.com/oracle/graalpython
-
-Discovered and indexed by Alric.AI (https://alric.ai)

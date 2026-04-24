@@ -1,6 +1,0 @@
-Agent: MCP VISUAL TESTING
-Alric.AI page: https://alric.ai/agents/mcp-visual-testing
-Source file: https://github.com/sebastienlevert/nestly/blob/HEAD/e2e/MCP_VISUAL_TESTING.md
-Source repository: https://github.com/sebastienlevert/nestly
-
-Discovered and indexed by Alric.AI (https://alric.ai)

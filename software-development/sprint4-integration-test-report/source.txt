@@ -1,6 +1,0 @@
-Agent: Sprint4 Integration Test Report
-Alric.AI page: https://alric.ai/agents/sprint4-integration-test-report
-Source file: https://github.com/frankbria/codeframe/blob/HEAD/claudedocs/sprint4-integration-test-report.md
-Source repository: https://github.com/frankbria/codeframe
-
-Discovered and indexed by Alric.AI (https://alric.ai)

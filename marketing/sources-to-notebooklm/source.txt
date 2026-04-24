@@ -1,6 +1,0 @@
-Agent: Sources To Notebooklm
-Alric.AI page: https://alric.ai/agents/sources-to-notebooklm
-Source file: https://github.com/techwavedev/agi-agent-kit/blob/HEAD/directives/sources_to_notebooklm.md
-Source repository: https://github.com/techwavedev/agi-agent-kit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

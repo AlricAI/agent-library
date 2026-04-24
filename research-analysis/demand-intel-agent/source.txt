@@ -1,6 +1,0 @@
-Agent: Demand Intel Agent
-Alric.AI page: https://alric.ai/agents/demand-intel-agent
-Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/demand-intel-agent/AGENTS.md
-Source repository: https://github.com/ognjhunt/Blueprint-WebApp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

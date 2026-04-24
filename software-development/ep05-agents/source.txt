@@ -1,6 +1,0 @@
-Agent: Ep05 Agents
-Alric.AI page: https://alric.ai/agents/ep05-agents
-Source file: https://github.com/ohama/MyGsd/blob/HEAD/youtube/ep05-agents.md
-Source repository: https://github.com/ohama/MyGsd
-
-Discovered and indexed by Alric.AI (https://alric.ai)

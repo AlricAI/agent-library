@@ -1,6 +1,0 @@
-Agent: SECURITY RECOMMENDATIONS
-Alric.AI page: https://alric.ai/agents/security-recommendations
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/docs/SECURITY_RECOMMENDATIONS.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

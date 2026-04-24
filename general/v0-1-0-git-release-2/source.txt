@@ -1,6 +1,0 @@
-Agent: V0.1.0 Git Release
-Alric.AI page: https://alric.ai/agents/v0-1-0-git-release-2
-Source file: https://github.com/hulunote/hulunote/blob/HEAD/releases/v0.1.0_git_release.md
-Source repository: https://github.com/hulunote/hulunote
-
-Discovered and indexed by Alric.AI (https://alric.ai)

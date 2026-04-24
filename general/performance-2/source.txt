@@ -1,6 +1,0 @@
-Agent: Performance
-Alric.AI page: https://alric.ai/agents/performance-2
-Source file: https://github.com/burninmedia/sprint-read/blob/HEAD/spec/performance.md
-Source repository: https://github.com/burninmedia/sprint-read
-
-Discovered and indexed by Alric.AI (https://alric.ai)

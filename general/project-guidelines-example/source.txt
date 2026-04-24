@@ -1,6 +1,0 @@
-Agent: Project Guidelines Example
-Alric.AI page: https://alric.ai/agents/project-guidelines-example
-Source file: https://github.com/julianromli/opencode-template/blob/HEAD/skill/project-guidelines-example.md
-Source repository: https://github.com/julianromli/opencode-template
-
-Discovered and indexed by Alric.AI (https://alric.ai)

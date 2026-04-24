@@ -1,6 +1,0 @@
-Agent: Ep04 Skills
-Alric.AI page: https://alric.ai/agents/ep04-skills
-Source file: https://github.com/ohama/MyGsd/blob/HEAD/youtube/ep04-skills.md
-Source repository: https://github.com/ohama/MyGsd
-
-Discovered and indexed by Alric.AI (https://alric.ai)

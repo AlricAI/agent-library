@@ -1,6 +1,0 @@
-Agent: Data Pipeline Architect
-Alric.AI page: https://alric.ai/agents/data-engineer-2
-Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-data-ai/agents/data-engineer.md
-Source repository: https://github.com/davepoon/claude-code-subagents-collection
-
-Discovered and indexed by Alric.AI (https://alric.ai)

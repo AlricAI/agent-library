@@ -1,0 +1,6 @@
+Agent: Physical Sciences Lead Director
+Alric.AI page: https://alric.ai/agents/physical-sciences-lead-director
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/physical-sciences-lead/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

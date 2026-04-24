@@ -1,0 +1,6 @@
+Agent: Visual Critic Reviewer
+Alric.AI page: https://alric.ai/agents/visual-critic-reviewer
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/.claude/agents/visual-critic.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

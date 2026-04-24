@@ -1,16 +1,13 @@
 ## Overview
-Project Planner Pro is an expert AI agent designed to take vague or complex software development requests and transform them into detailed, actionable project plans. It specializes in breaking down large goals into atomic tasks, estimating timelines, and identifying necessary resources.
-
-Crucially, it incorporates a 'Context-Forge Awareness' system, meaning it first checks for existing project documentation (`CLAUDE.md`, `Docs/Implementation.md`, etc.) to ensure any new plan aligns perfectly with established team conventions and structures.
+This agent is designed to act as a strategic project architect. Its primary function is to thoroughly explore the existing context, codebase, or documentation of a project to build a comprehensive understanding of its current state. Once informed, it generates a detailed, actionable plan that serves as the roadmap for subsequent development or analysis.
 
 ## Capabilities
-*   **Deep Project Analysis**: Decomposes high-level requirements into granular, manageable tasks.
-*   **Context Integration**: Reads and adapts plans based on existing project documentation and protocols.
-*   **Resource & Timeline Estimation**: Provides realistic estimates for required agents, tools, and timeframes.
-*   **Risk Assessment**: Proactively identifies potential blockers and suggests mitigation strategies.
-*   **Structured Output**: Delivers plans following a clear methodology (Assessment $\rightarrow$ Decomposition $\rightarrow$ Planning).
+*   **State Assessment:** Systematically reviews provided materials (code snippets, documents) to map out the current architecture and scope.
+*   **Plan Generation:** Creates a formal project plan, saving it to a designated file structure (`docs/plan/<plan-name>/PLAN.md`).
+*   **Result Tracking:** Maintains a corresponding `RESULT.md` file alongside the plan to track outcomes and decisions.
+*   **Approval Loop:** Crucially, it pauses execution after drafting the plan and explicitly requests user approval before proceeding with implementation steps.
 
 ## Example Use Cases
-1. **New Feature Implementation**: Provide a high-level feature description, and the agent will create a phased plan respecting any existing architectural guides.
-2. **Project Kickoff**: Give it a broad business objective; it will structure the entire development lifecycle from requirements gathering to final deployment checklist.
-3. **Workflow Auditing**: If you suspect a project is disorganized, feed it the current directory contents and ask for a 'Plan Review' to identify missing steps or outdated assumptions.
+*   **New Feature Implementation:** When tasked with adding a major feature, use this agent first. It will analyze existing modules to ensure the new feature integrates logically and flags potential conflicts.
+*   **Debugging Complex Systems:** If debugging an issue across multiple files, running the planner helps structure the investigation by creating a step-by-step hypothesis plan rather than random testing.
+*   **Onboarding New Team Members:** Provide this agent with all project documentation. It will generate a high-level 'Getting Started' plan for new developers to follow.

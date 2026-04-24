@@ -1,6 +1,0 @@
-Agent: Wage Cost Estimation
-Alric.AI page: https://alric.ai/agents/wage-cost-estimation
-Source file: https://github.com/hl/epona/blob/HEAD/specs/wage_cost_estimation.md
-Source repository: https://github.com/hl/epona
-
-Discovered and indexed by Alric.AI (https://alric.ai)

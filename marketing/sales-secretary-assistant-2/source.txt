@@ -1,0 +1,6 @@
+Agent: Sales Secretary Assistant
+Alric.AI page: https://alric.ai/agents/sales-secretary-assistant-2
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/closester/PROFILE.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

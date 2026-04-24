@@ -1,0 +1,6 @@
+Agent: Feature Specification Workflow
+Alric.AI page: https://alric.ai/agents/feature-specification-workflow
+Source file: https://github.com/felipebarcelospro/igniter-js/blob/HEAD/apps/sample-realtime-chat/.cursor/rules/planning.mdc
+Source repository: https://github.com/felipebarcelospro/igniter-js
+
+Discovered and indexed by Alric.AI (https://alric.ai)

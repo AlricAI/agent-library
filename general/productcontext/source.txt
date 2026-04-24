@@ -1,6 +1,0 @@
-Agent: ProductContext
-Alric.AI page: https://alric.ai/agents/productcontext
-Source file: https://github.com/Luxcium/fantastic-system-k22a/blob/HEAD/memory-bank/productContext.md
-Source repository: https://github.com/Luxcium/fantastic-system-k22a
-
-Discovered and indexed by Alric.AI (https://alric.ai)

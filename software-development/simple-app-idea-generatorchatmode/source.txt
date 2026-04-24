@@ -1,0 +1,6 @@
+Agent: Simple App Idea Generator.Chatmode
+Alric.AI page: https://alric.ai/agents/simple-app-idea-generatorchatmode
+Source file: https://github.com/tfha/agent-instructions/blob/HEAD/chatmodes/simple-app-idea-generator.chatmode.md
+Source repository: https://github.com/tfha/agent-instructions
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Mcp
-Alric.AI page: https://alric.ai/agents/mcp-2
-Source file: https://github.com/bahaaldine/moltler/blob/HEAD/docs/mcp.md
-Source repository: https://github.com/bahaaldine/moltler
-
-Discovered and indexed by Alric.AI (https://alric.ai)

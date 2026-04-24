@@ -1,6 +1,0 @@
-Agent: VIDEO 02 CANDLESTICK PATTERNS
-Alric.AI page: https://alric.ai/agents/video-02-candlestick-patterns
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/the-great-cryptonio/education/video-summaries/VIDEO_02_CANDLESTICK_PATTERNS.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

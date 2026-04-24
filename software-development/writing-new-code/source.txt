@@ -1,6 +1,0 @@
-Agent: Writing New Code
-Alric.AI page: https://alric.ai/agents/writing-new-code
-Source file: https://github.com/bnbarak/openai-agent-sdk/blob/HEAD/codingAgentDocs/writing-new-code.md
-Source repository: https://github.com/bnbarak/openai-agent-sdk
-
-Discovered and indexed by Alric.AI (https://alric.ai)

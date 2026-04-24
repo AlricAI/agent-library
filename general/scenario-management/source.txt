@@ -1,6 +1,0 @@
-Agent: SCENARIO MANAGEMENT
-Alric.AI page: https://alric.ai/agents/scenario-management
-Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/docs/SCENARIO_MANAGEMENT.md
-Source repository: https://github.com/rysweet/AzureHayMaker
-
-Discovered and indexed by Alric.AI (https://alric.ai)

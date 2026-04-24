@@ -1,0 +1,6 @@
+Agent: Standardized Bug Report Generator
+Alric.AI page: https://alric.ai/agents/standardized-bug-report-generator
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/rules/.wip/qa-bug-report/.cursorrules
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

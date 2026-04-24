@@ -1,6 +1,0 @@
-Agent: PLANNING SUMMARY
-Alric.AI page: https://alric.ai/agents/planning-summary
-Source file: https://github.com/qemqemqem/mechawiki/blob/HEAD/notes/PLANNING_SUMMARY.md
-Source repository: https://github.com/qemqemqem/mechawiki
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: BACKLOG
-Alric.AI page: https://alric.ai/agents/backlog
-Source file: https://github.com/midnghtsapphire/reese-reviews/blob/HEAD/docs/BACKLOG.md
-Source repository: https://github.com/midnghtsapphire/reese-reviews
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Aetherium Genesis Blueprint
+Alric.AI page: https://alric.ai/agents/aetherium-genesis-blueprint
+Source file: https://github.com/FGD-ATR-EP/AGS/blob/HEAD/docs/TECHNICAL_BLUEPRINT_TH.md
+Source repository: https://github.com/FGD-ATR-EP/AGS
+
+Discovered and indexed by Alric.AI (https://alric.ai)

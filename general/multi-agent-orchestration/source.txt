@@ -1,6 +1,0 @@
-Agent: Multi Agent Orchestration
-Alric.AI page: https://alric.ai/agents/multi-agent-orchestration
-Source file: https://github.com/joggrdocs/funkai/blob/HEAD/packages/agents/docs/multi-agent-orchestration.md
-Source repository: https://github.com/joggrdocs/funkai
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,83 +1,14 @@
-# Backend Worker Agent
+## Overview
+The Backend Worker Agent is a core component designed for autonomous software development tasks. It operates in a continuous loop, managing the lifecycle of a development task from initiation to completion. Its primary function is to read pending work items from a persistent database, gather necessary context from the existing codebase index, generate required code using a large language model (LLM), and apply those changes safely to the file system while updating the task status.
 
-> """
-Backend Worker Agent - Autonomous task execution (cf-41).
+## Capabilities
+*   **Task Management:** Fetches the highest priority pending tasks directly from the integrated database.
+*   **Context Building:** Builds comprehensive execution context by querying the codebase index, ensuring the LLM has visibility into relevant files and symbols.
+*   **Code Generation:** Leverages external LLM providers (like Anthropic Claude) to generate functional Python code based on the task requirements and codebase context.
+*   **File System Interaction:** Applies generated code changes safely to the local file structure.
+*   **State Tracking:** Updates the status of the associated development task in the database upon successful completion or failure.
 
-This agent reads tasks from the database, builds context from the codebase index,
-gener
-
-## Model
-- **Default:** `claude-sonnet-4-5`
-
-## System Prompt
-"""
-Backend Worker Agent - Autonomous task execution (cf-41).
-
-This agent reads tasks from the database, builds context from the codebase index,
-generates Python code using LLM, writes files, and updates task status.
-
-Key responsibilities:
-- Fetch pending tasks from database
-- Build execution context from codebase index
-- Generate code via Anthropic Claude API
-- Apply file changes safely
-- Update task status
-- Error handling and retry logic
-
-Phase 1 Implementation: Foundation (initialization and task fetching)
-"""
-
-import logging
-import os
-from typing import Dict, Any, Optional, List
-import json
-import asyncio
-from datetime import datetime
-from pathlib import Path
-
-from codeframe.persistence.database import Database
-from codeframe.indexing.codebase_index import CodebaseIndex
-from codeframe.core.models import TaskStatus
-from codeframe.providers.sdk_client import SDKClientWrapper
-from codeframe.adapters.llm import LLMProvider, Purpose, get_provider
-
-
-logger = logging.getLogger(__name__)
-
-
-class BackendWorkerAgent:
-    """
-    Autonomous agent that executes backend development tasks.
-
-    The agent operates in a loop:
-    1. Fetch highest priority pending task
-    2. Build context from codebase
-    3. Generate code using LLM
-    4. Write files to disk
-    5. Update task status
-    6. Repeat
-
-    Integration points:
-    - Database (cf-8): Task queue and status management
-    - CodebaseIndex (cf-32): Symbol and file discovery
-    - Anthropic Claude API: Code generation
-    - Git Workflow (cf-33): Feature branch context
-    - Test Runner (cf-42): Future integration
-    - Self-Correction (cf-43): Future integration
-    """
-
-    def __init__(
-        self,
-        db: Database,
-        codebase_index: CodebaseIndex,
-        provider: str = "claude",
-        api_key: Optional[str] = None,
-        project_root: str = ".",
-        ws_manager=None,
-        use_sdk: bool = True,
-        llm_provider: Optional[LLMProvider] = None,
-    ):
-        """
-        Initialize Backend Wor
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+*   **Feature Implementation:** When a new feature is defined as a ticket, this agent can pick it up, generate the necessary backend service logic, and commit the changes.
+*   **Bug Fixing:** Given a bug report linked to a task, the agent can analyze the relevant files, propose a fix, and apply the patch.
+*   **Refactoring Tasks:** It can be tasked with updating outdated API endpoints across multiple modules by reading the existing structure and generating compliant replacements.

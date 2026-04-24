@@ -1,6 +1,0 @@
-Agent: Notion Manager Agent
-Alric.AI page: https://alric.ai/agents/notion-manager-agent
-Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/notion-manager-agent/AGENTS.md
-Source repository: https://github.com/ognjhunt/Blueprint-WebApp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

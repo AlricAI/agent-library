@@ -1,6 +1,0 @@
-Agent: Split Multi Paper Kids
-Alric.AI page: https://alric.ai/agents/split-multi-paper-kids
-Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/sms-bot/agents/arxiv-research-graph/split_multi_paper_kids.py
-Source repository: https://github.com/bdecrem/vibeceo
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Code Debugger Pro
+Alric.AI page: https://alric.ai/agents/code-debugger-pro
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/debugging-toolkit/agents/debugger.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

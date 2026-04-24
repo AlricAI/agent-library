@@ -1,6 +1,0 @@
-Agent: AGENT COMPLETION GUIDE
-Alric.AI page: https://alric.ai/agents/agent-completion-guide
-Source file: https://github.com/midnghtsapphire/reese-reviews/blob/HEAD/docs/AGENT_COMPLETION_GUIDE.md
-Source repository: https://github.com/midnghtsapphire/reese-reviews
-
-Discovered and indexed by Alric.AI (https://alric.ai)

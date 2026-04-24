@@ -1,6 +1,0 @@
-Agent: Multi Repo
-Alric.AI page: https://alric.ai/agents/multi-repo
-Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/patterns/multi-repo.md
-Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

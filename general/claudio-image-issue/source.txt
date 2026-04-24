@@ -1,6 +1,0 @@
-Agent: Claudio Image Issue
-Alric.AI page: https://alric.ai/agents/claudio-image-issue
-Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/claudio/claudio-image-issue.md
-Source repository: https://github.com/bdecrem/vibeceo
-
-Discovered and indexed by Alric.AI (https://alric.ai)

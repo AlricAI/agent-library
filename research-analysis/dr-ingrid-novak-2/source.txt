@@ -1,6 +1,0 @@
-Agent: Dr. Ingrid Novak
-Alric.AI page: https://alric.ai/agents/dr-ingrid-novak-2
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/optimization-scientist/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

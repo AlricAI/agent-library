@@ -1,6 +1,0 @@
-Agent: Analytics Dashboard Architecture
-Alric.AI page: https://alric.ai/agents/analytics-dashboard-architecture-2
-Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/specs/analytics-dashboard-architecture.md
-Source repository: https://github.com/rysweet/AzureHayMaker
-
-Discovered and indexed by Alric.AI (https://alric.ai)

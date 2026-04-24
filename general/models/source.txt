@@ -1,6 +1,0 @@
-Agent: MODELS
-Alric.AI page: https://alric.ai/agents/models
-Source file: https://github.com/nirholas/bnb-chain-toolkit/blob/HEAD/agents/defi-agents/docs/MODELS.md
-Source repository: https://github.com/nirholas/bnb-chain-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Playwright Test Generate.Prompt
-Alric.AI page: https://alric.ai/agents/playwright-test-generate-prompt
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/node_modules/playwright/lib/agents/playwright-test-generate.prompt.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

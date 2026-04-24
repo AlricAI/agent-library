@@ -1,6 +1,0 @@
-Agent: AUTO MODE TRANSPARENCY DESIGNS
-Alric.AI page: https://alric.ai/agents/auto-mode-transparency-designs
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/AUTO_MODE_TRANSPARENCY_DESIGNS.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

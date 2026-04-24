@@ -1,6 +1,0 @@
-Agent: VIDEO EDITING
-Alric.AI page: https://alric.ai/agents/video-editing
-Source file: https://github.com/cbwinslow/cloudcurio-monorepo-new/blob/HEAD/agents/toolsets/jcsnotfunny/VIDEO_EDITING.md
-Source repository: https://github.com/cbwinslow/cloudcurio-monorepo-new
-
-Discovered and indexed by Alric.AI (https://alric.ai)

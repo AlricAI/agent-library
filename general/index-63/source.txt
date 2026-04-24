@@ -1,6 +1,0 @@
-Agent: Index
-Alric.AI page: https://alric.ai/agents/index-63
-Source file: https://github.com/chmouel/lazyworktree/blob/HEAD/docs/index.md
-Source repository: https://github.com/chmouel/lazyworktree
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: User Story Rollout Tip
-Alric.AI page: https://alric.ai/agents/user-story-rollout-tip
-Source file: https://github.com/bluekid2457/MarketingDashboard2/blob/HEAD/.github/agents/skills/user_story_rollout_tip.md
-Source repository: https://github.com/bluekid2457/MarketingDashboard2
-
-Discovered and indexed by Alric.AI (https://alric.ai)

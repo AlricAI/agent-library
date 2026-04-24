@@ -1,6 +1,0 @@
-Agent: Index
-Alric.AI page: https://alric.ai/agents/index-16
-Source file: https://github.com/genmcp/gen-mcp/blob/HEAD/docs/index.md
-Source repository: https://github.com/genmcp/gen-mcp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

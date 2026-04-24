@@ -1,6 +1,0 @@
-Agent: GitHubCopilot
-Alric.AI page: https://alric.ai/agents/githubcopilot
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/GitHubCopilot.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

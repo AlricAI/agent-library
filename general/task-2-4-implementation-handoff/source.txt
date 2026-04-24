@@ -1,6 +1,0 @@
-Agent: Task 2 4 Implementation Handoff
-Alric.AI page: https://alric.ai/agents/task-2-4-implementation-handoff
-Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/task_2_4_implementation_handoff.md
-Source repository: https://github.com/frankbria/codeframe
-
-Discovered and indexed by Alric.AI (https://alric.ai)

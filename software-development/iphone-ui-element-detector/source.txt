@@ -1,0 +1,6 @@
+Agent: iPhone UI Element Detector
+Alric.AI page: https://alric.ai/agents/iphone-ui-element-detector
+Source file: https://github.com/jfarcand/mirroir-mcp/blob/HEAD/prompts/screen-describe.md
+Source repository: https://github.com/jfarcand/mirroir-mcp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

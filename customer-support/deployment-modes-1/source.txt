@@ -1,6 +1,0 @@
-Agent: DEPLOYMENT MODES
-Alric.AI page: https://alric.ai/agents/deployment-modes-1
-Source file: https://github.com/datappt8/UOPC/blob/HEAD/doc/DEPLOYMENT-MODES.md
-Source repository: https://github.com/datappt8/UOPC
-
-Discovered and indexed by Alric.AI (https://alric.ai)

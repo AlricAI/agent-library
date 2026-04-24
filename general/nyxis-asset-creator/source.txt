@@ -1,0 +1,6 @@
+Agent: Nyxis Asset Creator
+Alric.AI page: https://alric.ai/agents/nyxis-asset-creator
+Source file: https://github.com/karolis-k/nyxis/blob/HEAD/.cursor/rules/nyxis-asset-creation.mdc
+Source repository: https://github.com/karolis-k/nyxis
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: README
-Alric.AI page: https://alric.ai/agents/readme-10
-Source file: https://github.com/cbwinslow/cloudcurio-monorepo-new/blob/HEAD/agents/crewai/README.md
-Source repository: https://github.com/cbwinslow/cloudcurio-monorepo-new
-
-Discovered and indexed by Alric.AI (https://alric.ai)

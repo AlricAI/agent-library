@@ -1,6 +1,0 @@
-Agent: Query Hot Loading
-Alric.AI page: https://alric.ai/agents/query-hot-loading
-Source file: https://github.com/brdloush/livewire/blob/HEAD/decisions/query-hot-loading.md
-Source repository: https://github.com/brdloush/livewire
-
-Discovered and indexed by Alric.AI (https://alric.ai)

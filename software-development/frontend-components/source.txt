@@ -1,6 +1,0 @@
-Agent: Frontend Components
-Alric.AI page: https://alric.ai/agents/frontend-components
-Source file: https://github.com/AlexL70/linkshortener/blob/HEAD/ai-instructions/frontend-components.md
-Source repository: https://github.com/AlexL70/linkshortener
-
-Discovered and indexed by Alric.AI (https://alric.ai)

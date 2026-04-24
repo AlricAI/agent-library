@@ -1,4 +1,4 @@
-Agent: platform-engineer
+Agent: Platform Engineer
 Alric.AI page: https://alric.ai/agents/platform-engineer
 Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/infrastructure/cloud/platform-engineer.md
 Source repository: https://github.com/aRustyDev/agents

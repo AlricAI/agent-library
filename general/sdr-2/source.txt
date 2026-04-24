@@ -1,6 +1,0 @@
-Agent: Sdr
-Alric.AI page: https://alric.ai/agents/sdr-2
-Source file: https://github.com/chehaba/prospecting/blob/HEAD/outbound/sdr.md
-Source repository: https://github.com/chehaba/prospecting
-
-Discovered and indexed by Alric.AI (https://alric.ai)

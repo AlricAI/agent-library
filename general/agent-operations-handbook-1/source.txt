@@ -1,6 +1,0 @@
-Agent: AGENT OPERATIONS HANDBOOK
-Alric.AI page: https://alric.ai/agents/agent-operations-handbook-1
-Source file: https://github.com/Siebenwind/7w_wiki/blob/HEAD/docs/AGENT_OPERATIONS_HANDBOOK.md
-Source repository: https://github.com/Siebenwind/7w_wiki
-
-Discovered and indexed by Alric.AI (https://alric.ai)

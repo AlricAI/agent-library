@@ -1,6 +1,0 @@
-Agent: Index
-Alric.AI page: https://alric.ai/agents/index-30
-Source file: https://github.com/bagrounds/obsidian-github-publisher-sync/blob/HEAD/games/index.md
-Source repository: https://github.com/bagrounds/obsidian-github-publisher-sync
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Context Discovery Session
-Alric.AI page: https://alric.ai/agents/context-discovery-session
-Source file: https://github.com/blex2011/My-Context/blob/HEAD/discovery/context-discovery-session.md
-Source repository: https://github.com/blex2011/My-Context
-
-Discovered and indexed by Alric.AI (https://alric.ai)

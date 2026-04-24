@@ -1,6 +1,0 @@
-Agent: Natural Review Triggers
-Alric.AI page: https://alric.ai/agents/natural-review-triggers
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/natural-review-triggers.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

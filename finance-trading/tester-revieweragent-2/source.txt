@@ -1,0 +1,6 @@
+Agent: Tester Reviewer.Agent
+Alric.AI page: https://alric.ai/agents/tester-revieweragent-2
+Source file: https://github.com/bluekid2457/MarketingDashboard2/blob/HEAD/.github/agents/tester_reviewer.agent.md
+Source repository: https://github.com/bluekid2457/MarketingDashboard2
+
+Discovered and indexed by Alric.AI (https://alric.ai)

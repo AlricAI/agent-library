@@ -1,6 +1,0 @@
-Agent: Language Reference
-Alric.AI page: https://alric.ai/agents/language-reference
-Source file: https://github.com/bahaaldine/moltler/blob/HEAD/docs/language-reference.md
-Source repository: https://github.com/bahaaldine/moltler
-
-Discovered and indexed by Alric.AI (https://alric.ai)

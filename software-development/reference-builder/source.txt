@@ -1,6 +1,0 @@
-Agent: Technical Reference Builder
-Alric.AI page: https://alric.ai/agents/reference-builder
-Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/documentation-generation/agents/reference-builder.md
-Source repository: https://github.com/wshobson/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

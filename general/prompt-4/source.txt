@@ -1,6 +1,0 @@
-Agent: Prompt
-Alric.AI page: https://alric.ai/agents/prompt-4
-Source file: https://github.com/arsalann/data_playground/blob/HEAD/ai-energy-paradox/prompt.md
-Source repository: https://github.com/arsalann/data_playground
-
-Discovered and indexed by Alric.AI (https://alric.ai)

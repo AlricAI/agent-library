@@ -1,6 +1,0 @@
-Agent: Hypothesis Debugger Investigator
-Alric.AI page: https://alric.ai/agents/team-debugger
-Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/agent-teams/agents/team-debugger.md
-Source repository: https://github.com/wshobson/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

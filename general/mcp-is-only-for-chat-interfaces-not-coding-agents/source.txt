@@ -1,6 +1,0 @@
-Agent: MCP is only for chat interfaces, not coding agents
-Alric.AI page: https://alric.ai/agents/mcp-is-only-for-chat-interfaces-not-coding-agents
-Source file: https://github.com/techwavedev/agi-agent-kit/blob/HEAD/memory/feedback_mcp_scope.md
-Source repository: https://github.com/techwavedev/agi-agent-kit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

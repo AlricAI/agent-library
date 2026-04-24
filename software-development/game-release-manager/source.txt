@@ -1,0 +1,6 @@
+Agent: Game Release Manager
+Alric.AI page: https://alric.ai/agents/game-release-manager
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/donchitos-game-studio/agents/release-manager/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

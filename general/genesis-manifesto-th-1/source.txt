@@ -1,6 +1,0 @@
-Agent: GENESIS MANIFESTO TH
-Alric.AI page: https://alric.ai/agents/genesis-manifesto-th-1
-Source file: https://github.com/FGD-ATR-EP/AGS/blob/HEAD/docs/GENESIS_MANIFESTO_TH.md
-Source repository: https://github.com/FGD-ATR-EP/AGS
-
-Discovered and indexed by Alric.AI (https://alric.ai)

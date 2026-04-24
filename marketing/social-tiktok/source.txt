@@ -1,6 +1,0 @@
-Agent: Social Tiktok
-Alric.AI page: https://alric.ai/agents/social-tiktok
-Source file: https://github.com/samaeljvoolt-png/paperclip-refactor-foundation/blob/HEAD/bootstrap/alquim-ia/public/agents/social-tiktok/AGENTS.md
-Source repository: https://github.com/samaeljvoolt-png/paperclip-refactor-foundation
-
-Discovered and indexed by Alric.AI (https://alric.ai)

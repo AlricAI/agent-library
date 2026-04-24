@@ -1,6 +1,0 @@
-Agent: Api
-Alric.AI page: https://alric.ai/agents/api-15
-Source file: https://github.com/hl/epona/blob/HEAD/specs/api.md
-Source repository: https://github.com/hl/epona
-
-Discovered and indexed by Alric.AI (https://alric.ai)

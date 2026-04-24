@@ -1,6 +1,0 @@
-Agent: Getting Started
-Alric.AI page: https://alric.ai/agents/getting-started-5
-Source file: https://github.com/DecoyLex/ltix/blob/HEAD/guides/getting-started.md
-Source repository: https://github.com/DecoyLex/ltix
-
-Discovered and indexed by Alric.AI (https://alric.ai)

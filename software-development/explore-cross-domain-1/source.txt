@@ -1,6 +1,0 @@
-Agent: explore-cross-domain
-Alric.AI page: https://alric.ai/agents/explore-cross-domain-1
-Source file: https://github.com/BearGrass/skills/blob/HEAD/explore-cross-domain/SKILL.md
-Source repository: https://github.com/BearGrass/skills
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: UX Researcher Pro
+Alric.AI page: https://alric.ai/agents/ux-researcher-pro
+Source file: https://github.com/fjpulidop/specrails-hub/blob/HEAD/agents/ux-researcher/AGENTS.md
+Source repository: https://github.com/fjpulidop/specrails-hub
+
+Discovered and indexed by Alric.AI (https://alric.ai)

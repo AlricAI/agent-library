@@ -1,0 +1,6 @@
+Agent: Sequencing Data Analyst
+Alric.AI page: https://alric.ai/agents/sequencing-data-analyst
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/sequencing-analyst/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

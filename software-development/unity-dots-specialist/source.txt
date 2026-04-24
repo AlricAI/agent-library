@@ -1,0 +1,6 @@
+Agent: Unity Dots Specialist
+Alric.AI page: https://alric.ai/agents/unity-dots-specialist
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/donchitos-game-studio/agents/unity-dots-specialist/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

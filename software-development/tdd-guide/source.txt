@@ -1,6 +1,0 @@
-Agent: tdd-guide
-Alric.AI page: https://alric.ai/agents/tdd-guide
-Source file: https://github.com/nakamu12/lumineer/blob/HEAD/.claude/agents/tdd-guide.md
-Source repository: https://github.com/nakamu12/lumineer
-
-Discovered and indexed by Alric.AI (https://alric.ai)

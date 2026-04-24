@@ -1,6 +1,0 @@
-Agent: Architecture
-Alric.AI page: https://alric.ai/agents/architecture-8
-Source file: https://github.com/AlexSilgidzhiyan/agent-commerce/blob/HEAD/spec/architecture.md
-Source repository: https://github.com/AlexSilgidzhiyan/agent-commerce
-
-Discovered and indexed by Alric.AI (https://alric.ai)

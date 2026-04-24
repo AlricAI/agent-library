@@ -1,6 +1,0 @@
-Agent:  Markdown File Browser
-Alric.AI page: https://alric.ai/agents/markdown-file-browser-1
-Source file: https://github.com/danielgonzagat/megaIAAA/blob/HEAD/autogen/python/packages/autogen-ext/src/autogen_ext/agents/file_surfer/_markdown_file_browser.py
-Source repository: https://github.com/danielgonzagat/megaIAAA
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: TANDEM BROWSER LOCAL GUIDE
-Alric.AI page: https://alric.ai/agents/tandem-browser-local-guide
-Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/TANDEM_BROWSER_LOCAL_GUIDE.md
-Source repository: https://github.com/frumu-ai/tandem
-
-Discovered and indexed by Alric.AI (https://alric.ai)

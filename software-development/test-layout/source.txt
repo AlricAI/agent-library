@@ -1,6 +1,0 @@
-Agent: Test Layout
-Alric.AI page: https://alric.ai/agents/test-layout
-Source file: https://github.com/numman-ali/mlxr/blob/HEAD/docs/test-layout.md
-Source repository: https://github.com/numman-ali/mlxr
-
-Discovered and indexed by Alric.AI (https://alric.ai)

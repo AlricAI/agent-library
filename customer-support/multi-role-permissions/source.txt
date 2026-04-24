@@ -1,6 +1,0 @@
-Agent: MULTI ROLE PERMISSIONS
-Alric.AI page: https://alric.ai/agents/multi-role-permissions
-Source file: https://github.com/sighthoundinc/sighthound-content-ops/blob/HEAD/docs/MULTI_ROLE_PERMISSIONS.md
-Source repository: https://github.com/sighthoundinc/sighthound-content-ops
-
-Discovered and indexed by Alric.AI (https://alric.ai)

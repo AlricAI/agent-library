@@ -1,6 +1,0 @@
-Agent: Network
-Alric.AI page: https://alric.ai/agents/network
-Source file: https://github.com/zapabob/clawdbot/blob/HEAD/docs/network.md
-Source repository: https://github.com/zapabob/clawdbot
-
-Discovered and indexed by Alric.AI (https://alric.ai)

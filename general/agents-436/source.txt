@@ -1,6 +1,0 @@
-Agent: Agents
-Alric.AI page: https://alric.ai/agents/agents-436
-Source file: https://github.com/veggerby/mastra-sample/blob/HEAD/docs/agents.md
-Source repository: https://github.com/veggerby/mastra-sample
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: About
-Alric.AI page: https://alric.ai/agents/about
-Source file: https://github.com/AlliedToasters/perihelion/blob/HEAD/pages/about.md
-Source repository: https://github.com/AlliedToasters/perihelion
-
-Discovered and indexed by Alric.AI (https://alric.ai)

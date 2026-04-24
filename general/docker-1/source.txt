@@ -1,6 +1,0 @@
-Agent: Docker
-Alric.AI page: https://alric.ai/agents/docker-1
-Source file: https://github.com/NVIDIA-NeMo/RL/blob/HEAD/docs/docker.md
-Source repository: https://github.com/NVIDIA-NeMo/RL
-
-Discovered and indexed by Alric.AI (https://alric.ai)

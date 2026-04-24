@@ -1,6 +1,0 @@
-Agent: Team Assignments
-Alric.AI page: https://alric.ai/agents/team-assignments
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/sales/team_assignments.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

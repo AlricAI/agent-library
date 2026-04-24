@@ -1,6 +1,0 @@
-Agent: Frontend
-Alric.AI page: https://alric.ai/agents/frontend-4
-Source file: https://github.com/solatis/koan/blob/HEAD/docs/frontend.md
-Source repository: https://github.com/solatis/koan
-
-Discovered and indexed by Alric.AI (https://alric.ai)

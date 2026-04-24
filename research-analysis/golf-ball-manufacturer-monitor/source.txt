@@ -1,0 +1,6 @@
+Agent: Golf Ball Manufacturer Monitor
+Alric.AI page: https://alric.ai/agents/golf-ball-manufacturer-monitor
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/supplier-news-monitor.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

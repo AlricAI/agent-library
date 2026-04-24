@@ -1,6 +1,0 @@
-Agent: Sb3 Vs Sb4 Differences
-Alric.AI page: https://alric.ai/agents/sb3-vs-sb4-differences
-Source file: https://github.com/brdloush/livewire/blob/HEAD/docs/sb3-vs-sb4-differences.md
-Source repository: https://github.com/brdloush/livewire
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Discovery Agents
-Alric.AI page: https://alric.ai/agents/discovery-agents
-Source file: https://github.com/blex2011/My-Context/blob/HEAD/guides/discovery-agents.md
-Source repository: https://github.com/blex2011/My-Context
-
-Discovered and indexed by Alric.AI (https://alric.ai)

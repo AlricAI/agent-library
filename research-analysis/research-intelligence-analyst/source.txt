@@ -1,0 +1,6 @@
+Agent: Research Intelligence Analyst
+Alric.AI page: https://alric.ai/agents/research-intelligence-analyst
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/research-intelligence-analyst/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

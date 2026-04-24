@@ -1,6 +1,0 @@
-Agent: Reddit Community Builder
-Alric.AI page: https://alric.ai/agents/reddit-community-builder
-Source file: https://github.com/contains-studio/agents/blob/HEAD/marketing/reddit-community-builder.md
-Source repository: https://github.com/contains-studio/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

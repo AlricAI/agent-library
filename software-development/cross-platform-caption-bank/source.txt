@@ -1,6 +1,0 @@
-Agent: Cross Platform Caption Bank
-Alric.AI page: https://alric.ai/agents/cross-platform-caption-bank
-Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/content/cross-platform-caption-bank.md
-Source repository: https://github.com/Trollz1004/ANTIGRAVITY
-
-Discovered and indexed by Alric.AI (https://alric.ai)

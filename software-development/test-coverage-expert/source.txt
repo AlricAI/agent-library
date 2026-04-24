@@ -1,0 +1,6 @@
+Agent: Test Coverage Expert
+Alric.AI page: https://alric.ai/agents/test-coverage-expert
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/amplifier-bundle/agents/core/tester.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

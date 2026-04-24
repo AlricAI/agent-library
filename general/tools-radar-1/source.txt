@@ -1,6 +1,0 @@
-Agent: Tools Radar
-Alric.AI page: https://alric.ai/agents/tools-radar-1
-Source file: https://github.com/dcarmitage/claws/blob/HEAD/systems/tools-radar.md
-Source repository: https://github.com/dcarmitage/claws
-
-Discovered and indexed by Alric.AI (https://alric.ai)

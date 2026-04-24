@@ -1,6 +1,0 @@
-Agent: Specs
-Alric.AI page: https://alric.ai/agents/specs
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/software/development/.notes/specs.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

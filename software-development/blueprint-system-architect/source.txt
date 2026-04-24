@@ -1,0 +1,6 @@
+Agent: Blueprint System Architect
+Alric.AI page: https://alric.ai/agents/blueprint-system-architect
+Source file: https://github.com/claybowl/doer/blob/HEAD/agents/blueprint/AGENTS.md
+Source repository: https://github.com/claybowl/doer
+
+Discovered and indexed by Alric.AI (https://alric.ai)

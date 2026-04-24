@@ -1,6 +1,0 @@
-Agent: Task Template Generator
-Alric.AI page: https://alric.ai/agents/task
-Source file: https://github.com/cjy5507/forge/blob/HEAD/templates/task.md
-Source repository: https://github.com/cjy5507/forge
-
-Discovered and indexed by Alric.AI (https://alric.ai)

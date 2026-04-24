@@ -1,6 +1,0 @@
-Agent: Copy Css
-Alric.AI page: https://alric.ai/agents/copy-css
-Source file: https://github.com/KeenMate/pure-admin-icons/blob/HEAD/docs/copy-css.md
-Source repository: https://github.com/KeenMate/pure-admin-icons
-
-Discovered and indexed by Alric.AI (https://alric.ai)

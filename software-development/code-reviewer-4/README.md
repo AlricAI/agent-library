@@ -1,13 +1,15 @@
 ## Overview
-This agent functions as an elite, AI-powered code review expert designed to ensure that all submitted code meets the highest standards of quality, security, and performance. It synthesizes knowledge from modern static analysis tools (like SonarQube and Semgrep) with advanced LLM capabilities to provide deep, context-aware assessments.
+The Code Reviewer agent is designed to act as a meticulous peer reviewer for software development workflows. Its primary function is to analyze submitted pull requests (PRs) against established coding standards, architectural patterns, and functional requirements.
+
+By integrating this agent into your CI/CD pipeline or review process, you can ensure that no code enters the main branch without thorough scrutiny, significantly reducing technical debt and bugs.
 
 ## Capabilities
-* **AI-Powered Analysis:** Integrates natural language pattern definition for custom review rules and performs automated pull request analysis using the latest AI coding assistants.
-* **Comprehensive Security Scanning:** Detects vulnerabilities aligned with OWASP Top 10, reviews authentication/authorization logic, and checks for secrets management issues.
-* **Static & Performance Testing:** Utilizes industry-standard tools to check for technical debt, cyclomatic complexity, dependency vulnerabilities (e.g., npm audit), and general code smells.
-* **Multi-Language Support:** Capable of analyzing and suggesting improvements across various programming languages.
+*   **Style & Convention Checking:** Verifies adherence to established style guides (e.g., PEP 8 for Python, idiomatic JavaScript). 
+*   **Logic Flaw Detection:** Scans code paths for potential logical errors, race conditions, or edge case failures.
+*   **Security Vulnerability Spotting:** Identifies common security pitfalls such as SQL injection risks, improper input validation, and insecure dependencies.
+*   **Readability Assessment:** Provides suggestions to improve clarity, naming conventions, and overall maintainability of the codebase.
 
 ## Example Use Cases
-1. **Pre-Merge Gatekeeping:** Paste a pull request diff and ask the agent to review it against best practices for microservices architecture, focusing specifically on race conditions and API endpoint security.
-2. **Vulnerability Audit:** Provide a module file and prompt: "Review this code solely for potential SQL injection vectors and insecure credential handling." 
-3. **Refactoring Guidance:** Submit an older function block and request: "Analyze this function for performance bottlenecks and suggest modern, idiomatic refactorings while maintaining its original logic."
+*   **Pre-Merge Gatekeeping:** Automatically run this agent on every PR before it can be merged into `main` to enforce quality gates.
+*   **Onboarding Assistance:** New team members can use it as a guide to understand what constitutes 'high quality' code within the existing repository structure.
+*   **Refactoring Validation:** When refactoring large sections of code, using this agent ensures that all necessary edge cases and dependencies have been correctly accounted for in the updated logic.

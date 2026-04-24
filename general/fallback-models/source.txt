@@ -1,6 +1,0 @@
-Agent: FALLBACK MODELS
-Alric.AI page: https://alric.ai/agents/fallback-models
-Source file: https://github.com/LORDBurnItUp/kds-openclaw/blob/HEAD/lord-sav/FALLBACK_MODELS.md
-Source repository: https://github.com/LORDBurnItUp/kds-openclaw
-
-Discovered and indexed by Alric.AI (https://alric.ai)

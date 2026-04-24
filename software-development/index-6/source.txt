@@ -1,6 +1,0 @@
-Agent: Index
-Alric.AI page: https://alric.ai/agents/index-6
-Source file: https://github.com/tfukaza/harvest/blob/HEAD/docs/index.md
-Source repository: https://github.com/tfukaza/harvest
-
-Discovered and indexed by Alric.AI (https://alric.ai)

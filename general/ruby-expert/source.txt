@@ -1,6 +1,0 @@
-Agent: ruby-expert
-Alric.AI page: https://alric.ai/agents/ruby-expert
-Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/ruby-expert.md
-Source repository: https://github.com/0xfurai/claude-code-subagents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

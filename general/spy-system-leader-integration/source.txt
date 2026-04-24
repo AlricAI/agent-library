@@ -1,6 +1,0 @@
-Agent: Spy System Leader Integration
-Alric.AI page: https://alric.ai/agents/spy-system-leader-integration
-Source file: https://github.com/Tombonator3000/vector-war-games/blob/HEAD/docs/spy-system-leader-integration.md
-Source repository: https://github.com/Tombonator3000/vector-war-games
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Plan009
-Alric.AI page: https://alric.ai/agents/plan009
-Source file: https://github.com/zhs007/xiuxian/blob/HEAD/jules/plan009.md
-Source repository: https://github.com/zhs007/xiuxian
-
-Discovered and indexed by Alric.AI (https://alric.ai)

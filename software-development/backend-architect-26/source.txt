@@ -1,0 +1,6 @@
+Agent: Backend Architect
+Alric.AI page: https://alric.ai/agents/backend-architect-26
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/plugins/multi-platform-apps/agents/backend-architect.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

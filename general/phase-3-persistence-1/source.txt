@@ -1,6 +1,0 @@
-Agent: Phase 3 Persistence
-Alric.AI page: https://alric.ai/agents/phase-3-persistence-1
-Source file: https://github.com/CNCSMonster/learn-claude-code-notes/blob/HEAD/src/phase-3-persistence.md
-Source repository: https://github.com/CNCSMonster/learn-claude-code-notes
-
-Discovered and indexed by Alric.AI (https://alric.ai)

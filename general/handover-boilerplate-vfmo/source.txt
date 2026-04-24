@@ -1,6 +1,0 @@
-Agent: Handover Boilerplate VFMO
-Alric.AI page: https://alric.ai/agents/handover-boilerplate-vfmo
-Source file: https://github.com/joefyn/ChimeraHydra/blob/HEAD/docs/Handover-Boilerplate-vFMO.md
-Source repository: https://github.com/joefyn/ChimeraHydra
-
-Discovered and indexed by Alric.AI (https://alric.ai)

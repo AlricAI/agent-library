@@ -1,6 +1,0 @@
-Agent: README
-Alric.AI page: https://alric.ai/agents/readme-5
-Source file: https://github.com/nirholas/bnb-chain-toolkit/blob/HEAD/market-data/crypto-news/examples/agents/README.md
-Source repository: https://github.com/nirholas/bnb-chain-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: ANTIPATTERNS
-Alric.AI page: https://alric.ai/agents/antipatterns-1
-Source file: https://github.com/PetroczyP/Builder-Judge-Agent-Loop/blob/HEAD/agent-loop/ANTIPATTERNS.md
-Source repository: https://github.com/PetroczyP/Builder-Judge-Agent-Loop
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: MITOSIS
-Alric.AI page: https://alric.ai/agents/mitosis-1
-Source file: https://github.com/dcarmitage/claws/blob/HEAD/systems/MITOSIS.md
-Source repository: https://github.com/dcarmitage/claws
-
-Discovered and indexed by Alric.AI (https://alric.ai)

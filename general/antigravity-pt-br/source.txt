@@ -1,6 +1,0 @@
-Agent: ANTIGRAVITY.Pt BR
-Alric.AI page: https://alric.ai/agents/antigravity-pt-br
-Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/rules/ANTIGRAVITY.pt-BR.md
-Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

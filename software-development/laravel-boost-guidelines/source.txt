@@ -1,6 +1,0 @@
-Agent: Laravel Boost Guidelines
-Alric.AI page: https://alric.ai/agents/laravel-boost-guidelines
-Source file: https://github.com/hannanmiah/product-management-api-task/blob/HEAD/.cursor/rules/laravel-boost.mdc
-Source repository: https://github.com/hannanmiah/product-management-api-task
-
-Discovered and indexed by Alric.AI (https://alric.ai)

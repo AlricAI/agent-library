@@ -1,6 +1,0 @@
-Agent: SESSION HISTORY ARCHIVE
-Alric.AI page: https://alric.ai/agents/session-history-archive
-Source file: https://github.com/pllporg/karen/blob/HEAD/docs/SESSION_HISTORY_ARCHIVE.md
-Source repository: https://github.com/pllporg/karen
-
-Discovered and indexed by Alric.AI (https://alric.ai)

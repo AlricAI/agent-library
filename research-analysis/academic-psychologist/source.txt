@@ -1,0 +1,6 @@
+Agent: Academic Psychologist
+Alric.AI page: https://alric.ai/agents/academic-psychologist
+Source file: https://github.com/paperclipai/companies/blob/HEAD/agency-agents/agents/academic-psychologist/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

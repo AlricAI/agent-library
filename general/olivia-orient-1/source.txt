@@ -1,6 +1,0 @@
-Agent: Olivia Orient
-Alric.AI page: https://alric.ai/agents/olivia-orient-1
-Source file: https://github.com/LoveAndCoding/olivia/blob/HEAD/skills/olivia-orient.md
-Source repository: https://github.com/LoveAndCoding/olivia
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Research Brief Generator
+Alric.AI page: https://alric.ai/agents/research-brief-generator-2
+Source file: https://github.com/cjy5507/forge/blob/HEAD/agents/researcher.md
+Source repository: https://github.com/cjy5507/forge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

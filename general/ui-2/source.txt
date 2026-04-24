@@ -1,6 +1,0 @@
-Agent: Ui
-Alric.AI page: https://alric.ai/agents/ui-2
-Source file: https://github.com/bahaaldine/moltler/blob/HEAD/docs/ui.md
-Source repository: https://github.com/bahaaldine/moltler
-
-Discovered and indexed by Alric.AI (https://alric.ai)

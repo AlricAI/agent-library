@@ -1,6 +1,0 @@
-Agent: Branding
-Alric.AI page: https://alric.ai/agents/branding
-Source file: https://github.com/Michael-Obele/tif/blob/HEAD/tech-invoice-forge/branding.md
-Source repository: https://github.com/Michael-Obele/tif
-
-Discovered and indexed by Alric.AI (https://alric.ai)

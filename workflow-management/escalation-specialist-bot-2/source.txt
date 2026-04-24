@@ -1,0 +1,6 @@
+Agent: Escalation Specialist Bot
+Alric.AI page: https://alric.ai/agents/escalation-specialist-bot-2
+Source file: https://github.com/kentonium3/kg-automation/blob/HEAD/scripts/openclaw/agents/felix-admin-escalation/IDENTITY.md
+Source repository: https://github.com/kentonium3/kg-automation
+
+Discovered and indexed by Alric.AI (https://alric.ai)

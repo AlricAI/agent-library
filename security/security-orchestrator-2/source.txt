@@ -1,4 +1,4 @@
-Agent: Security-Orchestrator
+Agent: Security Orchestrator
 Alric.AI page: https://alric.ai/agents/security-orchestrator-2
 Source file: https://github.com/blazengreen360/hometower/blob/HEAD/.github/agents/security-orchestrator.agent.md
 Source repository: https://github.com/blazengreen360/hometower

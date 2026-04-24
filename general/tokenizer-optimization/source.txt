@@ -1,6 +1,0 @@
-Agent: Tokenizer Optimization
-Alric.AI page: https://alric.ai/agents/tokenizer-optimization
-Source file: https://github.com/Saluana/or3-chat/blob/HEAD/docs/tokenizer-optimization.md
-Source repository: https://github.com/Saluana/or3-chat
-
-Discovered and indexed by Alric.AI (https://alric.ai)

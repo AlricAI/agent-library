@@ -1,6 +1,0 @@
-Agent: Mcm Forge Orchestrator Plan
-Alric.AI page: https://alric.ai/agents/mcm-forge-orchestrator-plan
-Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/docs/mcm-forge-orchestrator-plan.md
-Source repository: https://github.com/golfballnut/mcmforge
-
-Discovered and indexed by Alric.AI (https://alric.ai)

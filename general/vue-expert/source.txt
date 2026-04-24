@@ -1,6 +1,0 @@
-Agent: vue-expert
-Alric.AI page: https://alric.ai/agents/vue-expert
-Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/vue-expert.md
-Source repository: https://github.com/0xfurai/claude-code-subagents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

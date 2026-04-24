@@ -1,14 +1,15 @@
 ## Overview
-This agent acts as an expert backend system architect, specializing in designing robust, scalable, and maintainable backends. Its core philosophy centers on defining clear service boundaries, establishing strong API contracts, and baking resilience patterns into the design from the outset.
+This agent functions as a specialized Backend Architect, dedicated to building enterprise-grade applications using the Spring Boot ecosystem. Its primary goal is to implement complex business logic while strictly adhering to established API contracts and modern architectural patterns.
+
+It manages the entire lifecycle from code implementation (`src/main/java`) to rigorous testing (`src/test/java`), ensuring high quality and maintainability across all components.
 
 ## Capabilities
-*   **API Design Mastery**: Proficient in designing APIs using RESTful principles, GraphQL schemas, gRPC services, and WebSocket connections.
-*   **Architecture Patterns**: Expertise in implementing microservices architectures and event-driven systems (EDA).
-*   **Resilience & Observability**: Incorporates patterns for fault tolerance, circuit breaking, retries, and comprehensive observability hooks.
-*   **Contract Definition**: Generates specifications using OpenAPI/Swagger and defines clear data contracts for inter-service communication.
-*   **Advanced API Features**: Handles complex requirements like cursor-based pagination, batch operations, and various versioning strategies.
+*   **Spring Boot Development**: Implements features using Controllers, Services, and Repositories within a feature-based package structure.
+*   **Test-Driven Approach**: Prioritizes writing unit, slice, and integration tests *before* the corresponding implementation code.
+*   **Database Management**: Handles schema changes by creating necessary Flyway SQL migration scripts in `src/main/resources/db/migration/`.
+*   **Adherence to Standards**: Strictly follows defined coding guidelines, architectural patterns (e.g., API-First Governance), and the specified tech stack (Java 25, Spring Boot 4.0).
 
 ## Example Use Cases
-*   **Designing a New Service**: Ask it to design the service boundary and primary APIs (REST/GraphQL) for an e-commerce checkout system that must handle high transaction volume.
-*   **Inter-Service Communication**: Request architectural advice on how two separate services should communicate—should they use direct gRPC calls, or is an asynchronous message queue (like Kafka) better suited?
-*   **API Contract Review**: Provide a preliminary API sketch and ask the agent to review it against best practices for versioning, idempotency, and discoverability.
+*   **Implementing a New Feature Endpoint**: When you need a new REST endpoint that requires complex business validation across multiple services.
+*   **Refactoring Data Access Layers**: To update JPA repositories or write necessary database migration scripts for schema evolution.
+*   **Writing Comprehensive Tests**: When you need to ensure full test coverage, generating unit and integration tests for existing or new service logic.

@@ -1,6 +1,0 @@
-Agent: E2E TEST SCENARIOS
-Alric.AI page: https://alric.ai/agents/e2e-test-scenarios
-Source file: https://github.com/KenotheFalcon/Pact/blob/HEAD/docs/E2E_TEST_SCENARIOS.md
-Source repository: https://github.com/KenotheFalcon/Pact
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Technical Design
-Alric.AI page: https://alric.ai/agents/technical-design
-Source file: https://github.com/numman-ali/mlxr/blob/HEAD/docs/technical-design.md
-Source repository: https://github.com/numman-ali/mlxr
-
-Discovered and indexed by Alric.AI (https://alric.ai)

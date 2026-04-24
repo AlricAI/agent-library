@@ -1,6 +1,0 @@
-Agent: Chronicler
-Alric.AI page: https://alric.ai/agents/chronicler
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/subsidiaries/CREAM/agents/silverflight0509/chronicler.py
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

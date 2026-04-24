@@ -1,6 +1,0 @@
-Agent: Data Dictionary
-Alric.AI page: https://alric.ai/agents/data-dictionary
-Source file: https://github.com/AysajanE/l2-l1-rent-analysis/blob/HEAD/contracts/data_dictionary.md
-Source repository: https://github.com/AysajanE/l2-l1-rent-analysis
-
-Discovered and indexed by Alric.AI (https://alric.ai)

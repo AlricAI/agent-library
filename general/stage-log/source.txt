@@ -1,6 +1,0 @@
-Agent: Stage Log
-Alric.AI page: https://alric.ai/agents/stage-log
-Source file: https://github.com/NoPKT/omnimem/blob/HEAD/docs/stage-log.md
-Source repository: https://github.com/NoPKT/omnimem
-
-Discovered and indexed by Alric.AI (https://alric.ai)

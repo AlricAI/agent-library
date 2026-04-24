@@ -1,6 +1,0 @@
-Agent: Codebase Aware
-Alric.AI page: https://alric.ai/agents/codebase-aware
-Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/codebase-aware.md
-Source repository: https://github.com/golfballnut/mcmforge
-
-Discovered and indexed by Alric.AI (https://alric.ai)

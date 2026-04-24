@@ -1,6 +1,0 @@
-Agent: Info
-Alric.AI page: https://alric.ai/agents/info
-Source file: https://github.com/Bighandsome-handsome/USTB-RustOS/blob/HEAD/ustb-os-rustlings/info.md
-Source repository: https://github.com/Bighandsome-handsome/USTB-RustOS
-
-Discovered and indexed by Alric.AI (https://alric.ai)

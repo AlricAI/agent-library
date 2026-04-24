@@ -1,6 +1,0 @@
-Agent: Card Abilities
-Alric.AI page: https://alric.ai/agents/card-abilities
-Source file: https://github.com/keyteki/keyteki/blob/HEAD/docs/card-abilities.md
-Source repository: https://github.com/keyteki/keyteki
-
-Discovered and indexed by Alric.AI (https://alric.ai)

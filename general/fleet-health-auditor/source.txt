@@ -1,0 +1,6 @@
+Agent: Fleet Health Auditor
+Alric.AI page: https://alric.ai/agents/fleet-health-auditor
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/mcm-forge/agents/fleet-auditor/AGENTS.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

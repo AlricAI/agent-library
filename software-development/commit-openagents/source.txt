@@ -1,6 +1,0 @@
-Agent: Commit Openagents
-Alric.AI page: https://alric.ai/agents/commit-openagents
-Source file: https://github.com/julianromli/opencode-template/blob/HEAD/command/commit-openagents.md
-Source repository: https://github.com/julianromli/opencode-template
-
-Discovered and indexed by Alric.AI (https://alric.ai)

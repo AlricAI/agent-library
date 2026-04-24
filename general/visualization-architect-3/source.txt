@@ -1,4 +1,4 @@
-Agent: visualization-architect
+Agent: Visualization Architect
 Alric.AI page: https://alric.ai/agents/visualization-architect-3
 Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/.claude/agents/amplihack/specialized/visualization-architect.md
 Source repository: https://github.com/rysweet/AzureHayMaker

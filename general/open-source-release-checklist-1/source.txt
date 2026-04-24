@@ -1,6 +1,0 @@
-Agent: Open Source Release Checklist
-Alric.AI page: https://alric.ai/agents/open-source-release-checklist-1
-Source file: https://github.com/numman-ali/mlxr/blob/HEAD/docs/open-source-release-checklist.md
-Source repository: https://github.com/numman-ali/mlxr
-
-Discovered and indexed by Alric.AI (https://alric.ai)

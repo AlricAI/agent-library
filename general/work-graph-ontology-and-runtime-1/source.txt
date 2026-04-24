@@ -1,6 +1,0 @@
-Agent: Work Graph Ontology And Runtime
-Alric.AI page: https://alric.ai/agents/work-graph-ontology-and-runtime-1
-Source file: https://github.com/tbrandenburg/work/blob/HEAD/docs/work-graph-ontology-and-runtime.md
-Source repository: https://github.com/tbrandenburg/work
-
-Discovered and indexed by Alric.AI (https://alric.ai)

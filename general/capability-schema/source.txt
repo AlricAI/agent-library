@@ -1,6 +1,0 @@
-Agent: Capability Schema
-Alric.AI page: https://alric.ai/agents/capability-schema
-Source file: https://github.com/numman-ali/mlxr/blob/HEAD/docs/capability-schema.md
-Source repository: https://github.com/numman-ali/mlxr
-
-Discovered and indexed by Alric.AI (https://alric.ai)

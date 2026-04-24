@@ -1,6 +1,0 @@
-Agent: Project Brief
-Alric.AI page: https://alric.ai/agents/project-brief
-Source file: https://github.com/danialutegenov/roomieHKU-app/blob/HEAD/docs/project-brief.md
-Source repository: https://github.com/danialutegenov/roomieHKU-app
-
-Discovered and indexed by Alric.AI (https://alric.ai)

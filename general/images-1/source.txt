@@ -1,6 +1,0 @@
-Agent: IMAGES
-Alric.AI page: https://alric.ai/agents/images-1
-Source file: https://github.com/Monsoft-Solutions/monsoftsolutions.com/blob/HEAD/docs/IMAGES.md
-Source repository: https://github.com/Monsoft-Solutions/monsoftsolutions.com
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Workflow Coordinator
+Alric.AI page: https://alric.ai/agents/workflow-coordinator
+Source file: https://github.com/cbwinslow/cloudcurio-monorepo-new/blob/HEAD/prompts/agents/coordinator_system.md
+Source repository: https://github.com/cbwinslow/cloudcurio-monorepo-new
+
+Discovered and indexed by Alric.AI (https://alric.ai)

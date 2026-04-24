@@ -1,6 +1,0 @@
-Agent: CLI WIREFRAME
-Alric.AI page: https://alric.ai/agents/cli-wireframe
-Source file: https://github.com/frankbria/codeframe/blob/HEAD/docs/CLI_WIREFRAME.md
-Source repository: https://github.com/frankbria/codeframe
-
-Discovered and indexed by Alric.AI (https://alric.ai)

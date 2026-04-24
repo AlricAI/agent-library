@@ -1,6 +1,0 @@
-Agent: TEAM B CHANGELOG
-Alric.AI page: https://alric.ai/agents/team-b-changelog
-Source file: https://github.com/midnghtsapphire/reese-reviews/blob/HEAD/docs/TEAM_B_CHANGELOG.md
-Source repository: https://github.com/midnghtsapphire/reese-reviews
-
-Discovered and indexed by Alric.AI (https://alric.ai)

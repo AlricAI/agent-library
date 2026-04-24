@@ -1,6 +1,0 @@
-Agent: Jwk Management
-Alric.AI page: https://alric.ai/agents/jwk-management
-Source file: https://github.com/DecoyLex/ltix/blob/HEAD/guides/jwk-management.md
-Source repository: https://github.com/DecoyLex/ltix
-
-Discovered and indexed by Alric.AI (https://alric.ai)

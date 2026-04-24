@@ -1,6 +1,0 @@
-Agent: Queues And Diagnosis
-Alric.AI page: https://alric.ai/agents/queues-and-diagnosis
-Source file: https://github.com/cap-jmk-real/agentron/blob/HEAD/docs/queues-and-diagnosis.md
-Source repository: https://github.com/cap-jmk-real/agentron
-
-Discovered and indexed by Alric.AI (https://alric.ai)

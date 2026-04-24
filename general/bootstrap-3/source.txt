@@ -1,6 +1,0 @@
-Agent: BOOTSTRAP
-Alric.AI page: https://alric.ai/agents/bootstrap-3
-Source file: https://github.com/OpenMOSS/OurClaw/blob/HEAD/commonworkspace/BOOTSTRAP.md
-Source repository: https://github.com/OpenMOSS/OurClaw
-
-Discovered and indexed by Alric.AI (https://alric.ai)

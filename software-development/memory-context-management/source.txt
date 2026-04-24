@@ -1,6 +1,0 @@
-Agent: Memory & Context Management
-Alric.AI page: https://alric.ai/agents/memory-context-management
-Source file: https://github.com/felipebarcelospro/igniter-js/blob/HEAD/apps/starter-nextjs/.cursor/rules/memory.mdc
-Source repository: https://github.com/felipebarcelospro/igniter-js
-
-Discovered and indexed by Alric.AI (https://alric.ai)

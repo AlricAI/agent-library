@@ -1,6 +1,0 @@
-Agent: PROSPECT RESEARCH REPORT
-Alric.AI page: https://alric.ai/agents/prospect-research-report-2
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/sales/PROSPECT_RESEARCH_REPORT.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

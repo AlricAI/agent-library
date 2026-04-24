@@ -1,6 +1,0 @@
-Agent: Review Agent
-Alric.AI page: https://alric.ai/agents/review-agent-4
-Source file: https://github.com/frankbria/codeframe/blob/HEAD/codeframe/agents/review_agent.py
-Source repository: https://github.com/frankbria/codeframe
-
-Discovered and indexed by Alric.AI (https://alric.ai)

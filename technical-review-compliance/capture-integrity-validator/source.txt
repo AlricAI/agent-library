@@ -1,0 +1,6 @@
+Agent: Capture Integrity Validator
+Alric.AI page: https://alric.ai/agents/capture-integrity-validator
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/capture-codex/Soul.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

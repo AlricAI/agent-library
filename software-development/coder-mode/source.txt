@@ -1,6 +1,0 @@
-Agent: Coder Mode
-Alric.AI page: https://alric.ai/agents/coder-mode
-Source file: https://github.com/Midori-AI-OSS/Midori-AI/blob/HEAD/.github/agents/coder.md
-Source repository: https://github.com/Midori-AI-OSS/Midori-AI
-
-Discovered and indexed by Alric.AI (https://alric.ai)

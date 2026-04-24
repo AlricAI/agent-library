@@ -1,6 +1,0 @@
-Agent: Test Litellm Agent
-Alric.AI page: https://alric.ai/agents/test-litellm-agent-1
-Source file: https://github.com/comet-ml/opik/blob/HEAD/sdks/opik_optimizer/tests/unit/agents/test_litellm_agent.py
-Source repository: https://github.com/comet-ml/opik
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Examples
-Alric.AI page: https://alric.ai/agents/examples-1
-Source file: https://github.com/nirholas/bnb-chain-toolkit/blob/HEAD/docs/examples.md
-Source repository: https://github.com/nirholas/bnb-chain-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

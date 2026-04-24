@@ -1,0 +1,6 @@
+Agent: Backend Code Generator
+Alric.AI page: https://alric.ai/agents/backend-code-generator
+Source file: https://github.com/frankbria/codeframe/blob/HEAD/.claude/agents/backend-worker.md
+Source repository: https://github.com/frankbria/codeframe
+
+Discovered and indexed by Alric.AI (https://alric.ai)

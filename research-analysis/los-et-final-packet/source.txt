@@ -1,6 +1,0 @@
-Agent: Los Et Final Packet
-Alric.AI page: https://alric.ai/agents/los-et-final-packet
-Source file: https://github.com/AlliedToasters/perihelion/blob/HEAD/agents/p8/data/los_et_final_packet.md
-Source repository: https://github.com/AlliedToasters/perihelion
-
-Discovered and indexed by Alric.AI (https://alric.ai)

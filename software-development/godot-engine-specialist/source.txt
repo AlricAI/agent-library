@@ -1,0 +1,6 @@
+Agent: Godot Engine Specialist
+Alric.AI page: https://alric.ai/agents/godot-engine-specialist
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/donchitos-game-studio/agents/godot-specialist/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

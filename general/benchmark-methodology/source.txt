@@ -1,6 +1,0 @@
-Agent: Benchmark Methodology
-Alric.AI page: https://alric.ai/agents/benchmark-methodology
-Source file: https://github.com/konjoai/vectro/blob/HEAD/docs/benchmark-methodology.md
-Source repository: https://github.com/konjoai/vectro
-
-Discovered and indexed by Alric.AI (https://alric.ai)

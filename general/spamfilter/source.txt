@@ -1,7 +1,0 @@
-Agent: scorer
-
-Alric.AI page: https://alric.ai/agents/spamfilter
-Source file: https://github.com/dotojr123/crewai-production-ready/blob/HEAD/crewAI-examples/crews/screenplay_writer/config/agents.yaml
-Source repository: https://github.com/dotojr123/crewai-production-ready
-
-Discovered and indexed by Alric.AI (https://alric.ai)

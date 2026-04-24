@@ -1,0 +1,6 @@
+Agent: Jira Workflow Automation
+Alric.AI page: https://alric.ai/agents/jira-workflow-automation
+Source file: https://github.com/cabell132/FitnessTracker/blob/HEAD/.cursor/rules/jira-agent.mdc
+Source repository: https://github.com/cabell132/FitnessTracker
+
+Discovered and indexed by Alric.AI (https://alric.ai)

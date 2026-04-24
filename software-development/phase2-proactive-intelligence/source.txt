@@ -1,6 +1,0 @@
-Agent: Phase2 Proactive Intelligence
-Alric.AI page: https://alric.ai/agents/phase2-proactive-intelligence
-Source file: https://github.com/jmbish04/core-github-api/blob/HEAD/docs/phase2-proactive-intelligence.md
-Source repository: https://github.com/jmbish04/core-github-api
-
-Discovered and indexed by Alric.AI (https://alric.ai)

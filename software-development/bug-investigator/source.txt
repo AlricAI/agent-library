@@ -1,0 +1,6 @@
+Agent: Bug Investigator
+Alric.AI page: https://alric.ai/agents/bug-investigator
+Source file: https://github.com/erickmcaro/shippulse/blob/HEAD/workflows/bug-fix/agents/investigator/IDENTITY.md
+Source repository: https://github.com/erickmcaro/shippulse
+
+Discovered and indexed by Alric.AI (https://alric.ai)

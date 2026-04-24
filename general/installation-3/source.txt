@@ -1,6 +1,0 @@
-Agent: Installation
-Alric.AI page: https://alric.ai/agents/installation-3
-Source file: https://github.com/chmouel/lazyworktree/blob/HEAD/docs/installation.md
-Source repository: https://github.com/chmouel/lazyworktree
-
-Discovered and indexed by Alric.AI (https://alric.ai)

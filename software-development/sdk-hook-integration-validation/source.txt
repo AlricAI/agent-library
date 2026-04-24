@@ -1,6 +1,0 @@
-Agent: SDK HOOK INTEGRATION VALIDATION
-Alric.AI page: https://alric.ai/agents/sdk-hook-integration-validation
-Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/SDK_HOOK_INTEGRATION_VALIDATION.md
-Source repository: https://github.com/frankbria/codeframe
-
-Discovered and indexed by Alric.AI (https://alric.ai)

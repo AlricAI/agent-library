@@ -1,6 +1,0 @@
-Agent: GStack
-Alric.AI page: https://alric.ai/agents/gstack-1
-Source file: https://github.com/paperclipai/companies/blob/HEAD/gstack/COMPANY.md
-Source repository: https://github.com/paperclipai/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Product Prioritization Analyst
+Alric.AI page: https://alric.ai/agents/product-prioritization-analyst
+Source file: https://github.com/paperclipai/companies/blob/HEAD/product-compass-consulting/agents/prioritization-specialist/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

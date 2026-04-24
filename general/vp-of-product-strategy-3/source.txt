@@ -1,6 +1,0 @@
-Agent: VP of Product Strategy
-Alric.AI page: https://alric.ai/agents/vp-of-product-strategy-3
-Source file: https://github.com/paperclipai/companies/blob/HEAD/product-compass-consulting/agents/vp-strategy/AGENTS.md
-Source repository: https://github.com/paperclipai/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

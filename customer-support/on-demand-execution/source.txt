@@ -1,6 +1,0 @@
-Agent: ON DEMAND EXECUTION
-Alric.AI page: https://alric.ai/agents/on-demand-execution
-Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/docs/ON_DEMAND_EXECUTION.md
-Source repository: https://github.com/rysweet/AzureHayMaker
-
-Discovered and indexed by Alric.AI (https://alric.ai)

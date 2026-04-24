@@ -1,6 +1,0 @@
-Agent: Tech Stack
-Alric.AI page: https://alric.ai/agents/tech-stack-1
-Source file: https://github.com/FolahanWilliams/decision-intel/blob/HEAD/conductor/tech-stack.md
-Source repository: https://github.com/FolahanWilliams/decision-intel
-
-Discovered and indexed by Alric.AI (https://alric.ai)

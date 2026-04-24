@@ -1,6 +1,0 @@
-Agent: BRANCH PROTECTION
-Alric.AI page: https://alric.ai/agents/branch-protection-1
-Source file: https://github.com/midnghtsapphire/reese-reviews/blob/HEAD/docs/BRANCH_PROTECTION.md
-Source repository: https://github.com/midnghtsapphire/reese-reviews
-
-Discovered and indexed by Alric.AI (https://alric.ai)

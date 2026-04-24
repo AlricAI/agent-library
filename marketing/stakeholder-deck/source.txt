@@ -1,6 +1,0 @@
-Agent: STAKEHOLDER DECK
-Alric.AI page: https://alric.ai/agents/stakeholder-deck
-Source file: https://github.com/massoudsh/Findash/blob/HEAD/presentation/STAKEHOLDER_DECK.md
-Source repository: https://github.com/massoudsh/Findash
-
-Discovered and indexed by Alric.AI (https://alric.ai)

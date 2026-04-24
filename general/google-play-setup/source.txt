@@ -1,6 +1,0 @@
-Agent: Google Play Setup
-Alric.AI page: https://alric.ai/agents/google-play-setup
-Source file: https://github.com/alkozlov/puzzle-dazzle/blob/HEAD/docs/google-play-setup.md
-Source repository: https://github.com/alkozlov/puzzle-dazzle
-
-Discovered and indexed by Alric.AI (https://alric.ai)

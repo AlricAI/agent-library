@@ -1,6 +1,0 @@
-Agent: NEO4J POST SESSION PROMPT FIX
-Alric.AI page: https://alric.ai/agents/neo4j-post-session-prompt-fix
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/NEO4J_POST_SESSION_PROMPT_FIX.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

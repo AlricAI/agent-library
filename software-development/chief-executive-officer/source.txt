@@ -1,0 +1,6 @@
+Agent: Chief Executive Officer
+Alric.AI page: https://alric.ai/agents/chief-executive-officer
+Source file: https://github.com/paperclipai/companies/blob/HEAD/agentsys-engineering/agents/ceo/AGENTS.md
+Source repository: https://github.com/paperclipai/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

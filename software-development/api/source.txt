@@ -1,6 +1,0 @@
-Agent: Api Development Agent
-Alric.AI page: https://alric.ai/agents/api
-Source file: https://github.com/webdevtodayjason/sub-agents/blob/HEAD/commands/api.md
-Source repository: https://github.com/webdevtodayjason/sub-agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

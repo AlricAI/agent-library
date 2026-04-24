@@ -1,0 +1,6 @@
+Agent: Pr Feedback Addresser
+Alric.AI page: https://alric.ai/agents/pr-feedback-addresser
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/meta/skills/pr-addresser.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

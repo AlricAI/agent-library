@@ -1,6 +1,0 @@
-Agent: 000 20251229 Setup Session
-Alric.AI page: https://alric.ai/agents/000-20251229-setup-session
-Source file: https://github.com/waybarrios/cyber-agent/blob/HEAD/agents/redteam_agent/sessions/000_20251229_setup_session.md
-Source repository: https://github.com/waybarrios/cyber-agent
-
-Discovered and indexed by Alric.AI (https://alric.ai)

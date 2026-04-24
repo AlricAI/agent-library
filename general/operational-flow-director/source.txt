@@ -1,0 +1,6 @@
+Agent: Operational Flow Director
+Alric.AI page: https://alric.ai/agents/operational-flow-director
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/ops-lead/Soul.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

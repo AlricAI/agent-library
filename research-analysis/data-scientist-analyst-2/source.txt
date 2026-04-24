@@ -1,0 +1,6 @@
+Agent: Data Scientist Analyst
+Alric.AI page: https://alric.ai/agents/data-scientist-analyst-2
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-data-ai/agents/data-scientist.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

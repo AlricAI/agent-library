@@ -1,6 +1,0 @@
-Agent: OPTIONS TRADING PAGE FLOW
-Alric.AI page: https://alric.ai/agents/options-trading-page-flow
-Source file: https://github.com/massoudsh/Findash/blob/HEAD/docs/OPTIONS_TRADING_PAGE_FLOW.md
-Source repository: https://github.com/massoudsh/Findash
-
-Discovered and indexed by Alric.AI (https://alric.ai)

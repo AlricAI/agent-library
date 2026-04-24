@@ -1,0 +1,6 @@
+Agent: Trail UX Design Consultant
+Alric.AI page: https://alric.ai/agents/trail-ux-design-consultant
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/dirtsync/agents/explore-ux-expert/SOUL.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

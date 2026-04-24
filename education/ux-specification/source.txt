@@ -1,6 +1,0 @@
-Agent: UX SPECIFICATION
-Alric.AI page: https://alric.ai/agents/ux-specification
-Source file: https://github.com/mochadwi/gummy-apps/blob/HEAD/docs/UX_SPECIFICATION.md
-Source repository: https://github.com/mochadwi/gummy-apps
-
-Discovered and indexed by Alric.AI (https://alric.ai)

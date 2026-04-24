@@ -1,6 +1,0 @@
-Agent: Index
-Alric.AI page: https://alric.ai/agents/index-8
-Source file: https://github.com/nirholas/bnb-chain-toolkit/blob/HEAD/mcp-servers/universal-crypto-mcp/docs/content/api/agents/index.md
-Source repository: https://github.com/nirholas/bnb-chain-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

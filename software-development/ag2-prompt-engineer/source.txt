@@ -1,6 +1,0 @@
-Agent: Prompt Engineer
-Alric.AI page: https://alric.ai/agents/ag2-prompt-engineer
-Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/ag2-agent-builder/agents/ag2-prompt-engineer.md
-Source repository: https://github.com/davepoon/claude-code-subagents-collection
-
-Discovered and indexed by Alric.AI (https://alric.ai)

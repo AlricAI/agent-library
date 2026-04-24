@@ -1,6 +1,0 @@
-Agent: SPAWN MIKE RESOURCE TASK
-Alric.AI page: https://alric.ai/agents/spawn-mike-resource-task
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/queue/SPAWN_MIKE_RESOURCE_TASK.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

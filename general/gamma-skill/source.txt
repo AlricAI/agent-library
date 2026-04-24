@@ -1,6 +1,0 @@
-Agent: GAMMA SKILL
-Alric.AI page: https://alric.ai/agents/gamma-skill
-Source file: https://github.com/LORDBurnItUp/kds-openclaw/blob/HEAD/lord-sav/GAMMA_SKILL.md
-Source repository: https://github.com/LORDBurnItUp/kds-openclaw
-
-Discovered and indexed by Alric.AI (https://alric.ai)

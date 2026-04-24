@@ -1,6 +1,0 @@
-Agent: Capture Review
-Alric.AI page: https://alric.ai/agents/capture-review
-Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/capture-review/AGENTS.md
-Source repository: https://github.com/ognjhunt/Blueprint-WebApp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Cursor Rules Agent
-Alric.AI page: https://alric.ai/agents/cursor-rules-agent-17
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/rules/.wip/htmx-go-fiber-cursorrules-prompt-file/.cursorrules
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

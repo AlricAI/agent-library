@@ -1,6 +1,0 @@
-Agent: QUICKSTART
-Alric.AI page: https://alric.ai/agents/quickstart-10
-Source file: https://github.com/frankbria/codeframe/blob/HEAD/docs/QUICKSTART.md
-Source repository: https://github.com/frankbria/codeframe
-
-Discovered and indexed by Alric.AI (https://alric.ai)

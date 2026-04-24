@@ -1,0 +1,6 @@
+Agent: Amber Companion Agent
+Alric.AI page: https://alric.ai/agents/amber-companion-agent
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/drawer/PERSONA.md
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

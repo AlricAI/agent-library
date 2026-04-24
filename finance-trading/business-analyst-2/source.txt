@@ -1,6 +1,0 @@
-Agent: business-analyst
-Alric.AI page: https://alric.ai/agents/business-analyst-2
-Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/business-analyst.md
-Source repository: https://github.com/davepoon/claude-code-subagents-collection
-
-Discovered and indexed by Alric.AI (https://alric.ai)

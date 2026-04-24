@@ -1,6 +1,0 @@
-Agent: Cli
-Alric.AI page: https://alric.ai/agents/cli-10
-Source file: https://github.com/chmouel/lazyworktree/blob/HEAD/docs/cli.md
-Source repository: https://github.com/chmouel/lazyworktree
-
-Discovered and indexed by Alric.AI (https://alric.ai)

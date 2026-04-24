@@ -1,6 +1,0 @@
-Agent: gsd-user-profiler
-Alric.AI page: https://alric.ai/agents/gsd-user-profiler
-Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/gsd/agents/gsd-user-profiler.md
-Source repository: https://github.com/davepoon/claude-code-subagents-collection
-
-Discovered and indexed by Alric.AI (https://alric.ai)

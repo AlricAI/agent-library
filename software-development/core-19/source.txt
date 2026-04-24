@@ -1,6 +1,0 @@
-Agent: Core
-Alric.AI page: https://alric.ai/agents/core-19
-Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/.cursor/rules/core.mdc
-Source repository: https://github.com/bdecrem/vibeceo
-
-Discovered and indexed by Alric.AI (https://alric.ai)

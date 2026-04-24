@@ -1,6 +1,0 @@
-Agent: Commands
-Alric.AI page: https://alric.ai/agents/commands
-Source file: https://github.com/genmcp/gen-mcp/blob/HEAD/docs/commands.md
-Source repository: https://github.com/genmcp/gen-mcp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

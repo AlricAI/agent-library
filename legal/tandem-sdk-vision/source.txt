@@ -1,6 +1,0 @@
-Agent: TANDEM SDK VISION
-Alric.AI page: https://alric.ai/agents/tandem-sdk-vision
-Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/TANDEM_SDK_VISION.md
-Source repository: https://github.com/frumu-ai/tandem
-
-Discovered and indexed by Alric.AI (https://alric.ai)

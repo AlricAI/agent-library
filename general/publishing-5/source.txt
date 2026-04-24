@@ -1,6 +1,0 @@
-Agent: PUBLISHING
-Alric.AI page: https://alric.ai/agents/publishing-5
-Source file: https://github.com/claybowl/doer/blob/HEAD/doc/PUBLISHING.md
-Source repository: https://github.com/claybowl/doer
-
-Discovered and indexed by Alric.AI (https://alric.ai)

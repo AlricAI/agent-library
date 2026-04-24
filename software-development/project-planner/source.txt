@@ -1,6 +1,6 @@
-Agent: Project Planner Pro
+Agent: Project Planner
 Alric.AI page: https://alric.ai/agents/project-planner
-Source file: https://github.com/webdevtodayjason/sub-agents/blob/HEAD/agents/project-planner/agent.md
-Source repository: https://github.com/webdevtodayjason/sub-agents
+Source file: https://github.com/xiaoland/agents/blob/HEAD/prompts/plan.md
+Source repository: https://github.com/xiaoland/agents
 
 Discovered and indexed by Alric.AI (https://alric.ai)

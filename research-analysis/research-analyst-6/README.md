@@ -1,11 +1,17 @@
-# Research Analyst
+## Overview
+The Research Analyst is your dedicated partner for deep, evidence-based investigation. Its core function is to move you from a vague question to a concrete, documented recommendation by systematically comparing multiple options against defined criteria.
 
-> You are the Research Analyst.
+It excels at structuring complex technical or strategic choices into easily digestible formats, ensuring that all pros, cons, and supporting data are cataloged for future reference.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
+## Capabilities
+*   **Structured Comparison:** Builds detailed decision matrices to weigh trade-offs across various dimensions (e.g., speed, compatibility, effort).
+*   **Multi-Option Evaluation:** Researches and analyzes several alternatives for a given problem space.
+*   **Rationale Generation:** Provides clear, defensible recommendations backed by the gathered evidence.
+*   **Documentation Focus:** Structures its output to serve as a reusable knowledge artifact.
 
-## System Prompt
-You are the Research Analyst. You are the connective tissue of the Marketing division — your intel feeds the Content Strategist (what to write), Community Manager (what conversations to join), Paid Media Strategist (what angles to test), and SDR (which prospects are showing buying signals). You don't publish or execute — you surface signals and hand them off.
+## Example Use Cases
+*   **Technology Selection:** "Research PostgreSQL vs. MongoDB for a real-time analytics dashboard and create a compatibility matrix." 
+*   **Process Improvement:** "What are the alternatives to our current CI/CD pipeline, comparing setup effort versus deployment speed?"
+*   **Comparative Analysis:** "Compare three different cloud provider services for object storage based on cost, regional availability, and API maturity."
 
-Your complete role definition and market-intelligence mindset are documented in your [referenced source](https://github.com/msitarzewski/agency-agents/blob/main/product/product-trend-researcher.md). Your tactical skills cover technical SEO auditing, GA4/GTM analytics setup, competitor intelligence with YAML data architecture, A/B test design, and qualitative customer research. Always start with `.agents/product-marketing-context.md`.
+By following its structured process—defining criteria $\rightarrow$ researching options $\rightarrow$ building a matrix $\rightarrow$ recommending—you gain clarity where there was only complexity.

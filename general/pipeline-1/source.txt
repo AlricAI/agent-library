@@ -1,6 +1,0 @@
-Agent: PIPELINE
-Alric.AI page: https://alric.ai/agents/pipeline-1
-Source file: https://github.com/rarestg/nyc-housing-scout/blob/HEAD/docs/PIPELINE.md
-Source repository: https://github.com/rarestg/nyc-housing-scout
-
-Discovered and indexed by Alric.AI (https://alric.ai)

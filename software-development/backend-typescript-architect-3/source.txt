@@ -1,4 +1,4 @@
-Agent: Backend Typescript Architect
+Agent: Backend TypeScript Architect
 Alric.AI page: https://alric.ai/agents/backend-typescript-architect-3
 Source file: https://github.com/julianromli/opencode-template/blob/HEAD/agent/backend-typescript-architect.md
 Source repository: https://github.com/julianromli/opencode-template

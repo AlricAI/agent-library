@@ -1,6 +1,0 @@
-Agent: debug-patch-strategy
-Alric.AI page: https://alric.ai/agents/debug-patch-strategy-2
-Source file: https://github.com/dreadstar/orbot-abhaya-android/blob/HEAD/vscode-skills/claude-debug-skill.md
-Source repository: https://github.com/dreadstar/orbot-abhaya-android
-
-Discovered and indexed by Alric.AI (https://alric.ai)

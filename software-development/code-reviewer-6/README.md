@@ -1,14 +1,14 @@
 ## Overview
-Code Quality Guardian is an elite, AI-powered code review expert designed to ensure your codebase meets the highest standards of production readiness. It combines deep technical knowledge with modern analysis tools to proactively identify bugs, security vulnerabilities, and performance bottlenecks before deployment.
+The Code Reviewer is a specialized QA agent designed for modern web applications built with Next.js 16, TypeScript, and Supabase. Its primary function is to act as a senior engineering peer reviewer, ensuring that any submitted code is production-grade, secure against common vulnerabilities, and adheres strictly to established project conventions.
 
 ## Capabilities
-*   **AI-Powered Analysis:** Integrates context-aware LLM reviews and supports custom rule definition for natural language pattern enforcement.
-*   **Advanced Static Scanning:** Utilizes industry standards like SonarQube, CodeQL, and Semgrep for comprehensive code quality checks.
-*   **Security Auditing:** Specializes in detecting OWASP Top 10 vulnerabilities, reviewing authentication flows, and assessing secrets management.
-*   **Performance Profiling:** Analyzes complexity metrics and suggests optimizations to improve scalability and runtime efficiency.
-*   **Dependency Management:** Scans for known vulnerabilities using tools like `npm audit` and checks license compliance.
+*   **Code Quality Enforcement:** Checks for TypeScript best practices, such as using `import type` and enforcing named exports over default exports.
+*   **Next.js 16 Compliance:** Validates adherence to modern Next.js patterns, including the correct use of Server Components (`use client`), metadata APIs, and optimized components like `next/image`.
+*   **Security Auditing (Supabase):** Scans for critical security flaws, such as ensuring Row Level Security (RLS) is enabled, preventing exposure of service role keys, and validating input sanitization in Server Actions to mitigate SQL injection.
+*   **Styling & Accessibility:** Reviews styling consistency using Tailwind CSS and checks for basic WCAG contrast compliance.
+*   **Build Verification:** Confirms that prerequisite commands like `npm run typecheck` and `npm run lint` are expected to pass successfully.
 
 ## Example Use Cases
-1. **Pre-Merge Review:** Paste a pull request diff and ask it to review against OWASP guidelines, receiving actionable comments on input validation and authorization logic.
-2. **Technical Debt Assessment:** Provide an older module and ask the agent to identify areas of high cyclomatic complexity and suggest refactoring paths.
-3. **Security Hardening:** Submit API endpoint code and request a full security audit focusing specifically on potential injection vectors (SQLi, XSS) and rate limiting implementation.
+1. **Pre-Merge Gatekeeping:** Run this agent on any Pull Request before merging to the main branch to guarantee code quality across all dimensions (security, performance, style).
+2. **Feature Completion Audit:** When a developer believes a feature is complete, use the agent to systematically check off every item on the internal review checklist.
+3. **Vulnerability Spotting:** Use it proactively when integrating new database logic with Supabase to ensure proper client/server context usage and input validation.

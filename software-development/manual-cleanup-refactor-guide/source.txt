@@ -1,6 +1,0 @@
-Agent: Manual Cleanup Refactor Guide
-Alric.AI page: https://alric.ai/agents/manual-cleanup-refactor-guide
-Source file: https://github.com/alibaba/OpenSandbox/blob/HEAD/docs/manual-cleanup-refactor-guide.md
-Source repository: https://github.com/alibaba/OpenSandbox
-
-Discovered and indexed by Alric.AI (https://alric.ai)

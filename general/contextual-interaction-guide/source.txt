@@ -1,0 +1,6 @@
+Agent: Contextual Interaction Guide
+Alric.AI page: https://alric.ai/agents/contextual-interaction-guide
+Source file: https://github.com/blex2011/My-Context/blob/HEAD/context-components/domain-map.md
+Source repository: https://github.com/blex2011/My-Context
+
+Discovered and indexed by Alric.AI (https://alric.ai)

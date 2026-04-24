@@ -1,6 +1,0 @@
-Agent: Test 0.7.0
-Alric.AI page: https://alric.ai/agents/test-0-7-0
-Source file: https://github.com/burggraf/pi-teams/blob/HEAD/docs/test-0.7.0.md
-Source repository: https://github.com/burggraf/pi-teams
-
-Discovered and indexed by Alric.AI (https://alric.ai)

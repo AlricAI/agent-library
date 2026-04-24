@@ -1,6 +1,0 @@
-Agent: 📄 MDX-First Documentation Rules
-Alric.AI page: https://alric.ai/agents/mdx-first-documentation-rules
-Source file: https://github.com/felipebarcelospro/igniter-js/blob/HEAD/.cursor/rules/writing-styles.mdc
-Source repository: https://github.com/felipebarcelospro/igniter-js
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Sales Messaging Architect
+Alric.AI page: https://alric.ai/agents/sales-messaging-architect
+Source file: https://github.com/chehaba/prospecting/blob/HEAD/prompts/agent.md
+Source repository: https://github.com/chehaba/prospecting
+
+Discovered and indexed by Alric.AI (https://alric.ai)

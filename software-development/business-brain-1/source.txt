@@ -1,6 +1,0 @@
-Agent: BUSINESS BRAIN
-Alric.AI page: https://alric.ai/agents/business-brain-1
-Source file: https://github.com/LORDBurnItUp/kds-openclaw/blob/HEAD/lord-sav/BUSINESS_BRAIN.md
-Source repository: https://github.com/LORDBurnItUp/kds-openclaw
-
-Discovered and indexed by Alric.AI (https://alric.ai)

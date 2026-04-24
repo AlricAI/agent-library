@@ -1,6 +1,0 @@
-Agent: Directive Envelope Standard
-Alric.AI page: https://alric.ai/agents/directive-envelope-standard
-Source file: https://github.com/FGD-ATR-EP/AGS/blob/HEAD/docs/directive_envelope_standard.md
-Source repository: https://github.com/FGD-ATR-EP/AGS
-
-Discovered and indexed by Alric.AI (https://alric.ai)

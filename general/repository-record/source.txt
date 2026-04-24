@@ -1,6 +1,0 @@
-Agent: REPOSITORY RECORD
-Alric.AI page: https://alric.ai/agents/repository-record
-Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/briefings/REPOSITORY_RECORD.md
-Source repository: https://github.com/Trollz1004/ANTIGRAVITY
-
-Discovered and indexed by Alric.AI (https://alric.ai)

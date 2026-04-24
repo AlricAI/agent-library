@@ -1,6 +1,0 @@
-Agent: Github Workflows Design
-Alric.AI page: https://alric.ai/agents/github-workflows-design
-Source file: https://github.com/frankbria/codeframe/blob/HEAD/claudedocs/github-workflows-design.md
-Source repository: https://github.com/frankbria/codeframe
-
-Discovered and indexed by Alric.AI (https://alric.ai)

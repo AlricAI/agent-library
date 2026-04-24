@@ -1,4 +1,4 @@
-Agent: seo-content-writer
+Agent: Seo Content Writer
 Alric.AI page: https://alric.ai/agents/seo-content-writer-1
 Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/seo-content-writer.md
 Source repository: https://github.com/aRustyDev/agents

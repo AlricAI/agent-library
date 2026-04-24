@@ -1,6 +1,0 @@
-Agent: Go Development Expert
-Alric.AI page: https://alric.ai/agents/golang-pro
-Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/systems-programming/agents/golang-pro.md
-Source repository: https://github.com/wshobson/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

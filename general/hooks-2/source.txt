@@ -1,6 +1,0 @@
-Agent: Hooks
-Alric.AI page: https://alric.ai/agents/hooks-2
-Source file: https://github.com/joggrdocs/funkai/blob/HEAD/packages/agents/docs/hooks.md
-Source repository: https://github.com/joggrdocs/funkai
-
-Discovered and indexed by Alric.AI (https://alric.ai)

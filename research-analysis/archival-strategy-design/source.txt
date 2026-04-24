@@ -1,6 +1,0 @@
-Agent: Archival Strategy Design
-Alric.AI page: https://alric.ai/agents/archival-strategy-design
-Source file: https://github.com/Khamel83/Atlas_OLD/blob/HEAD/docs/archival_strategy_design.md
-Source repository: https://github.com/Khamel83/Atlas_OLD
-
-Discovered and indexed by Alric.AI (https://alric.ai)

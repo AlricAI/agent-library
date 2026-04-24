@@ -1,4 +1,4 @@
-Agent: clean-code-reviewer
+Agent: Clean Code Reviewer
 Alric.AI page: https://alric.ai/agents/clean-code-reviewer
 Source file: https://github.com/koenvorster/Personal_project_VorstersNV/blob/HEAD/.github/agents/clean-code-reviewer.agent.md
 Source repository: https://github.com/koenvorster/Personal_project_VorstersNV

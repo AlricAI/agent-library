@@ -1,6 +1,0 @@
-Agent: PRELAUNCH TAX ADJUSTMENT 2026 03 31
-Alric.AI page: https://alric.ai/agents/prelaunch-tax-adjustment-2026-03-31-1
-Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/briefings/PRELAUNCH-TAX-ADJUSTMENT-2026-03-31.md
-Source repository: https://github.com/Trollz1004/ANTIGRAVITY
-
-Discovered and indexed by Alric.AI (https://alric.ai)

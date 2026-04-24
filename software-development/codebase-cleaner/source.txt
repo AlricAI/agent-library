@@ -1,0 +1,6 @@
+Agent: Codebase Cleaner
+Alric.AI page: https://alric.ai/agents/codebase-cleaner
+Source file: https://github.com/julianromli/opencode-template/blob/HEAD/command/clean.md
+Source repository: https://github.com/julianromli/opencode-template
+
+Discovered and indexed by Alric.AI (https://alric.ai)

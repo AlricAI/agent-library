@@ -1,6 +1,0 @@
-Agent: Harness Thesis
-Alric.AI page: https://alric.ai/agents/harness-thesis
-Source file: https://github.com/cjy5507/forge/blob/HEAD/docs/harness-thesis.md
-Source repository: https://github.com/cjy5507/forge
-
-Discovered and indexed by Alric.AI (https://alric.ai)

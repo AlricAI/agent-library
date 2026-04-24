@@ -1,0 +1,6 @@
+Agent: Concierge Assistant
+Alric.AI page: https://alric.ai/agents/concierge-assistant
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/concierge/IDENTITY.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

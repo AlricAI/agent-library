@@ -1,6 +1,0 @@
-Agent: Logging Hook
-Alric.AI page: https://alric.ai/agents/logging-hook
-Source file: https://github.com/AlexL70/linkshortener/blob/HEAD/commands/logging-hook.md
-Source repository: https://github.com/AlexL70/linkshortener
-
-Discovered and indexed by Alric.AI (https://alric.ai)

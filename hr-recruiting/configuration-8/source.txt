@@ -1,6 +1,0 @@
-Agent: Configuration
-Alric.AI page: https://alric.ai/agents/configuration-8
-Source file: https://github.com/joshrotenberg/agent_workshop/blob/HEAD/guides/configuration.md
-Source repository: https://github.com/joshrotenberg/agent_workshop
-
-Discovered and indexed by Alric.AI (https://alric.ai)

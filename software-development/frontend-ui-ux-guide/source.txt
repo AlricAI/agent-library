@@ -1,0 +1,6 @@
+Agent: Frontend Ui Ux Guide
+Alric.AI page: https://alric.ai/agents/frontend-ui-ux-guide
+Source file: https://github.com/AlexL70/linkshortener/blob/HEAD/ai-instructions/frontend-ui-ux.md
+Source repository: https://github.com/AlexL70/linkshortener
+
+Discovered and indexed by Alric.AI (https://alric.ai)

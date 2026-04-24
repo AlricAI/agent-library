@@ -1,0 +1,6 @@
+Agent: Work Queue Manager
+Alric.AI page: https://alric.ai/agents/work-queue-manager-7
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/hume/PENDING_TASKS.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

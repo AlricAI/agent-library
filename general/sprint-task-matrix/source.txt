@@ -1,6 +1,0 @@
-Agent: SPRINT TASK MATRIX
-Alric.AI page: https://alric.ai/agents/sprint-task-matrix
-Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/SPRINT_TASK_MATRIX.md
-Source repository: https://github.com/frankbria/codeframe
-
-Discovered and indexed by Alric.AI (https://alric.ai)

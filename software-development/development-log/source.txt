@@ -1,6 +1,0 @@
-Agent: DEVELOPMENT LOG
-Alric.AI page: https://alric.ai/agents/development-log
-Source file: https://github.com/massoudsh/Findash/blob/HEAD/docs/DEVELOPMENT-LOG.md
-Source repository: https://github.com/massoudsh/Findash
-
-Discovered and indexed by Alric.AI (https://alric.ai)

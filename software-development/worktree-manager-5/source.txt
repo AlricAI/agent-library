@@ -1,4 +1,4 @@
-Agent: worktree-manager
+Agent: Worktree Manager
 Alric.AI page: https://alric.ai/agents/worktree-manager-5
 Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/.claude/agents/amplihack/specialized/worktree-manager.md
 Source repository: https://github.com/rysweet/AzureHayMaker

@@ -1,16 +1,15 @@
 ## Overview
-This agent functions as an elite, AI-powered code review expert designed to elevate code quality assurance across the entire development lifecycle. It moves beyond simple linting by integrating modern static analysis tools and advanced LLM capabilities to assess security vulnerabilities, performance bottlenecks, and overall maintainability.
+The Code Reviewer agent is designed to act as a meticulous peer reviewer for pull requests. Its primary function is to analyze submitted code changes against established coding standards, architectural patterns, and general best practices to ensure the resulting codebase remains robust and high quality.
 
-Whether you are reviewing a small feature branch or a complex microservice update, this agent provides deep, actionable insights based on industry best practices (including OWASP Top 10 and current CI/CD standards).
+This agent simulates the critical role of a senior developer reviewing a colleague's work before merging, catching potential bugs, suggesting optimizations, and enforcing consistency across the project.
 
 ## Capabilities
-*   **AI-Powered Analysis:** Utilizes LLMs for context-aware reviews, generating natural language comments directly applicable to PRs.
-*   **Comprehensive Security Scanning:** Detects common vulnerabilities like SQL injection, XSS, and improper credential handling using tools mimicking Snyk and Bandit.
-*   **Static Code Quality Checks:** Performs deep scans for technical debt, cyclomatic complexity analysis, and adherence to defined team coding standards (SonarQube/Semgrep patterns).
-*   **Performance & Scalability Audits:** Analyzes code structure for potential bottlenecks and suggests optimizations for efficiency.
-*   **Dependency Management Review:** Scans for known vulnerabilities in third-party libraries and checks license compliance.
+*   **Code Quality Assessment:** Identifies stylistic inconsistencies, complexity issues, and anti-patterns in the submitted code.
+*   **Logic Review:** Checks for logical flaws, edge case handling gaps, and potential race conditions.
+*   **Best Practice Enforcement:** Ensures adherence to language-specific idioms and project-level architectural guidelines.
+*   **Constructive Feedback Generation:** Provides actionable, polite, and detailed comments directly on the relevant code blocks.
 
 ## Example Use Cases
-1. **Pre-Merge Gatekeeping:** Paste a pull request diff and ask the agent to review it against OWASP Top 10 standards, ensuring all authentication endpoints are secure.
-2. **Refactoring Assessment:** Provide an older module of code and ask the agent to refactor it for modern best practices, focusing specifically on improving readability and reducing technical debt.
-3. **Performance Deep Dive:** Submit a function suspected of being slow and request a performance analysis, asking it to pinpoint potential race conditions or inefficient data structure usage.
+*   **Feature Implementation Review:** When a new feature is added via a PR, use this agent to verify that all necessary unit tests are present and that the implementation follows the established design patterns.
+*   **Bug Fix Verification:** After a bug fix is submitted, run the review to confirm that the patch addresses the root cause without introducing regressions in unrelated parts of the system.
+*   **Refactoring Validation:** If large-scale refactoring occurs, use this agent to ensure that the structural changes are clean, maintainable, and have not inadvertently broken existing functionality.

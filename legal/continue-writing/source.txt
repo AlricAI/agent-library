@@ -1,6 +1,0 @@
-Agent: Continue Writing
-Alric.AI page: https://alric.ai/agents/continue-writing
-Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/multi_agent___specialized/Qwen-Agent/qwen_agent/agents/writing/continue_writing.py
-Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: PRIORITIES 3 7 IMPLEMENTATION SUMMARY
-Alric.AI page: https://alric.ai/agents/priorities-3-7-implementation-summary
-Source file: https://github.com/Tombonator3000/vector-war-games/blob/HEAD/docs/PRIORITIES_3-7_IMPLEMENTATION_SUMMARY.md
-Source repository: https://github.com/Tombonator3000/vector-war-games
-
-Discovered and indexed by Alric.AI (https://alric.ai)

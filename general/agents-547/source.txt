@@ -1,6 +1,0 @@
-Agent: AGENTS
-Alric.AI page: https://alric.ai/agents/agents-547
-Source file: https://github.com/sighthoundinc/sighthound-content-ops/blob/HEAD/supabase/AGENTS.md
-Source repository: https://github.com/sighthoundinc/sighthound-content-ops
-
-Discovered and indexed by Alric.AI (https://alric.ai)

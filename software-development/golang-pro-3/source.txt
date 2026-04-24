@@ -1,4 +1,4 @@
-Agent: golang-pro
+Agent: Golang Pro
 Alric.AI page: https://alric.ai/agents/golang-pro-3
 Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/lang/golang-pro.md
 Source repository: https://github.com/aRustyDev/agents

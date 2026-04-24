@@ -1,6 +1,0 @@
-Agent: Scripts
-Alric.AI page: https://alric.ai/agents/scripts
-Source file: https://github.com/chehaba/prospecting/blob/HEAD/agent/scripts.md
-Source repository: https://github.com/chehaba/prospecting
-
-Discovered and indexed by Alric.AI (https://alric.ai)

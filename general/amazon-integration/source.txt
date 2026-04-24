@@ -1,6 +1,0 @@
-Agent: Amazon Integration
-Alric.AI page: https://alric.ai/agents/amazon-integration
-Source file: https://github.com/midnghtsapphire/reese-reviews/blob/HEAD/docs/amazon-integration.md
-Source repository: https://github.com/midnghtsapphire/reese-reviews
-
-Discovered and indexed by Alric.AI (https://alric.ai)

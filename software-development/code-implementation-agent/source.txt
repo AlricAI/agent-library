@@ -1,0 +1,6 @@
+Agent: Code Implementation Agent
+Alric.AI page: https://alric.ai/agents/code-implementation-agent
+Source file: https://github.com/Zer0x25/mini-crm-tickets/blob/HEAD/prompts/coding-agent.md
+Source repository: https://github.com/Zer0x25/mini-crm-tickets
+
+Discovered and indexed by Alric.AI (https://alric.ai)

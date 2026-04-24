@@ -1,6 +1,0 @@
-Agent: Research Agent Memory Systems
-Alric.AI page: https://alric.ai/agents/research-agent-memory-systems
-Source file: https://github.com/dcarmitage/claws/blob/HEAD/memory/research-agent-memory-systems.md
-Source repository: https://github.com/dcarmitage/claws
-
-Discovered and indexed by Alric.AI (https://alric.ai)

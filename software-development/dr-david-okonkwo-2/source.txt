@@ -1,6 +1,0 @@
-Agent: Dr. David Okonkwo
-Alric.AI page: https://alric.ai/agents/dr-david-okonkwo-2
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/rl-engineer/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

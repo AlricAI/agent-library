@@ -1,6 +1,0 @@
-Agent: Chimera.Rulebook
-Alric.AI page: https://alric.ai/agents/chimera-rulebook
-Source file: https://github.com/joefyn/ChimeraHydra/blob/HEAD/policy/chimera.rulebook.md
-Source repository: https://github.com/joefyn/ChimeraHydra
-
-Discovered and indexed by Alric.AI (https://alric.ai)

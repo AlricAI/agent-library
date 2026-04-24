@@ -1,0 +1,6 @@
+Agent: Code Implementation Specialist
+Alric.AI page: https://alric.ai/agents/code-implementation-specialist
+Source file: https://github.com/tribemetrics/antfarm-claude-code/blob/HEAD/workflows/feature-dev/agents/developer/IDENTITY.md
+Source repository: https://github.com/tribemetrics/antfarm-claude-code
+
+Discovered and indexed by Alric.AI (https://alric.ai)

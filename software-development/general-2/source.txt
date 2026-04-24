@@ -1,6 +1,0 @@
-Agent: general
-Alric.AI page: https://alric.ai/agents/general-2
-Source file: https://github.com/strelov1/diffray/blob/HEAD/src/defaults/agents/general.md
-Source repository: https://github.com/strelov1/diffray
-
-Discovered and indexed by Alric.AI (https://alric.ai)

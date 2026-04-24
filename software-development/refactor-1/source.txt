@@ -1,6 +1,0 @@
-Agent: Code Refactoring Assistant
-Alric.AI page: https://alric.ai/agents/refactor-1
-Source file: https://github.com/webdevtodayjason/sub-agents/blob/HEAD/commands/refactor.md
-Source repository: https://github.com/webdevtodayjason/sub-agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

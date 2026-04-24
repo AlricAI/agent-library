@@ -1,0 +1,6 @@
+Agent: iOS Native Developer
+Alric.AI page: https://alric.ai/agents/ios-native-developer
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/ios-developer.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

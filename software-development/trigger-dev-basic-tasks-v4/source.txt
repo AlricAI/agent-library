@@ -1,6 +1,0 @@
-Agent: Trigger.dev Basic Tasks (v4)
-Alric.AI page: https://alric.ai/agents/trigger-dev-basic-tasks-v4
-Source file: https://github.com/rostiSe/mymemory/blob/HEAD/apps/server/.cursor/rules/trigger.basic.mdc
-Source repository: https://github.com/rostiSe/mymemory
-
-Discovered and indexed by Alric.AI (https://alric.ai)

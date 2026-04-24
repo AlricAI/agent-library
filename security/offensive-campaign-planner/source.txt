@@ -1,0 +1,6 @@
+Agent: Offensive Campaign Planner
+Alric.AI page: https://alric.ai/agents/offensive-campaign-planner
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/cyber/offense/planner.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

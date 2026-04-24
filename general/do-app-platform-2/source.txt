@@ -1,6 +1,0 @@
-Agent: Do App Platform
-Alric.AI page: https://alric.ai/agents/do-app-platform-2
-Source file: https://github.com/midnghtsapphire/reese-reviews/blob/HEAD/deploy-config/do-app-platform.md
-Source repository: https://github.com/midnghtsapphire/reese-reviews
-
-Discovered and indexed by Alric.AI (https://alric.ai)

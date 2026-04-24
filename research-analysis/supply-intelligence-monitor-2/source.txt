@@ -1,0 +1,6 @@
+Agent: Supply Intelligence Monitor
+Alric.AI page: https://alric.ai/agents/supply-intelligence-monitor-2
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/supply-intel-agent/Heartbeat.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

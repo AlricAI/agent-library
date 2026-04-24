@@ -1,6 +1,0 @@
-Agent: Index
-Alric.AI page: https://alric.ai/agents/index-61
-Source file: https://github.com/linkml/linkml-map/blob/HEAD/docs/index.md
-Source repository: https://github.com/linkml/linkml-map
-
-Discovered and indexed by Alric.AI (https://alric.ai)

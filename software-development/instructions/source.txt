@@ -1,6 +1,0 @@
-Agent: INSTRUCTIONS
-Alric.AI page: https://alric.ai/agents/instructions
-Source file: https://github.com/pllporg/karen/blob/HEAD/frontend-refactor/INSTRUCTIONS.md
-Source repository: https://github.com/pllporg/karen
-
-Discovered and indexed by Alric.AI (https://alric.ai)

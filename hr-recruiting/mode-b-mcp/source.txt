@@ -1,6 +1,0 @@
-Agent: Mode B Mcp
-Alric.AI page: https://alric.ai/agents/mode-b-mcp
-Source file: https://github.com/strato-space/acp-plugin/blob/HEAD/e2e/mode-b-mcp.md
-Source repository: https://github.com/strato-space/acp-plugin
-
-Discovered and indexed by Alric.AI (https://alric.ai)

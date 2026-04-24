@@ -1,6 +1,0 @@
-Agent: Current Status
-Alric.AI page: https://alric.ai/agents/current-status-2
-Source file: https://github.com/numman-ali/mlxr/blob/HEAD/docs/current-status.md
-Source repository: https://github.com/numman-ali/mlxr
-
-Discovered and indexed by Alric.AI (https://alric.ai)

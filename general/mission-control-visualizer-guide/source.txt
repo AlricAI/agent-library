@@ -1,6 +1,0 @@
-Agent: Mission Control Visualizer Guide
-Alric.AI page: https://alric.ai/agents/mission-control-visualizer-guide
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/emails/mission_control_visualizer_guide.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

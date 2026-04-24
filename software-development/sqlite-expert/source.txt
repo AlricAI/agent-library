@@ -1,6 +1,0 @@
-Agent: SQLite Database Expert
-Alric.AI page: https://alric.ai/agents/sqlite-expert
-Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/sqlite-expert.md
-Source repository: https://github.com/0xfurai/claude-code-subagents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

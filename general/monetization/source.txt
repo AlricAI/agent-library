@@ -1,6 +1,0 @@
-Agent: Monetization
-Alric.AI page: https://alric.ai/agents/monetization
-Source file: https://github.com/alkozlov/puzzle-dazzle/blob/HEAD/docs/monetization.md
-Source repository: https://github.com/alkozlov/puzzle-dazzle
-
-Discovered and indexed by Alric.AI (https://alric.ai)

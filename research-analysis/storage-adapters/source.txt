@@ -1,6 +1,0 @@
-Agent: Storage Adapters
-Alric.AI page: https://alric.ai/agents/storage-adapters
-Source file: https://github.com/DecoyLex/ltix/blob/HEAD/guides/storage-adapters.md
-Source repository: https://github.com/DecoyLex/ltix
-
-Discovered and indexed by Alric.AI (https://alric.ai)

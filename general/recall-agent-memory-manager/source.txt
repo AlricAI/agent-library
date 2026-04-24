@@ -1,0 +1,6 @@
+Agent: Recall Agent Memory Manager
+Alric.AI page: https://alric.ai/agents/recall-agent-memory-manager
+Source file: https://github.com/ShieldnestORG/team-dashboard/blob/HEAD/agents/recall/AGENTS.md
+Source repository: https://github.com/ShieldnestORG/team-dashboard
+
+Discovered and indexed by Alric.AI (https://alric.ai)

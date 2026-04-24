@@ -1,0 +1,6 @@
+Agent: Sales Call Script Generator
+Alric.AI page: https://alric.ai/agents/sales-call-script-generator
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/pulp/computer/scripts/sales_cheat_sheet.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

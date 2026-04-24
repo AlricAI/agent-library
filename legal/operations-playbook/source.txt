@@ -1,6 +1,0 @@
-Agent: OPERATIONS PLAYBOOK
-Alric.AI page: https://alric.ai/agents/operations-playbook
-Source file: https://github.com/pllporg/karen/blob/HEAD/docs/OPERATIONS_PLAYBOOK.md
-Source repository: https://github.com/pllporg/karen
-
-Discovered and indexed by Alric.AI (https://alric.ai)

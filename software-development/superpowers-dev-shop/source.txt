@@ -1,6 +1,0 @@
-Agent: Superpowers Dev Shop
-Alric.AI page: https://alric.ai/agents/superpowers-dev-shop
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/superpowers/COMPANY.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

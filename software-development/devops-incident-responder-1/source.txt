@@ -1,0 +1,6 @@
+Agent: DevOps Incident Responder
+Alric.AI page: https://alric.ai/agents/devops-incident-responder-1
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/infrastructure/devops/devops-incident-responder.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

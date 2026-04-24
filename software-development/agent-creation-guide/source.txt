@@ -1,6 +1,0 @@
-Agent: Agent Creation Guide
-Alric.AI page: https://alric.ai/agents/agent-creation-guide
-Source file: https://github.com/webdevtodayjason/sub-agents/blob/HEAD/docs/AGENT-CREATION-GUIDE.md
-Source repository: https://github.com/webdevtodayjason/sub-agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

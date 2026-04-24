@@ -1,0 +1,6 @@
+Agent: Ruby Pro Expert
+Alric.AI page: https://alric.ai/agents/ruby-pro-expert
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/web-scripting/agents/ruby-pro.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

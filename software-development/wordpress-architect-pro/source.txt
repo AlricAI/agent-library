@@ -1,0 +1,6 @@
+Agent: WordPress Architect Pro
+Alric.AI page: https://alric.ai/agents/wordpress-architect-pro
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/business/marketing/wordpress-master.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

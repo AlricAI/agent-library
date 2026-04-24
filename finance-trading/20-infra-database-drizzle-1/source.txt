@@ -1,6 +1,0 @@
-Agent: 20 Infra Database Drizzle
-Alric.AI page: https://alric.ai/agents/20-infra-database-drizzle-1
-Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/prompts/agents/20-infra-database-drizzle.md
-Source repository: https://github.com/nirholas/crypto-vision
-
-Discovered and indexed by Alric.AI (https://alric.ai)

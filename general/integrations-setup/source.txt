@@ -1,6 +1,0 @@
-Agent: INTEGRATIONS SETUP
-Alric.AI page: https://alric.ai/agents/integrations-setup
-Source file: https://github.com/Suganthan96/InstaLens/blob/HEAD/frontend/INTEGRATIONS_SETUP.md
-Source repository: https://github.com/Suganthan96/InstaLens
-
-Discovered and indexed by Alric.AI (https://alric.ai)

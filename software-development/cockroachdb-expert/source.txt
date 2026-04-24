@@ -1,6 +1,0 @@
-Agent: CockroachDB Expert
-Alric.AI page: https://alric.ai/agents/cockroachdb-expert
-Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/cockroachdb-expert.md
-Source repository: https://github.com/0xfurai/claude-code-subagents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

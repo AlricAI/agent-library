@@ -1,6 +1,0 @@
-Agent: Phased Delivery Plan
-Alric.AI page: https://alric.ai/agents/phased-delivery-plan
-Source file: https://github.com/numman-ali/mlxr/blob/HEAD/docs/phased-delivery-plan.md
-Source repository: https://github.com/numman-ali/mlxr
-
-Discovered and indexed by Alric.AI (https://alric.ai)

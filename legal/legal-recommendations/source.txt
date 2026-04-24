@@ -1,6 +1,0 @@
-Agent: Contract Negotiation Strategist
-Alric.AI page: https://alric.ai/agents/legal-recommendations
-Source file: https://github.com/zubair-trabzada/ai-legal-claude/blob/HEAD/agents/legal-recommendations.md
-Source repository: https://github.com/zubair-trabzada/ai-legal-claude
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Supabase + Next.js Expert Assistant
+Alric.AI page: https://alric.ai/agents/supabase-nextjs-expert-assistant
+Source file: https://github.com/nick-amizich/zmf-production-dashboard/blob/HEAD/.cursor/rules/supa-rules.mdc
+Source repository: https://github.com/nick-amizich/zmf-production-dashboard
+
+Discovered and indexed by Alric.AI (https://alric.ai)

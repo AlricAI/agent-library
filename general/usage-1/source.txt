@@ -1,6 +1,0 @@
-Agent: Usage
-Alric.AI page: https://alric.ai/agents/usage-1
-Source file: https://github.com/Alex0Blackwell/karting-game/blob/HEAD/Blender/usage.md
-Source repository: https://github.com/Alex0Blackwell/karting-game
-
-Discovered and indexed by Alric.AI (https://alric.ai)

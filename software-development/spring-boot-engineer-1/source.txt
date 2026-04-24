@@ -1,4 +1,4 @@
-Agent: spring-boot-engineer
+Agent: Spring Boot Engineer
 Alric.AI page: https://alric.ai/agents/spring-boot-engineer-1
 Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/lang/spring-boot-engineer.md
 Source repository: https://github.com/aRustyDev/agents

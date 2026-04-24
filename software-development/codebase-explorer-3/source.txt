@@ -1,0 +1,6 @@
+Agent: Codebase Explorer
+Alric.AI page: https://alric.ai/agents/codebase-explorer-3
+Source file: https://github.com/Goblin1024/oh-my-kimi/blob/HEAD/prompts/explore.md
+Source repository: https://github.com/Goblin1024/oh-my-kimi
+
+Discovered and indexed by Alric.AI (https://alric.ai)

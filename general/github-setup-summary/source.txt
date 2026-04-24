@@ -1,6 +1,0 @@
-Agent: GITHUB SETUP SUMMARY
-Alric.AI page: https://alric.ai/agents/github-setup-summary
-Source file: https://github.com/anchapin/ModPorter-AI/blob/HEAD/docs/GITHUB_SETUP_SUMMARY.md
-Source repository: https://github.com/anchapin/ModPorter-AI
-
-Discovered and indexed by Alric.AI (https://alric.ai)

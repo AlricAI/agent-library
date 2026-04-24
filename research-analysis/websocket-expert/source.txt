@@ -1,6 +1,0 @@
-Agent: websocket-expert
-Alric.AI page: https://alric.ai/agents/websocket-expert
-Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/websocket-expert.md
-Source repository: https://github.com/0xfurai/claude-code-subagents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

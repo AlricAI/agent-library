@@ -1,6 +1,0 @@
-Agent: Base Tool Adapter
-Alric.AI page: https://alric.ai/agents/base-tool-adapter-5
-Source file: https://github.com/danielgonzagat/megaIAAA/blob/HEAD/crewAI/src/crewai/agents/agent_adapters/base_tool_adapter.py
-Source repository: https://github.com/danielgonzagat/megaIAAA
-
-Discovered and indexed by Alric.AI (https://alric.ai)

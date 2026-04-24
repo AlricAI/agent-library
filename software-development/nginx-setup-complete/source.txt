@@ -1,6 +1,0 @@
-Agent: Nginx Setup Complete
-Alric.AI page: https://alric.ai/agents/nginx-setup-complete
-Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/nginx-setup-complete.md
-Source repository: https://github.com/frankbria/codeframe
-
-Discovered and indexed by Alric.AI (https://alric.ai)

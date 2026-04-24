@@ -1,6 +1,0 @@
-Agent: CLI Pulse V0.2 Technical Design
-Alric.AI page: https://alric.ai/agents/cli-pulse-v0-2-technical-design
-Source file: https://github.com/JasonYeYuhe/cli-pulse/blob/HEAD/docs/CLI_Pulse_v0.2_Technical_Design.md
-Source repository: https://github.com/JasonYeYuhe/cli-pulse
-
-Discovered and indexed by Alric.AI (https://alric.ai)

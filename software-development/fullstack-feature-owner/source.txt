@@ -1,0 +1,6 @@
+Agent: Fullstack Feature Owner
+Alric.AI page: https://alric.ai/agents/fullstack-feature-owner
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/core/fullstack-developer.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

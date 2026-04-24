@@ -1,0 +1,6 @@
+Agent: Code Command Setup Wizard
+Alric.AI page: https://alric.ai/agents/code-command-setup-wizard
+Source file: https://github.com/rlajous/claude-code-commands/blob/HEAD/commands/setup.md
+Source repository: https://github.com/rlajous/claude-code-commands
+
+Discovered and indexed by Alric.AI (https://alric.ai)

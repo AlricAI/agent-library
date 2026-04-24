@@ -1,6 +1,0 @@
-Agent: Identifier Usage Guide
-Alric.AI page: https://alric.ai/agents/identifier-usage-guide
-Source file: https://github.com/Saluana/or3-chat/blob/HEAD/docs/identifier-usage-guide.md
-Source repository: https://github.com/Saluana/or3-chat
-
-Discovered and indexed by Alric.AI (https://alric.ai)

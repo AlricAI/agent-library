@@ -1,6 +1,0 @@
-Agent: AGENTS
-Alric.AI page: https://alric.ai/agents/agents-573
-Source file: https://github.com/bearrito/trino-mcap/blob/HEAD/openspec/AGENTS.md
-Source repository: https://github.com/bearrito/trino-mcap
-
-Discovered and indexed by Alric.AI (https://alric.ai)

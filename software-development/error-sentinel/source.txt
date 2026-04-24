@@ -1,0 +1,6 @@
+Agent: Error Sentinel
+Alric.AI page: https://alric.ai/agents/error-sentinel
+Source file: https://github.com/brandonmccraryresearch-cloud/Intrisic_Nature/blob/HEAD/.github/agents/error-eating.agent.md
+Source repository: https://github.com/brandonmccraryresearch-cloud/Intrisic_Nature
+
+Discovered and indexed by Alric.AI (https://alric.ai)

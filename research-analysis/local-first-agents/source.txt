@@ -1,6 +1,0 @@
-Agent: Local First Agents
-Alric.AI page: https://alric.ai/agents/local-first-agents
-Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/patterns/local-first-agents.md
-Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

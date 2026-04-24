@@ -1,6 +1,0 @@
-Agent: REACT AGENT ARCHITECTURE
-Alric.AI page: https://alric.ai/agents/react-agent-architecture
-Source file: https://github.com/frankbria/codeframe/blob/HEAD/docs/REACT_AGENT_ARCHITECTURE.md
-Source repository: https://github.com/frankbria/codeframe
-
-Discovered and indexed by Alric.AI (https://alric.ai)

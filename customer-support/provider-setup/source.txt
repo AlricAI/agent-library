@@ -1,6 +1,0 @@
-Agent: Provider Setup
-Alric.AI page: https://alric.ai/agents/provider-setup
-Source file: https://github.com/jerrison/11-job-application-assistant/blob/HEAD/docs/provider-setup.md
-Source repository: https://github.com/jerrison/11-job-application-assistant
-
-Discovered and indexed by Alric.AI (https://alric.ai)

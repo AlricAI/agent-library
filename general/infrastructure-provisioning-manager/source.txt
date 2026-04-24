@@ -1,0 +1,6 @@
+Agent: Infrastructure Provisioning Manager
+Alric.AI page: https://alric.ai/agents/infrastructure-provisioning-manager
+Source file: https://github.com/alliedbrother/TuneLLM_Labs_Agentic/blob/HEAD/agents/infra-management/AGENTS.md
+Source repository: https://github.com/alliedbrother/TuneLLM_Labs_Agentic
+
+Discovered and indexed by Alric.AI (https://alric.ai)

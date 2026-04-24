@@ -1,6 +1,0 @@
-Agent: Accessible Navigation Patterns
-Alric.AI page: https://alric.ai/agents/accessible-navigation-patterns
-Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/design-specs/accessible-navigation-patterns.md
-Source repository: https://github.com/Trollz1004/ANTIGRAVITY
-
-Discovered and indexed by Alric.AI (https://alric.ai)

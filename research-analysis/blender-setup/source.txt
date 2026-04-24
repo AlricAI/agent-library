@@ -1,6 +1,0 @@
-Agent: Blender Setup
-Alric.AI page: https://alric.ai/agents/blender-setup
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier1/jordan/research/blender_setup.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

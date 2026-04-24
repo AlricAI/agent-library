@@ -1,6 +1,0 @@
-Agent: KUNG FU DEMO
-Alric.AI page: https://alric.ai/agents/kung-fu-demo
-Source file: https://github.com/bahaaldine/moltler/blob/HEAD/docs/KUNG_FU_DEMO.md
-Source repository: https://github.com/bahaaldine/moltler
-
-Discovered and indexed by Alric.AI (https://alric.ai)

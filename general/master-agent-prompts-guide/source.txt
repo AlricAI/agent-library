@@ -1,6 +1,0 @@
-Agent: MASTER AGENT PROMPTS GUIDE
-Alric.AI page: https://alric.ai/agents/master-agent-prompts-guide
-Source file: https://github.com/koenvorster/Personal_project_VorstersNV/blob/HEAD/plan/MASTER_AGENT_PROMPTS_GUIDE.md
-Source repository: https://github.com/koenvorster/Personal_project_VorstersNV
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: LEGAL
-Alric.AI page: https://alric.ai/agents/legal-2
-Source file: https://github.com/antvis/S2/blob/HEAD/s2-site/LEGAL.md
-Source repository: https://github.com/antvis/S2
-
-Discovered and indexed by Alric.AI (https://alric.ai)

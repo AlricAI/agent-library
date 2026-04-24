@@ -1,6 +1,0 @@
-Agent: Benchmarks
-Alric.AI page: https://alric.ai/agents/benchmarks-1
-Source file: https://github.com/matthewdeanmartin/rmarc/blob/HEAD/spec/benchmarks.md
-Source repository: https://github.com/matthewdeanmartin/rmarc
-
-Discovered and indexed by Alric.AI (https://alric.ai)

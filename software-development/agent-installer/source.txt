@@ -1,6 +1,0 @@
-Agent: agent-installer
-Alric.AI page: https://alric.ai/agents/agent-installer
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/meta/orchestration/agent-installer.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

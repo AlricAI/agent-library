@@ -1,6 +1,0 @@
-Agent: CODEFRAME USER DOCUMENTATION
-Alric.AI page: https://alric.ai/agents/codeframe-user-documentation
-Source file: https://github.com/frankbria/codeframe/blob/HEAD/legacydocs/CODEFRAME_USER_DOCUMENTATION.md
-Source repository: https://github.com/frankbria/codeframe
-
-Discovered and indexed by Alric.AI (https://alric.ai)

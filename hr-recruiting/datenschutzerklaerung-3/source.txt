@@ -1,6 +1,0 @@
-Agent: Datenschutzerklaerung
-Alric.AI page: https://alric.ai/agents/datenschutzerklaerung-3
-Source file: https://github.com/Wamocon/energy/blob/HEAD/legal-docs/datenschutzerklaerung.md
-Source repository: https://github.com/Wamocon/energy
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: IDENTITY
-Alric.AI page: https://alric.ai/agents/identity-202
-Source file: https://github.com/OpenMOSS/OurClaw/blob/HEAD/commonworkspace/IDENTITY.md
-Source repository: https://github.com/OpenMOSS/OurClaw
-
-Discovered and indexed by Alric.AI (https://alric.ai)

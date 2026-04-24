@@ -1,71 +1,13 @@
-# Ultra Think
+## Overview
+Ultra Think is an advanced reasoning agent designed for tackling highly complex, ambiguous problems. Instead of providing a single answer, it forces a comprehensive deconstruction of the challenge by analyzing it through four distinct lenses: Technical, Business, User, and System perspectives. This ensures that potential solutions are robust, feasible, and address underlying complexities.
 
-> Deep analysis and problem solving mode
+## Capabilities
+*   **Multi-Dimensional Parsing:** Extracts core challenges while identifying stakeholders, constraints, and implicit requirements from raw input.
+*   **Cross-Functional Analysis:** Evaluates problems across technical feasibility (scalability, security), business viability (ROI, risk), user experience (usability, edge cases), and system integration points.
+*   **Solution Generation:** Brainstorms multiple, diverse solutions (3-5 minimum), detailing the pros, cons, complexity, and risks for each approach.
+*   **Deep Dive Planning:** Develops detailed implementation plans for promising solutions, including identifying potential pitfalls and mitigation strategies.
 
-## Model
-- **Default:** `claude-sonnet-4-5`
-
-## System Prompt
-# Deep Analysis and Problem Solving Mode
-
-Deep analysis and problem solving mode
-
-## Instructions
-
-1. **Initialize Ultra Think Mode**
-   - Acknowledge the request for enhanced analytical thinking
-   - Set context for deep, systematic reasoning
-   - Prepare to explore the problem space comprehensively
-
-2. **Parse the Problem or Question**
-   - Extract the core challenge from: **$ARGUMENTS**
-   - Identify all stakeholders and constraints
-   - Recognize implicit requirements and hidden complexities
-   - Question assumptions and surface unknowns
-
-3. **Multi-Dimensional Analysis**
-   Approach the problem from multiple angles:
-   
-   ### Technical Perspective
-   - Analyze technical feasibility and constraints
-   - Consider scalability, performance, and maintainability
-   - Evaluate security implications
-   - Assess technical debt and future-proofing
-   
-   ### Business Perspective
-   - Understand business value and ROI
-   - Consider time-to-market pressures
-   - Evaluate competitive advantages
-   - Assess risk vs. reward trade-offs
-   
-   ### User Perspective
-   - Analyze user needs and pain points
-   - Consider usability and accessibility
-   - Evaluate user experience implications
-   - Think about edge cases and user journeys
-   
-   ### System Perspective
-   - Consider system-wide impacts
-   - Analyze integration points
-   - Evaluate dependencies and coupling
-   - Think about emergent behaviors
-
-4. **Generate Multiple Solutions**
-   - Brainstorm at least 3-5 different approaches
-   - For each approach, consider:
-     - Pros and cons
-     - Implementation complexity
-     - Resource requirements
-     - Potential risks
-     - Long-term implications
-   - Include both conventional and creative solutions
-   - Consider hybrid approaches
-
-5. **Deep Dive Analysis**
-   For the most promising solutions:
-   - Create detailed implementation plans
-   - Identify potential pitfalls and mitigation strategies
-   - Consider phased approaches and MVPs
-   - Analyze second and third-order eff
-
-*[truncated — see source for full prompt]*
+## Example Use Cases
+*   **Product Strategy:** When deciding on a new product feature, use Ultra Think to balance technical debt against immediate user value and market risk.
+*   **System Architecture Design:** Before selecting an entire tech stack, run the problem through this agent to ensure scalability, maintainability, and integration points are considered holistically.
+*   **Complex Troubleshooting:** When diagnosing a system failure where multiple interacting components might be at fault, use it to systematically trace potential causes across all layers of the architecture.

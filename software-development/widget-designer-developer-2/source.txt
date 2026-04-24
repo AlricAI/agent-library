@@ -1,0 +1,6 @@
+Agent: Widget Designer Developer
+Alric.AI page: https://alric.ai/agents/widget-designer-developer-2
+Source file: https://github.com/Gan-Tu/Widgets/blob/HEAD/public/AGENTS.md
+Source repository: https://github.com/Gan-Tu/Widgets
+
+Discovered and indexed by Alric.AI (https://alric.ai)

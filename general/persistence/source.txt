@@ -1,6 +1,0 @@
-Agent: Persistence
-Alric.AI page: https://alric.ai/agents/persistence
-Source file: https://github.com/hl/epona/blob/HEAD/specs/persistence.md
-Source repository: https://github.com/hl/epona
-
-Discovered and indexed by Alric.AI (https://alric.ai)

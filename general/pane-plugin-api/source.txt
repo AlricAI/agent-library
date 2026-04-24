@@ -1,6 +1,0 @@
-Agent: Pane Plugin Api
-Alric.AI page: https://alric.ai/agents/pane-plugin-api
-Source file: https://github.com/Saluana/or3-chat/blob/HEAD/docs/pane-plugin-api.md
-Source repository: https://github.com/Saluana/or3-chat
-
-Discovered and indexed by Alric.AI (https://alric.ai)

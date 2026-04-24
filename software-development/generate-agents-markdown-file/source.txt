@@ -1,0 +1,6 @@
+Agent: Generate Agents Markdown File
+Alric.AI page: https://alric.ai/agents/generate-agents-markdown-file
+Source file: https://github.com/tfha/agent-instructions/blob/HEAD/prompts/create-agentsmd.prompt.md
+Source repository: https://github.com/tfha/agent-instructions
+
+Discovered and indexed by Alric.AI (https://alric.ai)

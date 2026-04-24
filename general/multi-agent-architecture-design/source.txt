@@ -1,6 +1,0 @@
-Agent: MULTI AGENT ARCHITECTURE DESIGN
-Alric.AI page: https://alric.ai/agents/multi-agent-architecture-design
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/MULTI_AGENT_ARCHITECTURE_DESIGN.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

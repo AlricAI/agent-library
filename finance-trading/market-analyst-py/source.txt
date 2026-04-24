@@ -1,6 +1,0 @@
-Agent: Market Indicator Analyst
-Alric.AI page: https://alric.ai/agents/market-analyst-py
-Source file: https://github.com/TauricResearch/TradingAgents/blob/HEAD/tradingagents/agents/analysts/market_analyst.py
-Source repository: https://github.com/TauricResearch/TradingAgents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Card Properties
-Alric.AI page: https://alric.ai/agents/card-properties-1
-Source file: https://github.com/keyteki/keyteki/blob/HEAD/docs/card-properties.md
-Source repository: https://github.com/keyteki/keyteki
-
-Discovered and indexed by Alric.AI (https://alric.ai)

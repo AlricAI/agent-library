@@ -1,6 +1,0 @@
-Agent: Function Agent
-Alric.AI page: https://alric.ai/agents/function-agent
-Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/major_frameworks/llama_index/llama-index-core/llama_index/core/agent/workflow/function_agent.py
-Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
-
-Discovered and indexed by Alric.AI (https://alric.ai)

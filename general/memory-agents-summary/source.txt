@@ -1,6 +1,0 @@
-Agent: MEMORY AGENTS SUMMARY
-Alric.AI page: https://alric.ai/agents/memory-agents-summary
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/MEMORY_AGENTS_SUMMARY.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

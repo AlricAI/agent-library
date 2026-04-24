@@ -1,6 +1,0 @@
-Agent: MEMORY ENABLED AGENTS ARCHITECTURE
-Alric.AI page: https://alric.ai/agents/memory-enabled-agents-architecture
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/MEMORY_ENABLED_AGENTS_ARCHITECTURE.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

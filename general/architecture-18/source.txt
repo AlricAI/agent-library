@@ -1,6 +1,0 @@
-Agent: Architecture
-Alric.AI page: https://alric.ai/agents/architecture-18
-Source file: https://github.com/Siebenwind/7w_wiki/blob/HEAD/docs/architecture.md
-Source repository: https://github.com/Siebenwind/7w_wiki
-
-Discovered and indexed by Alric.AI (https://alric.ai)

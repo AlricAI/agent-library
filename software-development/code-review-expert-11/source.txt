@@ -1,0 +1,6 @@
+Agent: Code Review Expert
+Alric.AI page: https://alric.ai/agents/code-review-expert-11
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-quality-security/agents/code-reviewer.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

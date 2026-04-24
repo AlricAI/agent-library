@@ -1,6 +1,0 @@
-Agent: Script Separation Status
-Alric.AI page: https://alric.ai/agents/script-separation-status
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/reports/script_separation_status.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

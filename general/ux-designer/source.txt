@@ -1,0 +1,6 @@
+Agent: UX Designer
+Alric.AI page: https://alric.ai/agents/ux-designer
+Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/paperclip/agents/uxdesigner/AGENTS.md
+Source repository: https://github.com/Trollz1004/ANTIGRAVITY
+
+Discovered and indexed by Alric.AI (https://alric.ai)

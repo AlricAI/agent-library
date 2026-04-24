@@ -1,6 +1,0 @@
-Agent: Impressum
-Alric.AI page: https://alric.ai/agents/impressum-2
-Source file: https://github.com/Wamocon/energy/blob/HEAD/legal-docs/impressum.md
-Source repository: https://github.com/Wamocon/energy
-
-Discovered and indexed by Alric.AI (https://alric.ai)

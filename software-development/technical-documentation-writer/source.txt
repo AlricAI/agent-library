@@ -1,0 +1,6 @@
+Agent: Technical Documentation Writer
+Alric.AI page: https://alric.ai/agents/technical-documentation-writer
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/docs/claude/agents/amplihack/specialized/documentation-writer.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

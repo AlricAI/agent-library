@@ -1,6 +1,0 @@
-Agent: Streaming Core
-Alric.AI page: https://alric.ai/agents/streaming-core
-Source file: https://github.com/Saluana/or3-chat/blob/HEAD/docs/streaming-core.md
-Source repository: https://github.com/Saluana/or3-chat
-
-Discovered and indexed by Alric.AI (https://alric.ai)

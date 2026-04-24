@@ -1,6 +1,0 @@
-Agent: Product
-Alric.AI page: https://alric.ai/agents/product-2
-Source file: https://github.com/FolahanWilliams/decision-intel/blob/HEAD/conductor/product.md
-Source repository: https://github.com/FolahanWilliams/decision-intel
-
-Discovered and indexed by Alric.AI (https://alric.ai)

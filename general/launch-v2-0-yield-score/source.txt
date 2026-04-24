@@ -1,6 +1,0 @@
-Agent: LAUNCH V2.0 Yield Score
-Alric.AI page: https://alric.ai/agents/launch-v2-0-yield-score
-Source file: https://github.com/JasonYeYuhe/cli-pulse/blob/HEAD/docs/LAUNCH_v2.0_yield_score.md
-Source repository: https://github.com/JasonYeYuhe/cli-pulse
-
-Discovered and indexed by Alric.AI (https://alric.ai)

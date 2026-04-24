@@ -1,6 +1,0 @@
-Agent: NumPy Expert
-Alric.AI page: https://alric.ai/agents/numpy-expert
-Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/numpy-expert.md
-Source repository: https://github.com/0xfurai/claude-code-subagents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

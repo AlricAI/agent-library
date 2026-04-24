@@ -1,6 +1,0 @@
-Agent: Tool Calling
-Alric.AI page: https://alric.ai/agents/tool-calling
-Source file: https://github.com/Anakonn/langchain-v01/blob/HEAD/docs/modules/agents/agent_types/tool_calling.md
-Source repository: https://github.com/Anakonn/langchain-v01
-
-Discovered and indexed by Alric.AI (https://alric.ai)

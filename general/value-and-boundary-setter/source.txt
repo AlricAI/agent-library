@@ -1,0 +1,6 @@
+Agent: Value and Boundary Setter
+Alric.AI page: https://alric.ai/agents/value-and-boundary-setter
+Source file: https://github.com/blex2011/My-Context/blob/HEAD/context-components/values-and-boundaries.md
+Source repository: https://github.com/blex2011/My-Context
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Daily Operations Manager
+Alric.AI page: https://alric.ai/agents/daily-operations-manager-3
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/daily-ops/core.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

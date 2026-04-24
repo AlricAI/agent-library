@@ -1,6 +1,0 @@
-Agent: crypto-market-agent-sonnet
-Alric.AI page: https://alric.ai/agents/crypto-market-agent-sonnet
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/crypto/crypto-market-agent-sonnet.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

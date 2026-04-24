@@ -1,6 +1,0 @@
-Agent: Reference
-Alric.AI page: https://alric.ai/agents/reference-11
-Source file: https://github.com/AlliedToasters/perihelion/blob/HEAD/agents/shared/mission/reference.md
-Source repository: https://github.com/AlliedToasters/perihelion
-
-Discovered and indexed by Alric.AI (https://alric.ai)

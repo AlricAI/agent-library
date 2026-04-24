@@ -1,0 +1,6 @@
+Agent: Startup Business Analyst
+Alric.AI page: https://alric.ai/agents/startup-business-analyst
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/startup-business-analyst/agents/startup-analyst.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

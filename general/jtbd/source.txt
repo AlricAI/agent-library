@@ -1,6 +1,0 @@
-Agent: JTBD
-Alric.AI page: https://alric.ai/agents/jtbd
-Source file: https://github.com/cass-clearly/remarq/blob/HEAD/docs/JTBD.md
-Source repository: https://github.com/cass-clearly/remarq
-
-Discovered and indexed by Alric.AI (https://alric.ai)

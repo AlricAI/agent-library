@@ -1,0 +1,6 @@
+Agent: Task Decomposer and Planner
+Alric.AI page: https://alric.ai/agents/task-decomposer-and-planner
+Source file: https://github.com/erickmcaro/shippulse/blob/HEAD/workflows/feature-dev/agents/planner/IDENTITY.md
+Source repository: https://github.com/erickmcaro/shippulse
+
+Discovered and indexed by Alric.AI (https://alric.ai)

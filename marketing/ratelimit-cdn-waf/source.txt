@@ -1,6 +1,0 @@
-Agent: RATELIMIT CDN WAF
-Alric.AI page: https://alric.ai/agents/ratelimit-cdn-waf
-Source file: https://github.com/virtengine/virtengine/blob/HEAD/docs/RATELIMIT_CDN_WAF.md
-Source repository: https://github.com/virtengine/virtengine
-
-Discovered and indexed by Alric.AI (https://alric.ai)

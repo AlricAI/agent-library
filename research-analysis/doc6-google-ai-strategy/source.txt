@@ -1,6 +1,0 @@
-Agent: Doc6 Google Ai Strategy
-Alric.AI page: https://alric.ai/agents/doc6-google-ai-strategy
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/context-engineering-intro/use-cases/agent-factory-with-subagents/agents/rag_agent/documents/doc6_google_ai_strategy.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

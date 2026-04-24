@@ -1,0 +1,6 @@
+Agent: Competitive Scan Agent
+Alric.AI page: https://alric.ai/agents/competitive-scan-agent
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/competitive-scan.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

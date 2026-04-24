@@ -1,6 +1,0 @@
-Agent: Brainstem Agent
-Alric.AI page: https://alric.ai/agents/brainstem-agent-2
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/test-bench/environments/aos-brain-test/brain/agents/brainstem_agent.py
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

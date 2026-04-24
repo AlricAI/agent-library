@@ -1,6 +1,0 @@
-Agent: Doc7 Sam Altman Profile
-Alric.AI page: https://alric.ai/agents/doc7-sam-altman-profile
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/context-engineering-intro/use-cases/agent-factory-with-subagents/agents/rag_agent/documents/doc7_sam_altman_profile.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

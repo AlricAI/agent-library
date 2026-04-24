@@ -1,6 +1,0 @@
-Agent: Concept.En
-Alric.AI page: https://alric.ai/agents/concept-en
-Source file: https://github.com/alkozlov/puzzle-dazzle/blob/HEAD/docs/concept.en.md
-Source repository: https://github.com/alkozlov/puzzle-dazzle
-
-Discovered and indexed by Alric.AI (https://alric.ai)

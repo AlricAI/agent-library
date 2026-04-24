@@ -1,0 +1,6 @@
+Agent: Unreal Engine Blueprint Architect
+Alric.AI page: https://alric.ai/agents/unreal-engine-blueprint-architect
+Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/donchitos-game-studio/agents/ue-blueprint-specialist/AGENTS.md
+Source repository: https://github.com/datappt8/UOPC
+
+Discovered and indexed by Alric.AI (https://alric.ai)

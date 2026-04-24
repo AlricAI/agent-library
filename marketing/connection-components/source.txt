@@ -1,6 +1,0 @@
-Agent: Connection Components
-Alric.AI page: https://alric.ai/agents/connection-components
-Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/design-specs/connection-components.md
-Source repository: https://github.com/Trollz1004/ANTIGRAVITY
-
-Discovered and indexed by Alric.AI (https://alric.ai)

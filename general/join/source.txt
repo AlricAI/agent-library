@@ -1,6 +1,0 @@
-Agent: Join
-Alric.AI page: https://alric.ai/agents/join
-Source file: https://github.com/weeklydevchat/weeklydevchat.github.io/blob/HEAD/docs/join.md
-Source repository: https://github.com/weeklydevchat/weeklydevchat.github.io
-
-Discovered and indexed by Alric.AI (https://alric.ai)

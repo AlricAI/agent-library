@@ -1,6 +1,0 @@
-Agent: Statement
-Alric.AI page: https://alric.ai/agents/statement
-Source file: https://github.com/Inist-CNRS/ezs/blob/HEAD/docs/statement.md
-Source repository: https://github.com/Inist-CNRS/ezs
-
-Discovered and indexed by Alric.AI (https://alric.ai)

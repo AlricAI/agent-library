@@ -1,6 +1,0 @@
-Agent: Testing Guide
-Alric.AI page: https://alric.ai/agents/testing-guide-1
-Source file: https://github.com/AureliusIvan/cursor-next-template/blob/HEAD/docs/testing-guide.md
-Source repository: https://github.com/AureliusIvan/cursor-next-template
-
-Discovered and indexed by Alric.AI (https://alric.ai)

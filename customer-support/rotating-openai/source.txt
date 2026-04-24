@@ -1,6 +1,0 @@
-Agent: Rotating Openai
-Alric.AI page: https://alric.ai/agents/rotating-openai
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/src/amplihack/vendor/blarify/agents/rotating_provider/rotating_openai.py
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

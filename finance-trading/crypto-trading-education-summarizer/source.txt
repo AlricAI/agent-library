@@ -1,0 +1,6 @@
+Agent: Crypto Trading Education Summarizer
+Alric.AI page: https://alric.ai/agents/crypto-trading-education-summarizer
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/the-great-cryptonio/education/video-summaries/VIDEO_01_AJ_WRITES_CRYPTO.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

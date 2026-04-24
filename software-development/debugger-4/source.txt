@@ -1,6 +1,0 @@
-Agent: Code Debugging Specialist
-Alric.AI page: https://alric.ai/agents/debugger-4
-Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/incident-response/agents/debugger.md
-Source repository: https://github.com/wshobson/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

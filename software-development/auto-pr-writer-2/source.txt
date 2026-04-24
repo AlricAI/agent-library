@@ -1,0 +1,6 @@
+Agent: Auto Pr Writer
+Alric.AI page: https://alric.ai/agents/auto-pr-writer-2
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/mcm-forge/agents/auto-pr-writer/HEARTBEAT.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

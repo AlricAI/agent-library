@@ -1,6 +1,0 @@
-Agent: VIDEO 09 CRYPTO PROFIT TAKING
-Alric.AI page: https://alric.ai/agents/video-09-crypto-profit-taking
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/the-great-cryptonio/education/video-summaries/VIDEO_09_CRYPTO_PROFIT_TAKING.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,7 +1,0 @@
-Agent: Chuyên gia tạo câu hỏi phỏng vấn IT
-
-Alric.AI page: https://alric.ai/agents/chuy-n-gia-ph-n-t-ch-cv-v-jd-trong-l-nh-v-c-it
-Source file: https://github.com/MDuckkk/DevCoach_Demo/blob/HEAD/src/interview/config/agents.yaml
-Source repository: https://github.com/MDuckkk/DevCoach_Demo
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Videogen Project Manager
+Alric.AI page: https://alric.ai/agents/videogen-project-manager-2
+Source file: https://github.com/Juwebien/videogen/blob/HEAD/agents/tpm/AGENTS.md
+Source repository: https://github.com/Juwebien/videogen
+
+Discovered and indexed by Alric.AI (https://alric.ai)

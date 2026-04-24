@@ -1,6 +1,0 @@
-Agent: Windsurf Rules
-Alric.AI page: https://alric.ai/agents/windsurf-rules
-Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/rules/.windsurfrules
-Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

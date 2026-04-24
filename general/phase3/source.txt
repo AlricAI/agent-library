@@ -1,6 +1,0 @@
-Agent: Phase3
-Alric.AI page: https://alric.ai/agents/phase3
-Source file: https://github.com/anshulyadav1976/legacy-profen/blob/HEAD/docs/phase3.md
-Source repository: https://github.com/anshulyadav1976/legacy-profen
-
-Discovered and indexed by Alric.AI (https://alric.ai)

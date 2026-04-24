@@ -1,6 +1,0 @@
-Agent: TOOLS
-Alric.AI page: https://alric.ai/agents/tools-219
-Source file: https://github.com/Pons13/nanobot_ponce_config/blob/HEAD/workspace/TOOLS.md
-Source repository: https://github.com/Pons13/nanobot_ponce_config
-
-Discovered and indexed by Alric.AI (https://alric.ai)

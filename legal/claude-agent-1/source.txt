@@ -1,6 +1,0 @@
-Agent: Claude Agent
-Alric.AI page: https://alric.ai/agents/claude-agent-1
-Source file: https://github.com/danmartinez78/dimos-unitree/blob/HEAD/dimos/agents/claude_agent.py
-Source repository: https://github.com/danmartinez78/dimos-unitree
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: BRAIN COMPARISON REPORT V1.0
-Alric.AI page: https://alric.ai/agents/brain-comparison-report-v1-0
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/docs/BRAIN_COMPARISON_REPORT_v1.0.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

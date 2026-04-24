@@ -1,6 +1,0 @@
-Agent:  Message Filter Agent
-Alric.AI page: https://alric.ai/agents/message-filter-agent-1
-Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/autogen/python/packages/autogen-agentchat/src/autogen_agentchat/agents/_message_filter_agent.py
-Source repository: https://github.com/ngTwg/Branding-Focused-Skills
-
-Discovered and indexed by Alric.AI (https://alric.ai)

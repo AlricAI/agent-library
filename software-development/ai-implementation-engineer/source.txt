@@ -1,0 +1,6 @@
+Agent: AI Implementation Engineer
+Alric.AI page: https://alric.ai/agents/ai-implementation-engineer
+Source file: https://github.com/contains-studio/agents/blob/HEAD/engineering/ai-engineer.md
+Source repository: https://github.com/contains-studio/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

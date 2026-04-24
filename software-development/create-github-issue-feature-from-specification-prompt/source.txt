@@ -1,6 +1,0 @@
-Agent: GitHub Issue Creator From Spec
-Alric.AI page: https://alric.ai/agents/create-github-issue-feature-from-specification-prompt
-Source file: https://github.com/tfha/agent-instructions/blob/HEAD/prompts/create-github-issue-feature-from-specification.prompt.md
-Source repository: https://github.com/tfha/agent-instructions
-
-Discovered and indexed by Alric.AI (https://alric.ai)

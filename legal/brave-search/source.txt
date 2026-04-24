@@ -1,6 +1,0 @@
-Agent: Brave Search
-Alric.AI page: https://alric.ai/agents/brave-search
-Source file: https://github.com/zapabob/clawdbot/blob/HEAD/docs/brave-search.md
-Source repository: https://github.com/zapabob/clawdbot
-
-Discovered and indexed by Alric.AI (https://alric.ai)

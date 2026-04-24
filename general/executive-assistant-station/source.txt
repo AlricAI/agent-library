@@ -1,0 +1,6 @@
+Agent: Executive Assistant Station
+Alric.AI page: https://alric.ai/agents/executive-assistant-station
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/secretarial/clippy-42/AGENTS.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

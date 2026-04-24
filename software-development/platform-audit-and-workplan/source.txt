@@ -1,6 +1,0 @@
-Agent: PLATFORM AUDIT AND WORKPLAN
-Alric.AI page: https://alric.ai/agents/platform-audit-and-workplan
-Source file: https://github.com/FGD-ATR-EP/AGS/blob/HEAD/docs/PLATFORM_AUDIT_AND_WORKPLAN.md
-Source repository: https://github.com/FGD-ATR-EP/AGS
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Q3 Campaign Connection With Purpose
-Alric.AI page: https://alric.ai/agents/q3-campaign-connection-with-purpose
-Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/design-specs/q3-campaign-connection-with-purpose.md
-Source repository: https://github.com/Trollz1004/ANTIGRAVITY
-
-Discovered and indexed by Alric.AI (https://alric.ai)

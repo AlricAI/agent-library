@@ -1,6 +1,0 @@
-Agent: Advantage Services
-Alric.AI page: https://alric.ai/agents/advantage-services
-Source file: https://github.com/DecoyLex/ltix/blob/HEAD/guides/advantage-services.md
-Source repository: https://github.com/DecoyLex/ltix
-
-Discovered and indexed by Alric.AI (https://alric.ai)

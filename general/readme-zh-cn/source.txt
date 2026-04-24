@@ -1,6 +1,0 @@
-Agent: README.Zh CN
-Alric.AI page: https://alric.ai/agents/readme-zh-cn
-Source file: https://github.com/nirholas/bnb-chain-toolkit/blob/HEAD/agents/defi-agents/README.zh-CN.md
-Source repository: https://github.com/nirholas/bnb-chain-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

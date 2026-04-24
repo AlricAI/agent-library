@@ -1,6 +1,0 @@
-Agent: README
-Alric.AI page: https://alric.ai/agents/readme-98
-Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/src/agents/containers-02-aks-cluster-agent/testing-scenario:-azure-kubernetes-agent/README.md
-Source repository: https://github.com/rysweet/AzureHayMaker
-
-Discovered and indexed by Alric.AI (https://alric.ai)

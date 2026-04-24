@@ -1,0 +1,6 @@
+Agent: Code Feature Validator
+Alric.AI page: https://alric.ai/agents/code-feature-validator
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/context-engineering-intro/use-cases/ai-coding-workflows-foundation/agents/validator.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

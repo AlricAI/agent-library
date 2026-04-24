@@ -1,6 +1,0 @@
-Agent: Render Frame Gate Plan
-Alric.AI page: https://alric.ai/agents/render-frame-gate-plan
-Source file: https://github.com/fabkury/p3a/blob/HEAD/inbox/render-frame-gate-plan.md
-Source repository: https://github.com/fabkury/p3a
-
-Discovered and indexed by Alric.AI (https://alric.ai)

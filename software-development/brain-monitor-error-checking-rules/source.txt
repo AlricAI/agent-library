@@ -1,6 +1,0 @@
-Agent: Brain Monitor Error Checking Rules
-Alric.AI page: https://alric.ai/agents/brain-monitor-error-checking-rules
-Source file: https://github.com/drumnation/brain-garden-foundry/blob/HEAD/.cursor/rules/brain-monitor-validation.rules.mdc
-Source repository: https://github.com/drumnation/brain-garden-foundry
-
-Discovered and indexed by Alric.AI (https://alric.ai)

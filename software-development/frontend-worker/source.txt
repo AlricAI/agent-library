@@ -1,6 +1,0 @@
-Agent: Frontend Worker
-Alric.AI page: https://alric.ai/agents/frontend-worker
-Source file: https://github.com/frankbria/codeframe/blob/HEAD/.claude/agents/frontend-worker.md
-Source repository: https://github.com/frankbria/codeframe
-
-Discovered and indexed by Alric.AI (https://alric.ai)

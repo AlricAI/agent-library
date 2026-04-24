@@ -1,6 +1,0 @@
-Agent: SOUL
-Alric.AI page: https://alric.ai/agents/soul-23
-Source file: https://github.com/erickmcaro/shippulse/blob/HEAD/workflows/security-audit/agents/fixer/SOUL.md
-Source repository: https://github.com/erickmcaro/shippulse
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Visual Bug Fix Workflow
+Alric.AI page: https://alric.ai/agents/visual-bug-fix-workflow
+Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/visual-bug-fix/workflow.md
+Source repository: https://github.com/golfballnut/mcmforge
+
+Discovered and indexed by Alric.AI (https://alric.ai)

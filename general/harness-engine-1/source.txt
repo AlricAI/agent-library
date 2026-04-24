@@ -1,6 +1,0 @@
-Agent: Harness Engine
-Alric.AI page: https://alric.ai/agents/harness-engine-1
-Source file: https://github.com/techwavedev/agi-agent-kit/blob/HEAD/directives/harness_engine.md
-Source repository: https://github.com/techwavedev/agi-agent-kit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Inbox Triage Specialist
+Alric.AI page: https://alric.ai/agents/inbox-triage-specialist
+Source file: https://github.com/kentonium3/kg-automation/blob/HEAD/scripts/openclaw/agents/felix-admin-capture/IDENTITY.md
+Source repository: https://github.com/kentonium3/kg-automation
+
+Discovered and indexed by Alric.AI (https://alric.ai)

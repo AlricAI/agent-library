@@ -1,6 +1,0 @@
-Agent: Credentials Map
-Alric.AI page: https://alric.ai/agents/credentials-map
-Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/memory/credentials-map.md
-Source repository: https://github.com/Trollz1004/ANTIGRAVITY
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Documentation Architecture
-Alric.AI page: https://alric.ai/agents/documentation-architecture
-Source file: https://github.com/opsmill/infrahub/blob/HEAD/dev/documentation-architecture.md
-Source repository: https://github.com/opsmill/infrahub
-
-Discovered and indexed by Alric.AI (https://alric.ai)

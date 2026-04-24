@@ -1,4 +1,4 @@
-Agent: legacy-modernizer
+Agent: Legacy Modernizer
 Alric.AI page: https://alric.ai/agents/legacy-modernizer-12
 Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/plugins/framework-migration/agents/legacy-modernizer.md
 Source repository: https://github.com/aRustyDev/agents

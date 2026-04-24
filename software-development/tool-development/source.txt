@@ -1,6 +1,0 @@
-Agent: TOOL DEVELOPMENT
-Alric.AI page: https://alric.ai/agents/tool-development
-Source file: https://github.com/cbwinslow/cloudcurio-monorepo-new/blob/HEAD/docs/TOOL_DEVELOPMENT.md
-Source repository: https://github.com/cbwinslow/cloudcurio-monorepo-new
-
-Discovered and indexed by Alric.AI (https://alric.ai)

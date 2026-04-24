@@ -1,6 +1,0 @@
-Agent: PROJECT STATUS
-Alric.AI page: https://alric.ai/agents/project-status
-Source file: https://github.com/dirmacs/ares/blob/HEAD/docs/PROJECT_STATUS.md
-Source repository: https://github.com/dirmacs/ares
-
-Discovered and indexed by Alric.AI (https://alric.ai)

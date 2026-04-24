@@ -1,6 +1,0 @@
-Agent: Openrouter
-Alric.AI page: https://alric.ai/agents/openrouter-2
-Source file: https://github.com/nirholas/bnbchain-mcp/blob/HEAD/docs/openrouter.md
-Source repository: https://github.com/nirholas/bnbchain-mcp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

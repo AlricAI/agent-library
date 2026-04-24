@@ -1,0 +1,6 @@
+Agent: Task Management Assistant
+Alric.AI page: https://alric.ai/agents/task-management-assistant
+Source file: https://github.com/anchapin/ModPorter-AI/blob/HEAD/.cursor/rules/01-task-management.mdc
+Source repository: https://github.com/anchapin/ModPorter-AI
+
+Discovered and indexed by Alric.AI (https://alric.ai)

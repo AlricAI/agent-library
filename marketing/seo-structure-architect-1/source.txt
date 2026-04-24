@@ -1,4 +1,4 @@
-Agent: seo-structure-architect
+Agent: SEO Structure Architect
 Alric.AI page: https://alric.ai/agents/seo-structure-architect-1
 Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/seo-structure-architect.md
 Source repository: https://github.com/aRustyDev/agents

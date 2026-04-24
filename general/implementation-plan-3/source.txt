@@ -1,6 +1,0 @@
-Agent: IMPLEMENTATION PLAN
-Alric.AI page: https://alric.ai/agents/implementation-plan-3
-Source file: https://github.com/hb-agent/magic-indexer/blob/HEAD/docs/IMPLEMENTATION_PLAN.md
-Source repository: https://github.com/hb-agent/magic-indexer
-
-Discovered and indexed by Alric.AI (https://alric.ai)

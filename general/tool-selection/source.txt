@@ -1,6 +1,0 @@
-Agent: Tool Selection
-Alric.AI page: https://alric.ai/agents/tool-selection
-Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/major_frameworks/langchain/libs/langchain_v1/langchain/agents/middleware/tool_selection.py
-Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
-
-Discovered and indexed by Alric.AI (https://alric.ai)

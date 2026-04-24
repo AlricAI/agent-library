@@ -1,6 +1,0 @@
-Agent: Cmo Marketing Tasks
-Alric.AI page: https://alric.ai/agents/cmo-marketing-tasks-1
-Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/issues/cmo_marketing_tasks.md
-Source repository: https://github.com/Trollz1004/ANTIGRAVITY
-
-Discovered and indexed by Alric.AI (https://alric.ai)

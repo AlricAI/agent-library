@@ -1,0 +1,7 @@
+Agent: Chapter Writer
+
+Alric.AI page: https://alric.ai/agents/chapter-writer
+Source file: https://github.com/dotojr123/crewai-production-ready/blob/HEAD/crewAI-examples/flows/write_a_book_with_flows/src/write_a_book_with_flows/crews/write_book_chapter_crew/config/agents.yaml
+Source repository: https://github.com/dotojr123/crewai-production-ready
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Dr. Nikolai Volkov
-Alric.AI page: https://alric.ai/agents/dr-nikolai-volkov-2
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/physical-sciences-lead/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

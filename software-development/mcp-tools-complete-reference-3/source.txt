@@ -1,6 +1,0 @@
-Agent: MCP Tools Complete Reference
-Alric.AI page: https://alric.ai/agents/mcp-tools-complete-reference-3
-Source file: https://github.com/felipebarcelospro/igniter-js/blob/HEAD/apps/starter-bun-rest-api/.cursor/rules/tools-reference.mdc
-Source repository: https://github.com/felipebarcelospro/igniter-js
-
-Discovered and indexed by Alric.AI (https://alric.ai)

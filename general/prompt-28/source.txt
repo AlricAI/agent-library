@@ -1,6 +1,0 @@
-Agent: Prompt
-Alric.AI page: https://alric.ai/agents/prompt-28
-Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/src/agents/analytics-01-batch-etl-pipeline-agent/data-scenario:-scheduled-batch-agent/prompt.md
-Source repository: https://github.com/rysweet/AzureHayMaker
-
-Discovered and indexed by Alric.AI (https://alric.ai)

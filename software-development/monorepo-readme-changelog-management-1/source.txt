@@ -1,6 +1,0 @@
-Agent: Monorepo README & Changelog Management
-Alric.AI page: https://alric.ai/agents/monorepo-readme-changelog-management-1
-Source file: https://github.com/drumnation/brain-garden-foundry/blob/HEAD/.cursor/rules/monorepo-package-docs-versioning.rules.mdc
-Source repository: https://github.com/drumnation/brain-garden-foundry
-
-Discovered and indexed by Alric.AI (https://alric.ai)

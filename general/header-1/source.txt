@@ -1,6 +1,0 @@
-Agent: Header
-Alric.AI page: https://alric.ai/agents/header-1
-Source file: https://github.com/Tiendil/feeds.fun/blob/HEAD/changes/header.md
-Source repository: https://github.com/Tiendil/feeds.fun
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Maze Generation.En
-Alric.AI page: https://alric.ai/agents/maze-generation-en
-Source file: https://github.com/alkozlov/puzzle-dazzle/blob/HEAD/docs/maze-generation.en.md
-Source repository: https://github.com/alkozlov/puzzle-dazzle
-
-Discovered and indexed by Alric.AI (https://alric.ai)

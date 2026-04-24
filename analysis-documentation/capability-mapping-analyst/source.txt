@@ -1,0 +1,6 @@
+Agent: Capability Mapping Analyst
+Alric.AI page: https://alric.ai/agents/capability-mapping-analyst
+Source file: https://github.com/erickmcaro/shippulse/blob/HEAD/workflows/project-gap-analysis/agents/repo-analyst/IDENTITY.md
+Source repository: https://github.com/erickmcaro/shippulse
+
+Discovered and indexed by Alric.AI (https://alric.ai)

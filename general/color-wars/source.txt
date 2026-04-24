@@ -1,6 +1,0 @@
-Agent: Color Wars
-Alric.AI page: https://alric.ai/agents/color-wars
-Source file: https://github.com/ernanhughes/ernanhughes.github.io/blob/HEAD/blog/color_wars.md
-Source repository: https://github.com/ernanhughes/ernanhughes.github.io
-
-Discovered and indexed by Alric.AI (https://alric.ai)

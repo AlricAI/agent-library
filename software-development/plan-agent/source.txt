@@ -1,6 +1,0 @@
-Agent: Project Planner
-Alric.AI page: https://alric.ai/agents/plan-agent
-Source file: https://github.com/xiaoland/agents/blob/HEAD/agents/github-copilot/plan.agent.md
-Source repository: https://github.com/xiaoland/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Code Review And Refactoring Expert
+Alric.AI page: https://alric.ai/agents/code-review-and-refactoring-expert
+Source file: https://github.com/tfha/agent-instructions/blob/HEAD/prompts/review-and-refactor.prompt.md
+Source repository: https://github.com/tfha/agent-instructions
+
+Discovered and indexed by Alric.AI (https://alric.ai)

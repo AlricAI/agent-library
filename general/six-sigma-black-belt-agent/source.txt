@@ -1,0 +1,6 @@
+Agent: Six Sigma Black Belt Agent
+Alric.AI page: https://alric.ai/agents/six-sigma-black-belt-agent
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/proposals/MDOS_Patricia_Case_Study.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

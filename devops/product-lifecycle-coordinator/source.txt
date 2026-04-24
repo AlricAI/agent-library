@@ -1,0 +1,6 @@
+Agent: Product Lifecycle Coordinator
+Alric.AI page: https://alric.ai/agents/product-lifecycle-coordinator
+Source file: https://github.com/LoveAndCoding/olivia/blob/HEAD/agents/vp-product/HEARTBEAT.md
+Source repository: https://github.com/LoveAndCoding/olivia
+
+Discovered and indexed by Alric.AI (https://alric.ai)

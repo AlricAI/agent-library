@@ -1,6 +1,0 @@
-Agent: Ai Native Next Phase
-Alric.AI page: https://alric.ai/agents/ai-native-next-phase
-Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/docs/ai-native-next-phase.md
-Source repository: https://github.com/ognjhunt/Blueprint-WebApp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Event Log Encryption Design
-Alric.AI page: https://alric.ai/agents/event-log-encryption-design
-Source file: https://github.com/rdaum/moor/blob/HEAD/doc/event-log-encryption-design.md
-Source repository: https://github.com/rdaum/moor
-
-Discovered and indexed by Alric.AI (https://alric.ai)

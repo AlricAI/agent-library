@@ -1,6 +1,0 @@
-Agent: Business Analyst Pro
-Alric.AI page: https://alric.ai/agents/business-analyst
-Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/business-analytics/agents/business-analyst.md
-Source repository: https://github.com/wshobson/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

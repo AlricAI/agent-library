@@ -1,6 +1,0 @@
-Agent: Cloud Automation
-Alric.AI page: https://alric.ai/agents/cloud-automation
-Source file: https://github.com/techwavedev/agi-agent-kit/blob/HEAD/directives/cloud_automation.md
-Source repository: https://github.com/techwavedev/agi-agent-kit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

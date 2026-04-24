@@ -1,6 +1,0 @@
-Agent: Worktrees
-Alric.AI page: https://alric.ai/agents/worktrees
-Source file: https://github.com/julianromli/opencode-template/blob/HEAD/command/worktrees.md
-Source repository: https://github.com/julianromli/opencode-template
-
-Discovered and indexed by Alric.AI (https://alric.ai)

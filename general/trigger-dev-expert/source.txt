@@ -1,6 +1,0 @@
-Agent: Trigger Dev Task Writer
-Alric.AI page: https://alric.ai/agents/trigger-dev-expert
-Source file: https://github.com/rostiSe/mymemory/blob/HEAD/apps/server/.claude/agents/trigger-dev-task-writer.md
-Source repository: https://github.com/rostiSe/mymemory
-
-Discovered and indexed by Alric.AI (https://alric.ai)

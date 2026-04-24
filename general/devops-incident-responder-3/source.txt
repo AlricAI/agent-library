@@ -1,0 +1,6 @@
+Agent: Devops Incident Responder
+Alric.AI page: https://alric.ai/agents/devops-incident-responder-3
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/cicd-automation/agents/devops-troubleshooter.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

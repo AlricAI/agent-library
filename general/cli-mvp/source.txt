@@ -1,6 +1,0 @@
-Agent: Cli Mvp
-Alric.AI page: https://alric.ai/agents/cli-mvp
-Source file: https://github.com/NoPKT/omnimem/blob/HEAD/docs/cli-mvp.md
-Source repository: https://github.com/NoPKT/omnimem
-
-Discovered and indexed by Alric.AI (https://alric.ai)

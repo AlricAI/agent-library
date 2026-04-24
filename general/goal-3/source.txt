@@ -1,6 +1,0 @@
-Agent: GOAL
-Alric.AI page: https://alric.ai/agents/goal-3
-Source file: https://github.com/samaeljvoolt-png/paperclip-refactor-foundation/blob/HEAD/doc/GOAL.md
-Source repository: https://github.com/samaeljvoolt-png/paperclip-refactor-foundation
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: WORKFLOW RUNTIME
-Alric.AI page: https://alric.ai/agents/workflow-runtime
-Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/WORKFLOW_RUNTIME.md
-Source repository: https://github.com/frumu-ai/tandem
-
-Discovered and indexed by Alric.AI (https://alric.ai)

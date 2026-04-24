@@ -1,6 +1,0 @@
-Agent: Interaction And Lasso
-Alric.AI page: https://alric.ai/agents/interaction-and-lasso
-Source file: https://github.com/Hyper3Labs/hyper-scatter/blob/HEAD/docs/interaction-and-lasso.md
-Source repository: https://github.com/Hyper3Labs/hyper-scatter
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Pitch Deck Narrative
-Alric.AI page: https://alric.ai/agents/pitch-deck-narrative
-Source file: https://github.com/FolahanWilliams/decision-intel/blob/HEAD/docs/pitch-deck-narrative.md
-Source repository: https://github.com/FolahanWilliams/decision-intel
-
-Discovered and indexed by Alric.AI (https://alric.ai)

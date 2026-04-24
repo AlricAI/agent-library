@@ -1,6 +1,0 @@
-Agent: Overnight Report
-Alric.AI page: https://alric.ai/agents/overnight-report-1
-Source file: https://github.com/dcarmitage/claws/blob/HEAD/media/overnight_report.md
-Source repository: https://github.com/dcarmitage/claws
-
-Discovered and indexed by Alric.AI (https://alric.ai)

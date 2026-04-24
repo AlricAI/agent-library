@@ -1,6 +1,0 @@
-Agent: WRONG - Recreates agent every time (significant overhead)
-Alric.AI page: https://alric.ai/agents/wrong-recreates-agent-every-time-significant-overhead
-Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/agno/.cursorrules
-Source repository: https://github.com/ngTwg/Branding-Focused-Skills
-
-Discovered and indexed by Alric.AI (https://alric.ai)

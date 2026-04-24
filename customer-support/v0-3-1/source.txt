@@ -1,6 +1,0 @@
-Agent: V0.3.1
-Alric.AI page: https://alric.ai/agents/v0-3-1
-Source file: https://github.com/datappt8/UOPC/blob/HEAD/releases/v0.3.1.md
-Source repository: https://github.com/datappt8/UOPC
-
-Discovered and indexed by Alric.AI (https://alric.ai)

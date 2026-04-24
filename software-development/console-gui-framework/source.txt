@@ -1,6 +1,0 @@
-Agent: Console Gui Framework
-Alric.AI page: https://alric.ai/agents/console-gui-framework
-Source file: https://github.com/robch/cycod/blob/HEAD/docs/console-gui-framework.md
-Source repository: https://github.com/robch/cycod
-
-Discovered and indexed by Alric.AI (https://alric.ai)

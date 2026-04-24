@@ -1,6 +1,0 @@
-Agent: VISION AND ARCHITECTURE
-Alric.AI page: https://alric.ai/agents/vision-and-architecture
-Source file: https://github.com/rarestg/nyc-housing-scout/blob/HEAD/docs/VISION_AND_ARCHITECTURE.md
-Source repository: https://github.com/rarestg/nyc-housing-scout
-
-Discovered and indexed by Alric.AI (https://alric.ai)

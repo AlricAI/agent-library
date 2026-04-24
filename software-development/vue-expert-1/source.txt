@@ -1,4 +1,4 @@
-Agent: vue-expert
+Agent: Vue Expert
 Alric.AI page: https://alric.ai/agents/vue-expert-1
 Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/lang/vue-expert.md
 Source repository: https://github.com/aRustyDev/agents

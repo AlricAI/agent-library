@@ -1,6 +1,0 @@
-Agent: Sprint 08 Agent Maturity
-Alric.AI page: https://alric.ai/agents/sprint-08-agent-maturity
-Source file: https://github.com/frankbria/codeframe/blob/HEAD/sprints/sprint-08-agent-maturity.md
-Source repository: https://github.com/frankbria/codeframe
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Knowledge Graph Query Engine
+Alric.AI page: https://alric.ai/agents/knowledge-graph-query-engine
+Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/sms-bot/agents/kg-query/README.md
+Source repository: https://github.com/bdecrem/vibeceo
+
+Discovered and indexed by Alric.AI (https://alric.ai)

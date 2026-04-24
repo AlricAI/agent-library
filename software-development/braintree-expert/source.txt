@@ -1,6 +1,0 @@
-Agent: Braintree Payment Integrator
-Alric.AI page: https://alric.ai/agents/braintree-expert
-Source file: https://github.com/0xfurai/claude-code-subagents/blob/HEAD/agents/braintree-expert.md
-Source repository: https://github.com/0xfurai/claude-code-subagents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

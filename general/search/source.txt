@@ -1,6 +1,0 @@
-Agent: SEARCH
-Alric.AI page: https://alric.ai/agents/search
-Source file: https://github.com/rostiSe/mymemory/blob/HEAD/docs/SEARCH.md
-Source repository: https://github.com/rostiSe/mymemory
-
-Discovered and indexed by Alric.AI (https://alric.ai)

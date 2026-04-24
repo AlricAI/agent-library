@@ -1,6 +1,0 @@
-Agent: WORKFLOW
-Alric.AI page: https://alric.ai/agents/workflow-25
-Source file: https://github.com/Goblin1024/oh-my-kimi/blob/HEAD/docs/WORKFLOW.md
-Source repository: https://github.com/Goblin1024/oh-my-kimi
-
-Discovered and indexed by Alric.AI (https://alric.ai)

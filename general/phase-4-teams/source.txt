@@ -1,6 +1,0 @@
-Agent: Phase 4 Teams
-Alric.AI page: https://alric.ai/agents/phase-4-teams
-Source file: https://github.com/CNCSMonster/learn-claude-code-notes/blob/HEAD/src/phase-4-teams.md
-Source repository: https://github.com/CNCSMonster/learn-claude-code-notes
-
-Discovered and indexed by Alric.AI (https://alric.ai)

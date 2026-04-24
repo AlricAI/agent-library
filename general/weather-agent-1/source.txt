@@ -1,6 +1,0 @@
-Agent: Weather Agent
-Alric.AI page: https://alric.ai/agents/weather-agent-1
-Source file: https://github.com/jazzmind/busibox/blob/HEAD/srv/agent/app/agents/weather_agent.py
-Source repository: https://github.com/jazzmind/busibox
-
-Discovered and indexed by Alric.AI (https://alric.ai)

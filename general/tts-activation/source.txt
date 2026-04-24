@@ -1,6 +1,0 @@
-Agent: TTS ACTIVATION
-Alric.AI page: https://alric.ai/agents/tts-activation
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/mylfives/workspace/TTS_ACTIVATION.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

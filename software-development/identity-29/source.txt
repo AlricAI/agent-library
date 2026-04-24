@@ -1,6 +1,0 @@
-Agent: IDENTITY
-Alric.AI page: https://alric.ai/agents/identity-29
-Source file: https://github.com/tribemetrics/antfarm-claude-code/blob/HEAD/agents/shared/setup/IDENTITY.md
-Source repository: https://github.com/tribemetrics/antfarm-claude-code
-
-Discovered and indexed by Alric.AI (https://alric.ai)

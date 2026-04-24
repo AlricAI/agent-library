@@ -1,6 +1,0 @@
-Agent: Code Agent Collection Summary
-Alric.AI page: https://alric.ai/agents/completion-summary
-Source file: https://github.com/gensecaihq/Claude-Code-Subagents-Collection/blob/HEAD/subagents/COMPLETION_SUMMARY.md
-Source repository: https://github.com/gensecaihq/Claude-Code-Subagents-Collection
-
-Discovered and indexed by Alric.AI (https://alric.ai)

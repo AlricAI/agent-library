@@ -1,6 +1,0 @@
-Agent: Consistency Agent
-Alric.AI page: https://alric.ai/agents/consistency-agent
-Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/multi_agent___specialized/swarms/docs/swarms/agents/consistency_agent.md
-Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
-
-Discovered and indexed by Alric.AI (https://alric.ai)

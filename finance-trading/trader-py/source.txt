@@ -1,6 +1,0 @@
-Agent: Stock Market Trader
-Alric.AI page: https://alric.ai/agents/trader-py
-Source file: https://github.com/TauricResearch/TradingAgents/blob/HEAD/tradingagents/agents/trader/trader.py
-Source repository: https://github.com/TauricResearch/TradingAgents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: NATIVE BINARY TRACE LOGGING
-Alric.AI page: https://alric.ai/agents/native-binary-trace-logging
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/docs/NATIVE_BINARY_TRACE_LOGGING.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

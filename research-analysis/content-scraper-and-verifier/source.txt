@@ -1,0 +1,6 @@
+Agent: Content Scraper And Verifier
+Alric.AI page: https://alric.ai/agents/content-scraper-and-verifier
+Source file: https://github.com/Zidong-IA/BIBLIOTECA/blob/HEAD/references/repos-referencia/awesome-llm-apps/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/beifong/agents/scrape_agent.py
+Source repository: https://github.com/Zidong-IA/BIBLIOTECA
+
+Discovered and indexed by Alric.AI (https://alric.ai)

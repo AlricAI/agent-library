@@ -1,6 +1,0 @@
-Agent: BLU 2314 Status
-Alric.AI page: https://alric.ai/agents/blu-2314-status-1
-Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/issue-updates/BLU-2314-status.md
-Source repository: https://github.com/ognjhunt/Blueprint-WebApp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

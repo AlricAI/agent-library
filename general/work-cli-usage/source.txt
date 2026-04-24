@@ -1,6 +1,0 @@
-Agent: work-cli-usage
-Alric.AI page: https://alric.ai/agents/work-cli-usage
-Source file: https://github.com/tbrandenburg/work/blob/HEAD/work-skill/SKILL.md
-Source repository: https://github.com/tbrandenburg/work
-
-Discovered and indexed by Alric.AI (https://alric.ai)

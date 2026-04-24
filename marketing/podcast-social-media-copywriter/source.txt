@@ -1,0 +1,6 @@
+Agent: Podcast Social Media Copywriter
+Alric.AI page: https://alric.ai/agents/podcast-social-media-copywriter
+Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-sales-marketing/agents/social-media-copywriter.md
+Source repository: https://github.com/davepoon/claude-code-subagents-collection
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Backend Business
-Alric.AI page: https://alric.ai/agents/backend-business
-Source file: https://github.com/AlexL70/linkshortener/blob/HEAD/ai-instructions/backend-business.md
-Source repository: https://github.com/AlexL70/linkshortener
-
-Discovered and indexed by Alric.AI (https://alric.ai)

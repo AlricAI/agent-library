@@ -1,6 +1,0 @@
-Agent: Committe
-Alric.AI page: https://alric.ai/agents/committe
-Source file: https://github.com/chehaba/prospecting/blob/HEAD/outbound/committe.md
-Source repository: https://github.com/chehaba/prospecting
-
-Discovered and indexed by Alric.AI (https://alric.ai)

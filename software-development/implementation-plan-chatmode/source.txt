@@ -1,6 +1,0 @@
-Agent: Implementation Plan Generator
-Alric.AI page: https://alric.ai/agents/implementation-plan-chatmode
-Source file: https://github.com/tfha/agent-instructions/blob/HEAD/chatmodes/implementation-plan.chatmode.md
-Source repository: https://github.com/tfha/agent-instructions
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Jane The Senior Sales Representative
+Alric.AI page: https://alric.ai/agents/jane-the-senior-sales-representative
+Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier1/jane/AGENTS.md
+Source repository: https://github.com/hcindus/AOS-Brain
+
+Discovered and indexed by Alric.AI (https://alric.ai)

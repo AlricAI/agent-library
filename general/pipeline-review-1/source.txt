@@ -1,6 +1,0 @@
-Agent: Pipeline Review
-Alric.AI page: https://alric.ai/agents/pipeline-review-1
-Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/pipeline-review/AGENTS.md
-Source repository: https://github.com/ognjhunt/Blueprint-WebApp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

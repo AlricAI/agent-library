@@ -1,6 +1,0 @@
-Agent:  Redaction
-Alric.AI page: https://alric.ai/agents/redaction
-Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/major_frameworks/langchain/libs/langchain_v1/langchain/agents/middleware/_redaction.py
-Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
-
-Discovered and indexed by Alric.AI (https://alric.ai)

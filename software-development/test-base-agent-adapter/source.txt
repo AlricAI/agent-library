@@ -1,6 +1,0 @@
-Agent: Test Base Agent Adapter
-Alric.AI page: https://alric.ai/agents/test-base-agent-adapter
-Source file: https://github.com/danielgonzagat/megaIAAA/blob/HEAD/crewAI/tests/agents/agent_adapters/test_base_agent_adapter.py
-Source repository: https://github.com/danielgonzagat/megaIAAA
-
-Discovered and indexed by Alric.AI (https://alric.ai)

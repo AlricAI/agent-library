@@ -1,6 +1,0 @@
-Agent: GETTING STARTED 126 MULTI TENANT
-Alric.AI page: https://alric.ai/agents/getting-started-126-multi-tenant
-Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/docs/GETTING_STARTED_126_MULTI_TENANT.md
-Source repository: https://github.com/rysweet/AzureHayMaker
-
-Discovered and indexed by Alric.AI (https://alric.ai)

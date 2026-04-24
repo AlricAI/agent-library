@@ -1,0 +1,6 @@
+Agent: Workflow Orchestrator Pro
+Alric.AI page: https://alric.ai/agents/workflow-orchestrator-pro
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/meta/workflows/workflow-orchestrator.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: lic-design-system
-Alric.AI page: https://alric.ai/agents/lic-design-system
-Source file: https://github.com/pllporg/karen/blob/HEAD/lic-design-system/SKILL.md
-Source repository: https://github.com/pllporg/karen
-
-Discovered and indexed by Alric.AI (https://alric.ai)

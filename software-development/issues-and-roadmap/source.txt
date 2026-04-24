@@ -1,6 +1,0 @@
-Agent: ISSUES AND ROADMAP
-Alric.AI page: https://alric.ai/agents/issues-and-roadmap
-Source file: https://github.com/massoudsh/Findash/blob/HEAD/docs/ISSUES_AND_ROADMAP.md
-Source repository: https://github.com/massoudsh/Findash
-
-Discovered and indexed by Alric.AI (https://alric.ai)

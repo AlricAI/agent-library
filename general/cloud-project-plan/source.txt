@@ -1,6 +1,0 @@
-Agent: CLOUD PROJECT PLAN
-Alric.AI page: https://alric.ai/agents/cloud-project-plan
-Source file: https://github.com/koenvorster/Personal_project_VorstersNV/blob/HEAD/plan/CLOUD_PROJECT_PLAN.md
-Source repository: https://github.com/koenvorster/Personal_project_VorstersNV
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Decision Architecture
-Alric.AI page: https://alric.ai/agents/decision-architecture
-Source file: https://github.com/blex2011/My-Context/blob/HEAD/context-components/decision-architecture.md
-Source repository: https://github.com/blex2011/My-Context
-
-Discovered and indexed by Alric.AI (https://alric.ai)

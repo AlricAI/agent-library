@@ -1,6 +1,0 @@
-Agent: App Store Monitor
-Alric.AI page: https://alric.ai/agents/app-store-monitor
-Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/app-store-monitor.md
-Source repository: https://github.com/golfballnut/mcmforge
-
-Discovered and indexed by Alric.AI (https://alric.ai)

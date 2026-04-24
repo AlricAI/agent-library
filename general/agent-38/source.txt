@@ -1,6 +1,0 @@
-Agent: Agent
-Alric.AI page: https://alric.ai/agents/agent-38
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/product/content/agent.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,4 +1,4 @@
-Agent: memory-manager
+Agent: Memory Manager
 Alric.AI page: https://alric.ai/agents/memory-manager-1
 Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/.claude/agents/amplihack/specialized/memory-manager.md
 Source repository: https://github.com/rysweet/AzureHayMaker

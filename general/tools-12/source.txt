@@ -1,6 +1,0 @@
-Agent: Tools
-Alric.AI page: https://alric.ai/agents/tools-12
-Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/major_frameworks/autogen/python/packages/autogen-ext/src/autogen_ext/agents/video_surfer/tools.py
-Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: MCP Protocol Developer
+Alric.AI page: https://alric.ai/agents/mcp-protocol-developer
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/experience/mcp-developer.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: 13 Backend Websocket Realtime
-Alric.AI page: https://alric.ai/agents/13-backend-websocket-realtime
-Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/prompts/agents/13-backend-websocket-realtime.md
-Source repository: https://github.com/nirholas/crypto-vision
-
-Discovered and indexed by Alric.AI (https://alric.ai)

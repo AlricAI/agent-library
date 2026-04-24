@@ -1,6 +1,0 @@
-Agent: DOMAIN AGENTS DESIGN
-Alric.AI page: https://alric.ai/agents/domain-agents-design
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/Specs/DOMAIN_AGENTS_DESIGN.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

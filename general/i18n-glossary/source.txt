@@ -1,6 +1,0 @@
-Agent: I18n Glossary
-Alric.AI page: https://alric.ai/agents/i18n-glossary
-Source file: https://github.com/korchasa/bg-trainer/blob/HEAD/documents/i18n-glossary.md
-Source repository: https://github.com/korchasa/bg-trainer
-
-Discovered and indexed by Alric.AI (https://alric.ai)

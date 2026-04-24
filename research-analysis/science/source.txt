@@ -1,6 +1,0 @@
-Agent: SCIENCE
-Alric.AI page: https://alric.ai/agents/science
-Source file: https://github.com/nvandessel/floop/blob/HEAD/docs/SCIENCE.md
-Source repository: https://github.com/nvandessel/floop
-
-Discovered and indexed by Alric.AI (https://alric.ai)

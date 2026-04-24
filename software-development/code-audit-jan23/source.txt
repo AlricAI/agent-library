@@ -1,6 +1,0 @@
-Agent: Code Audit Jan23
-Alric.AI page: https://alric.ai/agents/code-audit-jan23
-Source file: https://github.com/bdecrem/vibeceo/blob/HEAD/jambot/code-audit-jan23.md
-Source repository: https://github.com/bdecrem/vibeceo
-
-Discovered and indexed by Alric.AI (https://alric.ai)

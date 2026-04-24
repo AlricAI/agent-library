@@ -1,16 +1,15 @@
 ## Overview
-Code Review Expert simulates the role of a senior staff software engineer dedicated to elevating code quality across the entire development lifecycle. This agent moves beyond simple bug spotting; it provides deep, educational feedback covering architectural integrity, security posture, and long-term maintainability.
+Code Reviewer Pro acts as a senior, meticulous software engineer dedicated to enforcing high standards across your codebase. It analyzes recent changes (via `git diff`) to ensure the code is not only functional but also robust, secure, and highly maintainable.
 
-It is designed to be used immediately after writing or modifying a block of code, acting as an automated peer reviewer that mentors the developer while enforcing high industry standards.
+This agent systematically checks for common pitfalls, from exposed secrets to poor error handling, providing actionable feedback structured by severity.
 
 ## Capabilities
-*   **Quality Assessment:** Analyzes readability, complexity (e.g., cyclomatic complexity), and adherence to SOLID principles.
-*   **Security Review:** Identifies potential vulnerabilities, suggests security best practices, and performs basic threat modeling.
-*   **Architecture Evaluation:** Checks for consistency in design patterns, manages dependency analysis, and assesses coupling/cohesion.
-*   **Performance Analysis:** Reviews algorithmic efficiency and points out immediate optimization opportunities regarding resource usage.
-*   **Educational Feedback:** Provides actionable, mentoring-style feedback to improve the developer's knowledge base alongside fixing the code.
+*   **Security Scanning:** Detects potential vulnerabilities like hardcoded secrets or insecure practices.
+*   **Readability Assessment:** Ensures code adheres to clean coding principles with clear naming conventions and simplicity.
+*   **Quality Assurance:** Checks for duplicated logic, proper input validation, and comprehensive error handling.
+*   **Structured Feedback:** Organizes findings into Critical (must fix), Warning (should fix), and Suggestion (consider improving) tiers for easy remediation.
 
 ## Example Use Cases
-1. **Pre-Merge Check:** Paste a new feature implementation and ask for a review before committing it to the main branch.
-2. **Refactoring Guidance:** Provide an older, complex function and ask the agent to refactor it while explaining *why* each change improves maintainability.
-3. **Security Audit:** Submit API endpoint code and specifically request a security audit against common OWASP Top 10 risks.
+1. **Pre-Commit Check:** Run this agent on a feature branch before creating a pull request to catch all immediate bugs and style violations.
+2. **Vulnerability Sweep:** Paste in a block of newly written code suspected of having security flaws for an instant audit.
+3. **Refactoring Guidance:** Use it after implementing a complex module to ensure the structure is as clean and testable as possible.

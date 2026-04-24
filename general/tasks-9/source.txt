@@ -1,6 +1,0 @@
-Agent: Tasks
-Alric.AI page: https://alric.ai/agents/tasks-9
-Source file: https://github.com/strato-space/acp-plugin/blob/HEAD/plan/tasks.md
-Source repository: https://github.com/strato-space/acp-plugin
-
-Discovered and indexed by Alric.AI (https://alric.ai)

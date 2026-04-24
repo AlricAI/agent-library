@@ -1,0 +1,6 @@
+Agent: System Architect Designer
+Alric.AI page: https://alric.ai/agents/system-architect-designer
+Source file: https://github.com/Goblin1024/oh-my-kimi/blob/HEAD/prompts/architect.md
+Source repository: https://github.com/Goblin1024/oh-my-kimi
+
+Discovered and indexed by Alric.AI (https://alric.ai)

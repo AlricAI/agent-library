@@ -1,6 +1,0 @@
-Agent: AGENTCOMPANIES SPEC INVENTORY
-Alric.AI page: https://alric.ai/agents/agentcompanies-spec-inventory
-Source file: https://github.com/datappt8/UOPC/blob/HEAD/doc/AGENTCOMPANIES_SPEC_INVENTORY.md
-Source repository: https://github.com/datappt8/UOPC
-
-Discovered and indexed by Alric.AI (https://alric.ai)

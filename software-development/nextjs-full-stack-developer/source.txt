@@ -1,0 +1,6 @@
+Agent: Nextjs Full Stack Developer
+Alric.AI page: https://alric.ai/agents/nextjs-full-stack-developer
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/lang/nextjs-developer.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

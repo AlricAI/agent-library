@@ -1,6 +1,0 @@
-Agent: Agents
-Alric.AI page: https://alric.ai/agents/agents-461
-Source file: https://github.com/OpenMOSS/OurClaw/blob/HEAD/TFClaw/agents.md
-Source repository: https://github.com/OpenMOSS/OurClaw
-
-Discovered and indexed by Alric.AI (https://alric.ai)

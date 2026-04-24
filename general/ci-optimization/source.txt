@@ -1,6 +1,0 @@
-Agent: CI OPTIMIZATION
-Alric.AI page: https://alric.ai/agents/ci-optimization
-Source file: https://github.com/anchapin/ModPorter-AI/blob/HEAD/docs/CI_OPTIMIZATION.md
-Source repository: https://github.com/anchapin/ModPorter-AI
-
-Discovered and indexed by Alric.AI (https://alric.ai)

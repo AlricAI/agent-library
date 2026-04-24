@@ -1,6 +1,0 @@
-Agent: Images Preview Cache
-Alric.AI page: https://alric.ai/agents/images-preview-cache-1
-Source file: https://github.com/Saluana/or3-chat/blob/HEAD/docs/images-preview-cache.md
-Source repository: https://github.com/Saluana/or3-chat
-
-Discovered and indexed by Alric.AI (https://alric.ai)

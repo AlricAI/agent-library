@@ -1,6 +1,0 @@
-Agent: GLOSSARY POLICY
-Alric.AI page: https://alric.ai/agents/glossary-policy
-Source file: https://github.com/joefyn/ChimeraHydra/blob/HEAD/policy/GLOSSARY_POLICY.md
-Source repository: https://github.com/joefyn/ChimeraHydra
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: PRDV2
-Alric.AI page: https://alric.ai/agents/prdv2
-Source file: https://github.com/Baguspanji/jimpitan-app/blob/HEAD/docs/PRDV2.MD
-Source repository: https://github.com/Baguspanji/jimpitan-app
-
-Discovered and indexed by Alric.AI (https://alric.ai)

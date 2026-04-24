@@ -1,6 +1,0 @@
-Agent: AZURE INTEGRATION
-Alric.AI page: https://alric.ai/agents/azure-integration
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/docs/AZURE_INTEGRATION.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

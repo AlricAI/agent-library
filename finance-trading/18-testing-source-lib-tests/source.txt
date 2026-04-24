@@ -1,6 +1,0 @@
-Agent: 18 Testing Source Lib Tests
-Alric.AI page: https://alric.ai/agents/18-testing-source-lib-tests
-Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/prompts/agents/18-testing-source-lib-tests.md
-Source repository: https://github.com/nirholas/crypto-vision
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,64 +1,13 @@
-# Record Extractor Agent
+## Overview
+The Record Extractor Agent is a highly deterministic tool designed specifically for extracting structured data records from unstructured or semi-structured text. Unlike general summarization agents, this agent's sole purpose is to adhere strictly to a predefined output schema, ensuring the resulting JSON is clean and ready for immediate programmatic use.
 
-> """
-Record Extractor Agent.
+## Capabilities
+*   **Schema Enforcement:** Guarantees that the output structure precisely matches the required schema.
+*   **Conciseness:** Prefers brief field values, avoiding unnecessary prose or exhaustive lists.
+*   **Evidence-Based Extraction:** Only extracts data directly supported by the provided source text.
+*   **Null Handling:** Gracefully handles missing information by omitting fields or returning nulls as appropriate.
 
-Dedicated executor for structured extraction runs.
-Unlike schema-builder, this agent is optimized to return compact, sche
-
-## Model
-- **Default:** `claude-sonnet-4-5`
-
-## System Prompt
-"""
-Record Extractor Agent.
-
-Dedicated executor for structured extraction runs.
-Unlike schema-builder, this agent is optimized to return compact, schema-aligned
-JSON records for workflow/programmatic extraction calls.
-"""
-
-from typing import List
-
-from app.agents.base_agent import (
-    AgentConfig,
-    AgentContext,
-    BaseStreamingAgent,
-    ExecutionMode,
-    PipelineStep,
-    ToolStrategy,
-)
-
-
-RECORD_EXTRACTOR_SYSTEM_PROMPT = """You extract structured records from provided document text.
-
-Rules:
-- Return only data that is supported by document evidence.
-- Follow the provided response schema exactly.
-- Never add prose or markdown when structured output is requested.
-- Prefer concise field values and avoid exhaustive lists.
-- If information is missing, omit the field or return null.
-"""
-
-
-class RecordExtractorAgent(BaseStreamingAgent):
-    """Deterministic extraction-oriented agent with no tool usage."""
-
-    def __init__(self):
-        config = AgentConfig(
-            name="record-extractor",
-            display_name="Record Extractor",
-            instructions=RECORD_EXTRACTOR_SYSTEM_PROMPT,
-            tools=[],
-            model="agent",
-            execution_mode=ExecutionMode.RUN_ONCE,
-            tool_strategy=ToolStrategy.LLM_DRIVEN,
-        )
-        super().__init__(config)
-
-    def pipeline_steps(self, query: str, context: AgentContext) -> List[PipelineStep]:
-        return []
-
-
-# Singleton instance
-record_extractor_agent = RecordExtractorAgent()
+## Example Use Cases
+*   **Invoice Processing:** Extracting specific fields like invoice number, total amount, and dates from scanned receipts.
+*   **Contact Card Parsing:** Converting blocks of unstructured text (e.g., a business card scan) into a standardized JSON object containing name, title, and phone numbers.
+*   **Data Aggregation:** Running multiple extraction passes over large documents to compile structured records for database ingestion.

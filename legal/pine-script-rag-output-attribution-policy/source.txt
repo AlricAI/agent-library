@@ -1,6 +1,0 @@
-Agent: Pine Script Rag Output Attribution Policy
-Alric.AI page: https://alric.ai/agents/pine-script-rag-output-attribution-policy
-Source file: https://github.com/dannySubsense/PineScript-Builder/blob/HEAD/docs/pine_script_rag_output_attribution_policy.md
-Source repository: https://github.com/dannySubsense/PineScript-Builder
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Getting Started
-Alric.AI page: https://alric.ai/agents/getting-started-6
-Source file: https://github.com/mgaitan/python-package-copier-template/blob/HEAD/docs/getting_started.md
-Source repository: https://github.com/mgaitan/python-package-copier-template
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: RUNBOOK
-Alric.AI page: https://alric.ai/agents/runbook
-Source file: https://github.com/hb-agent/magic-indexer/blob/HEAD/docs/RUNBOOK.md
-Source repository: https://github.com/hb-agent/magic-indexer
-
-Discovered and indexed by Alric.AI (https://alric.ai)

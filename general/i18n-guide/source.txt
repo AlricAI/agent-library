@@ -1,6 +1,0 @@
-Agent: I18N GUIDE
-Alric.AI page: https://alric.ai/agents/i18n-guide
-Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/I18N_GUIDE.md
-Source repository: https://github.com/frumu-ai/tandem
-
-Discovered and indexed by Alric.AI (https://alric.ai)

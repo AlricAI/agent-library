@@ -1,6 +1,0 @@
-Agent: CONTROL PANEL ORCHESTRATION STABILIZATION REPORT
-Alric.AI page: https://alric.ai/agents/control-panel-orchestration-stabilization-report-1
-Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/CONTROL_PANEL_ORCHESTRATION_STABILIZATION_REPORT.md
-Source repository: https://github.com/frumu-ai/tandem
-
-Discovered and indexed by Alric.AI (https://alric.ai)

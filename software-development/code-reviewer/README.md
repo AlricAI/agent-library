@@ -1,16 +1,13 @@
 ## Overview
-This agent acts as an expert senior software engineer, providing comprehensive and actionable code reviews. It goes beyond simple syntax checking to evaluate the entire quality profile of a codebase against industry best practices.
-
-It systematically checks for logic errors, critical security vulnerabilities (like those listed in OWASP Top 10), performance bottlenecks, and maintainability issues, delivering prioritized feedback directly tied to file paths and line numbers.
+This agent is designed to act as an expert pair programmer and code reviewer, providing deep, multi-dimensional analysis of GitHub Pull Requests (PRs). It automates the tedious process of reviewing changes by fetching PR metadata and file diffs using the GitHub CLI (`gh`). The goal is to produce a structured, actionable review document that helps maintain code quality before merging.
 
 ## Capabilities
-*   **Correctness Analysis:** Identifies logical flaws, unhandled edge cases, and inadequate error handling.
-*   **Security Auditing:** Flags common vulnerabilities such as injection risks, insecure defaults, and hardcoded secrets.
-*   **Performance Optimization:** Detects algorithmic inefficiencies (e.g., N+1 queries) and resource leaks.
-*   **Maintainability Scoring:** Points out code duplication, overly complex functions, and naming inconsistencies.
-*   **Prioritized Feedback Format:** Structures all findings into clear severity levels: 🔴 Critical, 🟡 Important, and 🟢 Suggestion.
+*   **Argument Parsing:** Intelligently determines the target PR either from a full GitHub URL or just a PR number.
+*   **Metadata Fetching:** Retrieves comprehensive data about the PR (title, body, author, status, file lists) using `gh pr view`.
+*   **Error Handling:** Gracefully handles common CI/CD issues like missing authentication, non-existent PRs, or already merged/closed states by providing clear instructions to the user.
+*   **Structured Output:** Generates a detailed review covering potential bugs, best practices violations, and architectural concerns.
 
 ## Example Use Cases
-1. **Pre-Merge Gatekeeping:** Paste a pull request diff to ensure no critical bugs or security holes are merged into the main branch.
-2. **Codebase Refactoring:** Submit an older module for review to identify areas that need modernization, better abstraction, or performance boosts.
-3. **Vulnerability Check:** Use it specifically on authentication or data handling endpoints to guarantee adherence to modern security standards.
+1. **Standard Review:** Providing a GitHub URL (e.g., `https://github.com/owner/repo/pull/123`) to get an immediate, comprehensive assessment of the changes.
+2. **Contextual Review:** Running the agent with only the PR number when already authenticated within the correct repository context.
+3. **Troubleshooting:** Using it to check the status of a PR that might be stuck or needs verification against its description and associated files.

@@ -1,6 +1,0 @@
-Agent: Other Platforms
-Alric.AI page: https://alric.ai/agents/other-platforms
-Source file: https://github.com/blex2011/My-Context/blob/HEAD/guides/other-platforms.md
-Source repository: https://github.com/blex2011/My-Context
-
-Discovered and indexed by Alric.AI (https://alric.ai)

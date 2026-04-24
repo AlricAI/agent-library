@@ -1,6 +1,0 @@
-Agent: Welle 4 5
-Alric.AI page: https://alric.ai/agents/welle-4-5-1
-Source file: https://github.com/Wamocon/energy/blob/HEAD/requirements/welle-4-5.md
-Source repository: https://github.com/Wamocon/energy
-
-Discovered and indexed by Alric.AI (https://alric.ai)

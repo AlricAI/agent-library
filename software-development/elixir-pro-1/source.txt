@@ -1,4 +1,4 @@
-Agent: elixir-pro
+Agent: Elixir Pro
 Alric.AI page: https://alric.ai/agents/elixir-pro-1
 Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/elixir-pro.md
 Source repository: https://github.com/aRustyDev/agents

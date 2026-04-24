@@ -1,6 +1,0 @@
-Agent: Project Delivery Report Generator
-Alric.AI page: https://alric.ai/agents/delivery-report
-Source file: https://github.com/cjy5507/forge/blob/HEAD/templates/delivery-report.md
-Source repository: https://github.com/cjy5507/forge
-
-Discovered and indexed by Alric.AI (https://alric.ai)

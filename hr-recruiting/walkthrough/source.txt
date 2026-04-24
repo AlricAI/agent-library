@@ -1,6 +1,0 @@
-Agent: WALKTHROUGH
-Alric.AI page: https://alric.ai/agents/walkthrough
-Source file: https://github.com/nvandessel/floop/blob/HEAD/docs/WALKTHROUGH.md
-Source repository: https://github.com/nvandessel/floop
-
-Discovered and indexed by Alric.AI (https://alric.ai)

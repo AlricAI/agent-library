@@ -1,0 +1,6 @@
+Agent: Structured Content Generation Agent
+Alric.AI page: https://alric.ai/agents/structured-content-generation-agent
+Source file: https://github.com/FGD-ATR-EP/AGS/blob/HEAD/docs/SYSTEM_INTENT.md
+Source repository: https://github.com/FGD-ATR-EP/AGS
+
+Discovered and indexed by Alric.AI (https://alric.ai)

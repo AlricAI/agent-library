@@ -1,0 +1,6 @@
+Agent: C4 Context Architect
+Alric.AI page: https://alric.ai/agents/c4-context-architect
+Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/c4-architecture/agents/c4-context.md
+Source repository: https://github.com/wshobson/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Component Design Decision Tree (Electron Desktop)
-Alric.AI page: https://alric.ai/agents/component-design-decision-tree-electron-desktop
-Source file: https://github.com/drumnation/brain-garden-foundry/blob/HEAD/.cursor/rules/component-design-decision-tree.rules.mdc
-Source repository: https://github.com/drumnation/brain-garden-foundry
-
-Discovered and indexed by Alric.AI (https://alric.ai)

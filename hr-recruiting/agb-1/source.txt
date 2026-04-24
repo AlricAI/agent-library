@@ -1,6 +1,0 @@
-Agent: Agb
-Alric.AI page: https://alric.ai/agents/agb-1
-Source file: https://github.com/Wamocon/lp_energy/blob/HEAD/legal-docs/agb.md
-Source repository: https://github.com/Wamocon/lp_energy
-
-Discovered and indexed by Alric.AI (https://alric.ai)

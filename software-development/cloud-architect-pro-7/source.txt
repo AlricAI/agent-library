@@ -1,0 +1,6 @@
+Agent: Cloud Architect Pro
+Alric.AI page: https://alric.ai/agents/cloud-architect-pro-7
+Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/plugins/database-cloud-optimization/agents/cloud-architect.md
+Source repository: https://github.com/aRustyDev/agents
+
+Discovered and indexed by Alric.AI (https://alric.ai)

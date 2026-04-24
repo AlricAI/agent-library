@@ -1,0 +1,6 @@
+Agent: ML Pipeline Architect
+Alric.AI page: https://alric.ai/agents/ml-pipeline-architect
+Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/ml-lead/AGENTS.md
+Source repository: https://github.com/Sri-Krishna-V/companies
+
+Discovered and indexed by Alric.AI (https://alric.ai)

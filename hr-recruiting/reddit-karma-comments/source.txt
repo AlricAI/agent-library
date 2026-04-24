@@ -1,6 +1,0 @@
-Agent: Reddit Karma Comments
-Alric.AI page: https://alric.ai/agents/reddit-karma-comments
-Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/content/reddit-karma-comments.md
-Source repository: https://github.com/Trollz1004/ANTIGRAVITY
-
-Discovered and indexed by Alric.AI (https://alric.ai)

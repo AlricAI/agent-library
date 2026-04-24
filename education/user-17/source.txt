@@ -1,6 +1,0 @@
-Agent: USER
-Alric.AI page: https://alric.ai/agents/user-17
-Source file: https://github.com/OpenMOSS/OurClaw/blob/HEAD/commonworkspace/USER.md
-Source repository: https://github.com/OpenMOSS/OurClaw
-
-Discovered and indexed by Alric.AI (https://alric.ai)

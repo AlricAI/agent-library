@@ -1,6 +1,0 @@
-Agent: VIDEO 15 SHARKS VS WHALES
-Alric.AI page: https://alric.ai/agents/video-15-sharks-vs-whales
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/the-great-cryptonio/education/video-summaries/VIDEO_15_SHARKS_VS_WHALES.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

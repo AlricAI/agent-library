@@ -1,6 +1,0 @@
-Agent: Safety Features Research Protocol
-Alric.AI page: https://alric.ai/agents/safety-features-research-protocol
-Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/research/safety-features-research-protocol.md
-Source repository: https://github.com/Trollz1004/ANTIGRAVITY
-
-Discovered and indexed by Alric.AI (https://alric.ai)

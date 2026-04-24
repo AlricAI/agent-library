@@ -1,6 +1,0 @@
-Agent: Infrastructure Maintainer
-Alric.AI page: https://alric.ai/agents/infrastructure-maintainer
-Source file: https://github.com/contains-studio/agents/blob/HEAD/studio-operations/infrastructure-maintainer.md
-Source repository: https://github.com/contains-studio/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

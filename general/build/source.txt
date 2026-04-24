@@ -1,6 +1,0 @@
-Agent: BUILD
-Alric.AI page: https://alric.ai/agents/build
-Source file: https://github.com/damianvtran/local-operator-ui/blob/HEAD/docs/BUILD.md
-Source repository: https://github.com/damianvtran/local-operator-ui
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Image Generator Executor
-Alric.AI page: https://alric.ai/agents/image-generator
-Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/meigen-ai-design/agents/image-generator.md
-Source repository: https://github.com/wshobson/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

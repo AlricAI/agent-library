@@ -1,6 +1,0 @@
-Agent: EPIAS Energy Pipeline
-Alric.AI page: https://alric.ai/agents/epias-energy-pipeline
-Source file: https://github.com/arsalann/data_playground/blob/HEAD/epias-energy/plan.md
-Source repository: https://github.com/arsalann/data_playground
-
-Discovered and indexed by Alric.AI (https://alric.ai)

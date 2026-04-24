@@ -1,6 +1,0 @@
-Agent: SOUL
-Alric.AI page: https://alric.ai/agents/soul-430
-Source file: https://github.com/townie/do-it/blob/HEAD/agents/founding-engineer/SOUL.md
-Source repository: https://github.com/townie/do-it
-
-Discovered and indexed by Alric.AI (https://alric.ai)

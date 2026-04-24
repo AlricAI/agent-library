@@ -1,0 +1,6 @@
+Agent: Repository Validator
+Alric.AI page: https://alric.ai/agents/repository-validator
+Source file: https://github.com/julianromli/opencode-template/blob/HEAD/command/validate-repo.md
+Source repository: https://github.com/julianromli/opencode-template
+
+Discovered and indexed by Alric.AI (https://alric.ai)

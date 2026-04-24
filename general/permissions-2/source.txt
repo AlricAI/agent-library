@@ -1,6 +1,0 @@
-Agent: PERMISSIONS
-Alric.AI page: https://alric.ai/agents/permissions-2
-Source file: https://github.com/dcarmitage/claws/blob/HEAD/onboarding/PERMISSIONS.md
-Source repository: https://github.com/dcarmitage/claws
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Growth Prioritization Lead
+Alric.AI page: https://alric.ai/agents/growth-prioritization-lead
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/growth-lead/Soul.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

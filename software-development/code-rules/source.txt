@@ -1,6 +1,0 @@
-Agent: Code Style Guide Enforcer
-Alric.AI page: https://alric.ai/agents/code-rules
-Source file: https://github.com/cjy5507/forge/blob/HEAD/templates/code-rules.md
-Source repository: https://github.com/cjy5507/forge
-
-Discovered and indexed by Alric.AI (https://alric.ai)

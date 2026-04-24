@@ -1,6 +1,0 @@
-Agent: Code Debugger Expert
-Alric.AI page: https://alric.ai/agents/debugger-11
-Source file: https://github.com/webdevtodayjason/sub-agents/blob/HEAD/agents/debugger/agent.md
-Source repository: https://github.com/webdevtodayjason/sub-agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: TARGET AUDIENCE
-Alric.AI page: https://alric.ai/agents/target-audience
-Source file: https://github.com/Monsoft-Solutions/monsoftsolutions.com/blob/HEAD/docs/TARGET_AUDIENCE.md
-Source repository: https://github.com/Monsoft-Solutions/monsoftsolutions.com
-
-Discovered and indexed by Alric.AI (https://alric.ai)

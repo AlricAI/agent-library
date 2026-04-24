@@ -1,0 +1,6 @@
+Agent: Bug Diagnosis And Fixer
+Alric.AI page: https://alric.ai/agents/bug-diagnosis-and-fixer
+Source file: https://github.com/julianromli/opencode-template/blob/HEAD/command/fix.md
+Source repository: https://github.com/julianromli/opencode-template
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,0 +1,6 @@
+Agent: Markdown Agent Definition System
+Alric.AI page: https://alric.ai/agents/markdown-agent-definition-system-2
+Source file: https://github.com/strelov1/diffray/blob/HEAD/docs/AGENTS.md
+Source repository: https://github.com/strelov1/diffray
+
+Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Nyx - Frontend (Next.js)
-Alric.AI page: https://alric.ai/agents/nyx-frontend-next-js
-Source file: https://github.com/hoanngocle/nova/blob/HEAD/.github/agents/nyx-frontend-admin.agent.md
-Source repository: https://github.com/hoanngocle/nova
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Test Mcp Agent
-Alric.AI page: https://alric.ai/agents/test-mcp-agent
-Source file: https://github.com/HIDORAKAI002/ai-workspace-archive/blob/HEAD/ai_agent_frameworks/major_frameworks/camel/test/agents/test_mcp_agent.py
-Source repository: https://github.com/HIDORAKAI002/ai-workspace-archive
-
-Discovered and indexed by Alric.AI (https://alric.ai)

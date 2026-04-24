@@ -1,6 +1,0 @@
-Agent: Rework Home
-Alric.AI page: https://alric.ai/agents/rework-home-2
-Source file: https://github.com/Saluana/or3-chat/blob/HEAD/planning/rework-home.md
-Source repository: https://github.com/Saluana/or3-chat
-
-Discovered and indexed by Alric.AI (https://alric.ai)

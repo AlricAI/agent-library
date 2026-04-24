@@ -1,6 +1,0 @@
-Agent: TOOLS
-Alric.AI page: https://alric.ai/agents/tools-212
-Source file: https://github.com/townie/do-it/blob/HEAD/agents/ceo/TOOLS.md
-Source repository: https://github.com/townie/do-it
-
-Discovered and indexed by Alric.AI (https://alric.ai)

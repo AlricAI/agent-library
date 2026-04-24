@@ -1,6 +1,0 @@
-Agent: ENGINE TESTING
-Alric.AI page: https://alric.ai/agents/engine-testing
-Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/ENGINE_TESTING.md
-Source repository: https://github.com/frumu-ai/tandem
-
-Discovered and indexed by Alric.AI (https://alric.ai)

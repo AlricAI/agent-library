@@ -1,6 +1,0 @@
-Agent: AGENTS
-Alric.AI page: https://alric.ai/agents/agents-226
-Source file: https://github.com/TacioDaito/folkeep/blob/HEAD/api/AGENTS.md
-Source repository: https://github.com/TacioDaito/folkeep
-
-Discovered and indexed by Alric.AI (https://alric.ai)

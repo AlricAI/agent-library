@@ -1,6 +1,0 @@
-Agent: HOW TO USE
-Alric.AI page: https://alric.ai/agents/how-to-use
-Source file: https://github.com/fabkury/p3a/blob/HEAD/docs/HOW-TO-USE.md
-Source repository: https://github.com/fabkury/p3a
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Arm Cortex Embedded Expert
-Alric.AI page: https://alric.ai/agents/arm-cortex-expert
-Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/arm-cortex-microcontrollers/agents/arm-cortex-expert.md
-Source repository: https://github.com/wshobson/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

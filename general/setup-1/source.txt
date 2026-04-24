@@ -1,6 +1,0 @@
-Agent: Setup
-Alric.AI page: https://alric.ai/agents/setup-1
-Source file: https://github.com/Kookylo/claude_workflow_generator/blob/HEAD/github-slack-workflow/setup.md
-Source repository: https://github.com/Kookylo/claude_workflow_generator
-
-Discovered and indexed by Alric.AI (https://alric.ai)

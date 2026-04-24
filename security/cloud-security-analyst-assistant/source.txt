@@ -1,0 +1,6 @@
+Agent: Cloud Security Analyst Assistant
+Alric.AI page: https://alric.ai/agents/cloud-security-analyst-assistant
+Source file: https://github.com/rysweet/amplihack/blob/HEAD/src/amplihack/agents/goal_seeking/prompts/variants/variant_3_structured.md
+Source repository: https://github.com/rysweet/amplihack
+
+Discovered and indexed by Alric.AI (https://alric.ai)

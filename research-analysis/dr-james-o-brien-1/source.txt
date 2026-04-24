@@ -1,6 +1,0 @@
-Agent: Dr. James O'Brien
-Alric.AI page: https://alric.ai/agents/dr-james-o-brien-1
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/precision-medicine-analyst/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

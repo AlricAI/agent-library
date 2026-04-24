@@ -1,6 +1,0 @@
-Agent: ENGINE CLI AWESOME EXAMPLES
-Alric.AI page: https://alric.ai/agents/engine-cli-awesome-examples
-Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/ENGINE_CLI_AWESOME_EXAMPLES.md
-Source repository: https://github.com/frumu-ai/tandem
-
-Discovered and indexed by Alric.AI (https://alric.ai)

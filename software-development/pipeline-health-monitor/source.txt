@@ -1,0 +1,6 @@
+Agent: Pipeline Health Monitor
+Alric.AI page: https://alric.ai/agents/pipeline-health-monitor
+Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/pipeline-codex/Heartbeat.md
+Source repository: https://github.com/ognjhunt/Blueprint-WebApp
+
+Discovered and indexed by Alric.AI (https://alric.ai)

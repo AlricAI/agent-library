@@ -1,6 +1,0 @@
-Agent: 12 Backend Source Adapters
-Alric.AI page: https://alric.ai/agents/12-backend-source-adapters
-Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/prompts/agents/12-backend-source-adapters.md
-Source repository: https://github.com/nirholas/crypto-vision
-
-Discovered and indexed by Alric.AI (https://alric.ai)

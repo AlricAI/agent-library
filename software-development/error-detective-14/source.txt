@@ -1,4 +1,4 @@
-Agent: error-detective
+Agent: Error Detective
 Alric.AI page: https://alric.ai/agents/error-detective-14
 Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/quality/error-detective.md
 Source repository: https://github.com/aRustyDev/agents

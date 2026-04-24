@@ -1,6 +1,0 @@
-Agent: Design system (miniapp + shared)
-Alric.AI page: https://alric.ai/agents/design-system-miniapp-shared
-Source file: https://github.com/alexandertataurov/vpn-suite/blob/HEAD/.cursor/rules/design-system.mdc
-Source repository: https://github.com/alexandertataurov/vpn-suite
-
-Discovered and indexed by Alric.AI (https://alric.ai)

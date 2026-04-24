@@ -1,6 +1,0 @@
-Agent: Blog Series Discovery
-Alric.AI page: https://alric.ai/agents/blog-series-discovery
-Source file: https://github.com/bagrounds/obsidian-github-publisher-sync/blob/HEAD/specs/blog-series-discovery.md
-Source repository: https://github.com/bagrounds/obsidian-github-publisher-sync
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: SKILL ONLINERECYCLE SITE BUILD
-Alric.AI page: https://alric.ai/agents/skill-onlinerecycle-site-build
-Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/briefings/SKILL-ONLINERECYCLE-SITE-BUILD.md
-Source repository: https://github.com/Trollz1004/ANTIGRAVITY
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Test Temporal Reasoning
-Alric.AI page: https://alric.ai/agents/test-temporal-reasoning
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/tests/agents/goal_seeking/test_temporal_reasoning.py
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

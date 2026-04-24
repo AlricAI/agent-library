@@ -1,6 +1,0 @@
-Agent: CONTRACT
-Alric.AI page: https://alric.ai/agents/contract
-Source file: https://github.com/chehaba/prospecting/blob/HEAD/agent/CONTRACT.md
-Source repository: https://github.com/chehaba/prospecting
-
-Discovered and indexed by Alric.AI (https://alric.ai)

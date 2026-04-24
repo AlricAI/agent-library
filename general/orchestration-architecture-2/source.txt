@@ -1,6 +1,0 @@
-Agent: ORCHESTRATION ARCHITECTURE
-Alric.AI page: https://alric.ai/agents/orchestration-architecture-2
-Source file: https://github.com/Trollz1004/ANTIGRAVITY/blob/HEAD/briefings/ORCHESTRATION-ARCHITECTURE.md
-Source repository: https://github.com/Trollz1004/ANTIGRAVITY
-
-Discovered and indexed by Alric.AI (https://alric.ai)

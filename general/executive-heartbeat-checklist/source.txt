@@ -1,0 +1,6 @@
+Agent: Executive Heartbeat Checklist
+Alric.AI page: https://alric.ai/agents/executive-heartbeat-checklist
+Source file: https://github.com/townie/do-it/blob/HEAD/agents/ceo/HEARTBEAT.md
+Source repository: https://github.com/townie/do-it
+
+Discovered and indexed by Alric.AI (https://alric.ai)

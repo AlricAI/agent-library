@@ -1,6 +1,0 @@
-Agent: Goal
-Alric.AI page: https://alric.ai/agents/goal
-Source file: https://github.com/cass-clearly/remarq/blob/HEAD/agents/cpo/templates/goal.md
-Source repository: https://github.com/cass-clearly/remarq
-
-Discovered and indexed by Alric.AI (https://alric.ai)

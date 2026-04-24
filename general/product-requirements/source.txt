@@ -1,6 +1,0 @@
-Agent: Product Requirements
-Alric.AI page: https://alric.ai/agents/product-requirements
-Source file: https://github.com/numman-ali/mlxr/blob/HEAD/docs/product-requirements.md
-Source repository: https://github.com/numman-ali/mlxr
-
-Discovered and indexed by Alric.AI (https://alric.ai)

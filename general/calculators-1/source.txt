@@ -1,6 +1,0 @@
-Agent: Calculators
-Alric.AI page: https://alric.ai/agents/calculators-1
-Source file: https://github.com/hl/epona/blob/HEAD/specs/calculators.md
-Source repository: https://github.com/hl/epona
-
-Discovered and indexed by Alric.AI (https://alric.ai)

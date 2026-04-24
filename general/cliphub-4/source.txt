@@ -1,6 +1,0 @@
-Agent: CLIPHUB
-Alric.AI page: https://alric.ai/agents/cliphub-4
-Source file: https://github.com/claybowl/doer/blob/HEAD/doc/CLIPHUB.md
-Source repository: https://github.com/claybowl/doer
-
-Discovered and indexed by Alric.AI (https://alric.ai)

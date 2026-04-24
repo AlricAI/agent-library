@@ -1,0 +1,6 @@
+Agent: Unsloth Fine-Tuning Agent
+Alric.AI page: https://alric.ai/agents/unsloth-fine-tuning-agent
+Source file: https://github.com/alliedbrother/TuneLLM_Labs_Agentic/blob/HEAD/agents/finetuning/AGENTS.md
+Source repository: https://github.com/alliedbrother/TuneLLM_Labs_Agentic
+
+Discovered and indexed by Alric.AI (https://alric.ai)

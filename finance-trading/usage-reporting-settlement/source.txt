@@ -1,6 +1,0 @@
-Agent: Usage Reporting Settlement
-Alric.AI page: https://alric.ai/agents/usage-reporting-settlement
-Source file: https://github.com/virtengine/virtengine/blob/HEAD/docs/usage-reporting-settlement.md
-Source repository: https://github.com/virtengine/virtengine
-
-Discovered and indexed by Alric.AI (https://alric.ai)
