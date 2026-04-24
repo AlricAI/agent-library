@@ -1,6 +1,0 @@
-Agent: Report Distribution Agent
-Alric.AI page: https://alric.ai/agents/report-distribution-agent-1
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/report-distribution-agent/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

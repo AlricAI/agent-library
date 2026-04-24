@@ -1,6 +1,0 @@
-Agent: Sound Designer
-Alric.AI page: https://alric.ai/agents/sound-designer-1
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/donchitos-game-studio/agents/sound-designer/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

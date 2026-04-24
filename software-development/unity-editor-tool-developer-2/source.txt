@@ -1,6 +1,0 @@
-Agent: Unity Editor Tool Developer
-Alric.AI page: https://alric.ai/agents/unity-editor-tool-developer-2
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/unity-editor-tool-developer/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

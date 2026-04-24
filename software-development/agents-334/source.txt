@@ -1,6 +1,0 @@
-Agent: AGENTS
-Alric.AI page: https://alric.ai/agents/agents-334
-Source file: https://github.com/claybowl/doer/blob/HEAD/agents/imp/AGENTS.md
-Source repository: https://github.com/claybowl/doer
-
-Discovered and indexed by Alric.AI (https://alric.ai)

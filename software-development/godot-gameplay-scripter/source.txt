@@ -1,6 +1,0 @@
-Agent: Godot Gameplay Scripter
-Alric.AI page: https://alric.ai/agents/godot-gameplay-scripter
-Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/agency-agents/agents/godot-gameplay-scripter/AGENTS.md
-Source repository: https://github.com/datappt8/UOPC
-
-Discovered and indexed by Alric.AI (https://alric.ai)

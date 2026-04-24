@@ -1,6 +1,0 @@
-Agent: Documentation Architect
-Alric.AI page: https://alric.ai/agents/documentation-architect
-Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/code-documentation/agents/docs-architect.md
-Source repository: https://github.com/wshobson/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

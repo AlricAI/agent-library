@@ -1,6 +1,0 @@
-Agent: azure-kubernetes-expert
-Alric.AI page: https://alric.ai/agents/azure-kubernetes-expert-5
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/docs/claude/agents/amplihack/specialized/azure-kubernetes-expert.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Data Engineer
-Alric.AI page: https://alric.ai/agents/data-engineer-14
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/fullstack-forge/agents/data-engineer/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

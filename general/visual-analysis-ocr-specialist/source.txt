@@ -1,6 +1,0 @@
-Agent: Visual Analysis OCR Specialist
-Alric.AI page: https://alric.ai/agents/visual-analysis-ocr-specialist
-Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/visual-analysis-ocr.md
-Source repository: https://github.com/davepoon/claude-code-subagents-collection
-
-Discovered and indexed by Alric.AI (https://alric.ai)

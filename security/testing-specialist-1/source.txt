@@ -1,6 +1,0 @@
-Agent: Testing Specialist
-Alric.AI page: https://alric.ai/agents/testing-specialist-1
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/trail-of-bits-security/agents/testing-specialist/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

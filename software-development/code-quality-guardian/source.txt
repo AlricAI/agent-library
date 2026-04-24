@@ -1,6 +1,0 @@
-Agent: Code Quality Guardian
-Alric.AI page: https://alric.ai/agents/code-quality-guardian
-Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/code-documentation/agents/code-reviewer.md
-Source repository: https://github.com/wshobson/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

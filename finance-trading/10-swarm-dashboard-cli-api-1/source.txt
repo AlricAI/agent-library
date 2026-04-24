@@ -1,6 +1,0 @@
-Agent: 10 Swarm Dashboard Cli Api
-Alric.AI page: https://alric.ai/agents/10-swarm-dashboard-cli-api-1
-Source file: https://github.com/nirholas/crypto-vision/blob/HEAD/prompts/agents/10-swarm-dashboard-cli-api.md
-Source repository: https://github.com/nirholas/crypto-vision
-
-Discovered and indexed by Alric.AI (https://alric.ai)

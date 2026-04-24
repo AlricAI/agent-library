@@ -1,6 +1,0 @@
-Agent: Code Review
-Alric.AI page: https://alric.ai/agents/code-review-3
-Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/vault/agents/skills/code-review.md
-Source repository: https://github.com/golfballnut/mcmforge
-
-Discovered and indexed by Alric.AI (https://alric.ai)

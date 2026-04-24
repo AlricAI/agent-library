@@ -1,6 +1,0 @@
-Agent: worktree-manager
-Alric.AI page: https://alric.ai/agents/worktree-manager
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/.claude/agents/amplihack/specialized/worktree-manager.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Writer
-Alric.AI page: https://alric.ai/agents/writer-1
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/donchitos-game-studio/agents/writer/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

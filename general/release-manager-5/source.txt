@@ -1,6 +1,0 @@
-Agent: Release Manager
-Alric.AI page: https://alric.ai/agents/release-manager-5
-Source file: https://github.com/paperclipai/companies/blob/HEAD/product-compass-consulting/agents/release-manager/AGENTS.md
-Source repository: https://github.com/paperclipai/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Game Designer
-Alric.AI page: https://alric.ai/agents/game-designer-6
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/donchitos-game-studio/agents/game-designer/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

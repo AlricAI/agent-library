@@ -1,6 +1,0 @@
-Agent: AI Engineer
-Alric.AI page: https://alric.ai/agents/ai-engineer-16
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/engineering-ai-engineer/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

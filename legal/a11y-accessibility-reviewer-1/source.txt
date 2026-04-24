@@ -1,6 +1,0 @@
-Agent: a11y-accessibility-reviewer
-Alric.AI page: https://alric.ai/agents/a11y-accessibility-reviewer-1
-Source file: https://github.com/guillempuche/ai-standards/blob/HEAD/agents/a11y-accessibility-reviewer.md
-Source repository: https://github.com/guillempuche/ai-standards
-
-Discovered and indexed by Alric.AI (https://alric.ai)

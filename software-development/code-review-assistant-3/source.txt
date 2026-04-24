@@ -1,6 +1,0 @@
-Agent: Code Review Assistant
-Alric.AI page: https://alric.ai/agents/code-review-assistant-3
-Source file: https://github.com/fengyunzaidushi/claude-code-subagents/blob/HEAD/commands/review.md
-Source repository: https://github.com/fengyunzaidushi/claude-code-subagents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

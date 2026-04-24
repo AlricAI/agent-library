@@ -1,6 +1,0 @@
-Agent: Output Validator and Reviewer
-Alric.AI page: https://alric.ai/agents/output-validator-and-reviewer-3
-Source file: https://github.com/tribemetrics/antfarm-claude-code/blob/HEAD/agents/shared/verifier/IDENTITY.md
-Source repository: https://github.com/tribemetrics/antfarm-claude-code
-
-Discovered and indexed by Alric.AI (https://alric.ai)

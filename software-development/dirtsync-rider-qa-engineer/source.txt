@@ -1,6 +1,0 @@
-Agent: DirtSync Rider QA Engineer
-Alric.AI page: https://alric.ai/agents/dirtsync-rider-qa-engineer
-Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/dirtsync/agents/dirtsync-rider-qa-engineer/HEARTBEAT.md
-Source repository: https://github.com/golfballnut/mcmforge
-
-Discovered and indexed by Alric.AI (https://alric.ai)

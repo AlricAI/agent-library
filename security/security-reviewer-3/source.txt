@@ -1,6 +1,0 @@
-Agent: Security Reviewer
-Alric.AI page: https://alric.ai/agents/security-reviewer-3
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/redoak-review/agents/security-reviewer/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

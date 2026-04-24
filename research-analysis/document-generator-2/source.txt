@@ -1,6 +1,0 @@
-Agent: Document Generator
-Alric.AI page: https://alric.ai/agents/document-generator-2
-Source file: https://github.com/paperclipai/companies/blob/HEAD/agency-agents/agents/specialized-document-generator/AGENTS.md
-Source repository: https://github.com/paperclipai/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

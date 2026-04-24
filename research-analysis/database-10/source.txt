@@ -1,6 +1,0 @@
-Agent: database
-Alric.AI page: https://alric.ai/agents/database-10
-Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/.claude/agents/amplihack/specialized/database.md
-Source repository: https://github.com/rysweet/AzureHayMaker
-
-Discovered and indexed by Alric.AI (https://alric.ai)

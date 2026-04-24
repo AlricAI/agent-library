@@ -1,6 +1,0 @@
-Agent: Remarq Chief Executive Officer
-Alric.AI page: https://alric.ai/agents/remarq-chief-executive-officer-2
-Source file: https://github.com/cass-clearly/remarq/blob/HEAD/agents/ceo/SOUL.md
-Source repository: https://github.com/cass-clearly/remarq
-
-Discovered and indexed by Alric.AI (https://alric.ai)

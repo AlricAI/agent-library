@@ -1,6 +1,0 @@
-Agent: Recruitment Specialist
-Alric.AI page: https://alric.ai/agents/recruitment-specialist-1
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/recruitment-specialist/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

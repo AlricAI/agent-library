@@ -1,6 +1,0 @@
-Agent: Dr. Julian Archer
-Alric.AI page: https://alric.ai/agents/dr-julian-archer-2
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/manuscript-writer/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

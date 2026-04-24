@@ -1,6 +1,0 @@
-Agent: Agency Agents
-Alric.AI page: https://alric.ai/agents/agency-agents-1
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/COMPANY.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

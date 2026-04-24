@@ -1,6 +1,0 @@
-Agent: Creative Director
-Alric.AI page: https://alric.ai/agents/creative-director-3
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/donchitos-game-studio/agents/creative-director/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

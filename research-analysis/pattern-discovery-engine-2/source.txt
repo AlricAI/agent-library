@@ -1,6 +1,0 @@
-Agent: Pattern Discovery Engine
-Alric.AI page: https://alric.ai/agents/pattern-discovery-engine-2
-Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/.claude/agents/amplihack/specialized/patterns.md
-Source repository: https://github.com/rysweet/AzureHayMaker
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Cloud Network Architect
-Alric.AI page: https://alric.ai/agents/cloud-network-architect
-Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/observability-monitoring/agents/network-engineer.md
-Source repository: https://github.com/wshobson/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

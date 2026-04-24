@@ -1,6 +1,0 @@
-Agent: Senior Engineer Olivia
-Alric.AI page: https://alric.ai/agents/senior-engineer-olivia-2
-Source file: https://github.com/LoveAndCoding/olivia/blob/HEAD/agents/senior-engineer/AGENTS.md
-Source repository: https://github.com/LoveAndCoding/olivia
-
-Discovered and indexed by Alric.AI (https://alric.ai)

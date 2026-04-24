@@ -1,6 +1,0 @@
-Agent: AGENTS
-Alric.AI page: https://alric.ai/agents/agents-236
-Source file: https://github.com/kentonium3/kg-automation/blob/HEAD/scripts/openclaw/agents/felix-admin-escalation/AGENTS.md
-Source repository: https://github.com/kentonium3/kg-automation
-
-Discovered and indexed by Alric.AI (https://alric.ai)

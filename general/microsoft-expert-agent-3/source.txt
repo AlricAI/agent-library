@@ -1,6 +1,0 @@
-Agent: Microsoft Expert Agent
-Alric.AI page: https://alric.ai/agents/microsoft-expert-agent-3
-Source file: https://github.com/vrdmr/copilot-custom-agents-on-azure-functions/blob/HEAD/src/AGENTS.md
-Source repository: https://github.com/vrdmr/copilot-custom-agents-on-azure-functions
-
-Discovered and indexed by Alric.AI (https://alric.ai)

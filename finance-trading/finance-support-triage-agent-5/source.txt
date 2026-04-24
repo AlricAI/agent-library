@@ -1,6 +1,0 @@
-Agent: Finance Support Triage Agent
-Alric.AI page: https://alric.ai/agents/finance-support-triage-agent-5
-Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/finance-support-agent/Soul.md
-Source repository: https://github.com/ognjhunt/Blueprint-WebApp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

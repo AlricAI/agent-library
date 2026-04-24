@@ -1,7 +1,0 @@
-Agent: Chief Creative Director
-
-Alric.AI page: https://alric.ai/agents/chief-creative-director-3
-Source file: https://github.com/dotojr123/crewai-production-ready/blob/HEAD/crewAI-examples/crews/marketing_strategy/src/marketing_posts/config/agents.yaml
-Source repository: https://github.com/dotojr123/crewai-production-ready
-
-Discovered and indexed by Alric.AI (https://alric.ai)

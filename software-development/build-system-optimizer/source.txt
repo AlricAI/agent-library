@@ -1,6 +1,0 @@
-Agent: Build System Optimizer
-Alric.AI page: https://alric.ai/agents/build-system-optimizer
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/development/release/build-engineer.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

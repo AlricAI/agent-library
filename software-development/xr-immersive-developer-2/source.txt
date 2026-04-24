@@ -1,6 +1,0 @@
-Agent: XR Immersive Developer
-Alric.AI page: https://alric.ai/agents/xr-immersive-developer-2
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/xr-immersive-developer/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

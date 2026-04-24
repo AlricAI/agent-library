@@ -1,6 +1,0 @@
-Agent: devops-troubleshooter
-Alric.AI page: https://alric.ai/agents/devops-troubleshooter-8
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/plugins/incident-response/agents/devops-troubleshooter.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

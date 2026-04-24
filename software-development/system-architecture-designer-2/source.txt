@@ -1,6 +1,0 @@
-Agent: System Architecture Designer
-Alric.AI page: https://alric.ai/agents/system-architecture-designer-2
-Source file: https://github.com/claybowl/doer/blob/HEAD/agents/blueprint/AGENTS.md
-Source repository: https://github.com/claybowl/doer
-
-Discovered and indexed by Alric.AI (https://alric.ai)

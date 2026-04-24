@@ -1,6 +1,0 @@
-Agent: Frontend Security Coder
-Alric.AI page: https://alric.ai/agents/frontend-security-coder-2
-Source file: https://github.com/julianromli/opencode-template/blob/HEAD/agent/frontend-security-coder.md
-Source repository: https://github.com/julianromli/opencode-template
-
-Discovered and indexed by Alric.AI (https://alric.ai)

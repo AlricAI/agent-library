@@ -1,6 +1,0 @@
-Agent: Gameplay Programmer
-Alric.AI page: https://alric.ai/agents/gameplay-programmer-4
-Source file: https://github.com/paperclipai/companies/blob/HEAD/donchitos-game-studio/agents/gameplay-programmer/AGENTS.md
-Source repository: https://github.com/paperclipai/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

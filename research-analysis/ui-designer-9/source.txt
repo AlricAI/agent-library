@@ -1,6 +1,0 @@
-Agent: UI Designer
-Alric.AI page: https://alric.ai/agents/ui-designer-9
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/design-ui-designer/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

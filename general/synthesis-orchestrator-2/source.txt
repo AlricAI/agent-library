@@ -1,6 +1,0 @@
-Agent: synthesis-orchestrator
-Alric.AI page: https://alric.ai/agents/synthesis-orchestrator-2
-Source file: https://github.com/chuanseng-ng/digital-chip-design-agents/blob/HEAD/plugins/synthesis/agents/synthesis-orchestrator.md
-Source repository: https://github.com/chuanseng-ng/digital-chip-design-agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

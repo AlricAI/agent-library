@@ -1,6 +1,0 @@
-Agent: Developer Advocate
-Alric.AI page: https://alric.ai/agents/developer-advocate-1
-Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/agency-agents/agents/specialized-developer-advocate/AGENTS.md
-Source repository: https://github.com/datappt8/UOPC
-
-Discovered and indexed by Alric.AI (https://alric.ai)

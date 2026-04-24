@@ -1,6 +1,0 @@
-Agent: research-reba
-Alric.AI page: https://alric.ai/agents/research-reba-1
-Source file: https://github.com/HakAl/team_skills/blob/HEAD/.claude/agents/research-reba.md
-Source repository: https://github.com/HakAl/team_skills
-
-Discovered and indexed by Alric.AI (https://alric.ai)

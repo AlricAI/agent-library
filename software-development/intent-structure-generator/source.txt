@@ -1,6 +1,0 @@
-Agent: Intent Structure Generator
-Alric.AI page: https://alric.ai/agents/intent-structure-generator
-Source file: https://github.com/FGD-ATR-EP/AGS/blob/HEAD/docs/SYSTEM_INTENT.md
-Source repository: https://github.com/FGD-ATR-EP/AGS
-
-Discovered and indexed by Alric.AI (https://alric.ai)

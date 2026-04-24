@@ -1,6 +1,0 @@
-Agent: Game Developer
-Alric.AI page: https://alric.ai/agents/game-developer-16
-Source file: https://github.com/paperclipai/companies/blob/HEAD/fullstack-forge/agents/game-developer/AGENTS.md
-Source repository: https://github.com/paperclipai/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

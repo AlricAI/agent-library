@@ -1,6 +1,0 @@
-Agent: Regional Operations Manager
-Alric.AI page: https://alric.ai/agents/regional-operations-manager
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/hume/SOUL.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

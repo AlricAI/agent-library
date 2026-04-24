@@ -1,6 +1,0 @@
-Agent: Architecture Lead
-Alric.AI page: https://alric.ai/agents/architecture-lead-7
-Source file: https://github.com/paperclipai/companies/blob/HEAD/fullstack-forge/agents/architecture-lead/AGENTS.md
-Source repository: https://github.com/paperclipai/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

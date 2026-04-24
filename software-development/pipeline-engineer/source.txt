@@ -1,6 +1,0 @@
-Agent: Pipeline Engineer
-Alric.AI page: https://alric.ai/agents/pipeline-engineer
-Source file: https://github.com/Juwebien/videogen/blob/HEAD/agents/pie/SOUL.md
-Source repository: https://github.com/Juwebien/videogen
-
-Discovered and indexed by Alric.AI (https://alric.ai)

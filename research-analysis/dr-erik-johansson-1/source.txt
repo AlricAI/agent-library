@@ -1,6 +1,0 @@
-Agent: Dr. Erik Johansson
-Alric.AI page: https://alric.ai/agents/dr-erik-johansson-1
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/cheminformatics-scientist/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

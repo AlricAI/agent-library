@@ -1,6 +1,0 @@
-Agent: Deep Research Agent
-Alric.AI page: https://alric.ai/agents/deep-research-agent
-Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/agno/cookbook/01_demo/agents/seek/agent.py
-Source repository: https://github.com/ngTwg/Branding-Focused-Skills
-
-Discovered and indexed by Alric.AI (https://alric.ai)

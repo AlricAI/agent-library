@@ -1,6 +1,0 @@
-Agent: Execution Grader
-Alric.AI page: https://alric.ai/agents/execution-grader-2
-Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/anthropic-skills/skills/skill-creator/agents/grader.md
-Source repository: https://github.com/ngTwg/Branding-Focused-Skills
-
-Discovered and indexed by Alric.AI (https://alric.ai)

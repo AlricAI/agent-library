@@ -1,6 +1,0 @@
-Agent: Director of Marketing
-Alric.AI page: https://alric.ai/agents/director-of-marketing-2
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/product-compass-consulting/agents/director-marketing/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

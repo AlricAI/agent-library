@@ -1,6 +1,0 @@
-Agent: Industrial Production Manager AI
-Alric.AI page: https://alric.ai/agents/industrial-production-manager-ai-2
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/dark_factory/forge/IDENTITY.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

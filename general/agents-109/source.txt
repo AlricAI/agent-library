@@ -1,6 +1,0 @@
-Agent: AGENTS
-Alric.AI page: https://alric.ai/agents/agents-109
-Source file: https://github.com/miku8miku/OpenClaw-Memory-Architecture/blob/HEAD/templates/AGENTS.md
-Source repository: https://github.com/miku8miku/OpenClaw-Memory-Architecture
-
-Discovered and indexed by Alric.AI (https://alric.ai)

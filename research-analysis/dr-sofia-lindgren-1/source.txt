@@ -1,6 +1,0 @@
-Agent: Dr. Sofia Lindgren
-Alric.AI page: https://alric.ai/agents/dr-sofia-lindgren-1
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/single-cell-specialist/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

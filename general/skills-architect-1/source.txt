@@ -1,6 +1,0 @@
-Agent: Skills Architect
-Alric.AI page: https://alric.ai/agents/skills-architect-1
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/taches-creative/agents/skills-architect/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Elite Customer Support Specialist
-Alric.AI page: https://alric.ai/agents/elite-customer-support-specialist
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/agents/customer-support.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

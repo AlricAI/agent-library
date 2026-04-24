@@ -1,6 +1,0 @@
-Agent: Pr Merge Readiness Verifier
-Alric.AI page: https://alric.ai/agents/pr-merge-readiness-verifier-1
-Source file: https://github.com/dxos/dxos/blob/HEAD/.claude/agents/pr-merge-readiness-verifier.md
-Source repository: https://github.com/dxos/dxos
-
-Discovered and indexed by Alric.AI (https://alric.ai)

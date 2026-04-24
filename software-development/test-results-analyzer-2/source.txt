@@ -1,6 +1,0 @@
-Agent: Test Results Analyzer
-Alric.AI page: https://alric.ai/agents/test-results-analyzer-2
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/testing-test-results-analyzer/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

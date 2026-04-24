@@ -1,6 +1,0 @@
-Agent: DirtSync Offline Routing Engineer
-Alric.AI page: https://alric.ai/agents/dirtsync-offline-routing-engineer-2
-Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/dirtsync/agents/dirtsync-offline-routing-engineer/HEARTBEAT.md
-Source repository: https://github.com/golfballnut/mcmforge
-
-Discovered and indexed by Alric.AI (https://alric.ai)

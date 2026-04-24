@@ -1,6 +1,0 @@
-Agent: UX Research Strategist
-Alric.AI page: https://alric.ai/agents/ux-research-strategist
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/product/research/ux-researcher.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

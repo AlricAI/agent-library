@@ -1,6 +1,0 @@
-Agent: ambiguity
-Alric.AI page: https://alric.ai/agents/ambiguity-4
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/docs/claude/agents/amplihack/specialized/ambiguity.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

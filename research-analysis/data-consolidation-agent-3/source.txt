@@ -1,6 +1,0 @@
-Agent: Data Consolidation Agent
-Alric.AI page: https://alric.ai/agents/data-consolidation-agent-3
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/data-consolidation-agent/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

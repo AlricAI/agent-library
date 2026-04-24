@@ -1,6 +1,0 @@
-Agent: Frontend Developer Pro
-Alric.AI page: https://alric.ai/agents/frontend-developer-pro-3
-Source file: https://github.com/webdevtodayjason/sub-agents/blob/HEAD/agents/frontend-developer/agent.md
-Source repository: https://github.com/webdevtodayjason/sub-agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

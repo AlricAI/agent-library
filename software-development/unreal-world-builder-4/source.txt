@@ -1,6 +1,0 @@
-Agent: Unreal World Builder
-Alric.AI page: https://alric.ai/agents/unreal-world-builder-4
-Source file: https://github.com/paperclipai/companies/blob/HEAD/agency-agents/agents/unreal-world-builder/AGENTS.md
-Source repository: https://github.com/paperclipai/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

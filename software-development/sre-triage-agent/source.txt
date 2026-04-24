@@ -1,6 +1,0 @@
-Agent: Sre Triage Agent
-Alric.AI page: https://alric.ai/agents/sre-triage-agent
-Source file: https://github.com/LoveAndCoding/olivia/blob/HEAD/agents/sre/AGENTS.md
-Source repository: https://github.com/LoveAndCoding/olivia
-
-Discovered and indexed by Alric.AI (https://alric.ai)

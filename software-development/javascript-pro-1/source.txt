@@ -1,6 +1,0 @@
-Agent: JavaScript Pro
-Alric.AI page: https://alric.ai/agents/javascript-pro-1
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/plugins/javascript-typescript/agents/javascript-pro.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

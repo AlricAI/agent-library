@@ -1,6 +1,0 @@
-Agent: CTO
-Alric.AI page: https://alric.ai/agents/cto-6
-Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/fullstack-forge/agents/cto/AGENTS.md
-Source repository: https://github.com/datappt8/UOPC
-
-Discovered and indexed by Alric.AI (https://alric.ai)

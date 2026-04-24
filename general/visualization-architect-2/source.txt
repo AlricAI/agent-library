@@ -1,6 +1,0 @@
-Agent: visualization-architect
-Alric.AI page: https://alric.ai/agents/visualization-architect-2
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/src/amplihack/agents/amplihack/specialized/visualization-architect.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

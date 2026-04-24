@@ -1,6 +1,0 @@
-Agent: Salesforce Developer
-Alric.AI page: https://alric.ai/agents/salesforce-developer-1
-Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/fullstack-forge/agents/salesforce-developer/AGENTS.md
-Source repository: https://github.com/datappt8/UOPC
-
-Discovered and indexed by Alric.AI (https://alric.ai)

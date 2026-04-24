@@ -1,6 +1,0 @@
-Agent: Rust Engineer
-Alric.AI page: https://alric.ai/agents/rust-engineer-1
-Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/companies/fullstack-forge/agents/rust-engineer/AGENTS.md
-Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

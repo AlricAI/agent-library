@@ -1,6 +1,0 @@
-Agent: Startup Founder AI Lead
-Alric.AI page: https://alric.ai/agents/startup-founder-ai-lead
-Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/mcm-forge/agents/ceo/SOUL.md
-Source repository: https://github.com/golfballnut/mcmforge
-
-Discovered and indexed by Alric.AI (https://alric.ai)

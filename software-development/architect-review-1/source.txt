@@ -1,6 +1,0 @@
-Agent: Architect Review
-Alric.AI page: https://alric.ai/agents/architect-review-1
-Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/framework-migration/agents/architect-review.md
-Source repository: https://github.com/wshobson/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

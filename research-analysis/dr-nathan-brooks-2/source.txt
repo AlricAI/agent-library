@@ -1,6 +1,0 @@
-Agent: Dr. Nathan Brooks
-Alric.AI page: https://alric.ai/agents/dr-nathan-brooks-2
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/statistical-modeler/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

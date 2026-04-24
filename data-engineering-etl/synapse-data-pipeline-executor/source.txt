@@ -1,6 +1,0 @@
-Agent: Synapse Data Pipeline Executor
-Alric.AI page: https://alric.ai/agents/synapse-data-pipeline-executor
-Source file: https://github.com/rysweet/AzureHayMaker/blob/HEAD/src/agents/analytics-03-synapse-analytics-agent/data-scenario:-azure-synapse-agent/README.md
-Source repository: https://github.com/rysweet/AzureHayMaker
-
-Discovered and indexed by Alric.AI (https://alric.ai)

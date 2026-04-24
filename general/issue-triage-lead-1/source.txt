@@ -1,6 +1,0 @@
-Agent: Issue Triage Lead
-Alric.AI page: https://alric.ai/agents/issue-triage-lead-1
-Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/companies/open-source-maintainer/agents/issue-triage-lead/AGENTS.md
-Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Clawarm Robotic Assistant
-Alric.AI page: https://alric.ai/agents/clawarm-robotic-assistant-3
-Source file: https://github.com/Clawland-AI/Clawarm/blob/HEAD/workspace/SOUL.md
-Source repository: https://github.com/Clawland-AI/Clawarm
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Opencouncil Assistant
-Alric.AI page: https://alric.ai/agents/opencouncil-assistant-3
-Source file: https://github.com/schemalabz/nix-openclaw/blob/HEAD/workspace/IDENTITY.md
-Source repository: https://github.com/schemalabz/nix-openclaw
-
-Discovered and indexed by Alric.AI (https://alric.ai)

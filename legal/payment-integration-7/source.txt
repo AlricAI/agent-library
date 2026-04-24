@@ -1,6 +1,0 @@
-Agent: payment-integration
-Alric.AI page: https://alric.ai/agents/payment-integration-7
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/agents/finance/payment-integration.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

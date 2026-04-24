@@ -1,6 +1,0 @@
-Agent: Web Reconnaissance Agent
-Alric.AI page: https://alric.ai/agents/web-reconnaissance-agent
-Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/antigravity-ide-main/.agent/agents/browser-subagent.md
-Source repository: https://github.com/ngTwg/Branding-Focused-Skills
-
-Discovered and indexed by Alric.AI (https://alric.ai)

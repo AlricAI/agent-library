@@ -1,6 +1,0 @@
-Agent: Buyer Journey Owner Agent
-Alric.AI page: https://alric.ai/agents/buyer-journey-owner-agent
-Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/buyer-solutions-agent/AGENTS.md
-Source repository: https://github.com/ognjhunt/Blueprint-WebApp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

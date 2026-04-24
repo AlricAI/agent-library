@@ -1,6 +1,0 @@
-Agent: Plan Modifyer.Agent
-Alric.AI page: https://alric.ai/agents/plan-modifyeragent-2
-Source file: https://github.com/bluekid2457/MarketingDashboard2/blob/HEAD/.github/agents/plan_modifyer.agent.md
-Source repository: https://github.com/bluekid2457/MarketingDashboard2
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Cron Prompt
-Alric.AI page: https://alric.ai/agents/cron-prompt-2
-Source file: https://github.com/miku8miku/OpenClaw-Memory-Architecture/blob/HEAD/templates/cron-prompt.md
-Source repository: https://github.com/miku8miku/OpenClaw-Memory-Architecture
-
-Discovered and indexed by Alric.AI (https://alric.ai)

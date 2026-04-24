@@ -1,6 +1,0 @@
-Agent: Cloud Architect Pro
-Alric.AI page: https://alric.ai/agents/cloud-architect-pro-3
-Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/cloud-architect.md
-Source repository: https://github.com/davepoon/claude-code-subagents-collection
-
-Discovered and indexed by Alric.AI (https://alric.ai)

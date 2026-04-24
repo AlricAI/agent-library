@@ -1,6 +1,0 @@
-Agent: Level Designer
-Alric.AI page: https://alric.ai/agents/level-designer-4
-Source file: https://github.com/paperclipai/companies/blob/HEAD/donchitos-game-studio/agents/level-designer/AGENTS.md
-Source repository: https://github.com/paperclipai/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

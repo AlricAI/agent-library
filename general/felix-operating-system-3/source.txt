@@ -1,6 +1,0 @@
-Agent: Felix Operating System
-Alric.AI page: https://alric.ai/agents/felix-operating-system-3
-Source file: https://github.com/kentonium3/kg-automation/blob/HEAD/scripts/openclaw/agents/main/SOUL.md
-Source repository: https://github.com/kentonium3/kg-automation
-
-Discovered and indexed by Alric.AI (https://alric.ai)

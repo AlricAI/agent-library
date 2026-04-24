@@ -1,6 +1,0 @@
-Agent: Quality Auditor
-Alric.AI page: https://alric.ai/agents/quality-auditor-3
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/taches-creative/agents/quality-auditor/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

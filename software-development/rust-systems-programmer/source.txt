@@ -1,6 +1,0 @@
-Agent: Rust Systems Programmer
-Alric.AI page: https://alric.ai/agents/rust-systems-programmer
-Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/rust-expert.md
-Source repository: https://github.com/davepoon/claude-code-subagents-collection
-
-Discovered and indexed by Alric.AI (https://alric.ai)

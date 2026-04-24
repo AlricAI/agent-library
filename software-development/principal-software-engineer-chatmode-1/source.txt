@@ -1,6 +1,0 @@
-Agent: Principal Software Engineer
-Alric.AI page: https://alric.ai/agents/principal-software-engineer-chatmode-1
-Source file: https://github.com/tfha/agent-instructions/blob/HEAD/chatmodes/principal-software-engineer.chatmode.md
-Source repository: https://github.com/tfha/agent-instructions
-
-Discovered and indexed by Alric.AI (https://alric.ai)

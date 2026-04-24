@@ -1,6 +1,0 @@
-Agent: Observability Engineer
-Alric.AI page: https://alric.ai/agents/observability-engineer-1
-Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/observability-monitoring/agents/observability-engineer.md
-Source repository: https://github.com/wshobson/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

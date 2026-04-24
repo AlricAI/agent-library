@@ -1,6 +1,0 @@
-Agent: QA Engineer
-Alric.AI page: https://alric.ai/agents/qa-engineer-3
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/clawteam-engineering/agents/qa-engineer/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

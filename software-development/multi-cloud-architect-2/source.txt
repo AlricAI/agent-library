@@ -1,6 +1,0 @@
-Agent: Multi-Cloud Architect
-Alric.AI page: https://alric.ai/agents/multi-cloud-architect-2
-Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/deployment-validation/agents/cloud-architect.md
-Source repository: https://github.com/wshobson/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

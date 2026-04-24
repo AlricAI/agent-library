@@ -1,6 +1,0 @@
-Agent: Mobile Developer
-Alric.AI page: https://alric.ai/agents/mobile-developer-2
-Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/frontend-mobile-development/agents/mobile-developer.md
-Source repository: https://github.com/wshobson/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

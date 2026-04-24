@@ -1,6 +1,0 @@
-Agent: System Security Monitor
-Alric.AI page: https://alric.ai/agents/system-security-monitor-2
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/tier3/mylfours/IDENTITY.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

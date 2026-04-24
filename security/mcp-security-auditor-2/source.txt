@@ -1,6 +1,0 @@
-Agent: MCP Security Auditor
-Alric.AI page: https://alric.ai/agents/mcp-security-auditor-2
-Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/mcp-security-auditor.md
-Source repository: https://github.com/davepoon/claude-code-subagents-collection
-
-Discovered and indexed by Alric.AI (https://alric.ai)

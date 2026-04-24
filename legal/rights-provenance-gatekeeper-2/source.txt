@@ -1,6 +1,0 @@
-Agent: Rights Provenance Gatekeeper
-Alric.AI page: https://alric.ai/agents/rights-provenance-gatekeeper-2
-Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/rights-provenance-agent/Soul.md
-Source repository: https://github.com/ognjhunt/Blueprint-WebApp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Backend Architect
-Alric.AI page: https://alric.ai/agents/backend-architect-2
-Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/api-scaffolding/agents/backend-architect.md
-Source repository: https://github.com/wshobson/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

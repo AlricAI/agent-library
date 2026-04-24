@@ -1,6 +1,0 @@
-Agent: Web Link Extractor
-Alric.AI page: https://alric.ai/agents/web-link-extractor
-Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/url-link-extractor.md
-Source repository: https://github.com/davepoon/claude-code-subagents-collection
-
-Discovered and indexed by Alric.AI (https://alric.ai)

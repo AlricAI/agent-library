@@ -1,6 +1,0 @@
-Agent: City Market Readiness Analyst
-Alric.AI page: https://alric.ai/agents/city-market-readiness-analyst
-Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/city-demand-agent/Soul.md
-Source repository: https://github.com/ognjhunt/Blueprint-WebApp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Atlassian Engineer
-Alric.AI page: https://alric.ai/agents/atlassian-engineer-3
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/fullstack-forge/agents/atlassian-engineer/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

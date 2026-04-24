@@ -1,6 +1,0 @@
-Agent: Code Review Expert
-Alric.AI page: https://alric.ai/agents/code-review-expert-4
-Source file: https://github.com/wshobson/agents/blob/HEAD/plugins/codebase-cleanup/agents/code-reviewer.md
-Source repository: https://github.com/wshobson/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

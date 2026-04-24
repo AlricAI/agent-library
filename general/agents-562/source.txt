@@ -1,6 +1,0 @@
-Agent: AGENTS
-Alric.AI page: https://alric.ai/agents/agents-562
-Source file: https://github.com/bagrounds/obsidian-github-publisher-sync/blob/HEAD/the-noise/AGENTS.md
-Source repository: https://github.com/bagrounds/obsidian-github-publisher-sync
-
-Discovered and indexed by Alric.AI (https://alric.ai)

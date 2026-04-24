@@ -1,6 +1,0 @@
-Agent: Workspace Administration Specialist
-Alric.AI page: https://alric.ai/agents/workspace-administration-specialist
-Source file: https://github.com/ngTwg/Branding-Focused-Skills/blob/HEAD/antigravity/external/community-repos/claude-skills/agents/engineering-team/cs-workspace-admin.md
-Source repository: https://github.com/ngTwg/Branding-Focused-Skills
-
-Discovered and indexed by Alric.AI (https://alric.ai)

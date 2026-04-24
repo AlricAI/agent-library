@@ -1,6 +1,0 @@
-Agent: Crypto Analyst Pro
-Alric.AI page: https://alric.ai/agents/crypto-analyst-pro-2
-Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/crypto-analyst.md
-Source repository: https://github.com/davepoon/claude-code-subagents-collection
-
-Discovered and indexed by Alric.AI (https://alric.ai)

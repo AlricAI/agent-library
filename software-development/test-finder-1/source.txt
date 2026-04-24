@@ -1,6 +1,0 @@
-Agent: test-finder
-Alric.AI page: https://alric.ai/agents/test-finder-1
-Source file: https://github.com/chmouel/lazyworktree/blob/HEAD/.claude/agents/test-finder.md
-Source repository: https://github.com/chmouel/lazyworktree
-
-Discovered and indexed by Alric.AI (https://alric.ai)

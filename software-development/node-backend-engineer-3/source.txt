@@ -1,6 +1,0 @@
-Agent: Node Backend Engineer
-Alric.AI page: https://alric.ai/agents/node-backend-engineer-3
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/fullstack-forge/agents/node-backend-engineer/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

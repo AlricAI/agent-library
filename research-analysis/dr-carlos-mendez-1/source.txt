@@ -1,6 +1,0 @@
-Agent: Dr. Carlos Mendez
-Alric.AI page: https://alric.ai/agents/dr-carlos-mendez-1
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/drug-screening-analyst/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

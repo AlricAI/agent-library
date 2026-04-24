@@ -1,6 +1,0 @@
-Agent: Data Analyst Pro
-Alric.AI page: https://alric.ai/agents/data-analyst-pro
-Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/data-analyst.md
-Source repository: https://github.com/davepoon/claude-code-subagents-collection
-
-Discovered and indexed by Alric.AI (https://alric.ai)

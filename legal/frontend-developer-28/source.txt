@@ -1,6 +1,0 @@
-Agent: Frontend Developer
-Alric.AI page: https://alric.ai/agents/frontend-developer-28
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/clawteam-engineering/agents/frontend-developer/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

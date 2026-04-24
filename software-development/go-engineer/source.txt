@@ -1,6 +1,0 @@
-Agent: Go Engineer
-Alric.AI page: https://alric.ai/agents/go-engineer
-Source file: https://github.com/LucasSantana-Dev/ai-dev-toolkit/blob/HEAD/companies/fullstack-forge/agents/go-engineer/AGENTS.md
-Source repository: https://github.com/LucasSantana-Dev/ai-dev-toolkit
-
-Discovered and indexed by Alric.AI (https://alric.ai)

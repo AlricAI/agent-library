@@ -1,6 +1,0 @@
-Agent: Tandem Codebase Orchestrator
-Alric.AI page: https://alric.ai/agents/tandem-codebase-orchestrator-2
-Source file: https://github.com/frumu-ai/tandem/blob/HEAD/docs/RALPH_MODE.md
-Source repository: https://github.com/frumu-ai/tandem
-
-Discovered and indexed by Alric.AI (https://alric.ai)

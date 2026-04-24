@@ -1,6 +1,0 @@
-Agent: Api Contract Validator
-Alric.AI page: https://alric.ai/agents/api-contract-validator
-Source file: https://github.com/Goblin1024/oh-my-kimi/blob/HEAD/prompts/api-reviewer.md
-Source repository: https://github.com/Goblin1024/oh-my-kimi
-
-Discovered and indexed by Alric.AI (https://alric.ai)

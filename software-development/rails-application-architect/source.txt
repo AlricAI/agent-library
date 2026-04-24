@@ -1,6 +1,0 @@
-Agent: Rails Application Architect
-Alric.AI page: https://alric.ai/agents/rails-application-architect
-Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/all-agents/agents/rails-expert.md
-Source repository: https://github.com/davepoon/claude-code-subagents-collection
-
-Discovered and indexed by Alric.AI (https://alric.ai)

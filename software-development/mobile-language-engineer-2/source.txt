@@ -1,6 +1,0 @@
-Agent: Mobile Language Engineer
-Alric.AI page: https://alric.ai/agents/mobile-language-engineer-2
-Source file: https://github.com/datappt8/UOPC/blob/HEAD/companies/fullstack-forge/agents/mobile-language-engineer/AGENTS.md
-Source repository: https://github.com/datappt8/UOPC
-
-Discovered and indexed by Alric.AI (https://alric.ai)

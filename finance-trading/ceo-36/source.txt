@@ -1,6 +1,0 @@
-Agent: CEO
-Alric.AI page: https://alric.ai/agents/ceo-36
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/clawteam-capital/agents/ceo/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

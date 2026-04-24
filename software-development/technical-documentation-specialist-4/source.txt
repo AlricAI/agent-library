@@ -1,6 +1,0 @@
-Agent: Technical Documentation Specialist
-Alric.AI page: https://alric.ai/agents/technical-documentation-specialist-4
-Source file: https://github.com/claybowl/doer/blob/HEAD/agents/scribe/AGENTS.md
-Source repository: https://github.com/claybowl/doer
-
-Discovered and indexed by Alric.AI (https://alric.ai)

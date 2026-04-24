@@ -1,6 +1,0 @@
-Agent: xpia-defense
-Alric.AI page: https://alric.ai/agents/xpia-defense
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/.claude/agents/amplihack/specialized/xpia-defense.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

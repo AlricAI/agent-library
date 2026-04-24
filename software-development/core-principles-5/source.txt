@@ -1,6 +1,0 @@
-Agent: Core Principles
-Alric.AI page: https://alric.ai/agents/core-principles-5
-Source file: https://github.com/felipebarcelospro/igniter-js/blob/HEAD/apps/sample-realtime-chat/.cursor/rules/core-principles.mdc
-Source repository: https://github.com/felipebarcelospro/igniter-js
-
-Discovered and indexed by Alric.AI (https://alric.ai)

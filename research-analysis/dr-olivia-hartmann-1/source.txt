@@ -1,6 +1,0 @@
-Agent: Dr. Olivia Hartmann
-Alric.AI page: https://alric.ai/agents/dr-olivia-hartmann-1
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/kdense-science-lab/agents/computational-physicist/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

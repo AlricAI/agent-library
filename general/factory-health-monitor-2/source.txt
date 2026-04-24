@@ -1,6 +1,0 @@
-Agent: Factory Health Monitor
-Alric.AI page: https://alric.ai/agents/factory-health-monitor-2
-Source file: https://github.com/golfballnut/mcmforge/blob/HEAD/companies/mcm-forge/agents/factory-analyst/HEARTBEAT.md
-Source repository: https://github.com/golfballnut/mcmforge
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: prompt-writer
-Alric.AI page: https://alric.ai/agents/prompt-writer-1
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/amplifier-bundle/agents/specialized/prompt-writer.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

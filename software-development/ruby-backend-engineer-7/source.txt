@@ -1,6 +1,0 @@
-Agent: Ruby Backend Engineer
-Alric.AI page: https://alric.ai/agents/ruby-backend-engineer-7
-Source file: https://github.com/paperclipai/companies/blob/HEAD/fullstack-forge/agents/ruby-backend-engineer/AGENTS.md
-Source repository: https://github.com/paperclipai/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

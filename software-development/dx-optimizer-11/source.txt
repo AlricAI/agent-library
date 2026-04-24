@@ -1,6 +1,0 @@
-Agent: dx-optimizer
-Alric.AI page: https://alric.ai/agents/dx-optimizer-11
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/plugins/team-collaboration/agents/dx-optimizer.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)

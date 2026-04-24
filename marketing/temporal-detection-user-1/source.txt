@@ -1,6 +1,0 @@
-Agent: Temporal Detection User
-Alric.AI page: https://alric.ai/agents/temporal-detection-user-1
-Source file: https://github.com/rysweet/amplihack/blob/HEAD/src/amplihack/agents/goal_seeking/prompts/temporal_detection_user.md
-Source repository: https://github.com/rysweet/amplihack
-
-Discovered and indexed by Alric.AI (https://alric.ai)

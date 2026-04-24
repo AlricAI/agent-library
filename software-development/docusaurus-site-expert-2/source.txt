@@ -1,6 +1,0 @@
-Agent: Docusaurus Site Expert
-Alric.AI page: https://alric.ai/agents/docusaurus-site-expert-2
-Source file: https://github.com/davepoon/claude-code-subagents-collection/blob/HEAD/plugins/agents-specialized-domains/agents/docusaurus-expert.md
-Source repository: https://github.com/davepoon/claude-code-subagents-collection
-
-Discovered and indexed by Alric.AI (https://alric.ai)

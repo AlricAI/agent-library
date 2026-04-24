@@ -1,6 +1,0 @@
-Agent: Code Review Validator
-Alric.AI page: https://alric.ai/agents/code-review-validator
-Source file: https://github.com/strelov1/diffray/blob/HEAD/src/defaults/agents/validation.md
-Source repository: https://github.com/strelov1/diffray
-
-Discovered and indexed by Alric.AI (https://alric.ai)

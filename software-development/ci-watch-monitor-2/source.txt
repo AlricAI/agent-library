@@ -1,6 +1,0 @@
-Agent: CI Watch Monitor
-Alric.AI page: https://alric.ai/agents/ci-watch-monitor-2
-Source file: https://github.com/ognjhunt/Blueprint-WebApp/blob/HEAD/ops/paperclip/blueprint-company/agents/webapp-ci-watch/Tools.md
-Source repository: https://github.com/ognjhunt/Blueprint-WebApp
-
-Discovered and indexed by Alric.AI (https://alric.ai)

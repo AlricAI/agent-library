@@ -1,6 +1,0 @@
-Agent: Concierge Receptionist AI
-Alric.AI page: https://alric.ai/agents/concierge-receptionist-ai
-Source file: https://github.com/hcindus/AOS-Brain/blob/HEAD/AGI_COMPANY/agents/secretarial/greet/SOUL.md
-Source repository: https://github.com/hcindus/AOS-Brain
-
-Discovered and indexed by Alric.AI (https://alric.ai)

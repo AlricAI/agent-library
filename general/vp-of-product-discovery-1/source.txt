@@ -1,6 +1,0 @@
-Agent: VP of Product Discovery
-Alric.AI page: https://alric.ai/agents/vp-of-product-discovery-1
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/product-compass-consulting/agents/vp-discovery/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Security Report Generator
-Alric.AI page: https://alric.ai/agents/security-report-generator-3
-Source file: https://github.com/waybarrios/cyber-agent/blob/HEAD/agents/report_agent/README.md
-Source repository: https://github.com/waybarrios/cyber-agent
-
-Discovered and indexed by Alric.AI (https://alric.ai)

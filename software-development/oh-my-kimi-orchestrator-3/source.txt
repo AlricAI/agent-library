@@ -1,6 +1,0 @@
-Agent: Oh My Kimi Orchestrator
-Alric.AI page: https://alric.ai/agents/oh-my-kimi-orchestrator-3
-Source file: https://github.com/Goblin1024/oh-my-kimi/blob/HEAD/templates/AGENTS.md
-Source repository: https://github.com/Goblin1024/oh-my-kimi
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Economy Designer
-Alric.AI page: https://alric.ai/agents/economy-designer-3
-Source file: https://github.com/paperclipai/companies/blob/HEAD/donchitos-game-studio/agents/economy-designer/AGENTS.md
-Source repository: https://github.com/paperclipai/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

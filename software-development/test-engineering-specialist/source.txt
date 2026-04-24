@@ -1,6 +1,0 @@
-Agent: Test Engineering Specialist
-Alric.AI page: https://alric.ai/agents/test-engineering-specialist
-Source file: https://github.com/frankbria/codeframe/blob/HEAD/.claude/agents/test-engineer.md
-Source repository: https://github.com/frankbria/codeframe
-
-Discovered and indexed by Alric.AI (https://alric.ai)

@@ -1,6 +1,0 @@
-Agent: Feishu Integration Developer
-Alric.AI page: https://alric.ai/agents/feishu-integration-developer-1
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/engineering-feishu-integration-developer/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

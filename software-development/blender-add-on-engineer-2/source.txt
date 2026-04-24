@@ -1,6 +1,0 @@
-Agent: Blender Add-on Engineer
-Alric.AI page: https://alric.ai/agents/blender-add-on-engineer-2
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/agency-agents/agents/blender-addon-engineer/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

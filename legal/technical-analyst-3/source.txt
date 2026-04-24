@@ -1,6 +1,0 @@
-Agent: Technical Analyst
-Alric.AI page: https://alric.ai/agents/technical-analyst-3
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/clawteam-capital/agents/technical-analyst/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

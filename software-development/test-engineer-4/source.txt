@@ -1,6 +1,0 @@
-Agent: Test Engineer
-Alric.AI page: https://alric.ai/agents/test-engineer-4
-Source file: https://github.com/Sri-Krishna-V/companies/blob/HEAD/fullstack-forge/agents/test-engineer/AGENTS.md
-Source repository: https://github.com/Sri-Krishna-V/companies
-
-Discovered and indexed by Alric.AI (https://alric.ai)

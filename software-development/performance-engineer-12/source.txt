@@ -1,6 +1,0 @@
-Agent: performance-engineer
-Alric.AI page: https://alric.ai/agents/performance-engineer-12
-Source file: https://github.com/aRustyDev/agents/blob/HEAD/content/.context/legacy/plugins/application-performance/agents/performance-engineer.md
-Source repository: https://github.com/aRustyDev/agents
-
-Discovered and indexed by Alric.AI (https://alric.ai)
